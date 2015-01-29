@@ -26,8 +26,10 @@ like this:
 title: 'Title of poem or whatever'
 subtitle: 'Subtitle, if it exists'
 epigraph: 'Include epigraph here, if it exists'
-epigraph-credit: 'Who said the epigraph or wrote it or whatever'
+epigraph-link: 'Link for the epigraph online (required)'
+epigraph-credit: 'Credit for epigraph (optional)'
 project: 'Original project here'
+genre: 'Genre of file: [verse|prose]'
 ...
 ````
 
