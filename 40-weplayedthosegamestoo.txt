@@ -5,22 +5,25 @@ project: 'Elegies for Alternate Selves'
 
 I saw two Eskimo girls playing a game \
 blowing on each other's' vocal chords to make music \
-on the tundra. I thought about how \
+on the tundra.  I thought about how \
 once we played the same game \
 and the sounds blowing over the chords of our throats \
-was the same as a wind over frozen prairie. \
+was the same as a wind over frozen prairie.  \
 We are the Eskimo girls who played \
-the game that night to keep ourselves warm. \
-I run my hands over my daughter's \
+the game that night to keep ourselves warm.  \
+I run my hands over [my daughter][]'s \
 voicebox as she hums a song \
 about a seal and about killing the seal and about \
 skinning it and rendering the blubber \
-into clear oil to light lamps. \
-I remember you are my lamp. She remembers \
-you although you left before she arrived. \
-I can never tell her about you. \
+into clear oil to light lamps.  \
+I remember you are my lamp.  She remembers \
+you although you left before she arrived.  \
+I can never tell her about you.  \
 I will never be able to express that taste of your oil \
-as we pushed our throats together. \
+as we [pushed our throats together][spittle].  \
 I will never be able to say how \
-we share this blemish like conjoined twins. \
+we share this blemish like conjoined twins.  \
 I will fail you always to remember you.
+
+[my daughter]: 08-and.html
+[spittle]: 34-spittle.html

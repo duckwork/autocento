@@ -12,8 +12,11 @@ if he holds it up to his ear the air shifts \
 like stones in a stream uncovering a crawfish \
 it finds another hiding place watching you \
 Its eyes are blacker than wind \
-on the serengeti they are the eyes of a predator \
+on the serengeti they are the [eyes of a predator][formal] \
 they are coming toward you or receding \
 a storm cloud builds on the horizon \
-Are you running toward the rain or away from it \
+Are you [running][] toward the rain or away from it \
 Do you stand still and crouch hoping for silence
+
+[formal]: 19-onformalpoetry.html
+[running]: 35-squirrel.html

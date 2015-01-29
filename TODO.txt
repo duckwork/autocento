@@ -1,0 +1,7 @@
+TODO:
+-----
+
+* add in prose stuff from Elegies
+* remove numbers from filenames & links
+* add genre to YAML metadata blocks
+
