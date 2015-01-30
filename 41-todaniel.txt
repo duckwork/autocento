@@ -1,6 +1,8 @@
 ---
 title: 'To Daniel: an elaboration of a previous comment'
 project: 'Elegies for Alternate Selves'
+project-order: 41
+genre: 'verse'
 ...
 
 There are more modern ideals of beauty \
@@ -21,4 +23,4 @@ I've never seen, although from many I've
 heard it's good.  But it's still irrelevant--- \
 no matter how comely, she lacks talent.
 
-[trumpet]: 43-deathstrumpet.html
+[trumpet]: deathstrumpet.html

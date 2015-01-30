@@ -1,6 +1,8 @@
 ---
 title: 'Telemarketer'
 project: 'Elegies for Alternate Selves'
+project-order: 38
+genre: 'prose'
 ...
 
 It was one of those nameless gray buildings that could be seen from the
@@ -47,11 +49,10 @@ if she were used to correcting people about the particulars of her
 title.  But how often can that happen?  Larry thought, and he was suddenly
 deeply confused.
 
-"Oh, sorry, ma'am, uh, Miz Loring, but I wanted to know whether you'd
-like to, ah, buy some…" Larry put his head in his hand and started
-twirling his hair in his finger, a nervous habit he'd had since
-childhood, and closed his eyes tightly.  "Why don't you have anything
-better to do?"
+"Oh, sorry, ma'am, uh, Miz Loring, but I wanted to know whether you'd like to,
+ah, buy some..." Larry put his head in his hand and started twirling his hair
+in his finger, a nervous habit he'd had since childhood, and closed his eyes
+tightly.  "Why don't you have anything better to do?"
 
 Immediately he knew it was the wrong question.  Even before the silence
 on the other end moved past impatience and into stunned, Larry had a
@@ -72,6 +73,6 @@ Quietly, with the same patience but with a [bigger pain][], Jane said, "My
 husband just left me and I thought you could take my mind off of him for
 just a minute," and hung up.
 
-[ocean]: 12-theoceanoverflowswithcamels.html
-[eagle perched]: 31-mountain.html
-[bigger pain]: 11-arspoetica.html
+[ocean]: theoceanoverflowswithcamels.html
+[eagle perched]: mountain.html
+[bigger pain]: arspoetica.html

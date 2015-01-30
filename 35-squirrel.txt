@@ -1,6 +1,8 @@
 ---
 title: 'Squirrel'
 project: 'Elegies for Alternate Selves'
+project-order: 35
+genre: 'verse'
 ...
 
 He is so full in himself: \
@@ -20,5 +22,5 @@ from his being by the slow inexorable evolution \
 of squirrels, that is why all squirrels \
 are so full in themselves, full in who they are.
 
-[birds singing]: 31-mountain.html
-[dance]: 98-hez-movingsideways.html
+[birds singing]: mountain.html
+[dance]: movingsideways.html

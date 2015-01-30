@@ -1,6 +1,8 @@
 ---
 title: 'We played those games too'
 project: 'Elegies for Alternate Selves'
+project-order: 40
+genre: 'verse'
 ...
 
 I saw two Eskimo girls playing a game \
@@ -25,5 +27,5 @@ I will never be able to say how \
 we share this blemish like conjoined twins.  \
 I will fail you always to remember you.
 
-[my daughter]: 08-and.html
-[spittle]: 34-spittle.html
+[my daughter]: and.html
+[spittle]: spittle.html

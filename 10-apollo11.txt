@@ -1,6 +1,23 @@
 ---
 title: 'On seeing the panorama of the Apollo 11 landing site'
 project: 'Elegies for Alternate Selves'
+project-order: 10
+genre: 'verse'
+...
+---
+title: On seeing the panorama of the Apollo 11 landing site
+genre: verse
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 4
+    next:
+      title: Ars poetica
+      link: arspoetica
+    prev:
+      title: And
+      link: and
 ...
 
 So it's the [fucking moon][].  Big deal.  As if \
@@ -28,6 +45,6 @@ You keep trying to get away from it but it nuzzles closer \
 and sings you songs that sound like the cooing of a dove \
 that will only escape again into an empty sky at dawn.
 
-[fucking moon]: 43-deathstrumpet.html
-[rotten meat]: 25-roughgloves.html
-[hearts]: 98-hez-proverbs.html
+[fucking moon]: deathstrumpet.html
+[rotten meat]: roughgloves.html
+[hearts]: proverbs.html

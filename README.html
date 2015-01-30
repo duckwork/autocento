@@ -9,9 +9,22 @@
 <p><em>Note: you're on Windows right now, so make sure and type <code>bash compile.sh</code> to run the program.</em></p>
 <p>At the top of each file, there should be a YAML block that looks something like this:</p>
 <pre class="sourceCode yaml"><code class="sourceCode yaml"><span class="ot">---</span>
-<span class="fu">title:</span> <span class="st">&#39;Title of poem or whatever&#39;</span>
-<span class="fu">subtitle:</span> <span class="st">&#39;Subtitle, if it exists&#39;</span>
-<span class="fu">epigraph:</span> <span class="st">&#39;Include epigraph here, if it exists&#39;</span>
-<span class="fu">epigraph-credit:</span> <span class="st">&#39;Who said the epigraph or wrote it or whatever&#39;</span>
-<span class="fu">project:</span> <span class="st">&#39;Original project here&#39;</span>
+<span class="fu">title:</span> <span class="st">&#39;Title of poem&#39;</span>
+<span class="fu">subtitle:</span> <span class="st">&#39;Subtitle&#39;</span><span class="er"> # optional</span>
+<span class="fu">genre:</span> <span class="st">&#39;[verse|prose]&#39;</span>
+
+<span class="fu">project:</span>
+<span class="kw">-</span> <span class="fu">title:</span> <span class="st">&#39;Original project name&#39;</span>
+  <span class="fu">order:</span> <span class="kw">[</span>number<span class="kw">]</span>
+  <span class="fu">prev:</span>
+  <span class="kw">-</span> <span class="fu">title:</span> <span class="st">&#39;Title of previous thing in original project&#39;</span>
+    <span class="fu">link:</span> <span class="st">&#39;link to that thing&#39;</span>
+  <span class="fu">next:</span>
+  <span class="kw">-</span> <span class="fu">title:</span> <span class="st">&#39;Title of next thing in original project&#39;</span>
+  <span class="kw">-</span> <span class="fu">link:</span> <span class="st">&#39;link to that thing&#39;</span>
+
+<span class="fu">epigraph:</span> <span class="co"># optional</span>
+<span class="kw">-</span> <span class="fu">content:</span> <span class="st">&#39;Quote from outside&#39;</span>
+  <span class="fu">link:</span> <span class="st">&#39;Link to online version of epigraph&#39;</span>
+  <span class="fu">attrib:</span> <span class="st">&#39;Who said the epigraph&#39;</span><span class="er"> # optional</span>
 <span class="co">...</span></code></pre>

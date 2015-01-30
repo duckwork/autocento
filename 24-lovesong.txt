@@ -1,6 +1,8 @@
 ---
 title: 'Love Song'
 project: 'Elegies for Alternate Selves'
+project-order: 24
+genre: 'prose'
 ...
 
 Walking along in the dark is a good way to begin a song.  Walking home in
@@ -26,5 +28,5 @@ caught.  Even those who cry dry their tears.  I cannot tell you all I want
 because I want to tell you everything.  There is no art because there is
 no mirror big enough.  We wake up every day.  Sometimes we sleep.
 
-[old shirt]: 26-ronaldmcdonald.html
-[every song]: 37-swansong.html
+[old shirt]: ronaldmcdonald.html
+[every song]: swansong.html

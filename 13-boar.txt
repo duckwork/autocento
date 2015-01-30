@@ -1,6 +1,8 @@
 ---
 title: 'The Boar'
 project: 'Elegies for Alternate Selves'
+project-order: 13
+genre: 'verse'
 ...
 
 Now the ticking clocks scare me.  \
@@ -23,6 +25,6 @@ it locked, found the [house][] empty
 
 with a note saying, "Condemned."
 
-[empty]: 31-mountain.html
-[Fifteen feet]: 38-telemarketer.html
-[house]: 21-i-am.html
+[empty]: mountain.html
+[Fifteen feet]: telemarketer.html
+[house]: i-am.html

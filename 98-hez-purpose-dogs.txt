@@ -1,0 +1,35 @@
+---
+title: 'The purpose of dogs'
+project: 'Book of Hezekiah'
+project-order: 2
+project-prev: 'prelude.html'
+project-next: 'philosophy.html'
+genre: 'prose'
+...
+
+Okay, so as we said in [the Prelude][], there either is or isn't a God. This
+has been one of the main past times of humanity, ever since ... since the
+first man (or woman) climbed out of whatever slime or swamp he thumbed his way
+out of.  What humanity has failed to realize is that an incredibly plausible
+third, and heretofore unknown, hypothesis also exists: There is a dog.
+
+In fact, there are many dogs, and not only that.  There are also many types of
+dogs; these are called breeds, and each breed was created by man in order to
+fulfill some use that man thought he needed.  Some dogs are for chasing birds,
+and some are for chasing badgers.  Some are for laying in your lap and being
+petted all day.  Some dogs don't seem to be really for anything, besides being
+fucking stupid and chewing up your one-of-a-kind collectible
+individually-numbered King Kong figurine from the Peter Jackson film.  But the
+important thing is, (and here we go with important things again) all dogs have
+been bred by people for performing some certain function that we think is
+important.
+
+Note: *Just because we think it's important doesn't mean it is
+important.* But it might as well be, because what we as humans think is
+important is important.  But be careful!  just because something's important
+doesn't mean it means anything, or that it actually makes anything happen.
+Even though just because something makes something else happen doesn't mean
+it's important.  [Shit][].  Let me start again.
+
+[the Prelude]: prelude.html
+[Shit]: feedingtheraven.html

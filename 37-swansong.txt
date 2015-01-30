@@ -1,6 +1,8 @@
 ---
 title: 'Swan song'
 project: 'Elegies for Alternate Selves'
+project-order: 37
+genre: 'verse'
 ...
 
 Swans fly overhead singing goodbye \
@@ -19,6 +21,6 @@ Together, we are each other.  You \
 and I have both nothing and everything \
 at once.  We own the world and nothing in it.
 
-[ithappened]: 22-howithappened.html
-[mirror]: 28-moongone.html
-[trumpet]: 43-deathstrumpet.html
+[ithappened]: howithappened.html
+[mirror]: moongone.html
+[trumpet]: deathstrumpet.html

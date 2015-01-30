@@ -1,6 +1,8 @@
 ---
 title: 'The ocean overflows with camels'
 project: 'Elegies for Alternate Selves'
+project-order: 12
+genre: 'verse'
 ...
 
 We found your [shirt][] deep in the dark water, \
@@ -24,6 +26,6 @@ flowed from you both like water from the rock.  \
 God spoke up, but nobody listened to him.  \
 We hung you up on the line to dry.
 
-[shirt]: 24-lovesong.html
-[left hook]: 25-roughgloves.html
-[father]: 15-angeltoabraham.html
+[shirt]: lovesong.html
+[left hook]: roughgloves.html
+[father]: angeltoabraham.html

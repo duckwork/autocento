@@ -1,6 +1,8 @@
 ---
 title: 'Rough gloves'
 project: 'Elegies for Alternate Selves'
+project-order: 25
+genre: 'verse'
 ...
 
 I lost my hands & knit replacement ones \
@@ -18,6 +20,6 @@ the only way I have to knit a love \
 against whatever winters we may enter \
 like a silkworm in a spider's blackened [maw][].
 
-[cheek or thigh]: 16-feedingtheraven.html
-[break a hand]: 40-weplayedthosegamestoo.html
-[maw]: 32-serengeti.html
+[cheek or thigh]: feedingtheraven.html
+[break a hand]: weplayedthosegamestoo.html
+[maw]: serengeti.html

@@ -1,6 +1,17 @@
 ---
-title: 'How to read this'
-project: 'Elegies for Alternate Selves'
+title: How to read this
+genre: prose
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 2
+    next:
+      title: And
+      link: and
+    prev:
+      title: epigraph
+      link: epigraph
 ...
 
 This book is an exploration of life, of all possible lives that could be
@@ -139,7 +150,7 @@ through like a magazine, or at least the way I flip through magazines.  I
 think writing is a communication of the self, and I think this is the best way
 to communicate mine in all its multiversity.
 
-[pessoa-exist]: 20.html
-[same river]: 31-mountain.html
-[elegy]: 98-words-meaning.html
-[kernel]: 11-arspoetica.html
+[pessoa-exist]: philosophy.html
+[same river]: mountain.html
+[elegy]: words-meaning.html
+[kernel]: arspoetica.html

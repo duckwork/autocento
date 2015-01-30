@@ -1,6 +1,8 @@
 ---
 title: 'On formal poetry'
 project: 'Elegies for Alternate Selves'
+project-order: 19
+genre: 'verse'
 ...
 
 I think that I could write formal poems \
@@ -21,5 +23,5 @@ My prepositions too---God, where's it stop?  \
 The answer: never.  I will never stop \
 writing poems, or hating what I write.
 
-[knitting]: 25-roughgloves.html
-[McNugget]: 26-ronaldmcdonald.html
+[knitting]: roughgloves.html
+[McNugget]: ronaldmcdonald.html

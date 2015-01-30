@@ -23,13 +23,24 @@ like this:
 
 ````yaml
 ---
-title: 'Title of poem or whatever'
-subtitle: 'Subtitle, if it exists'
-epigraph: 'Include epigraph here, if it exists'
-epigraph-link: 'Link for the epigraph online (required)'
-epigraph-credit: 'Credit for epigraph (optional)'
-project: 'Original project here'
-genre: 'Genre of file: [verse|prose]'
+title: 'Title of poem'
+subtitle: 'Subtitle' # optional
+genre: '[verse|prose]'
+
+project:
+- title: 'Original project name'
+  order: [number]
+  prev:
+  - title: 'Title of previous thing in original project'
+    link: 'link to that thing'
+  next:
+  - title: 'Title of next thing in original project'
+  - link: 'link to that thing'
+
+epigraph: # optional
+- content: 'Quote from outside'
+  link: 'Link to online version of epigraph'
+  attrib: 'Who said the epigraph' # optional
 ...
 ````
 

@@ -1,6 +1,8 @@
 ---
 title: 'Ars poetica'
 project: 'Elegies for Alternate Selves'
+project-order: 11
+genre: 'prose'
 ...
 
 What is poetry?  [Poetry is.][is]  Inasmuch as life is, so is poetry.  Here is
@@ -37,5 +39,5 @@ reader does nothing to achieve this—they are merely the receptacle of
 the feeling that the poem forces onto them.  In a way, poetry is a crime.
 But it is the most beautiful crime on this crime-ridden earth.
 
-[is]: 98-words-meaning.html
-[mirror]: 28-moongone.html
+[is]: words-meaning.html
+[mirror]: moongone.html

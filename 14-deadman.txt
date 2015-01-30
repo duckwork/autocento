@@ -21,6 +21,6 @@ because he liked to pretend that the rabbit \
 was running from a fox, and the rabbit \
 always ended up safe, back in his hole.
 
-[hearts]: 98-words-meaning.html
-[they spin]: 28-moongone.html
-[knot while mating]: 34-spittle.html
+[hearts]: words-meaning.html
+[they spin]: moongone.html
+[knot while mating]: spittle.html

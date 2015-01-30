@@ -1,6 +1,8 @@
 ---
 title: 'Ronald McDonald'
 project: 'Elegies for Alternate Selves'
+project-order: 26
+genre: 'verse'
 ...
 
 When Ronald McDonald takes off his [striped shirt][], \
@@ -34,5 +36,5 @@ stuck to him like so many feathers with the tar
 of his everyday associations.  His plight is that \
 of everyone's---we are what we do who we are.
 
-[striped shirt]: 12-theoceanoverflowswithcamels.html
-[yellow gloves]: 25-roughgloves.html
+[striped shirt]: theoceanoverflowswithcamels.html
+[yellow gloves]: roughgloves.html

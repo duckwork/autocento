@@ -1,9 +1,24 @@
 ---
-title: 'And'
-project: 'Elegies for Alternate Selves'
-epigraph: |
-"What is your favorite word?"
-"And.  It is so hopeful."
+title: And
+genre: verse
+
+epigraph:
+    content: |
+        "What is your favorite word?"
+        "And.  It is so hopeful."
+    attrib: Margaret Atwood
+    link: 'http://www.theguardian.com/lifeandstyle/2011/oct/28/margaret-atwood-q-a'
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 3
+    next:
+      title: On seeing the panorama of the Apollo 11 landing site
+      link: apollo11
+    prev:
+      title: How to read this
+      link: howtoread
 ...
 
 And you were there in the start of it all \
@@ -27,5 +42,5 @@ and I didn't understand him he was far away \
 and I could tell I was missing something important \
 and you nodded to yourself at something he said
 
-[church]: 13-boar.html
-[grieving something gone]: 25-roughgloves.html
+[church]: boar.html
+[grieving something gone]: roughgloves.html

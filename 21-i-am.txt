@@ -1,6 +1,8 @@
 ---
 title: 'I am'
 project: 'Elegies for Alternate Selves'
+project-order: 21
+genre: 'verse'
 ...
 
 I am a great pillar of [white smoke][].  \
@@ -22,5 +24,5 @@ there are still more.  I don't think I know \
 where all of them are.  I [don't think][not think] I can get \
 to all of them anymore.  There are too many.
 
-[white smoke]: 43-deathstrumpet.html
-[not think]: 22-howithappened.html
+[white smoke]: deathstrumpet.html
+[not think]: howithappened.html

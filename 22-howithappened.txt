@@ -1,6 +1,8 @@
 ---
 title: 'How it happened'
 project: 'Elegies for Alternate Selves'
+project-order: 22
+genre: 'verse'
 ...
 
 I was away on vacation when I heard--- \
@@ -20,5 +22,5 @@ never saw a single drop of rain.  I'm [the drunk][] \
 sitting on the curb who just pissed his pants, \
 holding up a sign asking where I am.
 
-[already written]: 33-shipwright.html
-[the drunk]: 98-hez-problems.html
+[already written]: shipwright.html
+[the drunk]: problems.html

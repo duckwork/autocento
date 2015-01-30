@@ -1,6 +1,8 @@
 ---
 title: 'Spittle'
 project: 'Elegies for Alternate Selves'
+project-order: 34
+genre: 'verse'
 ...
 
 My body is attached to your body by a thin spittle of thought.  \
@@ -15,5 +17,5 @@ a square-jawed businessman with a briefcase full of memory?  \
 I want to kiss the world to make it mine.  I want to become \
 a Judas to reality, betray it with the wetness of emotion.
 
-[God]: 22-howithappened.html
-[shirt-sleeve]: 24-lovesong.html
+[God]: howithappened.html
+[shirt-sleeve]: lovesong.html

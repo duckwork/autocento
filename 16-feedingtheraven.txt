@@ -1,6 +1,8 @@
 ---
 title: 'Feeding the raven'
 project: 'Elegies for Alternate Selves'
+project-order: 16
+genre: 'prose'
 ...
 
 You never can tell just when Charlie Sheen will enter your life.  For me,
@@ -33,6 +35,6 @@ the [clock][], I went to the bathroom door.  I knocked carefully---once, then
 twice---to no beaming face, no flowers.  I opened the door.  There was shit
 on the floor and the window was open.  There was a breeze blowing.
 
-[dog]: 98-hez-purpose-dogs.html
-[translation of a translation]: 41-todaniel.html
-[clock]: 13-boar.html
+[dog]: purpose-dogs.html
+[translation of a translation]: todaniel.html
+[clock]: boar.html

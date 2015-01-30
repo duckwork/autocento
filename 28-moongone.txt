@@ -1,6 +1,8 @@
 ---
 title: 'The moon is gone and in its place a mirror'
 project: 'Elegies for Alternate Selves'
+project-order: 28
+genre: 'prose'
 ...
 
 The moon is gone and in its place a mirror.  Looking at the night sky now
@@ -15,5 +17,5 @@ a cloud above him, which due to optics has looked like someone else.  The
 cloud blocks out the moon which is now a mirror, and the viewer is
 completely alone.
 
-[alone]: 10-apollo11.html
-[Earth]: 32-serengeti.html
+[alone]: apollo11.html
+[Earth]: serengeti.html

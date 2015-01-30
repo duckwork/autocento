@@ -1,6 +1,8 @@
 ---
 title: 'Mountain'
 project: 'Elegies for Alternate Selves'
+project-order: 31
+genre: 'verse'
 ...
 
 The other side of this mountain \
@@ -25,5 +27,5 @@ sitting on a [dusty pew][].
 A hawk soars over the mountain.  \
 She is looking for home.
 
-[apollo]: 10-apollo11.html
-[dusty pew]: 08-and.html
+[apollo]: apollo11.html
+[dusty pew]: and.html

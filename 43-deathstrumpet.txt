@@ -1,6 +1,9 @@
 ---
 title: 'Death's Trumpet'
 project: 'Elegies for Alternate Selves'
+project-order: 43
+genre: 'verse'
+
 epigraph: 'So Death plays his little fucking trumpet.  So what, says the boy.'
 epigraph-credit: 'Larry Levis'
 ...
@@ -31,5 +34,5 @@ He's playing a first-person shooter.  Death walks past him \
 and watches out of the corner of his eye.  The kid's good.  \
 Death wants to congratulate him.  His trumpet is in his hand.
 
-[moongone]: 28-moongone.html
-[little boy]: 15-angeltoabraham.html
+[moongone]: moongone.html
+[little boy]: angeltoabraham.html
