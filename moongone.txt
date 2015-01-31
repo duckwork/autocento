@@ -1,0 +1,30 @@
+---
+title: The moon is gone and in its place a mirror
+genre: prose
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 18
+    prev:
+        title: Ronald McDonald
+        link: ronaldmcdonald
+    next:
+        title: The mountain
+        link: mountain
+...
+
+The moon is gone and in its place a mirror.  Looking at the night sky now
+yields nothing but the viewer's own face as viewed from a million miles,
+surrounded by the landscape he is only vaguely aware of being surrounded
+by.  He believes that he is [alone][], surrounded by desert and mountain, but
+behind him---he now sees it---someone is sneaking up on him.  He spins around
+fast, but no one is there on [Earth][].  He looks back up and they are yet
+closer in the night sky.  Again he looks over his shoulder but there is
+nothing, not even a desert mouse.  As he looks up again he realizes it's
+a cloud above him, which due to optics has looked like someone else.  The
+cloud blocks out the moon which is now a mirror, and the viewer is
+completely alone.
+
+[alone]: apollo11.html
+[Earth]: serengeti.html

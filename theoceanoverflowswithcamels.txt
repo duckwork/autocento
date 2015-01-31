@@ -1,0 +1,40 @@
+---
+title: The ocean overflows with camels
+genre: verse
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 7
+    prev:
+        title: Ars poetica
+        link: arspoetica
+    next:
+        title: The boar
+        link: boar
+...
+
+We found your [shirt][] deep in the dark water, \
+caught on the clothesline of sleeping pills.  \
+Your head on the shore was streaming tears \
+like sleeves or the coronas of saints saved \
+from fire.  The burning bush began crying \
+like a child who misses his mother.  Traffic \
+slammed shut like an eye.  God's mean [left hook][] \
+knocked us out, and we began swimming.  \
+Bruises bloomed like algae on a lake.  \
+Your [father][] beat your chest and screamed \
+for someone to open a window.  The air \
+stopped breathing.  Fish clogged its gills.  \
+Birds sang too loudly, trying to drown out \
+your father's cries, but all their sweetness \
+was not enough.  No polite noises will be made \
+anymore, he told us, clawing your breastbone.  \
+He opened your heart to air again.  Camels \
+flowed from you both like water from the rock.  \
+God spoke up, but nobody listened to him.  \
+We hung you up on the line to dry.
+
+[shirt]: lovesong.html
+[left hook]: roughgloves.html
+[father]: angeltoabraham.html

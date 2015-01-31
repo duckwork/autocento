@@ -1,0 +1,34 @@
+---
+title: Rough gloves
+genre: verse
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 16
+    prev:
+        title: Love Song
+        link: lovesong
+    next:
+        title: Ronald McDonald
+        link: ronaldmcdonald
+...
+
+I lost my hands & knit replacement ones \
+from spiders' threads, stronger than steel but soft \
+as lambs' wool.  Catching as they do on nails \
+& your collarbone, you don't seem to like \
+their rough warm presence on your [cheek or thigh][].  \
+I've asked you if you minded, you've said no \
+(your face a table laid with burnt meat, bread \
+so stale it could [break a hand][]).  Remember \
+your senile mother's face above that table?  \
+I'd say she got the meaning of that look.  \
+You'd rather not be touched by these rough gloves, \
+the only way I have to knit a love \
+against whatever winters we may enter \
+like a silkworm in a spider's blackened [maw][].
+
+[cheek or thigh]: feedingtheraven.html
+[break a hand]: weplayedthosegamestoo.html
+[maw]: serengeti.html

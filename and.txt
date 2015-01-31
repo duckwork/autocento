@@ -1,0 +1,46 @@
+---
+title: And
+genre: verse
+
+epigraph:
+    content: |
+        "What is your favorite word?"
+        "And.  It is so hopeful."
+    attrib: Margaret Atwood
+    link: 'http://www.theguardian.com/lifeandstyle/2011/oct/28/margaret-atwood-q-a'
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 3
+    next:
+      title: Words and meaning
+      link: words-meaning
+    prev:
+      title: How to read this
+      link: howtoread
+...
+
+And you were there in the start of it all \
+and you folded your hands like little doves \
+that would fly away like an afterthought \
+and you turned to me the window light on your face \
+and you asked me something that I did not recognize \
+like a great throng of people who are not you \
+and I asked are we in a [church][] \
+and you answered with the look on your face \
+of someone [grieving something gone][] for years \
+ but that they had been reminded of \
+by a catch in the light or in someone's voice \
+and I think maybe it could have been mine \
+and I looked away thickly my head was in jelly \
+and I didn't get an answer from you but I got one
+
+I looked at the man in front of us with glasses \
+he was speaking and holding a book \
+and I didn't understand him he was far away \
+and I could tell I was missing something important \
+and you nodded to yourself at something he said
+
+[church]: boar.html
+[grieving something gone]: roughgloves.html
