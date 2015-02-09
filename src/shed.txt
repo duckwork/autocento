@@ -1,0 +1,35 @@
+---
+title: Shed
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 9
+    next:
+    - title: Hands
+      link: hands
+    - title: Snow
+      link: snow
+    previous:
+    - title: Notes
+      link: notes
+    - title: Sapling
+      link: sapling
+...
+
+"What do you do all day in that shed out back" his mother asked one night
+while they ate dinner in front of the TV.  "Write" he answered.  "Write what"
+she asked in that way that means he'd better not say I don't know.  "I don't
+know" he said.
+
+"Goddammit Paul" his mother said.  "You're wasting your life out in that shed.
+You need to go out and get---" "I chop down trees too" he said.  "I make
+furniture out of them."  His mother's face did a Hitchcock zoom as she
+considered this new information.  "Is it any good" she asked, eyes narrowed.
+
+"It's getting there" he answered.  "I'm getting better every day."  "When is
+it going to be there" she asked.  "When are you going to sell this furniture
+of yours?"  "It'll be a while" he answered.
+
+"Then you'd better get a job until then" she said.

@@ -1,0 +1,36 @@
+---
+title: Toilet
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 11
+    next:
+    - title: Leg
+      link: leg
+    - title: Toothpaste
+      link: toothpaste
+    previous:
+    - title: Hands
+      link: hands
+    - title: Tapestry
+      link: tapestry
+...
+
+Paul only did his reading on the toilet.
+
+He read in a magazine that the universe as we know it is actually a hologram,
+a three-dimensional projection of a lower, two-dimensional, "realer" reality.
+The article said that this model explains things like quantum entanglement,
+what it called "spooky action at a distance."
+
+After he finished, he ran back out to his Writing Shack and hammered out a
+Treatise on Literature as Spooky Action.  His mind was reeling.  He typed out
+an entire notecard on the subject.
+
+He stopped to catch his breath.  Reading it over, he realized he was
+completely wrong.  "Paper is made from trees" he thought "and so is
+furniture."  He had thought that ART and CRAFT were two separate enterprises
+but he realized in a flash that they were two sides of the same building.
+Were there other walls?

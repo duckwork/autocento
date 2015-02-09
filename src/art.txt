@@ -1,0 +1,30 @@
+---
+title: Art
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 1
+    next:
+    - title: Hymnal
+      link: hymnal
+    - title: Axe
+      link: axe
+...
+
+Paul was writing in his diary about art.
+
+_This is my brain_ he wrote.  _This is my brain and all it contains.  'I
+contain multitudes' said Legion.  I think it was Legion._  The big heading he
+had written at the top of the page (_ART_ it read, but only when looking at it
+from his point of view) sat cold and alone, neglected in the white space
+surrounding it.  He noticed this presently (but not after he had written a
+little more about multitudes), paused, frowned, and began to write again.
+
+_ART stands alone at the top of a blank page_ he wrote.  _It follows ~~itself
+in circles~~ its own footprints in a circle around its own name.  It leads
+nowhere but is present everywhere. ~~It contains~~ It contains multitudes.
+Every painting ever made is a painting of every other painting. Every song is
+a remix, a cover version._  He crossed out the part about songs for getting
+off topic.  He made a note to himself in the margin---_Music is not ART._

@@ -1,0 +1,30 @@
+---
+title: Spittle
+genre: verse
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 22
+    prev:
+        title: The shipwright
+        link: shipwright
+    next:
+        title: The squirrel
+        link: squirrel
+...
+
+My body is attached to your body by a thin spittle of thought.  \
+When you turn away from me, my thought is broken \
+and forms anew with something else.  Ideas are drool.  \
+Beauty has been slobbered over far too long.  [God][] \
+is a tidal wave of bodily fluid.  Even the flea has some \
+vestigial wetness.  We live in a world fleshy and dark, \
+and moist as a nostril.  Is conciousness only a watery-eyed \
+romantic, crying softly into his [shirt-sleeve][]?  Is not reason \
+a square-jawed businessman with a briefcase full of memory?  \
+I want to kiss the world to make it mine.  I want to become \
+a Judas to reality, betray it with the wetness of emotion.
+
+[God]: howithappened.html
+[shirt-sleeve]: lovesong.html

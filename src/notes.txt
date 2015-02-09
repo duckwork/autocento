@@ -1,0 +1,44 @@
+---
+title: Notes
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 8
+    next:
+    - title: Shed
+      link: shed
+    - title: Options
+      link: options
+    previous:
+    - title: Writing
+      link: writing
+    - title: Man
+      link: man
+...
+
+Paul began typing on notecards.  Somehow this felt right to his sensibilities.
+It was difficult to get the little cards into the typewriter.  It was a pain
+to readjust the typewriter for regular paper when he wasn't writing.  He
+started typing everything on those little notecards: grocery lists, letters to
+his grandmother, even reports for work (which is what got him in trouble).
+
+But this was all later.  For now he was writing his ideas, "notes" he now
+called them, something for him to combine later into something.  He didn't
+like to think about it.  On this particular cold winter morning, he wrote
+
+```type
+Woke up from a dream I was famous.
+One of the more famous people in
+fact.  I had written something
+everyone could relate to and at
+the same time proved my parents
+wrong.  Because I made a lot of
+money.  Or not a lot, but enough
+and more than they thought I
+would.  It was a good day.
+Woke up this morning and I was
+still cold.  Still Paul.  Still not
+good at furniture.
+```

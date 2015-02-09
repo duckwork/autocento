@@ -1,10 +1,15 @@
 # for windows only right now
 
-for file in *.txt; do # TODO: change this to work with globs & args & stuff
-    pandoc -f markdown \                 # all files are in pandoc's markdown
-           -t html5 \                    # they're being outputted to html5
-           --template=_template.html \   # use this file as a template
-           --smart \                     # smart quotes, etc.
+for file in src/*.txt; do # TODO: change this to work with globs & args & stuff
+    echo -n "Compiling $file ..."
+    pandoc -f markdown \
+           -t html5 \
+           --template=_template.html \
+           --smart \
            $file \
            -o "${file%.txt}.html"
+    echo " Done."
 done
+
+echo "Moving files to build directory ..."
+mv src/*.html ./

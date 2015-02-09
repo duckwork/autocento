@@ -1,0 +1,58 @@
+---
+title: Swear
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 25
+    next:
+    - title: Options
+      link: options
+    - title: Tapestry
+      link: tapestry
+    previous:
+    - title: Reports
+      link: reports
+    - title: Stump
+      link: stump
+...
+
+```type
+EVERYTHING CHANGES OR EVERYTHING
+STAYS THE SAME
+
+First, a history: I was writing my
+thoughts in a book.  I got a typewriter
+and typing things in a book
+became impossible.  I began typing
+on 4x6 notecards.  I ran out of
+ribbon in my typewriter.  I wrote
+on the 4x6 notecards.  I bought a
+new ribbon and new notecards.  Now
+again I am typing on notecards.
+    What have I been typing?
+Thoughts, impressions maybe, a log
+of changes to my mental state.  I
+waited long enough and I began
+recording them in the same way.  If
+I wait longer the ribbon will run
+out again and I'll write again, on
+notecards or in my book.  The same
+thoughts in different bodies.
+    That's what it means, "Every
+thing changes or everything stays
+the same."  It might as well be
+"and."  Local differences add up to
+global identities.  It's a hoop,
+right?  And we keep going around
+and we think it's flat but it's
+round like the Earth.
+```
+
+Paul pushed his chair away from the Writing Desk and stared at the notecard.
+He stood up, knocked his head on the lightbulb, swore.  He pulled the notecard
+from his typewriter and crumpled it up with his left hand. With his right hand
+he reached in his pocket and pulled out his cigarettes.  He put one in his
+mouth, threw the paper in the corner, grabbed his axe, went out into the
+woods.

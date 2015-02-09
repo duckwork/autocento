@@ -1,0 +1,40 @@
+---
+title: Reports
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 24
+    next:
+    - title: Swear
+      link: swear
+    - title: Sapling
+      link: sapling
+    previous:
+    - title: Snow
+      link: snow
+    - title: Question
+      link: question
+...
+
+"Paul, you can't turn in your reports on four-by-six notecards" Jill told him
+after he handed her his reports, typed carefully on twelve four-by-six
+notecards.  He had spent the weekend
+
+1. going to the Office Supply Store to buy notecards and typewriter ribbon (he
+   found it surprisingly easily) after his first payday
+2. replacing the ribbon in his typewriter (this took approximately half an
+   hour, because he had to figure it all out on his own)
+3. opening the package of notecards (this took approximately four seconds,
+   although he still had to figure out how to do it on his own.  It was just
+   easier)
+4. carefully typing the reports he'd handwritten on letter paper onto the
+   notecards (he made many mistakes and threw away many notecards, though
+   later he used them for kindling)
+
+so understandably he was upset.  He told Jill all the work he'd gone to to
+type those notecard reports for her, for the company.  She shook her head.
+"Paul, you don't have to do all that work at home.  Just type it up on the
+computers here, that's all you need to do.  Thanks for the work though."  He
+nodded as she threw the notecards into the trashcan and left his cubicle.

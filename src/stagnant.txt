@@ -1,0 +1,39 @@
+---
+title: Stagnant
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 27
+    next:
+    - title: Building
+      link: building
+    - title: Stump
+      link: stump
+    previous:
+    - title: Options
+      link: options
+    - title: Snow
+      link: snow
+...
+
+"Riding the bus to work is a good way to think or to read" Paul thought to
+himself on the bus ride to work.  His thoughts couldn't become real to him
+because he didn't want to look insane to everyone else on the bus.  His
+thoughts came to him like someone yelling over a hard wind.  He was trying to
+write them on his memory but the act of writing was easier and more immediate
+than that of listening.  He was afraid that when he looked at his memory later
+he wouldn't be able to read what was written.
+
+"Thoughts are like the wind outside a moving bus" he thought "or rather the
+bus is a brain slamming into columns of stagnant air causing them to whistle
+past in a confusion of something."  He could barely hear the voice yelling to
+him over the wind.  "Speak up" he thought to the voice, then remembered it was
+his own.  He wished he'd remembered a book to read.
+
+He looked at his hands to pass the time.  They were dry in the winter air that
+had seeped its way into the bus.  He tried to figure out how many hours they
+would make it before cracking and bleeding.  "Maybe three or four" he thought
+accidentally out loud.  He looked around expecting stares from everyone on the
+seat.  He was surprised that he was the only one on the bus.

@@ -33,25 +33,30 @@ $for(include-before)$ $include-before$ $endfor$
         <!-- epigraph -->
         <p class="epigraph">
         $epigraph.content$
-        $if(epigraph.link)$<a href="$epigraph.link$">&gt;</a>$endif$
         </p>
         $if(epigraph.attrib)$
-        <p class="epigraph-attrib">&mdash; $epigraph.attrib$</p>
+        <p class="epigraph-attrib">
+            $if(epigraph.link)$
+            <a href="$epigraph.link$">&mdash; $epigraph.attrib$</a>
+            $else$
+            &mdash; $epigraph.attrib$
+            $endif$
+        </p>
         $endif$
         $endif$
     </header>
 
+    <section class="$genre$">
     $body$
+    </section>
 
     <nav>
-        $if(project.prev.title)$
-        <!--previous -->
+        $for(project.prev)$
         <a href="$project.prev.link$.html">&lt; $project.prev.title$</a>
-        $endif$
-        $if(project.next.title)$
-        <!-- next -->
+        $endfor$
+        $for(project.next)$
         <a href="$project.next.link$.html">$project.next.title$ &gt;</a>
-        $endif$
+        $endfor$
     </nav>
 
 $for(include-after)$

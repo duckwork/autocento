@@ -1,0 +1,35 @@
+---
+title: Swan song
+genre: verse
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 24
+    prev:
+        title: The squirrel
+        link: squirrel
+    next:
+        title: Telemarketer
+        link: telemarketer
+...
+
+Swans fly overhead singing goodbye \
+to we [walkers of the earth][ithappened].  You point \
+to them in formation, you tell me \
+you are not you.  You are the air the swans \
+walk on as they journey like pilgrims \
+to a temple in the south.  A curtain \
+there separates me from you, swans \
+from the air they fly through.  I say \
+that you are no longer the temple, \
+that you have been through fire \
+and are now less than ash.  You are \
+a [mirror][] of me, the [air without a swan][trumpet].  \
+Together, we are each other.  You \
+and I have both nothing and everything \
+at once.  We own the world and nothing in it.
+
+[ithappened]: howithappened.html
+[mirror]: moongone.html
+[trumpet]: deathstrumpet.html

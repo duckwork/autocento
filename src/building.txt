@@ -1,0 +1,42 @@
+---
+title: Building
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 28
+    next:
+    - title: Yellow
+      link: yellow
+    - title: Cereal
+      link: cereal
+    previous:
+    - title: Stagnant
+      link: stagnant
+    - title: Axe
+      link: axe
+...
+
+_ART and CRAFT are only the inside and outside of the same building.  The
+ceiling is_---here he put his eraser to his bottom lip, thinking.  He crossed
+out _~~The ceiling is.~~_ _The floor is reality and the ceiling is
+~~aspiration~~ ~~desire~~ that which is desired.  CRAFT is building a chair
+from wood.  ART is using the wood as a substrate for an emotional message to a
+future person, the READER / VIEWER._
+
+_The important thing is they are both made of wood.  The important thing is
+they were both, at one point, alive natural things that grew and changed and
+pushed their way out of the dirt into the air.  They formed buildings out of
+the air. They didn't even try._
+
+_What separates us from them, the trees?  We have to try.  We must labor to
+create our ART, our buildings of air.  We lay them out brick by brick, we
+build them up by disintegrating trees and forming them again into what they
+were before.  Why must we do this? are there any advantages to this human
+method?_
+
+_Our advantage is memory.  Our advantage is the reaching-out over space and
+time to others with our words, our ART.  Our buildings last for generations,
+and after they are demolished they are written about, photographs are taken,
+we **remember**.  The act of memory is our only ART._

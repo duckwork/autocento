@@ -1,0 +1,48 @@
+---
+title: Leg
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 12
+    next:
+    - title: Planks
+      link: planks
+    - title: Man
+      link: man
+    previous:
+    - title: Toilet
+      link: toilet
+    - title: Leaf
+      link: leaf
+...
+
+His first chair was a stool.  It was an uneven wobbly stool that would not
+support even forty pounds.  "So my first chair is a broken stool" he said
+after nearly breaking his tailbone on the dirt floor.  "Maybe I should start
+again but this time only with legs."  He began again but this time only with
+legs.  He built one leg, which means he cut a straight piece of wood down to
+four feet in length, whittled the bark off, and sanded it down smooth in what
+he was now calling his Woodworking Shack.  He typed up a note on how to make
+chair legs.
+
+```type
+MAKING CHAIR LEGS
+
+1. get longish piece of wood
+2. cut it to length (4 feet I'd
+   recommend)
+3. whittle off bark
+4. sand smooth the leg
+```
+
+After he tried remembered tried standing the leg up, failing, and after much
+thought realizing that the ends needed to be flat, he typed one more line on
+his notecard:
+
+```
+5. make ends flat
+```
+
+He had no tools with which to flatten the ends of his leg.

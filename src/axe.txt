@@ -1,0 +1,37 @@
+---
+title: Axe
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 5
+    next:
+    - title: Leaf
+      link: leaf
+    - title: Building
+      link: building
+    previous:
+    - title: Dream
+      link: dream
+    - title: Art
+      link: art
+...
+
+Paul took his axe and went out into the woods to chop trees.  Or rather he
+went into the trees to chop wood.  He wasn't sure.  Either way it helped him
+think.  Last time he'd gone out, he'd had an idea for a shoe-insert company he
+could start called "Paul's Bunyons."  He chuckled to himself as he shouldered
+his axe and went into the forest.
+
+Deep into the woods he admired the organization of the trees.  "They grow
+wherever they fall" he said "but still none is too close to another."  He
+sounded like Solomon to himself.  He imagined he had a beard.
+
+He walked for a long time in the shadows of the forest, in its coolness.  It
+sounded like snow had fallen but it was still October.  The first time the
+trees seemed to radiate out from him in straight lines he stopped and turned
+around four times.  After he walked on he noticed it happened fairly often.
+
+Still, after he felled his first tree that day he realized they grew from the
+epicenter of his axe.  He paused in the small dark sound of the forest quiet.

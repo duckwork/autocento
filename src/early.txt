@@ -1,0 +1,42 @@
+---
+title: Early
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 35
+    next:
+    - title: Toothpaste
+      link: toothpaste
+    - title: Father
+      link: father
+    previous:
+    - title: Stump
+      link: stump
+    - title: Dream
+      link: dream
+...
+
+_YOU CANNOT DISCOVER ART ART MUST BE CREATED_ he sat on the couch at home
+while his mother watched TV and smoked.  Dinner had been chicken and peas with
+milk and afterward Paul and his mother sat on opposite ends of the couch.  At
+intervals she would look sideways at Paul writing.  He pretended not to notice.
+
+_ART = ARTIFICE_ he wrote.  _ARTIFICE MEANS UNNATURAL.  ARTIFICE MEANS BUILT.
+TO BUILD MEANS TO FIND A PATTERN & FIND A PATTERN IS WHAT WE ARE GOOD AT._  He
+thought about this while someone else won a car.
+
+"Do you think humans are good at finding patterns because we are hunters" he
+asked his mother.  She looked sideways at him and said "Sure Paul."  "Early on
+in our evolution we were hunters right?  And to hunt we had to see the
+patterns in seemingly random events, like where the gazelle went each year"
+"Paul I'm trying to watch TV.  If you're going to write this stuff go do it in
+your room you're distracting."  Paul got up and went to his room and lay down
+on his bed.
+
+"If the gazelle went to the same place every year" he thought "did they know
+the pattern too?  Or was it random for them, did they think each year 'This
+seems like a good spot let's graze here' without knowing?"
+
+He wrote _PATTERN = MEMORY_ in his notebook.

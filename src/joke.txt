@@ -1,0 +1,44 @@
+---
+title: Joke
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 33
+    next:
+    - title: Stump
+      link: stump
+    - title: Leaf
+      link: leaf
+    previous:
+    - title: Punch
+      link: punch
+    - title: Hymnal
+      link: hymnal
+...
+
+He wrote _**JOKES**_ on the top of a page in his notebook.  He had run out of
+notecards and hadn't been able to convince his mother to go to the Office
+Supply Store for him.  He left a space underneath it and wrote.
+
+_"Tell us a joke" the listeners say to the clown.  They have gather together
+in the clearing because they have heard he would be there, and they have heard
+he knew very funny jokes that were also true.  "Tell us a joke that is true"
+they say._
+
+_The clown does not move from the stump.  He doesn't move at all.  The
+listeners watch, gap-mouthed, as a butterfly lands on his hat.  A breeze
+ruffles his coat and the butterfly flies away.  Hours pass.  The listeners
+grow impatient.  Some begin yelling insults at the clown.  Eventually, they
+begin to walk away into the woods._
+
+_The moon rises on the clearing.  The only people left are the clown and a
+listener, the last listener.  She has been waiting for the joke a long time.
+The clown opens his mouth and she leans in closer to hear.  He closes it as a
+tear falls onto his coat, then another.  He opens his mouth again in a sob.
+The listener walks over to him and puts a hand on his shoulder._
+
+_"I'm sorry" says the clown.  "Sorry for what" she asks.  "I don't know.  I
+don't know any jokes."  He disappears.  The last listener sits on the log and
+looks at the sky.  There are no stars._

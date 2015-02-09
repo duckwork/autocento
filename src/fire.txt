@@ -1,0 +1,40 @@
+---
+title: Fire
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 39
+    next:
+    - title: Hands
+      link: hands
+    previous:
+    - title: Paul
+      link: paul
+    - title: Father
+      link: father
+...
+
+His mother ran out of the house in her nightgown.  "What the hell do you think
+you're doing" she hollered as Paul watched the shed.  "I'm burning the shed
+down" he said smiling "isn't it warm?"  "It's warm enough out here without
+that burning down" she said "go get the hose and put this thing out."  "But
+Mom" "Do it" she said in the tone of voice that meant Do it now.  He went
+around the side of the house screwed the nozzle on grabbed the end of the hose
+pulled it around the house and waited for water to come out the end.  When it
+did it was not in a very strong stream.  "I don't think this is going to work"
+Paul said to his mother.  "God damn it I have to call the Fire Department" she
+said and went inside the house.  The shed continued in its burning.
+
+After the Fire Department put out the fire one of the men said "Your mother
+says you set this building on fire.  You know Arson is a major offense."  "I
+set it on fire" Paul said.  "Why?"  "Because ART wants to be random, it wants
+to be natural, but it isn't.  Humans create ART because we can't help but see
+patterns in randomness.  But we feel guilty about it."  The man nodded to
+another man in a blue uniform.  "We want the ART to feel natural, to feel
+random, but we can't stop seeing the patterns" as the man in blue walked over
+and put a hand on Paul's shoulder "ART is unnatural by its very nature.  I
+took my ART and gave it back to nature" as the man led him over to a black and
+white car and put him inside.  He was saying something about Paul's right.
+"No it's my left that was hurt" said Paul "but it's all better now."

@@ -1,0 +1,41 @@
+---
+title: Love Song
+genre: prose
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 15
+    prev:
+        title: How it happened
+        link: howithappened
+    next:
+        title: Rough gloves
+        link: roughgloves
+...
+
+Walking along in the dark is a good way to begin a song.  Walking home in
+the dark after a long day chasing criminals is another.  Running away
+from an imagined evil is no way to begin a story.
+
+I am telling you this because you wanted to know what it's like to tell
+something so beautiful everyone will cry.  I am telling you because I
+want you to know what it is to keep everything inside of you.  I am
+telling you.
+
+Can you see?  Can you see into me and reach in your hand and pull me
+inside out, like an [old shirt][]?  Will you wear me until I unravel on your
+shoulders, will you cut me apart and use my skin to clean up the cola
+you spill on the floor when you're drunk?
+
+I want you to know that I want you to know.  Do you want me?  To know is
+to know.  I, you want we.  We want.  That is why we're here.  To want is to
+be is to want and I want you.  Do you also?  Check yes or no.
+
+There is a way to end every story, [every song][].  Every criminal must be
+caught.  Even those who cry dry their tears.  I cannot tell you all I want
+because I want to tell you everything.  There is no art because there is
+no mirror big enough.  We wake up every day.  Sometimes we sleep.
+
+[old shirt]: ronaldmcdonald.html
+[every song]: swansong.html

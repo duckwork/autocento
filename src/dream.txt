@@ -1,0 +1,43 @@
+---
+title: Dream
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 4
+    next:
+    - title: Axe
+      link: axe
+    - title: Early
+      link: early
+    previous:
+    - title: Underwear
+      link: underwear
+    - title: Cereal
+      link: cereal
+...
+
+It had gotten cold.  He went to lay down in bed with a pad and paper.  He
+began to write.  Although he hadn't tried it much in bed before, he liked it
+mostly.  His arm got tired journeying across the page like a series of
+switchbacks down the wall of the Grand Canyon.  He wrote this down in the
+margin, for later:
+
+```hand
+Arm journeying across \
+the pg. like a \
+series of switch-
+backs down the wall \
+of the Grand Canyon \
+```
+
+His arm began to pain him.  He adjusted his position in the bed.  It didn't
+help much with the pain.  It still hurt as he wrote.  He began to be
+distracted by his mother's music playing in the next room.
+
+"Could you turn that down please" he hollered across the wall to his mother.
+She made no reply (music too loud).  He gave his arm a break to look at what
+he'd written.  He couldn't make heads or tails of it.  It looked like Arabic.
+
+He woke up gasping in a sweat.

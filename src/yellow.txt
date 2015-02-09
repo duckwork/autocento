@@ -1,0 +1,40 @@
+---
+title: Yellow
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 29
+    next:
+    - title: X-ray
+      link: x-ray
+    previous:
+    - title: Building
+      link: building
+    - title: X-ray
+      link: x-ray
+...
+
+He would enter data at work for fifty minutes and then go on break.  He would
+walk down the hallway to the breakroom, which had a white refrigerator, a
+black microwave on a brown plyboard cart stocked with powdered creamer, sugar,
+and swizzle sticks, a dark red coffee maker, and yellow paint on the wall.
+He'd remember that somewhere he'd read an article about yellow walls being
+calming.  "They use yellow in asylums" he'd say to himself.
+
+He would sit down at the round table covered in newspapers that took up the
+half of the room not occupied by the refrigerator, microwave, or counter with
+coffee pot and sink.  He didn't drink coffee but he would think about
+starting.  He would shuffle the newspapers around on the table and see they
+were all the same ones as an hour ago.  "Or technically fifty minutes ago" he
+would say to himself.  Sometimes Jill would come in for a cup of coffee.  She
+would always check that her lunch, which she brought each morning in a
+Tupperware container with a blue lid with her name written on it in black
+sharpie, was still there.  Once he asked her why she checked.
+
+"Why do you always check if your lunch is in the fridge" he asked.  "I don't"
+she said.  "Oh I thought you did."  "I don't think so."  "Why do you check at
+all?"  "Once it was stolen out of the fridge and returned empty before I had a
+chance to eat my lunch" she said.  "So you make sure it won't happen again."
+"No I'm waiting for the day that it does."

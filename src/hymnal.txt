@@ -1,0 +1,38 @@
+---
+title: Hymnal
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 2
+    next:
+    - title: Underwear
+      link: underwear
+    - title: Joke
+      link: joke
+    previous:
+    - title: Art
+      link: art
+    - title: Hardware
+      link: hardware
+...
+
+_It's all jokes_ Paul wrote in what he was now calling his Hymnal.  He had
+been writing non-stop all day, because he didn't count pee- or cigarette-
+breaks. _All art is an inside joke. The symbology involved must be_---and here
+he put down his pen and held his head in his hands. He could never think of
+the word---he said often that he had no words.  He opened to a new page in his
+Hymnal. On the top of it was written in bold script _**HYMN 386: JOKES**_.
+
+Paul scowled.  Who had written in his Hymnal?  he wondered. He said it out
+loud a moment after: "Who has written in my Hymnal?"  He realized he was alone
+in his Writing Shack, which was really a shed in the back of his mother's
+garden.  He wondered why he had to say his thoughts before they became real to
+him (if this was a habit or an inborn trait).  He realized simultaneously that
+
+(a) he could ask someone and
+(b) that this was something he wondered every time he spoke his thoughts out
+    loud.
+
+He resolved to put the issue to rest by asking someone.

@@ -1,0 +1,39 @@
+---
+title: The angel to Abraham
+genre: verse
+
+project:
+    title: Elegies for alternate selves
+    css: elegies
+    order: 10
+    prev:
+        title: Dead man
+        link: deadman
+    next:
+        title: Feeding the raven
+        link: feedingtheraven
+...
+
+Abraham, Abraham, you are old and cannot hear: \
+what if you miss my small voice amongst the creaking \
+of your own grief, kill your son unknowing \
+of what he will be, and commit Israel to nothing?
+
+Abraham, you must know or hope that [God][] \
+will not allow your son to die; you must know \
+that this is a test, but then why \
+are you so bent on Isaac's destruction?  \
+Look at your eyes; there is more than fear \
+there.  I see in your eyes desperation, \
+a manic passion to do right by your God \
+whom you are not able to see or know.
+
+Am I too late?  I [will try][] to stay \
+your old hands, the knife clenched \
+within them, intent on ending life.
+
+Will you hear my small voice amongst the creaking, \
+or will it be the chance bleating of a passing ram?
+
+[God]: boar.html
+[will try]: i-am.html

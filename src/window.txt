@@ -1,0 +1,42 @@
+---
+title: Window
+genre: prose
+
+project:
+    title: "Buildings out of air: Paul in the Woods"
+    css: paul
+    order: 18
+    next:
+    - title: Question
+      link: question
+    - title: Writing
+      link: writing
+    previous:
+    - title: Tapestry
+      link: tapestry
+    - title: Wallpaper
+      link: wallpaper
+...
+
+_**HYMN 386: JOKES**_
+
+_"Tell us a joke" everyone asks of the clown.  He sits on a log and begins to
+think.  Everyone waits gap-mouthed in anticipation.  A slight breeze ruffles
+the clown's coat, his pompom buttons, his bright red hair.  His nose becomes
+redder in the cold.  Hours pass.  All but the most dedicated of joke listeners
+leave him to rot ~~for all they may care~~._
+
+_The clown opens his mouth to speak but no words come out.  A tear falls down
+his cheek, and another.  He begins to sob.  The last joke listener comes over
+to comfort him.  She puts a hand on his shoulder.  He looks up at her, red
+face, red nose, white lips, and says ~~"Thank you."~~  He vanishes from the
+clearing.  The last joke listener sits on the log and looks up at the sky.
+The moon is full.  The world creaks on its axis._
+
+Paul looked up to the space on the wall where a window should be.  The shadow
+of his face wavered in the candle light.  He looked back down at the card he'd
+been writing on.  He read the card.  He crossed out the _for all they may
+care_ in the first paragraph, and _"Thank you"_ from the second one.  "What
+could he say" he thought to himself.  "What could he possibly say to her."  He
+went outside to clear his head with a cigarette.  He took his axe with him
+this time.
