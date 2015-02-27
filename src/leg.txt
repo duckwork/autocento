@@ -18,14 +18,13 @@ project:
       link: leaf
 ...
 
-His first chair was a stool.  It was an uneven wobbly stool that would not
-support even forty pounds.  "So my first chair is a broken stool" he said
-after nearly breaking his tailbone on the dirt floor.  "Maybe I should start
-again but this time only with legs."  He began again but this time only with
-legs.  He built one leg, which means he cut a straight piece of wood down to
-four feet in length, whittled the bark off, and sanded it down smooth in what
-he was now calling his Woodworking Shack.  He typed up a note on how to make
-chair legs.
+His first chair was a stool.
+It was an uneven wobbly stool that would not support even forty pounds.
+"So my first chair is a broken stool" he said after nearly breaking his tailbone on the dirt floor.
+"Maybe I should start again but this time only with legs."
+He began again but this time only with legs.
+He built one leg, which means he cut a straight piece of wood down to four feet in length, whittled the bark off, and sanded it down smooth in what he was now calling his Woodworking Shack.
+He typed up a note on how to make chair legs.
 
 ```type
 MAKING CHAIR LEGS
@@ -37,9 +36,7 @@ MAKING CHAIR LEGS
 4. sand smooth the leg
 ```
 
-After he tried remembered tried standing the leg up, failing, and after much
-thought realizing that the ends needed to be flat, he typed one more line on
-his notecard:
+After he tried remembered tried standing the leg up, failing, and after much thought realizing that the ends needed to be flat, he typed one more line on his notecard:
 
 ```
 5. make ends flat

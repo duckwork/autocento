@@ -14,24 +14,22 @@ project:
         link: philosophy
 ...
 
-[Nothing matters; everything is sacred.  Everything matters; nothing is
-sacred][sacred].[^1] This is the only way we can move forward: by moving
-sideways.  Life is a great big rugby game, and the entire field has to be run
-for a goal.  The fact that the beginning two verses of this chapter have the
-same number of characters proves that they are a tautological pair, that is,
-they *complete each other*.  Sometimes life seems like a dog wagging its tail,
-smiling up at you and wanting you to love it, just wanting that, simple simple
-love, oblivious to the fact that it just ran through your immaculately groomed
-flower garden and tracked all the mud in onto your freshly steamed carpet.
-Life is not life in a suburb.  [There are no rosebushes, groomed never.  There
-is no carpet, steamed at any time.][rosebush] The dog looks at you wanting you
-to love it.  It wants to know that you know that it's there.  *It wants to be
-observed*.[\^2]
+[Nothing matters; everything is sacred.
+Everything matters; nothing is sacred][sacred].[^1]
+This is the only way we can move forward: by moving sideways.
+Life is a great big rugby game, and the entire field has to be run for a goal.
+The fact that the beginning two verses of this chapter have the same number of characters proves that they are a tautological pair, that is, they *complete each other*.
+Sometimes life seems like a dog wagging its tail, smiling up at you and wanting you to love it, just wanting that, simple simple love, oblivious to the fact that it just ran through your immaculately groomed flower garden and tracked all the mud in onto your freshly steamed carpet.
+Life is not life in a suburb.
+[There are no rosebushes, groomed never.  There is no carpet, steamed at any time.][rosebush]
+The dog looks at you wanting you to love it.
+It wants to know that you know that it's there.
+*It wants to be observed*.[^2]
 
 [sacred]: words-meaning.html
 [rosebush]: lovesong.html
 
-[^1]: Thank you Tom Stoppard.  Ha ha ho ho and hee hee.
+[^1]: Thank you [Tom Stoppard][].  Ha ha ho ho and hee hee.
 
 [^2]: Ah ha!  I knew this was going to happen at some point.  Now things
     are going to get more interesting because the dog wants what we
@@ -45,3 +43,5 @@ observed*.[\^2]
     seem important?  Doesn't it seem like a fish and a drop of water here
     are connected?  It helps, of course, that the fish represents Reality
     here.)
+
+[Tom Stoppard]: http://www.thesatirist.com/books/CowGirlBlues.html

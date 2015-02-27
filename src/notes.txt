@@ -18,15 +18,16 @@ project:
       link: man
 ...
 
-Paul began typing on notecards.  Somehow this felt right to his sensibilities.
-It was difficult to get the little cards into the typewriter.  It was a pain
-to readjust the typewriter for regular paper when he wasn't writing.  He
-started typing everything on those little notecards: grocery lists, letters to
-his grandmother, even reports for work (which is what got him in trouble).
+Paul began typing on notecards.
+Somehow this felt right to his sensibilities.
+It was difficult to get the little cards into the typewriter.
+It was a pain to readjust the typewriter for regular paper when he wasn't writing.
+He started typing everything on those little notecards: grocery lists, letters to his grandmother, even reports for work (which is what got him in trouble).
 
-But this was all later.  For now he was writing his ideas, "notes" he now
-called them, something for him to combine later into something.  He didn't
-like to think about it.  On this particular cold winter morning, he wrote
+But this was all later.
+For now he was writing his ideas, "notes" he now called them, something for him to combine later into something.
+He didn't like to think about it.
+On this particular cold winter morning, he wrote
 
 ```type
 Woke up from a dream I was famous.

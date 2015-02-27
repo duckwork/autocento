@@ -5,7 +5,7 @@ title: |
 genre: verse
 
 dedication: |
-    [Randall](TODO-xkcd-comic)
+    [Randall](https://xkcd.com/1199/)
 
 project:
     title: Stark Raving

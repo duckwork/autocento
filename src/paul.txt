@@ -41,14 +41,14 @@ CONTENTS OF THE SHED
 - axe
 ```
 
-He typed the list in the typewriter and looked around some more.  He wanted to
-make sure he didn't miss anything.  Finally it hit him and he smiled.  He
-typed one more line, stood up, and went out of the shed.
+He typed the list in the typewriter and looked around some more.
+He wanted to make sure he didn't miss anything.
+Finally it hit him and he smiled.
+He typed one more line, stood up, and went out of the shed.
 
 ```type
 - Paul Bunyon
 ```
 
-He got some kerosene from under the house, poured it around the base of the
-shed, lit a cigarette.  He smoked half of it and threw it down to start the
-fire.
+He got some kerosene from under the house, poured it around the base of the shed, lit a cigarette.
+He smoked half of it and threw it down to start the fire.
