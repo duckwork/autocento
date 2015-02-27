@@ -1,0 +1,45 @@
+---
+title: The Big Dipper
+genre: verse
+
+project:
+    title: Stark Raving
+    css: stark
+    order: 2
+    next:
+    - title: The Moon is drowning
+      link: moon-drowning
+    - title: Something about the nature of poetry and time
+      link: poetry-time
+    prev:
+    - title: The Death Zone
+      link: death-zone
+    - title: Table of Contents
+      link: table_contents
+...
+
+After searching for days or even months \
+I finally find it reclining lazily \
+above the peaks above the city as if to ask \
+Did you miss me? Yes very much I reply \
+and rush to embrace it but it smiles \
+and recoils and tells me No no you \
+have to try harder than that it says \
+I do not give myself up so easily
+
+I try a different tack \
+I sing to it bring it flowers nightly \
+I compare its eyes to the morning dew \
+it has not seen the morning dew \
+I say its mouth is the sunset over mountains \
+it knows mountains but the sunset \
+is only a rumor from the Evening Star \
+I tell the Big Dipper that it moves \
+like a quiet river across the earth
+
+Rivers I have seen says the Big Dipper \
+they sparkle in the light from my stars \
+Your stars like eyes I say and it smiles \
+No it says that is too easy \
+It turns its back \
+it walks home along the back of the mountain

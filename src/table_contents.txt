@@ -1,0 +1,58 @@
+---
+title: Table of contents
+genre: verse
+
+project:
+    title: Stark Raving
+    css: stark
+    order: 1
+    next:
+    - title: Ouroboros of memory
+      link: ouroboros_memory
+    - title: The Big Dipper
+      link: big-dipper
+...
+
+--------------------------------------- ---------------------------------------
+4. The look she gave me                 4. Half-hours in heaven are three times
+                                           that in hell
+
+5. Not out of anger                     5. Pay the toll, mister, or nothing can
+                                           get done
+
+6. A desire to understand               6. Misattributed
+
+7. Seven syllables amble                7. Disassociated
+
+8. To drink at the pond                 8. Advice from a cereal box
+
+9. Two fall in and drown                9. The challenges of a modern life
+
+10. Odd-numbered ponies                 10. Probability and the American Dream
+
+11. Buck and Whinny in the moonlight    11. Two friends throw dice
+
+12. To die tomorrow                     12. Fears of death
+
+13. To be everywhere                    13. The solipsist talks to God
+
+14. All at one time: my motto           14. A phone conversation following
+                                            receipt of an ill-timed love letter
+
+15. Of a perfect world                  15. Woody Allen at the horse races
+
+16. This morning the sun                16. Whether you say good morning or
+                                            good night
+
+17. Wandering through the window        17. A traveler waiting on the mountain
+
+18. Alights on my shoulder              18. The impenetrable object falls in
+                                            love
+
+                                        1. Liquid messenger
+
+                                        2. After a gate closes, dogs bark
+
+                                        3. Finding old men at dusk
+
+--------------------------------------- ---------------------------------------

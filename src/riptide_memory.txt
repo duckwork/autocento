@@ -1,0 +1,31 @@
+---
+title: Riptide of memory
+genre: verse
+
+project:
+    title: Stark Raving
+    css: stark
+    order: 16
+    next:
+    - title: About the author
+      link: about-the-author
+    - title: The Sixteenth Chapel
+      link: sixteenth-chapel
+    prev:
+    - title: |
+        Something about all music being performances of 4'33"
+        in places where other bands happen to be playing
+      link: music-433
+    - title: I think it's you (but it's not)
+      link: i-think-its-you
+...
+
+Inside of my memory, the poem is another memory.
+The air up here is thin, but the wind blows harder
+than anywhere else I know.  It threatens to rip
+my body away, like an angel of death, to the stars.
+
+In Arizona, I thought I would forget the rain,
+forget its sound on a roof like a hard wind, forget
+its smell like a far away ocean. Luckily for me
+it rains here. Luckily because I forget too easily.

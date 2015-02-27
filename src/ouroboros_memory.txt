@@ -1,0 +1,75 @@
+---
+title: 2. Ouroboros of Memory
+genre: prose
+
+epigraph:
+    content: |
+        He used his body to remember
+        his body, but in the end could only
+        remember the string.
+    attrib: Jonathan Safran Foer
+    link: 'http://www.bet-tal.com/index.aspx?id=2315'
+
+project:
+    title: Stark Raving
+    css: stark
+    order: 12
+    next:
+    - title: L'appel du vide
+      link: lappel-du-vide
+    - title: 3. Love as God
+      link: love-as-god
+    prev:
+    - title: Table of contents
+      link: table_contents
+    - title: 1. Initial Conditions
+      link: initial-conditions
+...
+
+[He said][] at the beginning, "It's like rolling yarn into a too-small ball.
+Sure, you can roll the memories around for a while, and maybe even use some of them.
+Eventually, though, you'll wind them all the way out and you'll be left with nothing but a small loop.
+You can tie this loop around your finger, and start wrapping your body, but this is an extension of the same problem.
+You'll turn into a mummy of memory.
+There'll be nothing left underneath but a dead body.
+
+"But what does it mean, _To remember the body with the body?_
+I imagine a creature made of memory, putting its feet in its mouth, turning into a ball.
+In this way, it could roll all around the landscape of its memory.
+I've tried explaining this to other people, but it doesn't make any sense to them.
+The task of eating one's feet is, to them, an unsolvable problem.
+They seem to forgotten that, as babies, they were able to make themselves into loops.
+
+"So I increase the count to two: two snakes eating each other's tales, forming a loop.
+In this way they are able to put two heads on one body.
+This doubles the number of memories, which really only exacerbates the problem.
+It's like trying to roll two different materials up into a ball.
+The people I tell this to don't understand this either, they say using two animals makes sense to them.
+They say there must be different types of memory.
+
+"I disagree with this theory of memory.
+I think there is, at bottom, only one type of anything, with subtypes grouped together along the edge of a loop.
+Color becomes a good metaphor: look how many of them!
+yet they are all consumed by the same part of the body.
+Maybe two different materials are still made of material, and maybe they can be rolled into a ball.
+Maybe there actually never was a problem.
+
+"Or maybe, and this is more likely, I need to restate the problem.
+I think it all boils down to the fact that I have a truly lousy memory.
+I've tried different mnemonic devices, like imagining each thing I need to remember being visited by a bouncing ball.
+I've tried trying string into finger-loops.
+I've even tried writing the things I need to remember on my body.
+If you asked me, 'Do any of these work,' I would have to answer, 'None of them.'
+
+"Sometimes in the morning I realize dumbly I've forgotten my words, all of them.
+They generally come back by around ten o'clock, but the frequency with which this is occurring is becoming a problem.
+I feel that my brain is being separated from my body.
+Is there a place in the universe for a misplaced memory?
+Does it eat its own tail and roll around the universe as it loops?
+Does it shrink down and become lost as a tiny ball?
+
+No matter what happens, eventually _I_ will become _them_ as I lose the last of my memory.
+I won't be able to solve the problem of my being, and my being will become my problem, in an eternal loop.
+I will roll my body into a prenatal ball.
+
+[He said]: joke.html

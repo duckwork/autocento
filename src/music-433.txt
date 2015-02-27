@@ -1,0 +1,49 @@
+---
+title: |
+    Something about all music being performances of _4'33"_
+    in places where other bands happen to be playing
+genre: verse
+
+dedication: |
+    [Randall](TODO-xkcd-comic)
+
+project:
+    title: Stark Raving
+    css: stark
+    order: 18
+    next:
+    - title: Riptide of memory
+      link: riptide_memory
+    - title: About the author
+      link: about-the-author
+    prev:
+    - title: The Moon is drowning
+      link: moon-drowning
+    - title: The Sixteenth Chapel
+      link: sixteenth-chapel
+...
+
+Silence lies underneath us all in the same way \
+the Nile has a river underneath ten times as large \
+(although this is an urban legend, apparently).
+
+So underneath truth or legend, flowing by \
+the feel of their own silence, move the stars: \
+silence lies underneath us all in the same way.
+
+John Cage, I think, understood this: the way \
+that, in a silent room, one still hears the nerves \
+(although this is an urban legend, apparently),
+
+or the heart, which I find more easily \
+believable: there simply is no way that, by and large, \
+silence lies underneath us all in the same way.
+
+There must be different silences, because we \
+have different songs to drown them out, different gods \
+(although these are urban legends, apparently).
+
+But is not all sound one sound? You and I \
+are two faces to the same head, the same body. \
+Silence lies underneath us all in the same way--- \
+although this is an urban legend, apparently.

@@ -1,0 +1,31 @@
+---
+title: AMBER alert
+genre: prose
+
+epigraph:
+    content: Apparently it does nothing.
+    link: TODO
+
+project:
+    title: Stark Raving
+    css: stark
+    order: 6
+    next:
+    - title: 5. Exasperated
+      link: exasperated
+    - title: The Death Zone
+      link: death-zone
+    prev:
+    - title: Last bastion
+      link: last-bastion
+    - title: 6. Something about the nature of poetry and time
+      link: poetry-time
+...
+
+![https://upload.wikimedia.org/wikipedia/en/5/54/Amber_Hagerman.jpg]
+
+Lost things have a way of staying lost.
+They have to want to be found---is that why we tack up signs, hang socks from hooks in the park, have a box for what's been lost but now is found?
+Maybe the lost *want* to be found but we're looking in the wrong places.
+Maybe we speak the wrong language, the language of the found, to call to them.
+Maybe we should try another door.

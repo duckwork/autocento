@@ -5,6 +5,7 @@ genre: verse
 epigraph:
     content: |
         "What is your favorite word?"
+
         "And.  It is so hopeful."
     attrib: Margaret Atwood
     link: 'http://www.theguardian.com/lifeandstyle/2011/oct/28/margaret-atwood-q-a'
