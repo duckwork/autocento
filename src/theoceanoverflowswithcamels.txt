@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 7
     prev:
-        title: Ars poetica
-        link: arspoetica
+    - title: Ars poetica
+      link: arspoetica
     next:
-        title: The boar
-        link: boar
+    - title: The boar
+      link: boar
 ...
 
 We found your [shirt][] deep in the dark water, \
