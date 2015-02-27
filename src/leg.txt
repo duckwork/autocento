@@ -11,7 +11,7 @@ project:
       link: planks
     - title: Man
       link: man
-    previous:
+    prev:
     - title: Toilet
       link: toilet
     - title: Leaf

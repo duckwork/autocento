@@ -44,6 +44,12 @@ $for(include-before)$ $include-before$ $endfor$
         </p>
         $endif$
         $endif$
+        $if(dedication)$
+        <!-- dedication -->
+        <p class="dedication">
+            <em>for $dedication$</em>
+        </p>
+        $endif$
     </header>
 
     <section class="$genre$">
@@ -52,10 +58,15 @@ $for(include-before)$ $include-before$ $endfor$
 
     <nav>
         $for(project.prev)$
-        <a href="$project.prev.link$.html">&lt; $project.prev.title$</a>
+        <a href="$project.prev.link$.html">
+            <span class="prevlink">&lt; $project.prev.title$</span>
+        </a>
         $endfor$
+        <a href="#" id="lozenge"> &loz; </a>
         $for(project.next)$
-        <a href="$project.next.link$.html">$project.next.title$ &gt;</a>
+        <a href="$project.next.link$.html">
+            <span class="nextlink">$project.next.title$ &gt;</span>
+        </a>
         $endfor$
     </nav>
 

@@ -7,11 +7,11 @@ project:
     css: hezekiah
     order: 2
     next:
-        title: Philosophy
-        link: philosophy
+    - title: Philosophy
+      link: philosophy
     prev:
-        title: Prelude
-        link: prelude
+    - title: Prelude
+      link: prelude
 ...
 
 Okay, so as we said in [the Prelude][], there either is or isn't a God.

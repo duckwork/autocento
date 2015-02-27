@@ -7,11 +7,11 @@ project:
     css: hezekiah
     order: 4
     next:
-        title: Moving sideways
-        link: movingsideways
+    - title: Moving sideways
+      link: movingsideways
     prev:
-        title: Philosophy
-        link: philosophy
+    - title: Philosophy
+      link: philosophy
 ...
 
 [Nothing matters; everything is sacred.

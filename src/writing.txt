@@ -11,7 +11,7 @@ project:
       link: notes
     - title: X-ray
       link: x-ray
-    previous:
+    prev:
     - title: Leaf
       link: leaf
     - title: Window

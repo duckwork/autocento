@@ -11,7 +11,7 @@ project:
       link: hands
     - title: Snow
       link: snow
-    previous:
+    prev:
     - title: Notes
       link: notes
     - title: Sapling

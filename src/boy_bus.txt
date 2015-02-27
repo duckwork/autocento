@@ -14,7 +14,7 @@ project:
     prev:
     - title: L'appel du vide
       link: lappel-du-vide
-    - title: 5. Exasperated
+    - title: Exasperated
       link: exasperated
 ...
 

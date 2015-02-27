@@ -11,7 +11,7 @@ project:
       link: question
     - title: Writing
       link: writing
-    previous:
+    prev:
     - title: Tapestry
       link: tapestry
     - title: Wallpaper

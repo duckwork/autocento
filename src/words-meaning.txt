@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 4
     prev:
-        title: And
-        link: and
+    - title: And
+      link: and
     next:
-        title: On seeing the panorama of the Apollo 11 landing site
-        link: apollo11
+    - title: On seeing the panorama of the Apollo 11 landing site
+      link: apollo11
 ...
 
 "How astonishing it is that language can almost mean, / and frightening that it does not quite," Jack Gilbert opens his poem "The Forgotten Dialect of the Heart."

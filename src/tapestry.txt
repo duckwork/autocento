@@ -11,7 +11,7 @@ project:
       link: window
     - title: Toilet
       link: toilet
-    previous:
+    prev:
     - title: Phone
       link: phone
     - title: Swear

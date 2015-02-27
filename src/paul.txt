@@ -11,7 +11,7 @@ project:
       link: fire
     - title: Phone
       link: phone
-    previous:
+    prev:
     - title: Father
       link: father
     - title: Options

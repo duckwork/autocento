@@ -11,7 +11,7 @@ project:
       link: leg
     - title: Toothpaste
       link: toothpaste
-    previous:
+    prev:
     - title: Hands
       link: hands
     - title: Tapestry

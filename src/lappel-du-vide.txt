@@ -19,7 +19,7 @@ project:
     prev:
     - title: Ouroboros of memory
       link: ouroboros_memory
-    - title: 3. Love as God
+    - title: Love as God
       link: love-as-god
 ...
 

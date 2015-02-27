@@ -11,7 +11,7 @@ project:
       link: stump
     - title: Leaf
       link: leaf
-    previous:
+    prev:
     - title: Punch
       link: punch
     - title: Hymnal

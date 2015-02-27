@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 25
     prev:
-        title: Swan song
-        link: swansong
+    - title: Swan song
+      link: swansong
     next:
-        title: We played those games too
-        link: weplayedthosegamestoo
+    - title: We played those games too
+      link: weplayedthosegamestoo
 ...
 
 It was one of those nameless gray buildings that could be seen from the street only if Larry craned his neck to almost vertical.

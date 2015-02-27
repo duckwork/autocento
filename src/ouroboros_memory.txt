@@ -1,5 +1,5 @@
 ---
-title: 2. Ouroboros of Memory
+title: Ouroboros of Memory
 genre: prose
 
 epigraph:
@@ -17,12 +17,12 @@ project:
     next:
     - title: L'appel du vide
       link: lappel-du-vide
-    - title: 3. Love as God
+    - title: Love as God
       link: love-as-god
     prev:
     - title: Table of contents
       link: table_contents
-    - title: 1. Initial Conditions
+    - title: Initial Conditions
       link: initial-conditions
 ...
 

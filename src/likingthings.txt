@@ -7,8 +7,8 @@ project:
     css: hezekiah
     order: 7
     prev:
-        title: Problems
-        link: problems
+    - title: Problems
+      link: problems
 ...
 
 The definition of happiness is *doing stuff that you really like*.

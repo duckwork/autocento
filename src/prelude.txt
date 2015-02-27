@@ -7,8 +7,8 @@ project:
     css: hezekiah
     order: 1
     next:
-        title: The purpose of dogs
-        link: purpose-dogs
+    - title: The purpose of dogs
+      link: purpose-dogs
 ...
 
 Of course, there is a God.

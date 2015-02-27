@@ -11,7 +11,7 @@ project:
       link: shed
     - title: Options
       link: options
-    previous:
+    prev:
     - title: Writing
       link: writing
     - title: Man

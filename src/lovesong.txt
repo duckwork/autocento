@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 15
     prev:
-        title: How it happened
-        link: howithappened
+    - title: How it happened
+      link: howithappened
     next:
-        title: Rough gloves
-        link: roughgloves
+    - title: Rough gloves
+      link: roughgloves
 ...
 
 Walking along in the dark is a good way to begin a song.

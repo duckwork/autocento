@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 23
     prev:
-        title: Spittle
-        link: spittle
+    - title: Spittle
+      link: spittle
     next:
-        title: Swan song
-        link: swansong
+    - title: Swan song
+      link: swansong
 ...
 
 He is so full in himself: \

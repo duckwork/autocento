@@ -11,7 +11,7 @@ project:
       link: cereal
     - title: Shed
       link: shed
-    previous:
+    prev:
     - title: Question
       link: question
     - title: Reports

@@ -11,7 +11,7 @@ project:
       link: toilet
     - title: Hardware
       link: hardware
-    previous:
+    prev:
     - title: Shed
       link: shed
     - title: Fire

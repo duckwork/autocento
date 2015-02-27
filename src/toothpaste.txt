@@ -11,7 +11,7 @@ project:
       link: father
     - title: Treatise
       link: treatise
-    previous:
+    prev:
     - title: Early
       link: early
     - title: Toilet

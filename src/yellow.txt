@@ -9,7 +9,7 @@ project:
     next:
     - title: X-ray
       link: x-ray
-    previous:
+    prev:
     - title: Building
       link: building
     - title: X-ray

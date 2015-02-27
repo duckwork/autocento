@@ -7,10 +7,10 @@ project:
     css: elegies
     order: 2
     next:
-      title: And
+    - title: And
       link: and
     prev:
-      title: epigraph
+    - title: epigraph
       link: epigraph
 ...
 

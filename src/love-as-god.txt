@@ -1,5 +1,5 @@
 ---
-title: 3. Love as God
+title: Love as God
 genre: verse
 
 project:
@@ -12,9 +12,9 @@ project:
     - title: L'appel du vide
       link: lappel-du-vide
     prev:
-    - title: 1. Initial conditions
+    - title: Initial conditions
       link: initial-conditions
-    - title: 2. Ouroboros of memory
+    - title: Ouroboros of memory
       link: ouroboros_memory
 ...
 

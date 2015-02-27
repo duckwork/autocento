@@ -11,7 +11,7 @@ project:
       link: phone
     - title: Underwear
       link: underwear
-    previous:
+    prev:
     - title: Hardware
       link: hardware
     - title: Toothpaste

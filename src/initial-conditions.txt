@@ -1,5 +1,5 @@
 ---
-title: 1. Initial conditions
+title: Initial conditions
 genre: verse
 
 project:
@@ -7,9 +7,9 @@ project:
     css: stark
     order: 11
     next:
-    - title: 3. Love as God
+    - title: Love as God
       link: love-as-god
-    - title: 2. Ouroboros of memory
+    - title: Ouroboros of memory
       link: ouroboros_memory
     prev:
     - title: I think it's you (but it's not)

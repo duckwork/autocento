@@ -11,7 +11,7 @@ project:
       link: swear
     - title: Sapling
       link: sapling
-    previous:
+    prev:
     - title: Snow
       link: snow
     - title: Question

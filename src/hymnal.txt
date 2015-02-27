@@ -11,7 +11,7 @@ project:
       link: underwear
     - title: Joke
       link: joke
-    previous:
+    prev:
     - title: Art
       link: art
     - title: Hardware

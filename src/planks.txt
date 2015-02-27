@@ -11,7 +11,7 @@ project:
       link: hardware
     - title: Punch
       link: punch
-    previous:
+    prev:
     - title: Leg
       link: leg
     - title: Phone

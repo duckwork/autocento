@@ -7,11 +7,11 @@ project:
     css: hezekiah
     order: 5
     next:
-        title: Problems
-        link: problems
+    - title: Problems
+      link: problems
     prev:
-        title: Proverbs
-        link: proverbs
+    - title: Proverbs
+      link: proverbs
 ...
 
 A dog moving sideways is sick; a man moving sideways is drunk.

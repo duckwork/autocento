@@ -11,7 +11,7 @@ project:
       link: early
     - title: Swear
       link: swear
-    previous:
+    prev:
     - title: Joke
       link: joke
     - title: Stagnant

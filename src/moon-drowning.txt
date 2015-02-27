@@ -8,7 +8,7 @@ project:
     order: 3
     next:
     - title: |
-        Something about all music being performances of *4'33"* in places
+        Something about all music being performances of _4\'33\"_ in places
         where other bands happen to be playing
       link: music-443
     - title: Worse looking over

@@ -7,11 +7,11 @@ project:
     css: hezekiah
     order: 6
     next:
-        title: Liking things
-        link: likingthings
+    - title: Liking things
+      link: likingthings
     prev:
-        title: Moving sideways
-        link: movingsideways
+    - title: Moving sideways
+      link: movingsideways
 ...
 
 The problem with people is this: we cannot be happy.

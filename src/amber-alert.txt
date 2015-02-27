@@ -11,14 +11,14 @@ project:
     css: stark
     order: 6
     next:
-    - title: 5. Exasperated
+    - title: Exasperated
       link: exasperated
     - title: The Death Zone
       link: death-zone
     prev:
     - title: Last bastion
       link: last-bastion
-    - title: 6. Something about the nature of poetry and time
+    - title: Something about the nature of poetry and time
       link: poetry-time
 ...
 

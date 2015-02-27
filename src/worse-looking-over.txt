@@ -7,12 +7,12 @@ project:
     css: stark
     order: 4
     next:
-    - title: 4. The Sixteenth Chapel
+    - title: The Sixteenth Chapel
       link: sixteenth-chapel
-    - title: 6. Something about the nature of poetry and time
+    - title: Something about the nature of poetry and time
       link: poetry-time
     prev:
-    - title: 3. Love as God
+    - title: Love as God
       link: love-as-god
     - title: The moon is drowning
       link: moon-drowning

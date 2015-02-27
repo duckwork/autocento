@@ -7,11 +7,11 @@ project:
     css: hezekiah
     order: 3
     next:
-        title: Proverbs
-        link: proverbs
+    - title: Proverbs
+      link: proverbs
     prev:
-        title: The purpose of dogs
-        link: purpose-dogs
+    - title: The purpose of dogs
+      link: purpose-dogs
 ...
 
 Importance is important.

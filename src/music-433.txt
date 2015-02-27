@@ -1,11 +1,10 @@
 ---
 title: |
-    Something about all music being performances of _4'33"_
+    Something about all music being performances of _4\'33\"_
     in places where other bands happen to be playing
 genre: verse
 
-dedication: |
-    [Randall](https://xkcd.com/1199/)
+dedication: '[Randall](https://xkcd.com/1199/)'
 
 project:
     title: Stark Raving
@@ -31,7 +30,7 @@ So underneath truth or legend, flowing by \
 the feel of their own silence, move the stars: \
 silence lies underneath us all in the same way.
 
-John Cage, I think, understood this: the way \
+[John Cage][433], I think, understood this: the way \
 that, in a silent room, one still hears the nerves \
 (although this is an urban legend, apparently),
 
@@ -47,3 +46,5 @@ But is not all sound one sound? You and I \
 are two faces to the same head, the same body. \
 Silence lies underneath us all in the same way--- \
 although this is an urban legend, apparently.
+
+[433]: https://www.youtube.com/watch?feature=player_detailpage&v=zY7UK-6aaNA#t=39

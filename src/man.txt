@@ -11,7 +11,7 @@ project:
       link: snow
     - title: Notes
       link: notes
-    previous:
+    prev:
     - title: Cereal
       link: cereal
     - title: Leg

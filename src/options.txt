@@ -11,7 +11,7 @@ project:
       link: stagnant
     - title: Paul
       link: paul
-    previous:
+    prev:
     - title: Swear
       link: swear
     - title: Notes

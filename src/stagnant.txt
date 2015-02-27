@@ -11,7 +11,7 @@ project:
       link: building
     - title: Stump
       link: stump
-    previous:
+    prev:
     - title: Options
       link: options
     - title: Snow

@@ -11,7 +11,7 @@ project:
       link: wallpaper
     - title: Yellow
       link: yellow
-    previous:
+    prev:
     - title: Yellow
       link: yellow
     - title: Writing

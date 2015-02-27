@@ -11,7 +11,7 @@ project:
       link: joke
     - title: Question
       link: question
-    previous:
+    prev:
     - title: Wallpaper
       link: wallpaper
     - title: Planks

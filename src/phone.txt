@@ -11,7 +11,7 @@ project:
       link: tapestry
     - title: Planks
       link: planks
-    previous:
+    prev:
     - title: Treatise
       link: treatise
     - title: Paul

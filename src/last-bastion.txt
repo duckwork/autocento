@@ -9,10 +9,10 @@ project:
     next:
     - title: AMBER alert
       link: amber-alert
-    - title: 1. Initial conditions
+    - title: Initial conditions
       link: initial-conditions
     prev:
-    - title: 4. The Sixteenth Chapel
+    - title: The Sixteenth Chapel
       link: sixteenth-chapel.txt
     - title: Boy on the bus
       link: boy_bus

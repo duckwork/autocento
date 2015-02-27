@@ -11,7 +11,7 @@ project:
       link: punch
     - title: Window
       link: window
-    previous:
+    prev:
     - title: X-ray
       link: x-ray
     - title: Underwear

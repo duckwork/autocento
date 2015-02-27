@@ -11,7 +11,7 @@ project:
       link: reports
     - title: Stagnant
       link: stagnant
-    previous:
+    prev:
     - title: Man
       link: man
     - title: Shed

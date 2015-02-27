@@ -11,7 +11,7 @@ project:
       link: sapling
     - title: Reports
       link: reports
-    previous:
+    prev:
     - title: Window
       link: window
     - title: Punch

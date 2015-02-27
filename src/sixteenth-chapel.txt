@@ -1,9 +1,10 @@
 ---
-title: 4. The Sixteenth Chapel
+title: The Sixteenth Chapel
 genre: verse
 
 epigraph:
     content: "Canadian High School!"
+    attrib: David Letterman
     link: 'https://www.youtube.com/watch?v=PI_pwLyeoqk'
 
 dedication: Max
@@ -16,7 +17,7 @@ project:
     - title: Last bastion
       link: last-bastion
     - title: |
-        Something about all music being performances of *4'33"*
+        Something about all music being performances of _4\'33\"_
         in places where other bands happen to be playing
       link: music-433
     prev:

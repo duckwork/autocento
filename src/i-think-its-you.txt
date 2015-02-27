@@ -11,7 +11,7 @@ project:
     css: stark
     order: 15
     next:
-    - title: 1. Initial conditions
+    - title: Initial conditions
       link: initial-conditions
     - title: Riptide of memory
       link: riptide_memory

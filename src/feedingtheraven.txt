@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 11
     prev:
-        title: The angel to Abraham
-        link: angeltoabraham
+    - title: The angel to Abraham
+      link: angeltoabraham
     next:
-        title: On formal poetry
-        link: onformalpoetry
+    - title: On formal poetry
+      link: onformalpoetry
 ...
 
 You never can tell just when Charlie Sheen will enter your life.

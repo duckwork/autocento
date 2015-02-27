@@ -11,7 +11,7 @@ project:
       link: treatise
     - title: Hymnal
       link: hymnal
-    previous:
+    prev:
     - title: Planks
       link: planks
     - title: Hands

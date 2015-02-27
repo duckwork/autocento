@@ -11,7 +11,7 @@ project:
       link: writing
     - title: Leg
       link: leg
-    previous:
+    prev:
     - title: Axe
       link: axe
     - title: Joke

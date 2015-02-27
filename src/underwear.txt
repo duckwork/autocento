@@ -11,7 +11,7 @@ project:
       link: dream
     - title: Wallpaper
       link: wallpaper
-    previous:
+    prev:
     - title: Hymnal
       link: hymnal
     - title: Treatise

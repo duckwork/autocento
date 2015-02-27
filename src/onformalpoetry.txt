@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 12
     prev:
-        title: Feeding the raven
-        link: feedingtheraven
+    - title: Feeding the raven
+      link: feedingtheraven
     next:
-        title: I am
-        link: i-am
+    - title: I am
+      link: i-am
 ...
 
 I think that I could write formal poems \

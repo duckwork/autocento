@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 13
     prev:
-        title: On formal poetry
-        link: onformalpoetry
+    - title: On formal poetry
+      link: onformalpoetry
     next:
-        title: How it happened
-        link: howithappened
+    - title: How it happened
+      link: howithappened
 ...
 
 I am a great pillar of [white smoke][].  \

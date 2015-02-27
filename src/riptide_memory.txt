@@ -13,7 +13,7 @@ project:
       link: sixteenth-chapel
     prev:
     - title: |
-        Something about all music being performances of 4'33"
+        Something about all music being performances of _4\'33\"_
         in places where other bands happen to be playing
       link: music-433
     - title: I think it's you (but it's not)
