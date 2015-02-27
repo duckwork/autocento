@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 20
     prev:
-        title: The mountain
-        link: mountain
+    - title: The mountain
+      link: mountain
     next:
-        title: The shipwright
-        link: shipwright
+    - title: The shipwright
+      link: shipwright
 ...
 
 The self is a serengeti \

@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 22
     prev:
-        title: The shipwright
-        link: shipwright
+    - title: The shipwright
+      link: shipwright
     next:
-        title: The squirrel
-        link: squirrel
+    - title: The squirrel
+      link: squirrel
 ...
 
 My body is attached to your body by a thin spittle of thought.  \

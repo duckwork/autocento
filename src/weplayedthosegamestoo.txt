@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 25
     prev:
-        title: Telemarketer
-        link: telemarketer
+    - title: Telemarketer
+      link: telemarketer
     next:
-        title: 'To Daniel: an elaboration'
-        link: todaniel
+    - title: 'To Daniel: an elaboration'
+      link: todaniel
 ...
 
 I saw two Eskimo girls playing a game \

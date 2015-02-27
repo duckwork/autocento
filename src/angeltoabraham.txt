@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 10
     prev:
-        title: Dead man
-        link: deadman
+    - title: Dead man
+      link: deadman
     next:
-        title: Feeding the raven
-        link: feedingtheraven
+    - title: Feeding the raven
+      link: feedingtheraven
 ...
 
 Abraham, Abraham, you are old and cannot hear: \

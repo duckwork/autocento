@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 16
     prev:
-        title: Love Song
-        link: lovesong
+    - title: Love Song
+      link: lovesong
     next:
-        title: Ronald McDonald
-        link: ronaldmcdonald
+    - title: Ronald McDonald
+      link: ronaldmcdonald
 ...
 
 I lost my hands & knit replacement ones \

@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 24
     prev:
-        title: The squirrel
-        link: squirrel
+    - title: The squirrel
+      link: squirrel
     next:
-        title: Telemarketer
-        link: telemarketer
+    - title: Telemarketer
+      link: telemarketer
 ...
 
 Swans fly overhead singing goodbye \

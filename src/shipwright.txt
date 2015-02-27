@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 21
     prev:
-        title: Serengeti
-        link: serengeti
+    - title: Serengeti
+      link: serengeti
     next:
-        title: Spittle
-        link: spittle
+    - title: Spittle
+      link: spittle
 ...
 
 He builds a ship as if it were the last thing \

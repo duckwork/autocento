@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 8
     prev:
-        title: The ocean overflows with camels
-        link: theoceanoverflowswithcamels
+    - title: The ocean overflows with camels
+      link: theoceanoverflowswithcamels
     next:
-        title: Dead man
-        link: deadman
+    - title: Dead man
+      link: deadman
 ...
 
 Now the ticking clocks scare me.  \

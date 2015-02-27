@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 14
     prev:
-        title: I am
-        link: i-am
+    - title: I am
+      link: i-am
     next:
-        title: Love Song
-        link: lovesong
+    - title: Love Song
+      link: lovesong
 ...
 
 I was away on vacation when I heard--- \

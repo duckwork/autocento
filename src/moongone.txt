@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 18
     prev:
-        title: Ronald McDonald
-        link: ronaldmcdonald
+    - title: Ronald McDonald
+      link: ronaldmcdonald
     next:
-        title: The mountain
-        link: mountain
+    - title: The mountain
+      link: mountain
 ...
 
 The moon is gone and in its place a mirror.  Looking at the night sky now

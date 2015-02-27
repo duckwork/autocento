@@ -7,11 +7,11 @@ project:
     css: elegies
     order: 9
     prev:
-        title: The boar
-        link: boar
+    - title: The boar
+      link: boar
     next:
-        title: The angel to Abraham
-        link: angeltoabraham
+    - title: The angel to Abraham
+      link: angeltoabraham
 ...
 
 A dead man finds his way into our [hearts][] \

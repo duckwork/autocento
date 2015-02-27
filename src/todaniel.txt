@@ -8,11 +8,11 @@ project:
     css: elegies
     order: 27
     prev:
-        title: We played those games too
-        link: weplayedthosegamestoo
+    - title: We played those games too
+      link: weplayedthosegamestoo
     next:
-        title: "Death's trumpet"
-        link: deathstrumpet
+    - title: "Death's trumpet"
+      link: deathstrumpet
 ...
 
 There are more modern ideals of beauty \
