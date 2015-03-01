@@ -32,15 +32,15 @@ $for(include-before)$ $include-before$ $endfor$
         $if(epigraph.content)$
         <!-- epigraph -->
         <p class="epigraph">
-        $epigraph.content$
+            $if(epigraph.link)$
+            <a href="$epigraph.link$">$epigraph.content$</a>
+            $else$
+            $epigraph.content$
+            $endif$
         </p>
         $if(epigraph.attrib)$
         <p class="epigraph-attrib">
-            $if(epigraph.link)$
-            <a href="$epigraph.link$">&mdash; $epigraph.attrib$</a>
-            $else$
             &mdash; $epigraph.attrib$
-            $endif$
         </p>
         $endif$
         $endif$
