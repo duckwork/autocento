@@ -29,17 +29,15 @@ For now he was writing his ideas, "notes" he now called them, something for him 
 He didn't like to think about it.
 On this particular cold winter morning, he wrote
 
-```type
-Woke up from a dream I was famous.
-One of the more famous people in
-fact.  I had written something
-everyone could relate to and at
-the same time proved my parents
-wrong.  Because I made a lot of
-money.  Or not a lot, but enough
-and more than they thought I
-would.  It was a good day.
-Woke up this morning and I was
-still cold.  Still Paul.  Still not
-good at furniture.
-```
+> Woke up from a dream I was famous.
+> One of the more famous people in
+> fact.  I had written something
+> everyone could relate to and at
+> the same time proved my parents
+> wrong.  Because I made a lot of
+> money.  Or not a lot, but enough
+> and more than they thought I
+> would.  It was a good day.
+> Woke up this morning and I was
+> still cold.  Still Paul.  Still not
+> good at furniture.

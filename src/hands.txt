@@ -32,15 +32,13 @@ He opened the medicine cabinet.
 
 Back in his Writing Shack, he started to type.
 
-```type
-What is it about hands that gives
-them such power?  It is that their
-power is hidden in the arm.  Push
-on the inside of the wrist--the
-hand closes.  Reach under the skin
-and pull on the outside tendons--
-the hand opens again.  Hands are
-only machines for grasping,
-controlled by the arm, not the
-mind.
-```
+> What is it about hands that gives
+> them such power?  It is that their
+> power is hidden in the arm.  Push
+> on the inside of the wrist--the
+> hand closes.  Reach under the skin
+> and pull on the outside tendons--
+> the hand opens again.  Hands are
+> only machines for grasping,
+> controlled by the arm, not the
+> mind.

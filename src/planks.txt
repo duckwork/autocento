@@ -18,10 +18,8 @@ project:
       link: phone
 ...
 
-```type
-EVERYTHING CHANGES OR EVERYTHING
-STAYS THE SAME
-```
+> EVERYTHING CHANGES OR EVERYTHING
+> STAYS THE SAME
 
 This sat alone on a blank notecard in Paul's typewriter.
 He stared at it, sipping at his too-hot coffee.
