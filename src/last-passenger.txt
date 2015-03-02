@@ -9,7 +9,7 @@ project:
 
 Memory works strangely, spooling its thread \
 over the nails of events barely related, \
-creating finally some picture, if we’re \
+creating finally some picture, if we're \
 lucky, of a life---but more likely, it knots \
 itself, catches on a nail or in our throats \
 that gasp, as it binds our necks, for air.

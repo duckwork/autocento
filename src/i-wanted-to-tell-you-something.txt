@@ -7,12 +7,12 @@ project:
     css: autocento
 ...
 
-I wanted to tell you something in order to \
-explain the way I feel about the Universe, \
-its workings, etc.  But I couldn't yesterday \
----I'm sorry---I wanted only to ball \
-myself up and cry all day.  It was the sixteenth \
-day in a row this happened to me, and to be
+I wanted to tell you something in order [to][] \
+explain the way I feel about the [Universe][], \
+its workings, etc.  But I couldn't [yesterday][] \
+---I'm sorry---I wanted only to [ball][] \
+myself up and cry all day.  It was the [sixteenth][] \
+day in a row this happened to me, and to [be][]
 
 more than two weeks waiting to cry is, \
 especially when, the whole time, I wasn't able to, \
@@ -32,7 +32,7 @@ times, and all you can think is, "Some sixteenth \
 birthday!  Maybe I will go die in a hole."  Yesterday, \
 at times like this, is a luxury the cruel Universe \
 refuses to give you.  This is when it's a pain just to _be_, \
-when that Marvell line about "rolling our stuff into one ball" \
+when that Marvell line about "[rolling our stuff into one ball][Marvell]" \
 just seems glib, when you don't want one body, let alone two.
 
 Something else that may come as a surprise to \
@@ -52,3 +52,12 @@ and step around it lightly, as I would an exercise ball,
 but the problem is, dear Universe, there's no way I could be \
 something as hard as all that, to wake up yesterday \
 morning, stretch over my sixteen selves, bound out like a ball.
+
+[to]: poetry-time.html
+[Universe]: initial-conditions.html
+[yesterday]: exasperated.html
+[ball]: ouroboros_memory.html
+[sixteenth]: sixteenth-chapel.html
+[be]: love-as-god.html
+
+[Marvell]: http://www.luminarium.org/sevenlit/marvell/coy.htm
