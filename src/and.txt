@@ -23,7 +23,7 @@ project:
 ...
 
 And you were there in the start of it all \
-and you folded your hands like little doves \
+and you folded your [hands like little doves][] \
 that would fly away like an afterthought \
 and you turned to me the window light on your face \
 and you asked me something that I did not recognize \
@@ -45,3 +45,4 @@ and you nodded to yourself at something he said
 
 [church]: boar.html
 [grieving something gone]: roughgloves.html
+[hands like little doves]: cold-wind.html

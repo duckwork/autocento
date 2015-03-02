@@ -20,11 +20,11 @@ project:
 
 When he finally got back to work he was surprised they threw him a party.
 _**WELCOME BACK PAUL!**_  was written on a big banner across the back wall.
-Someone had ordered a confectioner's-sugar cake with frosting flowers on the corners.
+Someone had ordered a confectioner's-sugar cake with [frosting flowers][] on the corners.
 It said the same thing as the banner.
 "Welcome back, Paul" said Jill as he was at the punch bowl.
 The cup was on the table as he ladled punch in with his right hand.
-His left was wrapped in gauze.
+His left was wrapped in [gauze][].
 
 "Let me help you with that" said Jill.
 Paul had a strange feeling this had happened before.
@@ -37,6 +37,10 @@ When Jerry heard about your hand he said 'There goes one of our best data entry 
 "I'm sorry."
 
 "Sorry for what" she looked at his eyes.
-He imagined her seeing fisheye versions of herself in them.
+He imagined her seeing [fisheye][] versions of herself in them.
 "I don't know" he said because it was true.
 "It's alright anyway" she said and placed the full punch cup in his right hand.
+
+[fisheye]: hands.html
+[frosting flowers]: big-dipper.html
+[gauze]: 100-lines.html

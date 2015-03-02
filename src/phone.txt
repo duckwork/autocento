@@ -26,8 +26,8 @@ Paul remembered that phones work by talking and said "Hello Jill."
 "Do you remember me" she asked "we were in school together?
 How have you been?"
 "Pretty well" said Paul "I've been writing and making furniture."
-"Oh that's nice" said the woman's voice tinny in the phone
-"Listen I ran into your mother at the Supermarket the other day and she said you need a job.
+"Oh that's nice" [said the woman's voice][] tinny in the phone
+"Listen I ran into your mother at the [Supermarket][] the other day and she said you need a job.
 You still need one?"
 Paul had to tell the truth.
 His mother was watching him out of the corner of her eye as she was playing dominoes at the kitchen table.
@@ -46,3 +46,6 @@ It's just data entry really basic stuff entry-level."
 "Oh her was she calling about a job for you?"
 "Yes starts Monday" he said.
 She smiled behind her glasses reflecting dominoes.
+
+[said the woman's voice]: telemarketer.html
+[Supermarket]: last-bastion.html

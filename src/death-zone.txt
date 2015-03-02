@@ -5,7 +5,7 @@ genre: verse
 epigraph:
     content: And my life became death.
     attrib: Philip Gould
-    link: TODO
+    link: http://www.npr.org/blogs/13.7/2013/11/19/245996903/embracing-life-and-death
 
 project:
     title: Stark Raving
@@ -23,11 +23,11 @@ project:
       link: amber-alert
 ...
 
-![TODO]
+![Philip Gould](img/gould.png)
 
 When I think of death I think \
 of Peter Falk in _The Princess Bride_ patting \
-his pockets as he leaves the room
+[his pockets][] as he leaves the room
 
 Life is a series of doors or so \
 they say but I ask them this \
@@ -37,7 +37,7 @@ For Falk maybe it leads backstage \
 a black-walled catered affair with stage \
 lights slowly baking stale muffins
 
-Sweaty cheese leaking onto dried-out \
+[Sweaty cheese][] leaking onto dried-out \
 grapes a chocolate fountain clogged \
 by some errant strawberry crown
 
@@ -45,10 +45,14 @@ but this is not where it leads for you or \
 for me that door opens onto darkness marked \
 only by a trellis or the lid of a casket
 
-the door of the earth's womb opening \
+the door of the [earth's womb][] opening \
 finally to accept us and with us the dirt \
 not to grow more strawberries for Falk
 
 but to pad his feet as he walks overhead \
 to visit someone he certainly cares about \
 but whose name is lost to posterity.
+
+[his pockets]: creation-myth.html
+[Sweaty cheese]: i-wanted-to-tell-you-something.html
+[earth's womb]: about-the-author.html

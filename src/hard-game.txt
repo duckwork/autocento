@@ -2,6 +2,8 @@
 title: A hard game
 genre: verse
 
+dedication: Jim Henson
+
 project:
     title: Autocento of the breakfast table
     css: autocento
@@ -11,16 +13,20 @@ You think building Hoggle's a hard game?  \
 You know bunk.  Writing a ghazal's a hard game.
 
 Let's meet in a place where words & fabric play--- \
-but not plastic words.  Boggle's a hard game.
+but not [plastic][] words.  (Boggle's a hard game.)
 
 A cookout where we can hash our differences \
 over steak, though making it sizzle's a hard game.
 
-Let's go to a brothel, rub shoulders with bare \
+Let's go to a brothel, [rub shoulders][] with bare \
 shoulders, or a bar.  Being wastrel's a hard game.
 
 Maybe we could switch professions, you and I, \
 you write the poems, I'll puppet Fozzie---a hard game.
 
 When you call me, you never say my name.  \
-Creativity's a hose---checking the nozzle's a hard game.
+Creativity's [a hose][]---shutting the nozzle's the hard game.
+
+[a hose]: fire.html
+[plastic]: sense-of-it.html
+[rub shoulders]: finding-the-lion.html

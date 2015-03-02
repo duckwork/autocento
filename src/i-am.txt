@@ -25,7 +25,7 @@ cannot get in.  This house will never burn down.  \
 It is the house that I built, with my body \
 and with my strength.  I am the only one who lives \
 here.  I am both father and mother to a race \
-of dust motes that worship me as a god.  I have \
+of [dust motes that worship me as a god][].  I have \
 monuments built daily in my honor in dark \
 corners around the house.  I destroy all of them \
 before I go to bed, but in the morning \
@@ -35,3 +35,4 @@ to all of them anymore.  There are too many.
 
 [white smoke]: deathstrumpet.html
 [not think]: howithappened.html
+[dust motes that worship me as a god]: plant.html

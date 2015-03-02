@@ -24,10 +24,10 @@ project:
 
 I thought I saw you walking \
 to the bus stop but it was only \
-a raven. His croaks sounded nothing \
+a [raven][].  His croaks sounded nothing \
 like your footsteps (as they pound \
 down the hallway toward my bedroom) \
-his wings looked nothing like your \
+his [wings][] looked nothing like your \
 legs (running on the wrong side \
 of the road away from my house) \
 I think the one resemblance was the eyes
@@ -35,4 +35,8 @@ I think the one resemblance was the eyes
 But that's too easy \
 It's just that I was thinking \
 of you and a raven flew by \
-(maybe it was a crow)
+(maybe it was a [crow][])
+
+[raven]: feedingtheraven.html
+[crow]: stump.html
+[wings]: nothing-is-ever-over.html

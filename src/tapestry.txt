@@ -28,8 +28,8 @@ Praise or adoration to what? he asked himself.
 He thought maybe furniture.
 There was still a lot of notfurniture in what he was again calling his Writing Shack.
 
-The dictionary also had this to say about "hymn": that it was possibly related to the old Greek word for "weave."
-"Weave what" Paul wondered to himself.
+The dictionary also had this to say about "hymn": that it was possibly related to the old Greek word for "[weave][]."
+"[Weave what][]" Paul wondered to himself.
 He wrote this down on a new notecard.
 _Apparently "hymn" means weave somehow.
 Or it used to.
@@ -42,11 +42,16 @@ I forget why._
 _Maybe she wove the tapestry for Odysseus.
 Maybe she wove it for herself.
 What did she weave it of?
-Memory, maybe?
-Or dream?
+[Memory][], maybe?
+[Or dream][]?
 I think these words make a kind of tapestry, or at least the thread it will be made of.
 I will weave a hymn to the gods of Literature, out of fiction.
 My furniture was a try at weaving, but I am shit at furniture.
 So writing it is again._
 
 He wrote _**NOTES FOR A HYMN**_ at the top of this notecard.
+
+[weave]: likingthings.html
+[Weave what]: roughgloves.html
+[Memory]: ouroboros_memory.html
+[Or dream]: in-bed.html

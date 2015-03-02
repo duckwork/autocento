@@ -22,7 +22,7 @@ Inside the building, the constant sound of recirculating dry air made Larry feel
 The buzz of the fluorescent bulbs overhead sounded like the hot sun bearing down all day in this metaphor, a favorite of Larry's.
 
 His cubicle was made of that cheap, grayish-blue plywood that cubicles are made of; inside it, his computer sat on his desk as Larry liked to think an [eagle perched][] on a mountainous crag much like the crag that was his desktop wallpaper.
-The walls were unadorned except for a few tacked-up papers in report covers explaining his script.
+The walls were unadorned except for a few tacked-up papers in [report][] covers explaining his script.
 When Larry made a call to a potential customer it always went the same way:
 
 "Hi, Mr/Mrs (customer's name).
@@ -60,3 +60,4 @@ Quietly, with the same patience but with a [bigger pain][], Jane said, "My husba
 [ocean]: theoceanoverflowswithcamels.html
 [eagle perched]: mountain.html
 [bigger pain]: arspoetica.html
+[report]: reports.html

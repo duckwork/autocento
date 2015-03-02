@@ -18,48 +18,58 @@ project:
       link: ouroboros_memory
 ...
 
-God is love, they say, but there is \
-no god. Therefore, how can there be love? \
-And if there is no love, how can there be God? \
+[God is love][], they say, but there [is][] \
+no god.  Therefore, how can there be love?  \
+And if there is no love, how can there be God?  \
 There are things in life, I suppose, \
 that are simply unanswerable mysteries \
-of existence. Maybe this God and love are one.
+of existence.  Maybe this God and love are one.
 
-Maybe there are many loves, instead of one. \
-The difference between what isn't and what is \
-could merely be one of scope. The mystery \
-is how we speak only of one love -- \
+Maybe there are many loves, instead of one.  \
+The difference between [what isn't][] and what is \
+could merely be one of scope.  The mystery \
+is how we speak only of one love--- \
 to act as though we know we are supposed \
 to love only one other, or that one other and God.
 
-But supposing that one other is God? \
-What then? Is the God-lover to walk alone, \
+But supposing that one other is God?  \
+What then?  Is the God-lover to walk alone, \
 supported by God only when He feels He is supposed \
-to support her? What kind of love is \
-this? I would argue in fact this isn't love, \
-this one-set-of-footprints-in-the-sand mystery.
+to support her?  What kind of love is \
+this?  I would argue in fact this isn't love, \
+this [one-set-of-footprints-in-the-sand][] mystery.
 
-How to define two loves as one is the mystery. \
+How to define two loves as one is the mystery.  \
 It's obvious to many there is a thing called God, \
-and just as obvious that there is one called love. \
+and just as obvious that there is one called love.  \
 Maybe we fool ourselves, we who can't be alone; \
-maybe we don't know what either God or love is. \
+maybe we don't know what either God or love is.  \
 Maybe, and perhaps; but I for one propose
 
 that we as only humans are not supposed \
-to know or understand capital-L Life, that mystery. \
+to know or understand capital-L Life, that mystery.  \
 Isn't it enough to know that God is  \
 love, and love is God,  \
 no matter which one \
-does or does not exist? What is life, if no love,
+does or does not exist?  What is life, if no love,
 
-if no God? Maybe this saying, "God is love," \
+if no God?  [Maybe][Maybe1] this saying, "God is love," \
 is less a definition of God what what love is supposed \
-to be. Of these two terms, maybe the one \
+to be.  Of these two terms, [maybe2][] the one \
 we should capitalize is Love, that great mystery \
-of chemistry and longing. Maybe "Love is god" \
-is a more fitting epigraph for what life is
+of chemistry and longing.  Maybe "Love is god" \
+is a more fitting [epigraph][] for what life is
 
-made of: Love, that most delicate, most misty \
+[made of:][made of] Love, that most delicate, most misty \
+
 of all emotions, is supposed to be their god, \
 as the one that binds us, that was, that will be, that is.
+
+[is]: i-wanted-to-tell-you-something.html
+[God is love]: https://www.biblegateway.com/passage/?search=1+John+4%3A8&version=NIV
+[what isn't]: largest-asteroid.html
+[one-set-of-footprints-in-the-sand]: http://www.footprints-inthe-sand.com/index.php?page=Poem/Poem.php
+[Maybe1]: cereal.html
+[maybe2]: death-zone.html
+[epigraph]: epigraph.html
+[made of]: tapestry.html

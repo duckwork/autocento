@@ -50,13 +50,16 @@ project:
 > writer reading his own words after
 > he has written them becomes a
 > reader and feels who he was at
-> that time, like a ghost.
+> that time, [like a ghost][].
 
 > PROBLEMS:
 
 >     Maybe the substrate isn't
 > paper it's what the writing is
-> about.  Where is the hologram?  Are
+> about.  [Where is the hologram][]?  Are
 > physics and literature comparable?
 > What if the universe isn't a
 > hologram what then?
+
+[like a ghost]: howtoread.html
+[Where is the hologram]: toilet.html

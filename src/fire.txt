@@ -23,7 +23,7 @@ His mother ran out of the house in her nightgown.
 "But Mom---"
 "Do it" she said in the tone of voice that meant Do it now.
 He went around the side of the house screwed the nozzle on grabbed the end of the hose pulled it around the house and waited for water to come out the end.
-When it did it was not in a very strong stream.
+[When it did it was not in a very strong stream.][]
 "I don't think this is going to work" Paul said to his mother.
 "God damn it I have to call the Fire Department" she said and went inside the house.
 The shed continued in its burning.
@@ -37,6 +37,10 @@ Humans create ART because we can't help but see patterns in randomness.
 But we feel guilty about it."
 The man nodded to another man in a blue uniform.
 "We want the ART to feel natural, to feel random, but we can't stop seeing the patterns" as the man in blue walked over and put a hand on Paul's shoulder "ART is unnatural by its very nature.
-I took my ART and gave it back to nature" as the man led him over to a black and white car and put him inside.
+I took my ART and gave it back to nature" as the man led him over to a [black and white][] car and put him inside.
 He was saying something about Paul's right.
-"No it's my left that was hurt" said Paul "but it's all better now."
+"No it's my [left that was hurt][]" said Paul "but it's all better now."
+
+[When it did it was not in a very strong stream.]: hard-game.html
+[black and white]: sense-of-it.html
+[left that was hurt]: x-ray.html

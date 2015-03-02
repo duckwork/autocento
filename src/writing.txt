@@ -19,9 +19,9 @@ project:
 ...
 
 He sat down at his writing desk and removed his new pen from its plastic wrapping.
-He remembered how to fill it from _The View from Saturday_, which he'd read as a kid.
+He remembered how to fill it from _[The View from Saturday][]_, which he'd read as a kid.
 It had been one of his favorite books.
-He remembered the heart puzzle they completed, the origin of the word "posh," and most of all his fourth-grade teacher [Ms. (Mrs? He could never remember)][ms] Samovar.
+He remembered the [heart][] puzzle they completed, the origin of the word "posh," and most of all his fourth-grade teacher [Ms. (Mrs? He could never remember)][ms] Samovar.
 He smiled as he opened the lid on the ink well he'd just bought.
 
 He dipped his pen in the inkwell, screwed the converter piston up, and watched as nothing entered the chamber.
@@ -30,6 +30,9 @@ He watched as again nothing filled the capsule.
 He screwed it down a third time.
 His thumb knocked the inkwell over somehow by accident.
 
-As he swore, stood up and away from the table, and went into the house proper for paper towels, he resolved to buy a typewriter.
+As he [swore][], stood up and away from the table, and went into the house proper for paper towels, he resolved to buy a typewriter.
 
 [ms]: telemarketer.html
+[The View from Saturday]: http://www.elkonigsburg.com/
+[swore]: swear.html
+[heart]: swansong-alt.html

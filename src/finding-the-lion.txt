@@ -8,16 +8,16 @@ project:
 ...
 
 Tonight, as I look up, the stars \
-hide themselves in shame.  There is no moon.  \
+hide themselves in shame.  [There is no moon][].  \
 The sky is black, like my desk,
 
-nothing like a raven.  The streetlights \
+[nothing like a raven][].  The streetlights \
 look on the scene disinterested.  \
-They have their own small gossips of the dark.
+They have their own [small gossips of the dark][].
 
 I came here to find the Lion, old \
 friend, but he will not show his flanks, his \
-paws, his shoulders, his mane.  I
+paws, his shoulders, [his mane][].  I
 
 can hear him laughing from his hiding-place \
 behind the moon, nonexistent, under \
@@ -29,4 +29,11 @@ laughing; the streetlamps talk about
 
 me amongst themselves, and go out.  There \
 never was any lion, they tell me.  \
-You only hear the wind on the mountain.
+[You only hear the wind][] [on the mountain][].
+
+[There is no moon]: moongone.html
+[nothing like a raven]: feedingtheraven.html
+[small gossips of the dark]: the-night-we-met.html
+[his mane]: axe.html
+[You only hear the wind]: cold-wind.html
+[on the mountain]: mountain.html

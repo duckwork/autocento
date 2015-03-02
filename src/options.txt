@@ -22,7 +22,7 @@ What did he do when he was in the woods?
 Where did he go?
 Was there always one spot, one clearing deep within the heart of them, that he would visit?
 Did he talk to the trees or only to himself?
-When he chopped down trees, did he leave them there to rot in the quiet or did he drag them out of the woods, behind his Shack, and dismember them?
+When he chopped down trees, did he leave them there to rot in the quiet or did he drag them out of the woods, behind his Shack, and [dismember them][]?
 Did he use any for firewood, or did the pieces rot behind his Shack, forgotten?
 When was the last time he built any furniture?
 Did he get any better at building it or did he just quit at some point, let the desire to create fall behind him like a forgotten felled tree?
@@ -33,7 +33,7 @@ If anyone did, was his life changed?
 For the better or the worse?
 Did he glance at the mess in the top drawer of his Writing Desk as he cleaned the Shack out long after Paul had quit using it?
 Did he put tools in there or leave it empty?
-What did he do with the desk?
+[What did he do with the desk?][]
 Did he add it to the pile of rotting wood out back, or did he chop it up for a bonfire with friends, or a cozy fire with his wife and children, or did he take it to the dump three miles away to rot there?
 Are these all the options?
 
@@ -41,3 +41,6 @@ Did Paul ever think about any of this?
 Walking in the woods one afternoon after becoming frustrated with his writing, did he sit on a stump and cry?
 Did he wonder whether he should have made other choices?
 Did he consider quitting smoking?
+
+[dismember them]: weplayedthosegamestoo.html
+[What did he do with the desk?]: finding-the-lion.html

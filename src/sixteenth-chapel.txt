@@ -28,47 +28,58 @@ project:
 ...
 
 If Justin Bieber isn't going for the sixteenth \
-chapel, I'm not either. I admit he is my role \
-model. He's so current, so fresh and so new, \
-and Michelangelo is so old, his art so dated. \
-Where is the love in those old paintings? All \
-I see is creation, judgment, and death---
+chapel, I'm not either.  I admit he is my role \
+model.  He's so current, so fresh and so new, \
+and Michelangelo is so old, his art so dated.  \
+Where is the love in those old paintings?  All \
+I see is [creation][], [judgment][], and [death][]---
 
-and I don't get the preoccupation with death. \
-I'm about life! Ever since my sixteenth \
+and I don't get the preoccupation with death.  \
+I'm about life!  Ever since my sixteenth \
 birthday, when me and my two sisters all \
 nearly died when the car I was driving rolled \
-into a creek. Even though I've forgotten the date, \
+into a creek.  Even though I've [forgotten the date][], \
 I think it keeps me thinking on the new,
 
-something Biebs would be proud of if he knew. \
-I look at him, and see the opposite of death \
+something Biebs would be proud of if he knew.  \
+I look at him, and see the [opposite of death][] \
 in his eyes, his youthful smile: though someday \
-he may be a father, and later host a Sweet Sixteen \
+he may [be a father][], and later host a Sweet Sixteen \
 for his daughter (who I know he'll buy a Rolls), \
-death will never find him. Living will be all
+death will never find him.  Living will be all
 
 he'll ever do, because it will be all \
-he'll ever need to do. He is the eternal new, \
-the forever youth: this is the simple role \
-of every celebrity, to let us forget death. \
+he'll ever need to do.  He is the eternal new, \
+the [forever youth:][] this is the simple [role][] \
+of every celebrity, to let us forget death.  \
 Bieber didn't make a mistake on the Sistine \
-Chapel's name. He merely showed that someday
+Chapel's name.  He merely showed that someday
 
 all old names must go, that on some day \
 a name must die so that the thing, which is all \
 that matters, can stay as it was in the sixteenth \
-century: fresh, ostentatious, and brand new. \
-In a way, the name becomes a Christ, experiencing death \
-so the world doesn't have to. But I am wary of this role
+century: fresh, ostentatious, and brand new.  \
+In a way, [the name becomes a Christ][], experiencing death \
+so the world doesn't have to.  But I am wary of this role
 
-for a name. It seems a name gives meaning, rolls \
+for a name.  It seems a name gives meaning, rolls \
 the general idea together with the concrete, daily \
-toil of the mundane. Are not life and death \
-intertwined? Is not everything tied up all \
-with everything? I guess I'm saying the new \
+toil of the mundane.  Are not life and death \
+intertwined?  Is not everything tied up all \
+with everything?  I guess I'm saying the new \
 necessarily comes from the old, as every sixteen-
 
-year-old has a parent. Life rolls to death, and all \
-is tied together. Each day is born of night, and dies so new \
-morning can occur. Even the sixteenth chapel holds death.
+year-old has a parent.  [Life rolls to death][], and all \
+is tied together.  Each day is born of night, and dies so new \
+morning can occur.  Even the sixteenth chapel holds death.
+
+[role]: words-meaning.html
+[death]: deathstrumpet.html
+[opposite of death]: death-zone.html
+[creation]: creation-myth.html
+[judgment]: movingsideways.html
+[forgotten the date]: riptide_memory.html
+[be a father]: i-am.html
+[forever youth:]: about-the-author.html
+[the name becomes a Christ]: nothing-is-ever-over.html
+[Life rolls to death]: ouroboros_memory.html

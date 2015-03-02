@@ -17,7 +17,7 @@ project:
 ...
 
 He would enter data at work for fifty minutes and then go on break.
-He would walk down the hallway to the breakroom, which had a white refrigerator, a black microwave on a brown plyboard cart stocked with powdered creamer, sugar, and swizzle sticks, a dark red coffee maker, and yellow paint on the wall.
+He would walk down the hallway to the breakroom, which had a white [refrigerator][], a black microwave on a brown plyboard cart stocked with powdered creamer, sugar, and swizzle sticks, a dark red coffee maker, and yellow paint on the wall.
 He'd remember that somewhere he'd read an article about yellow walls being calming.
 "They use yellow in asylums" he'd say to himself.
 
@@ -37,3 +37,5 @@ Once he asked her why she checked.
 "Once it was stolen out of the fridge and returned empty before I had a chance to eat my lunch" she said.
 "So you make sure it won't happen again."
 "No I'm waiting for the day that it does."
+
+[refrigerator]: feedingtheraven.html

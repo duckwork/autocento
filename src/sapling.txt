@@ -29,10 +29,10 @@ He sighed and put his hands in his pockets.
 
 "I wonder if trees are protective of their young" he said to himself, then wondered if why he had to think his thoughts out loud, then remembered he always did this, then remembered his conversation with Jill.
 He hoped she didn't.
-He hoped that conversation was like the tree that fell in the forest with no one around.
+He hoped that conversation was like [the tree that fell in the forest][] with no one around.
 "I wonder if a thought said out loud isn't heard by anyone, if it was made.
 I think maybe this is what Literature (big L) is all about, if it's trying to make a connection because no idea matters unless it's connected to something else, or to someone else.
-Maybe no wood matters unless it's bound to another by upholstery nails.
+Maybe no wood matters unless it's [bound to another][] by upholstery nails.
 If 'the devil is in the details,' as they say (who are 'they' anyway?), the details are the connections?
 That doesn't make sense.
 Details are details.
@@ -41,3 +41,6 @@ Connections are connections.
 "Still, a neuron by itself means nothing.
 Put them all together though and connect them.
 You've got a brain."
+
+[the tree that fell in the forest]: options.html
+[bound to another]: last-passenger.html

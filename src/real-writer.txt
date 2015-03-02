@@ -8,30 +8,41 @@ project:
 ...
 
 Sometimes I feel as though I am not a real writer.  \
-I don't smoke.  I don't wake up early but I don't sleep \
+[I don't smoke][].  I don't wake up early but I don't sleep \
 all day either.  I find myself increasingly interested \
 in dumb luck.  Chance: I've found two dimes in as many \
 days.  Does this mean I've found twenty lucky pennies?  \
 I want you to participate.  You the reader.  You, \
 the probabilistic god of my dreams.  I've been having \
-strange dreams lately.  I don't remember them but \
+[strange dreams][] lately.  I don't remember them but \
 they leave impressions.  A bare foot.  A tunnel \
 of hair from her face to mine.  A boat stranded \
 in a living-room.  Something warm.  Something like the sun \
-through my eyelids.  A hand, with all its dead symbology.  \
-My teeth have fallen out.  No, you pulled them out \
+through my eyelids.  [A hand, with all its dead symbology][].  \
+[My teeth have fallen out][].  No, you pulled them out \
 with your hands, threw them over your left shoulder \
-like salt, to wish away bad luck.  I have something \
+[like salt][], to wish away bad luck.  I have something \
 to tell you: bad luck follows like a dog.  It lets you \
 get ahead for a few days, a week, a year.  You'll see, \
 it'll bite your sleeping face when you're not looking.  \
 I've been dreaming about the future, I know.  In my dream \
-I am not a writer, I live in a place with rain.  You \
+I am not a writer, [I live in a place with rain][].  You \
 are sunning yourself as you read this, on a beach or \
 maybe a desert.  Let me move in with you.  I can cook \
-or clean or take care of your dog while you're out.  \
-I'll never have to write again.  I'll watch television.  \
+[or clean][] or take care of your dog while you're out.  \
+I'll never have to write again.  [I'll watch television][].  \
 Do I want to become a writer?  Tell me.  Should I smoke?  \
 I can sleep all day in your attic if you want, become \
-your god, lose my own, settle to the bottom of the bed \
-like a boat in a river, dream about nothing but furniture.
+[your god][], lose my own, settle to the bottom of the bed \
+like a boat in a river, dream about nothing but [furniture][].
+
+[I don't smoke]: cereal.html
+[strange dreams]: in-bed.html
+[A hand, with all its dead symbology]: roughgloves.html
+[My teeth have fallen out]: no-nothing.html
+[like salt]: i-am.html
+[I live in a place with rain]: riptide_memory.html
+[or clean]: when-im-sorry-i.html
+[I'll watch television]: about-the-author.html
+[your god]: love-as-god.html
+[furniture]: leaf.html

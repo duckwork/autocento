@@ -5,10 +5,12 @@ genre: verse
 project:
     title: Autocento of the breakfast table
     css: autocento
+
+TODO: revise based on reading notes
 ...
 
-Memory works strangely, spooling its thread \
-over the nails of events barely related, \
+Memory works strangely, [spooling its thread][] \
+over the [nails of events][] barely related, \
 creating finally some picture, if we're \
 lucky, of a life---but more likely, it knots \
 itself, catches on a nail or in our throats \
@@ -17,16 +19,21 @@ that gasp, as it binds our necks, for air.
 An example: today marks one hundred years \
 since your namesake, the last living passenger \
 pigeon, died in Cincinnati.  It also marks \
-one year since we last spoke.  Although around \
+a year since we last spoke.  Although around \
 the world, zoos mourn her loss, I'm done \
 with you.  I mourn no more your voice, the first \
 sound I heard outside my body that reached \
-into my throat and set me ringing.  But that string---
+[into my throat and set me ringing][].  But that string---
 
 memory that feels sometimes more like a tide \
 has yoked together, bound your voice to that bird, \
 the frozen, stuffed, forgotten pigeon---my heart \
 is too easy, but it must do---to blink, to flex \
 its unused toes, slowly thaw to the wetness \
-of beating wings, fly to me again, and alight, \
+of [beating wings][], fly to me again, and alight, \
 singing full-throated, on my broken shoulder.
+
+[spooling its thread]: roughgloves.html
+[nails of events]: when-im-sorry.html
+[into my throat and set me ringing]: weplayedthosegamestoo.html
+[beating wings]: cold-wind.html

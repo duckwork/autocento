@@ -19,17 +19,17 @@ project:
 ...
 
 It had gotten cold.
-He went to lay down in bed with a pad and paper.
+He went to lay down [in bed][] with a pad and paper.
 He began to write.
 Although he hadn't tried it much in bed before, he liked it mostly.
 His arm got tired journeying across the page like a series of switchbacks down the wall of the Grand Canyon.
 He wrote this down in the margin, for later:
 
-_Arm journeying across_ \
-_the pg. like a_ \
-_series of switch-_ \
-_backs down the wall_ \
-_of the Grand Canyon_
+_Arm journeying across \
+the pg. like a \
+series of switch- \
+backs down the wall \
+of the Grand Canyon_
 
 His arm began to pain him.
 He adjusted his position in the bed.
@@ -38,9 +38,12 @@ It still hurt as he wrote.
 He began to be distracted by his mother's music playing in the next room.
 
 "Could you turn that down please" he hollered across the wall to his mother.
-She made no reply (music too loud).
+She made no reply ([music too loud][]).
 He gave his arm a break to look at what he'd written.
 He couldn't make heads or tails of it.
 It looked like Arabic.
 
 He woke up gasping in a sweat.
+
+[in bed]: in-bed.html
+[music too loud]: music-433.html

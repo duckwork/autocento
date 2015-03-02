@@ -18,7 +18,7 @@ project:
       link: exasperated
 ...
 
-When he said Bible I heard his southern accent \
+When he said [Bible][] I heard his southern accent \
 and he had a face I expect all pastors must have \
 a round open honest face \
 that will always be a boy's face \
@@ -28,15 +28,20 @@ near my age though I hardly call myself a man
 I have seen this face before whether in life or a dream \
 I can't tell \
 I might've seen him on the street once \
-twice who knows and his pastor's moon face \
+twice who knows and his pastor's [moon face][] \
 reminds me of something \
 some distant light my life used to own
 
-One night on my birthday the moon was so strong it cast shadows \
+[One night on my birthday the moon was so strong it cast shadows][] \
 I could see to the far hill and back it was all clear to me
 
 The moon hasn't done that in a long time \
-its face has been obscured by clouds for weeks \
+[its face has been obscured by clouds][] for weeks \
 and that boy on the bus his face I've forgotten \
 I thought I recognized a good number of people \
 on that bus who I didn't know at all
+
+[its face has been obscured by clouds]: moongone.html
+[One night on my birthday the moon was so strong it cast shadows]: in-bed.html
+[moon face]: moon-drowning.html
+[Bible]: mountain.html

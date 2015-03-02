@@ -25,7 +25,7 @@ project:
 
 # I. Walter
 
-Walter rides the bus into work on Wednesday morning when he realizes, with the force and surprise of a rogue current, that he is in the home-for-death phase of life.
+Walter [rides the bus][] into work on Wednesday morning when he realizes, with the force and surprise of a rogue current, that he is in the home-for-death phase of life.
 That era in which the next time he goes under, to the fields of seaweed waving gently, the anemones slowly filtering seawater, it will most likely be for a death in the family.
 
 He is able to idly speculate on who it might be, and this surprises him.
@@ -60,3 +60,5 @@ itself a kind of unknown \
 the homecoming after
 
 What happened to the home I was?
+
+[rides the bus]: sense-of-it.html

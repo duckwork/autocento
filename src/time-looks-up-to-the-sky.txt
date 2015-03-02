@@ -11,7 +11,7 @@ I wish I'd kissed you when I had the chance.  \
 Your face hovering there, so near to mine, \
 your mouth pursed---what word was it you pronounced?
 
-When I think about you, something in my pants \
+When I think about you, [something in my pants][] \
 tightens, and my thoughts run, and I realize \
 I should've kissed you when I had the chance.
 
@@ -23,7 +23,7 @@ her hips in ways that are not feminist.  \
 But time strolls mildly on, not glancing at my \
 wish to kiss you when I had the chance,
 
-whispered like a beggar to a prince \
+whispered like a [beggar to a prince][] \
 outside his palace: time looks up to the sky, \
 purses his lips, and hears what I pronounce
 
@@ -31,3 +31,6 @@ but pays it little mind.  If he would just \
 turn back, bend down, and follow my design, \
 I would have kissed you when I had the chance, \
 as your mouth pursed and you pronounced goodbye.
+
+[something in my pants]: howithappened.html
+[beggar to a prince]: about-the-author.html

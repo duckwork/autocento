@@ -18,13 +18,13 @@ project:
       link: shed
 ...
 
-_I don't care if they burn_ he wrote on his last blank notecard.
+_[I don't care if they burn][]_ he wrote on his last blank notecard.
 He'd have to go to the Office Supply Store tomorrow after work.
 
 He looked at what he'd written.
-He'd been thinking about this for a while, felt the frustration build slowly like a thundercloud in the back of his mind.
+He'd been thinking about this for a while, felt the frustration build slowly like a [thundercloud][] in the back of his mind.
 He thought he should write something else on the card, but everything he thought of seemed too confessional or too real compromising.
-He didn't want anyone, not even the notecards, to know what he was thinking.
+[He didn't want anyone, not even the notecards, to know what he was thinking.][thinking]
 He decided to try for more of an interview with the paper.
 
 _Why?_  asked the notecard.
@@ -37,11 +37,18 @@ He could see bits and pieces of thoughts like leaves crunched underfoot in autum
 _It will take so much organization_ he wrote.
 
 _Why is organization important?
-Remember the trees, how they formed rows without trying.
+Remember the trees, [how they formed rows][] without trying.
 No matter how the ideas fall, they make something.
-The snow does that too_ he wrote.
+[The snow][] [does that too][]_ he wrote.
 _It doesn't try to make anything but it does._
 
 _No the snow is different_ the notecard was annoyed.
 _The snow is a blank canvas that humans build into shapes or doppelgangers.
 It makes nothing on its own._
+
+[I don't care if they burn]: fire.html
+[thundercloud]: serengeti.html
+[thinking]: lappel-du-vide.html
+[how they formed rows]: axe.html
+[The snow]: 100-lines.html
+[does that too]: weplayedthosegamestoo.html

@@ -19,17 +19,17 @@ project:
 ...
 
 His first chair was a stool.
-It was an uneven wobbly stool that would not support even forty pounds.
+It was an [uneven wobbly stool][] that would not support even forty pounds.
 "So my first chair is a broken stool" he said after nearly breaking his tailbone on the dirt floor.
 "Maybe I should start again but this time only with legs."
 He began again but this time only with legs.
-He built one leg, which means he cut a straight piece of wood down to four feet in length, whittled the bark off, and sanded it down smooth in what he was now calling his Woodworking Shack.
+He built [one leg][], which means he cut a straight piece of wood down to four feet in length, whittled the bark off, and sanded it down smooth in what he was now calling his Woodworking Shack.
 He typed up a note on how to make chair legs.
 
 > MAKING CHAIR LEGS
 
 > 1. get longish piece of wood
-> 2. cut it to length (4 feet I'd
+> 2. cut it to length ([4 feet][] I'd
 >    recommend)
 > 3. whittle off bark
 > 4. sand smooth the leg
@@ -39,3 +39,7 @@ After he tried remembered tried standing the leg up, failing, and after much tho
 > 5. make ends flat
 
 He had no tools with which to flatten the ends of his leg.
+
+[uneven wobbly stool]: stump.html
+[one leg]: i-think-its-you.html
+[4 feet]: boar.html

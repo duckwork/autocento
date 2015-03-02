@@ -24,7 +24,7 @@ school, wondering what their next \
 move would be.  The Coke machine
 
 had always wanted to live \
-the life of a hobo, jumping trains, \
+the life of a [hobo][], jumping trains, \
 eating from garbage, making fire
 
 in old oil drums.  It had some \
@@ -35,14 +35,18 @@ Its opinion was to head to court, \
 sue the bastards at the school for early \
 termination of contract.  It was
 
-the embodiment of justifiable anger. \
+the embodiment of [justifiable anger][]. \
 It believed privately that it was an incarnation \
 of Nemesis, the goddess of divine
 
 retribution.  What the snack machine \
 thought, it kept to itself, but it did say \
-that nothing ever ends.  The others
+that [nothing ever ends][].  The others
 
 were confused, then angry, but finally \
 understood, or thought they did.  The snack \
 machine's candy melted in the sun.
+
+[hobo]: prelude.html
+[justifiable anger]: table_contents.html
+[nothing ever ends]: no-nothing.html

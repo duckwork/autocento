@@ -9,16 +9,22 @@ project:
     css: autocento
 ...
 
-Man of autumn, cold wind, \
+[Man of autumn][], cold wind, \
 blow down the trees' leaves.  \
-Fire on the ground.  The sky \
+[Fire on the ground][].  The sky \
 perfect water, frost-cold, \
 rippled only by flocks \
-of black birds flying, gone.  \
+[of black birds][] flying, gone.  \
 Their brightness can blind \
 an uncareful watcher, work him \
-in a froth of hands, not-wings \
+[in a froth of hands][], not-wings \
 that ache with the loss of flight.  \
 A tear is flung faithfully \
-to the ocean of air, slipping in \
+[to the ocean of air][], slipping in \
 slowly, is as gone as the birds.
+
+[Man of autumn]: january.html
+[Fire on the ground]: fire.html
+[of black birds]: i-think-its-you.html
+[in a froth of hands]: when-im-sorry-i.html
+[to the ocean of air]: lappel-du-vide.html

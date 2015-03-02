@@ -9,14 +9,14 @@ project:
 
 Waiting for a reading to start \
 when there's nobody coming anyway \
-is like waiting for the tide \
+is like waiting [for the tide][] \
 to make some meaning of the beach.
 
 The sea doesn't know or care \
 what the beach even is, let alone \
 its cares or its troubles, its \
 little nagging under-the-skin annoyances \
-that make the beach the beach.
+[that make the beach the beach][].
 
 Sandworms, for example, or those crabs \
 with big pincers on one side \
@@ -24,12 +24,18 @@ but not the other.  Those really get \
 the beach's gander up, but the sea \
 doesn't care.  The sea
 
-only wants to caress the beach \
-with its soft arms, to tell the beach \
+only wants to [caress][] the beach \
+with its [soft arms][], to tell the beach \
 how much it's loved by the sea, \
 that complex of water, salt, and \
 the moon's gravity, the mercury \
-rising up and down slowly, like a yawn.
+rising up and down slowly, like a [yawn][].
 
 The sea only cares about itself.  \
 The beach lays there and takes it.
+
+[for the tide]: cold-wind.html
+[that make the beach the beach]: real-writer.html
+[caress]: plant.html
+[soft arms]: something-simple.html
+[yawn]: serengeti.html

@@ -26,8 +26,8 @@ Silence lies underneath us all in the same way \
 the Nile has a river underneath ten times as large \
 (although this is an urban legend, apparently).
 
-So underneath truth or legend, flowing by \
-the feel of their own silence, move the stars: \
+So underneath [truth][] or legend, flowing by \
+the feel of their own [silence][], move the stars: \
 silence lies underneath us all in the same way.
 
 [John Cage][433], I think, understood this: the way \
@@ -39,12 +39,16 @@ believable: there simply is no way that, by and large, \
 silence lies underneath us all in the same way.
 
 There must be different silences, because we \
-have different songs to drown them out, different gods \
+have different [songs][] to drown them out, different gods \
 (although these are urban legends, apparently).
 
-But is not all sound one sound? You and I \
-are two faces to the same head, the same body. \
+But is not all [sound one sound][]?  You and I \
+are two faces to the same head, the same body.  \
 Silence lies underneath us all in the same way--- \
 although this is an urban legend, apparently.
 
 [433]: https://www.youtube.com/watch?feature=player_detailpage&v=zY7UK-6aaNA#t=39
+[truth]: phone.html
+[silence]: nothing-is-ever-over.html
+[songs]: swansong.html
+[sound one sound]: swansong-alt.html

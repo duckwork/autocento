@@ -33,4 +33,6 @@ space ships to that asteroid, the \
 largest in the asteroid belt, that \
 jewel of dead rock and ice, harboring \
 something that could've been life \
-and nothing that actually is.
+[and nothing that actually is][].
+
+[and nothing that actually is]: http://www.writing.upenn.edu/~afilreis/88/stevens-snowman.html

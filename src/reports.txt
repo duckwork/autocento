@@ -34,8 +34,10 @@ He had spent the weekend
 
 so understandably he was upset.
 He told Jill all the work he'd gone to to type those notecard reports for her, for the company.
-She shook her head.
+[She shook her head.][]
 "Paul, you don't have to do all that work at home.
 Just type it up on the computers here, that's all you need to do.
 Thanks for the work though."
 He nodded as she threw the notecards into the trashcan and left his cubicle.
+
+[She shook her head.]: seasonal-affective-disorder.html

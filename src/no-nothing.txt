@@ -7,49 +7,49 @@ project:
     css: autocento
 ...
 
-| While swimming in the river
+| While [swimming in the river][]
 | I saw underneath it a river
-| of stars. Only there was no
-| river: it was noon. You can
-| say the sun is a river; you
+| of stars.  Only there was no
+| river: it was noon.  You can
+| say [the sun is a river][]; you
 | can argue the stars back it
-| like shirts behind a closet
-| door; you can say the earth
+| like [shirts behind a closet][]
+| door; you can say [the earth][]
 | holds us up with its weight
 | or that it means well or it
 | means anything.
 |                 There is no
-| closet, nor door; there are
+| closet, [nor door][]; there are
 | no shirts hanging anywhere.
 | There is no false wall that
 | leads deep into the earth's
-| bowels, growing warmer with
-| each step. Warmth as a con-
+| bowels, [growing warmer][] with
+| each step.  Warmth as a con-
 | cept has ceased to make any
-| sense. In contraposition to
+| sense.  In contraposition to
 | cold, it might, but cold as
-| well stepped out last night
+| well [stepped out][] last night
 | and hasn't returned.
 |                      Last I
 | heard, it went out swimming
-| and might've drowned. Trees
+| and [might've drowned][].  Trees
 | were the pallbearers at the
 | funeral, the train was long
 | and wailful, there was much
-| wailing and gnashing of all
+| [wailing and gnashing][] of all
 | teeth--though there were no
 | teeth, no train, no funeral
 | or prayer or trees at all--
-| nor a river underneath any-
-| thing. There was nothing to
+| nor a [river underneath][] any-
+| thing.  There was nothing to
 | be underneath anymore.
 |                        Look
 | around, and tell me you see
-| something. Look around, and
+| something.  Look around, and
 | tell me something that I do
-| not know. I know, more than
+| not know.  I know, more than
 | anything, that the world is
-| always ending. Behind that,
+| always ending.  Behind that,
 | there is nothing, save that
 | there is no nothing either.
 |
@@ -58,3 +58,14 @@ project:
 | time and beyond it, a river
 | returning, to its forgotten
 | origins deep within itself.
+
+[swimming in the river]: father.html
+[the sun is a river]: music-433.html
+[shirts behind a closet]: lovessong.html
+[the earth]: big-dipper.html
+[nor door]: amber-alert.html
+[growing warmer]: real-writer.html
+[stepped out]: i-think-its-you.html
+[might've drowned]: in-bed.html
+[wailing and gnashing]: http://biblehub.com/luke/13-28.htm
+[river underneath]: howtoread.html

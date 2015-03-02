@@ -8,22 +8,28 @@ project:
 ...
 
 On your desk I set a tangerine:  \
-a relic of a winter quickly passing.
+a relic of a [winter][] quickly passing.
 
 I'm reminded, fiercely, of a summer:  \
-I watched the cemetery grass on my stomach.
+I watched the [cemetery grass][] on my stomach.
 
-You hate the wind blowing through buildings:  \
+You hate the wind [blowing through buildings][]:  \
 the coldness of fire, blister of a mountain stream.
 
 When you broke down that night: your aunt / you  \
-never have been / you shook that night /
+never have been / [you shook that night][] /
 
 Seasonal affective disorder is real: you  \
-mutter under your breath on the highway.
+[mutter under your breath on the highway][].
 
 The ant carries an orange peel past a headstone:  \
 it carries her nearly as often.
 
 I set a tangerine on your desk:  \
 an engagement ring, winter-returned.
+
+[winter]: january.html
+[cemetery grass]: death-zone.html
+[blowing through buildings]: building.html
+[you shook that night]: the-night-we-met.html
+[mutter under your breath on the highway]: last-bastion.html

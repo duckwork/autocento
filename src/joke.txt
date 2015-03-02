@@ -22,7 +22,7 @@ He wrote _**JOKES**_ on the top of a page in his notebook.
 He had run out of notecards and hadn't been able to convince his mother to go to the Office Supply Store for him.
 He left a space underneath it and wrote.
 
-_"Tell us a joke" the listeners say to the clown.
+_"[Tell us a joke][]" the listeners say to the clown.
 They have gather together in the clearing because they have heard he would be there, and they have heard he knew very funny jokes that were also true.
 "Tell us a joke that is true" they say._
 
@@ -35,8 +35,8 @@ The listeners grow impatient.
 Some begin yelling insults at the clown.
 Eventually, they begin to walk away into the woods._
 
-_The moon rises on the clearing.
-The only people left are the clown and a listener, the last listener.
+_The moon [rises][] on the clearing.
+The only people left are the clown and a listener, the [last listener][].
 She has been waiting for the joke a long time.
 The clown opens his mouth and she leans in closer to hear.
 He closes it as a tear falls onto his coat, then another.
@@ -49,4 +49,9 @@ _"I'm sorry" says the clown.
 I don't know any jokes."
 He disappears.
 The last listener sits on the log and looks at the sky.
-There are no stars._
+There are no [stars][]._
+
+[Tell us a joke]: window.html
+[rises]: the-sea_the-beach.html
+[last listener]: listen.html
+[stars]: big-dipper.html

@@ -7,4 +7,8 @@ project:
     css: autocento
 ...
 
-[Ideas are drool.][] 
+[Ideas are drool.][] They [labor to create
+our buildings out of air][buildings] 
+
+[Ideas are drool.]: spittle.html
+[buildings]: building.html

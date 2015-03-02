@@ -7,15 +7,19 @@ project:
     css: autocento
 ...
 
-It was a gamble \
+It was a [gamble][] \
 I lost---thought I could get closer \
 than the library, stayed \
 on past the admin building, \
 back down the hill to my beginning, \
 the driver's second-to-last stop. \
-I have to walk now, \
+[I have to walk now][], \
 through the wind and sun, past \
-traffic moving merrily along \
+[traffic][] moving merrily along \
 taking their own gambles \
 staying on or getting off \
 too soon.
+
+[gamble]: hard-game.html
+[I have to walk now]: lappel-du-vide.html
+[traffic]: theoceanoverflowswithcamels.html

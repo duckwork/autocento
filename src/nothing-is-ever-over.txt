@@ -7,18 +7,23 @@ project:
     css: autocento
 ...
 
-Nothing is ever over; nothing \
+[Nothing is ever over][]; nothing \
 is ever even begun.  The foundation \
 hasn't been laid; how can we hope \
 to put in the plumbing?  The bed \
 is unmade, not even made; the wood \
-hasn't been cleft from the tree; \
+[hasn't been cleft from the tree][]; \
 the seed hasn't been cast \
 out of water and growth and sun, \
 which itself hasn't started shining.  \
 The cock has never stopped crowing \
 because he never started.  Peter \
-betrays us again and again with \
+[betrays us again][] and again with \
 silence.  Christ wakes up at night, \
-choking from a bad dream, wrists \
+[choking from a bad dream][], wrists \
 aching from a dreamt, torturous pain.
+
+[choking from a bad dream]: in-bed.html
+[Nothing is ever over]: no-nothing.html
+[hasn't been cleft from the tree]: axe.html
+[betrays us again]: spittle.html

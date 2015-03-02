@@ -20,32 +20,39 @@ project:
       link: i-think-its-you
 ...
 
-Inside of my memory, the poem is another memory. \
+Inside of my memory, the poem is another memory.  \
 The air up here is thin, but the wind blows harder \
 than anywhere else I know.  It threatens to rip \
-my body away, like an angel of death, to the stars.
+my body away, like [an angel of death][], to the stars.
 
 In Arizona, I thought I would forget the rain, \
 forget its sound on a roof like a hard wind, forget \
 its smell like a far away ocean.  Luckily for me \
 it rains here.  Luckily, because I forget too easily.
 
-In a dream, my father is caught by a riptide off-shore. \
+In a dream, [my father is caught by a riptide][] off-shore.  \
 He's pulled far out, far enough that the shoreline's \
-a line in his memory on the horizon. I can see him \
+a line in his [memory][] on the horizon.  I can see him \
 swimming, hand over hand, pulling his small weight
 
-back to land.  I see him as another shipwreck victim, \
-coughing sand and seawater, beard woven with seaweed. \
+back to land.  I see him as [another shipwreck][] victim, \
+coughing sand and seawater, beard woven with seaweed.  \
 I see him laying there a long time.  I see all this \
 as he tells me the story, years later, the riptide
 
-only a ghost in his memory, I only a child falling \
+only a [ghost][] in his memory, I only a child falling \
 asleep.  My mother's making mayonnaise rolls \
 in the kitchen, a recipe I'll send for years later, \
 in Arizona, in the monsoon season, when my thirst
 
 pulls me back home, my memory's lonesome twinkle \
-like stars above the mountains.  I'll send for it \
+like [stars above the mountains][].  I'll send for it \
 and try to make them, but in the thin air they'll \
 crumble into dust like desert air, like a memory.
+
+[an angel of death]: angeltoabraham.html
+[my father is caught by a riptide]: father.html
+[memory]: ouroboros_memory.html
+[another shipwreck]: shipwright.html
+[ghost]: 100-lines.html
+[stars above the mountains]: finding-the-lion.html

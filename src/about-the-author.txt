@@ -19,39 +19,50 @@ project:
       link: riptide_memory
 ...
 
-------------------------------------------- -------------------------------------------------------
-He was born on a few separate occasions                              _green traffic ligts at night_
+----------------------------------------------- ------------------------------------------------------------
+[He was born][] on a few separate occasions                              _[green traffic lights][] at night_
 
-There was the day of his conception \                                 _a TV in front of a dumpster_
+There was the day of his conception \                                      _[a TV in front of a dumpster][]_
 a wintery affair saved for those involved
 
 The day he wriggled forth \
-from the dark tunnel of nothing \                             _surprise photo of you at Walgreen's_
-his mother's womb
+from the dark tunnel of nothing \                                      _surprise photo of you at Walgreen's_
+[his mother's womb][]
 
 The founding of his little city \
-deep inside by the smal builders \                    _a pink dress in the alley behind your house_
+deep inside by the small builders \                        _a [pink dress in the alley][] behind your house_
 alien as they were and still \
 somehow intimately familiar
 
 Like any city it had its ups \
-and downs the fever of 1994 \                 _me buying a Reese's peanut butter cup for a child_ \
-was especially devastating \                                  _[whose family couldn't afford it]_ \
-but they were a hardy folk \                                    _in front of me in line at Safeway_
+and downs the fever of 1994 \                          _me buying a Reese's peanut butter cup for a child_ \
+was especially devastating \                                           _[whose family couldn't afford it]_ \
+but they were a hardy folk \                                       _[in front of me in line at Safeway][]_
 not much given to flight
 
 As all things must pass the \
-little city began slowly to decay \                              _trees at night their skeletons_ \
-the old ones claimed the young \                                       _revealed by a camera flash_
+little city began slowly to decay \                                       _trees at night their skeletons_ \
+the [old ones claimed the young][] \                                          _revealed by a camera flash_
 had no respect for culture anymore
 
 They began to die off slowly \
-more quickly than being born \                            _two earthworms on pavement after a rain_
+more quickly than being born \                                 _[two earthworms on pavement after a rain][]_
 the end was coming closer
 
-As the last breath was made \
-the last accounts closed in the city                        _keys tacked to a sign in Buffalo Park_
+As the [last breath][] was made \
+the last accounts closed in the city                                 _keys tacked to a sign in Buffalo Park_
 
-It was given over to other builders                _man flipping a four-wheeler and walking it off_
+It was given over to other builders                     _man flipping a [four-wheeler][] and walking it off_
 
-------------------------------------------- -------------------------------------------------------
+----------------------------------------------- ------------------------------------------------------------
+
+[two earthworms on pavement after a rain]: the-sea_the-beach.html
+[He was born]: sixteenth-chapel.html
+[a TV in front of a dumpster]: options.html
+[his mother's womb]: death-zone.html
+[green traffic lights]: stayed-on-the-bus.html
+[pink dress in the alley]: in-bed.html
+[in front of me in line at Safeway]: last-bastion.html
+[old ones claimed the young]: creation-myth.html
+[last breath]: last-passenger.html
+[four-wheeler]: deadman.html

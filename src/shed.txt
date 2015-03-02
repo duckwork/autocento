@@ -24,7 +24,7 @@ project:
 "I don't know" he said.
 
 "Goddammit Paul" his mother said.
-"You're wasting your life out in that shed.
+"You're [wasting your life][] out in that shed.
 You need to go out and get---"
 "I chop down trees too" he said.
 "I make furniture out of them."
@@ -34,7 +34,10 @@ His mother's face did a Hitchcock zoom as she considered this new information.
 "It's getting there" he answered.
 "I'm getting better every day."
 "When is it going to be there" she asked.
-"When are you going to sell this furniture of yours?"
+"When are you going to sell [this furniture][] of yours?"
 "It'll be a while" he answered.
 
 "Then you'd better get a job until then" she said.
+
+[wasting your life]: http://www.poetryfoundation.org/poem/177229
+[this furniture]: real-writer.html

@@ -5,7 +5,7 @@ genre: verse
 
 epigraph:
     content: |
-        Is he older?  I asked her.
+        [Is he older](http://books.google.com/books?id=ALdlAAAAMAAJ&focus=searchwithinvolume&q=older+than)?  I asked her.
         And I never got an answer, because at the moment she disappeared in a puff of smoke.
         I like to think nothing ever happened to her save that she went over to the spirit realm.
         I usually know better though.
@@ -17,24 +17,30 @@ project:
 
 
 Look, I say---look here--- \
-at this old place \
-where nothing changes.  \
+at this [old place \
+where nothing changes][old-place].  \
 Look at the people \
 who pass by.  Look at \
 the trees.  The flowers \
 full of wanting: look \
-how full they are with \
+[how full they are][] with \
 color.  Look how they mock \
 us, empty people who \
 must fill themselves \
 with changes---emptiness.
 
-"There is nothing to be \
-but happy.  There is no \
+"[There is nothing][] to be \
+but happy.  [There is no][] \
 sadness to fall down \
 like cherry petals."
 
-The trees don't under \
-stand: they are too \
+The [trees don't under- \
+stand:][trees] they are too \
 tall to see the germ \
 of discontent in us.
+
+[old-place]: planks.html
+[how full they are]: squirrel.html
+[There is nothing]: elegeyforanalternateself.html
+[There is no]: no-nothing.html
+[trees]: plant.html

@@ -8,9 +8,13 @@ project:
 ...
 
 If you swallow hard enough \
-you'll feel the stone \
+you'll [feel the stone][] \
 the one we all have waiting
 
-Once I found the stone in \
+Once I [found the stone][] in \
 the sea it kissed me as \
-the sea pawed at my back
+[the sea pawed at my back][]
+
+[the sea pawed at my back]: the-sea_the-beach.html
+[feel the stone]: serengeti.html
+[found the stone]: plant.html
