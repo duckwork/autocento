@@ -1,47 +1,49 @@
-#  Autocento of the breakfast table
-## User guide and manual
-## or whatever.  I don't care.
+Autocento of the breakfast table: a README
+================================
 
-# Part I: in which our hero explains the goal
+Part I: in which our hero explains the goal
+-------------------------------------------
 
-The goal in this book, *Autocento of the breakfast table*, is to explore the
-workings of revision and recursion through words, both in the head and on
-paper.  It's a hypertextual imagining of how things could have been, in all
-of their possibilities.
+The goal in this book, *Autocento of the breakfast table*, is to explore the workings of revision and recursion through words, both in the head and on paper.
+It's a hypertextual imagining of how things could have been, in all of their possibilities.
 
-# Part II: Enough of that high-faluting bullshit; down to brass tax
-## A.K.A. Using Pandoc to compile them pages, neff
+Part II: How to use this repo
+-----------------------------
 
-This project uses John MacFarlane's amazing, etc. [pandoc][] for the fun,
-HTML-writing stuff. Use the `compile.sh` script to compile the stuff down.
+This project uses John McFarlane's wonderful program [pandoc][], and its markdown flavor, to encode the poems and stories and things contained within.
+To see the source text files, navigate to the [src/](autocento.me/src/) folder.
 
-*Note: you're on Windows right now, so make sure and type `bash compile.sh` to
-run the program.*
-
-At the top of each file, there should be a YAML block that looks something
-like this:
+At the top of each file, there is a YAML metadata block that looks something like this:
 
 ````yaml
 ---
-title: 'Title of poem'
-subtitle: 'Subtitle' # optional
-genre: '[verse|prose]'
+title: Title of poem
+subtitle: Subtitle                           # optional
+genre: verse                                 # verse or prose
+
+epigraph:                                    # optional
+- content: 'Quote from outside'              # req'd if epigraph exists
+  link: 'Link to online version of epigraph' # optional
+  attrib: 'Who said the epigraph'            # optional
+
+dedication: John Doe                         # optional
 
 project:
-- title: 'Original project name'
-  order: [number]
-  prev:
-  - title: 'Title of previous thing in original project'
-    link: 'link to that thing'
-  next:
-  - title: 'Title of next thing in original project'
-  - link: 'link to that thing'
-
-epigraph: # optional
-- content: 'Quote from outside'
-  link: 'Link to online version of epigraph'
-  attrib: 'Who said the epigraph' # optional
+    title: Original project name
+    order: 1                                 # original project order
+    prev:
+    - title: Title of previous thing in original project
+      link: link to that thing
+    - title: Title of other previous thing
+      link: link to that thing
+    next:
+    - title: Title of next thing in original project
+      link: link to that thing
+    - title: Title of other next thing
+      link: link to that thing
 ...
 ````
+
+To compile all the markdown into glorious, glorious HTML (visible at <autocento.me>), run `compile.sh` (`bash compile.sh` in Windows) in the root directory of this git repository.
 
 [pandoc]: http://johnmacfarlane.net/pandoc/
