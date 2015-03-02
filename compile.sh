@@ -7,6 +7,7 @@ for file in src/*.txt; do # TODO: change this to work with globs & args & stuff
            -t html5 \
            --template=_template.html \
            --smart \
+           --mathjax \
            $file \
            -o "${file%.txt}.html"
     echo " Done."
