@@ -1,0 +1,36 @@
+---
+title: The largest asteroid in the asteroid belt
+genre: verse
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+...
+
+What secrets does it hold?  \
+Can it tell us who kissed Sara \
+that night on the veranda, or \
+who Joey is really in love with?  \
+We all know it isn't Sara, we \
+mean look at them Christmas eve \
+and he's staring whistfully \
+at the stars, or the largest \
+asteroid in the asteroid belt.  \
+She's staring at him, sure, but \
+she sees the twinkle in his eye \
+is not aimed in her direction.  \
+The reflection of that reflection \
+will beam into space, lightyears \
+of space, dimming slowly each \
+second, until it dies out like \
+all of Sara's hopes for something \
+resembling love in this life, real \
+love that takes hold of her by \
+the throat and refuses to let go, \
+love that makes men travel for her \
+and only for her, love that launches \
+space ships to that asteroid, the \
+largest in the asteroid belt, that \
+jewel of dead rock and ice, harboring \
+something that could've been life \
+and nothing that actually is.

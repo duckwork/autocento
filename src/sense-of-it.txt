@@ -1,0 +1,30 @@
+---
+title: Sense of it
+genre: verse
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+...
+
+I only write poems on the bus anymore.  \
+I sit far in the back to be alone.  \
+I mark black things on white things in a black thing.  \
+I try to make sense of it.
+
+Every time I see a plastic bag in the wind I think: \
+This is the most beautiful thing I've ever seen.  \
+Most of my life I relate to something on the TV: \
+This is how I try to make sense of it.
+
+The Talking Heads song ["Stop Making Sense"][stop] \
+is about a girlfriend caught cheating and willed oblivion.  \
+The song's real title is "Girlfriend is Better" \
+but lying about it is a way I try to make sense of it.
+
+The day after I lost her I found you again.  \
+Your face made a plastic bag of my heart.  \
+Your eyes were the wind pushing the bus forward.  \
+I couldn't make sense of it.
+
+[stop]: https://www.youtube.com/watch?v=9r7X3f2gFz4

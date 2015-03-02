@@ -1,0 +1,24 @@
+---
+title: Cold wind
+genre: verse
+
+dedication: Justin
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+...
+
+Man of autumn, cold wind, \
+blow down the trees' leaves.  \
+Fire on the ground.  The sky \
+perfect water, frost-cold, \
+rippled only by flocks \
+of black birds flying, gone.  \
+Their brightness can blind \
+an uncareful watcher, work him \
+in a froth of hands, not-wings \
+that ache with the loss of flight.  \
+A tear is flung faithfully \
+to the ocean of air, slipping in \
+slowly, is as gone as the birds.

@@ -1,0 +1,16 @@
+---
+title: Listen
+genre: verse
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+...
+
+If you swallow hard enough \
+you'll feel the stone \
+the one we all have waiting
+
+Once I found the stone in \
+the sea it kissed me as \
+the sea pawed at my back

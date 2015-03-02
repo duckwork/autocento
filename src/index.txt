@@ -1,0 +1,10 @@
+---
+title: Autocento of the breakfast table
+genre: verse
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+...
+
+[Ideas are drool.][] 
