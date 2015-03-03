@@ -14,7 +14,18 @@ for file in src/*.txt; do # TODO: change this to work with globs & args & stuff
     ((num += 1))
 done
 
+echo
 echo "Moving files to build directory ..."
 mv src/*.html ./
-echo
 echo "Finished compiling $num files."
+###############################################
+echo
+echo "Updating js/lozenge.js with file list ..."
+
+lozengeList=( $(ls *.html | grep -v '\(_template\|loremipsum\|ipsumlorem\)') )
+
+list=$(sed -e 's/\S\+\.html/"&",/g' -e 's/,$//' -e 's/^.*$/var files=[&]/' <<< "${lozengeList[@]}")
+
+sed -i "s/var files=.*/$list/" js/lozenge.js
+
+echo "Finished."

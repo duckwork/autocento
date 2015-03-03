@@ -60,7 +60,8 @@ header {
 h1.title {
     font-family: Playfair, serif;
     font-size: 16pt;
-    font-weight: bold;
+    /* font-weight: bold; */
+    font-weight: 400;
     letter-spacing: 0.1em;
     text-transform: uppercase;
 }
@@ -68,6 +69,7 @@ h1.subtitle {
     font-family: Playfair, serif;
     font-size: 15pt;
     font-style: italic;
+    font-weight: 400;
     position: relative;
     top: -0.5em;
 }
@@ -115,10 +117,23 @@ nav {
     left: 0;
     text-align: center;
 }
+nav .prevlink {
+    float: left;
+    margin: 0 0.5em;
+}
+nav .nextlink {
+    float: right;
+    margin: 0 0.5em;
+}
 nav .prevlink:before {
-    content: '« '
+    content: ' «'
 }
 nav .nextlink:after {
     content: ' »'
+}
+#lozenge {
+    position: absolute;
+    left: 50%;
+    text-decoration: none;
 }
 /* }}} */
