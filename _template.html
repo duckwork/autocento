@@ -10,16 +10,18 @@
     <title>$title$ | Autocento of the breakfast table</title>
 
     <link rel="stylesheet" type="text/css" href="./css/common.css">
+    <script src="./js/lozenge.js"> </script>
     $if(genre)$
     <link rel="stylesheet" type="text/css" href="./css/$genre$.css">
+    <script src="./js/$genre$.js"> </script>
     $endif$
     $if(project.css)$
     <link rel="stylesheet" type="text/css" href="./css/$project.css$.css">
+    <script src="./js/$project.css$.js"> </script>
     $endif$
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"> </script>
     <![endif]-->
-    <script src="./js/lozenge.js"> </script>
     <!-- <script src="js/external.js"> </script> -->
     $for(header-includes)$
     $headerincludes$

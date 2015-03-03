@@ -32,15 +32,6 @@ html, body {
     margin: auto;
     padding-bottom: 3em; /*height of nav*/
 }
-/* Tables */
-table { border-collapse: collapse; }
-td {
-    vertical-align: top;
-}
-tr {
-    border-bottom: 1px solid #aaa;
-    border-top: 1px solid #aaa;
-}
 /* }}} */
 /* Links {{{ */
 a:link {
@@ -90,7 +81,7 @@ header {
 }
 /* headings */
 h1.title {
-    font-family: "Playfair Display", serif;
+    font-family: "Playfair Display", Georgia, serif;
     font-size: 16pt;
     /* font-weight: bold; */
     font-weight: 400;
@@ -98,7 +89,7 @@ h1.title {
     text-transform: uppercase;
 }
 h1.subtitle {
-    font-family: "Playfair Display", serif;
+    font-family: "Playfair Display", Georgia, serif;
     font-size: 15pt;
     font-style: italic;
     font-weight: 400;
@@ -106,7 +97,7 @@ h1.subtitle {
     top: -0.5em;
 }
 h2 {
-    font-family: "Playfair Display", serif;
+    font-family: "Playfair Display", Georgia, serif;
     font-size: 12pt;
     font-weight: 600;
 }

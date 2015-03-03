@@ -2,6 +2,10 @@
 title: Table of contents
 genre: verse
 
+epigraph:
+    content: We are awash in the unseen and science has made us aware of the flood.
+    link: http://www.npr.org/blogs/13.7/2013/11/05/243081116/dark-matter-eludes-capture-science-and-the-unseen
+
 project:
     title: Stark Raving
     css: stark

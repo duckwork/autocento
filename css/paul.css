@@ -9,7 +9,7 @@
 
 /* Blockquote = typewriter */
 blockquote {
-    font-family: "Courier Prime", Courier, monospace;
+    font-family: "Courier Prime", "Courier New", Courier, monospace;
     font-size: 10pt;
     border: 1px solid black;
     max-width: 30em;
@@ -26,6 +26,6 @@ blockquote ul li:before {
 
 /* Emphasis = handwritten */
 em {
-    font-family: "Playfair Display", sans-serif;
+    font-family: "Playfair Display", Georgia, sans-serif;
     font-style: italic;
 }
