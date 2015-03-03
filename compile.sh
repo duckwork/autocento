@@ -20,6 +20,11 @@ mv src/*.html ./
 echo "Finished compiling $num files."
 ###############################################
 echo
+echo "Adding class=\"external\" to external links ..."
+sed -i 's,<a href="\(http://.*\)">,<a href="\1" class="external">,g' *.html
+echo "Finished."
+###############################################
+echo
 echo "Updating js/lozenge.js with file list ..."
 
 lozengeList=( $(ls *.html | grep -v '\(_template\|loremipsum\|ipsumlorem\)') )
