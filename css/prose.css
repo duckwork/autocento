@@ -8,3 +8,6 @@
 .prose {
     text-align: justify;
 }
+.prose p:first-child::first-line {
+    font-variant: small-caps;
+}
