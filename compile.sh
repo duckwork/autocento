@@ -17,7 +17,7 @@ done
 
 echo
 echo "Moving files to build directory ..."
-mv src/*.html ./
+mv src/{.[!.]*,*}.html ./
 echo "Finished compiling $num files."
 ###############################################
 echo
