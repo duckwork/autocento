@@ -1,0 +1,50 @@
+/* Common CSS for all of Autocento at the breakfast table
+ * should include ONLY the following:
+ * margins & widths
+ * text sizes & font assignments
+ * link rendering
+ */
+
+@import url("./fonts/playfair.css");
+@import url("./fonts/fira.css");
+/* @import url("fonts/courier-prime.css");
+ * ^^^^^^ for typewriter pages in Paul */
+
+body {
+    font-family: Fira, serif;
+    font-size: 14pt;
+}
+
+/* Links */
+a:link {
+    color: inherit;
+    text-decoration: none;
+}
+a:visited {
+    color: inherit;
+    font-weight: lighter;
+}
+a:hover {
+    color: blue;
+    font-style: italic;
+}
+a:active {
+    color: green;
+}
+
+/* Headings */
+h1.title {
+    font-family: Playfair, serif;
+    font-size: 16pt;
+    font-weight: bold;
+}
+h1.subtitle {
+    font-family: Playfair, serif;
+    font-size: 15pt;
+    font-style: italic;
+}
+h2 {
+    font-family: Fira, sans-serif;
+    font-size: 14pt;
+    font-weight: 600;
+}

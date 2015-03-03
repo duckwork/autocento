@@ -1,5 +1,5 @@
 Autocento of the breakfast table: a README
-================================
+==========================================
 
 Part I: in which our hero explains the goal
 -------------------------------------------
