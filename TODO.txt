@@ -1,3 +1,5 @@
-Link old poems to new poems
-add colors to [project].css
-    and background colors
+- Link old poems to new poems
+- add colors to [project].css
+    - and background colors
+- add index page with all pieces
+- add a "notes" or "about" page
