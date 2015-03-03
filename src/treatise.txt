@@ -37,7 +37,7 @@ project:
 > very close in the substrate
 > reality.
 
->     I want to talk about this
+> I want to talk about this
 > effect in literature.  In literature
 > the writer writes words on a
 > substrate (paper) and later the
@@ -54,7 +54,7 @@ project:
 
 > PROBLEMS:
 
->     Maybe the substrate isn't
+> Maybe the substrate isn't
 > paper it's what the writing is
 > about.  [Where is the hologram][]?  Are
 > physics and literature comparable?
