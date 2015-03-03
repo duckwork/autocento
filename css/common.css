@@ -57,15 +57,15 @@ a:active {
     text-decoration: underline;
 }
 /* External Links */
-a.external:link {
+a[href^="http"]:link {
+    text-decoration: none;
+}
+a[href^="http"]:visited {
+}
+a[href^="http"]:hover {
     text-decoration: underline;
 }
-a.external:visited {
-}
-a.external:hover {
-    text-decoration: underline;
-}
-a.external:active {
+a[href^="http"]:active {
     text-decoration: underline;
 }
 /* }}} */
