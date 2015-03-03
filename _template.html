@@ -8,17 +8,18 @@
     <meta name="author" content="Case Duckworth">
     <!-- more meta tags here -->
     <title>$title$ | Autocento of the breakfast table</title>
-    <link rel="stylesheet" type="text/css" href="css/_common.css">
+
+    <link rel="stylesheet" type="text/css" href="./css/_common.css">
     $if(genre)$
-    <link rel="stylesheet" type="text/css" href="css/$genre$.css">
+    <link rel="stylesheet" type="text/css" href="./css/$genre$.css">
     $endif$
     $if(project.css)$
-    <link rel="stylesheet" type="text/css" href="css/$project.css$.css">
+    <link rel="stylesheet" type="text/css" href="./css/$project.css$.css">
     $endif$
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"> </script>
     <![endif]-->
-    <script src="js/lozenge.js"> </script>
+    <script src="./js/lozenge.js"> </script>
     <!-- <script src="js/external.js"> </script> -->
     $for(header-includes)$
     $headerincludes$
