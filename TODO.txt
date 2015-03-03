@@ -1,1 +1,3 @@
-Link old to new
+Link old poems to new poems
+add colors to [project].css
+    and background colors
