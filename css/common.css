@@ -63,10 +63,10 @@ a.external:link {
 a.external:visited {
 }
 a.external:hover {
-    text-decoration: underline overline;
+    text-decoration: underline;
 }
 a.external:active {
-    text-decoration: underline overline;
+    text-decoration: underline;
 }
 /* }}} */
 /* Images {{{ */
