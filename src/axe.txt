@@ -11,7 +11,7 @@ project:
       link: leaf
     - title: Building
       link: building
-    previous:
+    prev:
     - title: Dream
       link: dream
     - title: Art

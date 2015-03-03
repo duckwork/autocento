@@ -11,7 +11,7 @@ project:
       link: axe
     - title: Early
       link: early
-    previous:
+    prev:
     - title: Underwear
       link: underwear
     - title: Cereal

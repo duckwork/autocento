@@ -11,7 +11,7 @@ project:
       link: yellow
     - title: Cereal
       link: cereal
-    previous:
+    prev:
     - title: Stagnant
       link: stagnant
     - title: Axe

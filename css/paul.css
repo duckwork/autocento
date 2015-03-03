@@ -1,0 +1,29 @@
+/* BUILDINGS OUT OF AIR: PAUL IN THE WOODS
+ * project stylesheet
+ */
+
+@import url("fonts/courier-prime.css");
+@import url("fonts/playfair.css");
+
+/* Blockquote = typewriter */
+blockquote {
+    font-family: "Courier Prime", Courier, monospace;
+    font-size: 10pt;
+    border: 1px solid black;
+    max-width: 30em;
+    margin: auto;
+    padding: 0 1em;
+    text-align: left;
+}
+blockquote ul {
+    list-style-type: none;
+}
+blockquote ul li:before {
+    content: '- ';
+}
+
+/* Emphasis = handwritten */
+em {
+    font-family: Playfair, sans-serif;
+    font-style: italic;
+}

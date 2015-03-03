@@ -4,26 +4,26 @@
 
 /* Normal = normal */
 @font-face {
-    font-family: CourierPrime;
+    font-family: "Courier Prime";
     font-weight: normal;
     font-style: normal;
     src: url("Courier_Prime.ttf");
 }
 @font-face {
-    font-family: CourierPrime;
+    font-family: "Courier Prime";
     font-weight: normal;
     font-style: italic;
     src: url("Courier_Prime_Italic.ttf");
 }
 /* Bold = bold */
 @font-face {
-    font-family: CourierPrime;
+    font-family: "Courier Prime";
     font-weight: bold;
     font-style: normal;
     src: url("Courier_Prime_Bold.ttf");
 }
 @font-face {
-    font-family: CourierPrime;
+    font-family: "Courier Prime";
     font-weight: bold;
     font-style: italic;
     src: url("Courier_Prime_Bold_Italic.ttf");

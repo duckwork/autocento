@@ -27,7 +27,7 @@ He built [one leg][], which means he cut a straight piece of wood down to four f
 He typed up a note on how to make chair legs.
 
 > MAKING CHAIR LEGS
-
+>
 > 1. get longish piece of wood
 > 2. cut it to length ([4 feet][] I'd
 >    recommend)

@@ -6,8 +6,8 @@
  * vim: fdm=marker
  */
 /* Import rules {{{ */
-@import url("./fonts/playfair.css");
-@import url("./fonts/fira.css");
+@import url("fonts/playfair.css");
+@import url("fonts/fira.css");
 /* @import url("fonts/courier-prime.css");
  * ^^^^^^ for typewriter pages in Paul */
 /* }}} */

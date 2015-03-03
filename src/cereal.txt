@@ -11,7 +11,7 @@ project:
       link: man
     - title: Dream
       link: dream
-    previous:
+    prev:
     - title: Sapling
       link: sapling
     - title: Building

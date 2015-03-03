@@ -11,7 +11,7 @@ project:
       link: toothpaste
     - title: Father
       link: father
-    previous:
+    prev:
     - title: Stump
       link: stump
     - title: Dream

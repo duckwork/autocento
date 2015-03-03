@@ -20,7 +20,7 @@ project:
 
 > TREATISE ON LITERATURE AS "SPOOKY
 > ACTION FROM A DISTANCE"
-
+>
 > There is this thing called "spooky
 > action at a distance."  Einstein
 > mentioned it first I believe.  It
@@ -36,7 +36,7 @@ project:
 > the hologram might actually be
 > very close in the substrate
 > reality.
-
+>
 > I want to talk about this
 > effect in literature.  In literature
 > the writer writes words on a
@@ -51,9 +51,9 @@ project:
 > he has written them becomes a
 > reader and feels who he was at
 > that time, [like a ghost][].
-
+>
 > PROBLEMS:
-
+>
 > Maybe the substrate isn't
 > paper it's what the writing is
 > about.  [Where is the hologram][]?  Are

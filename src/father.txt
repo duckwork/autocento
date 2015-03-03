@@ -11,7 +11,7 @@ project:
       link: paul
     - title: Fire
       link: fire
-    previous:
+    prev:
     - title: Toothpaste
       link: toothpaste
     - title: Early
