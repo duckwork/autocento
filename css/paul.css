@@ -2,8 +2,10 @@
  * project stylesheet
  */
 
-@import url("fonts/courier-prime.css");
-@import url("fonts/playfair.css");
+/* Playfair Display (headings) */
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic&subset=latin,latin-ext);
+/* Fira Sans (body) */
+@import url(http://code.cdn.mozilla.net/fonts/fira.css);
 
 /* Blockquote = typewriter */
 blockquote {
@@ -24,6 +26,6 @@ blockquote ul li:before {
 
 /* Emphasis = handwritten */
 em {
-    font-family: Playfair, sans-serif;
+    font-family: "Playfair Display", sans-serif;
     font-style: italic;
 }
