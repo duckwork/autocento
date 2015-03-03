@@ -22,13 +22,13 @@ project:
       link: poetry-time
 ...
 
-![Amber Hagerman](https://upload.wikimedia.org/wikipedia/en/5/54/Amber_Hagerman.jpg)
-
 [Lost things have a way of staying lost.][]
 They have to want to be found---is that why we tack up signs, hang socks from hooks in the park, have a box for what's been lost but now is found?
 Maybe the lost *want* to be found but we're looking in the wrong places.
 Maybe we speak the wrong language, the language of the found, to call to them.
 Maybe we should [try another door][].
+
+![Amber Hagerman](https://upload.wikimedia.org/wikipedia/en/5/54/Amber_Hagerman.jpg)
 
 [try another door]: statements-frag.html
 [Lost things have a way of staying lost.]: lappel-du-vide

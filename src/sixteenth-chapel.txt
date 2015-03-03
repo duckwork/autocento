@@ -16,9 +16,7 @@ project:
     next:
     - title: Last bastion
       link: last-bastion
-    - title: |
-        Something about all music being performances of _4\'33\"_
-        in places where other bands happen to be playing
+    - title: Something about all music being performances of _4\'33\"_ in places where other bands happen to be playing
       link: music-433
     prev:
     - title: Worse looking over

@@ -3,6 +3,7 @@
  * margins & widths
  * text sizes & font assignments
  * link rendering
+ * images
  * vim: fdm=marker
  */
 /* Import rules {{{ */
@@ -22,6 +23,7 @@ html, body {
 #wrapper { /*makes sure nav is at bottom of window*/
     min-height: 100%;
     position: relative;
+    margin: 12px;
 }
 .thing {
     max-width: 39em;
@@ -35,6 +37,7 @@ td {
 }
 tr {
     border-bottom: 1px solid #aaa;
+    border-top: 1px solid #aaa;
 }
 /* Links */
 a:link {
@@ -49,6 +52,20 @@ a:hover {
 }
 a:active {
     text-decoration: underline;
+}
+/* }}} */
+/* Images {{{ */
+figure {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+figcaption {
+    display: none;
+}
+img {
+    max-width: 100%;
+    margin: auto;
 }
 /* }}} */
 /* Header section {{{ */
@@ -119,11 +136,15 @@ nav {
 }
 nav .prevlink {
     float: left;
+    text-align: left;
     margin: 0 0.5em;
+    max-width: 20%;
 }
 nav .nextlink {
     float: right;
+    text-align: right;
     margin: 0 0.5em;
+    max-width: 20%;
 }
 nav .prevlink:before {
     content: ' «'
