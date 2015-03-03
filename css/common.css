@@ -58,20 +58,15 @@ a:active {
 }
 /* External Links */
 a.external:link {
-    color: inherit;
     text-decoration: underline;
-    text-decoration-style: double;
 }
 a.external:visited {
-    color: inherit;
 }
 a.external:hover {
-    text-decoration: underline;
-    text-decoration-style: double;
+    text-decoration: underline overline;
 }
 a.external:active {
-    text-decoration: underline;
-    text-decoration-style: double;
+    text-decoration: underline overline;
 }
 /* }}} */
 /* Images {{{ */
