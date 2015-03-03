@@ -129,7 +129,7 @@ I am a grown man.
 
 Below the blankets I \
 know you for who you are.  \
-In bed [I see your face][]
+In bed I see your face
 
 pressed against the window.  \
 I look out and see you \
@@ -146,4 +146,3 @@ and I am not afraid.
 [rats]: #I
 [blood]: plant.html
 [red]: window.html
-[I see your face]: boy_bus.html
