@@ -32,6 +32,15 @@ html, body {
     margin: auto;
     padding-bottom: 3em; /*height of nav*/
 }
+/* Tables */
+table { border-collapse: collapse; }
+td {
+    vertical-align: top;
+}
+tr {
+    border-bottom: 1px solid #aaa;
+    border-top: 1px solid #aaa;
+}
 /* }}} */
 /* Links {{{ */
 a:link {
@@ -168,7 +177,14 @@ nav .nextlink:after {
 .footnotes {
     position: absolute;
     top: 100%;
-    left: 0;
-    width: 100%;
+    left: 25%;
+    width: 50%;
+    font-size: 10pt;
+}
+.footnotes p::first-line {
+    font-variant: normal !important;
+}
+.footnotes a[href^="#fnref"] {
+    float: right;
 }
 /* }}} */
