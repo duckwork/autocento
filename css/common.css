@@ -14,7 +14,7 @@
 /* @import url("fonts/courier-prime.css");
  * ^^^^^^ for typewriter pages in Paul */
 /* }}} */
-/* Body & Links {{{ */
+/* Body {{{ */
 html, body {
     font-family: "Fira Sans", sans-serif;
     font-size: 12pt;
@@ -41,7 +41,8 @@ tr {
     border-bottom: 1px solid #aaa;
     border-top: 1px solid #aaa;
 }
-/* Links */
+/* }}} */
+/* Links {{{ */
 a:link {
     color: inherit;
     text-decoration: underline;
@@ -54,6 +55,23 @@ a:hover {
 }
 a:active {
     text-decoration: underline;
+}
+/* External Links */
+a.external:link {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+a.external:visited {
+    color: inherit;
+}
+a.external:hover {
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+a.external:active {
+    text-decoration: underline;
+    text-decoration-style: double;
 }
 /* }}} */
 /* Images {{{ */
