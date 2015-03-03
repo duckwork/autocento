@@ -7,10 +7,10 @@ project:
     css: elegies
     order: 5
     next:
-      title: Ars poetica
+    - title: Ars poetica
       link: arspoetica
     prev:
-      title: And
+    - title: And
       link: and
 ...
 
