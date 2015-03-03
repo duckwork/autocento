@@ -18,6 +18,8 @@
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"> </script>
     <![endif]-->
+    <script src="js/lozenge.js"> </script>
+    <!-- <script src="js/external.js"> </script> -->
     $for(header-includes)$
     $headerincludes$
     $endfor$
@@ -60,7 +62,7 @@ $for(include-before)$ $include-before$ $endfor$
             $project.prev.title$
         </a>
         $endfor$
-        <a href="#" id="lozenge"> &loz; </a>
+        <a href="#" id="lozenge" title="Random page"> &loz; </a>
         $for(project.next)$
         <a class="nextlink" href="$project.next.link$.html">
             $project.next.title$

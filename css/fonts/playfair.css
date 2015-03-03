@@ -9,14 +9,14 @@
     font-variant: normal;
     font-weight: 400;
     font-style: normal;
-    src: url("PlayfairDisplay-Regular.ttf");
+    src: url("PlayfairDisplay-Regular.otf");
 }
 @font-face {
     font-family: Playfair;
     font-variant: normal;
     font-weight: 400;
     font-style: italic;
-    src: url("PlayfairDisplay-Italic.ttf");
+    src: url("PlayfairDisplay-Italic.otf");
 }
 /* Bold = 700 */
 @font-face {
@@ -24,14 +24,14 @@
     font-variant: normal;
     font-weight: 700;
     font-style: normal;
-    src: url("PlayfairDisplay-Bold.ttf");
+    src: url("PlayfairDisplay-Bold.otf");
 }
 @font-face {
     font-family: Playfair;
     font-variant: normal;
     font-weight: 700;
     font-style: italic;
-    src: url("PlayfairDisplay-BoldItalic.ttf");
+    src: url("PlayfairDisplay-BoldItalic.otf");
 }
 /* Black = 900 */
 @font-face {
@@ -39,14 +39,14 @@
     font-variant: normal;
     font-weight: 900;
     font-style: normal;
-    src: url("PlayfairDisplay-Black.ttf");
+    src: url("PlayfairDisplay-Black.otf");
 }
 @font-face {
     font-family: Playfair;
     font-variant: normal;
     font-weight: 900;
     font-style: italic;
-    src: url("PlayfairDisplay-BlackItalic.ttf");
+    src: url("PlayfairDisplay-BlackItalic.otf");
 }
 /* }}} */
 /* SMALL CAPS VARIANT {{{ */
