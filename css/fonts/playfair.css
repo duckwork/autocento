@@ -52,14 +52,14 @@
 /* SMALL CAPS VARIANT {{{ */
 /* Regular = 400 */
 @font-face {
-    font-family: Playfair;
+    font-family: PlayfairSC;
     font-variant: small-caps;
     font-weight: 400;
     font-style: normal;
     src: url("PlayfairDisplaySC-Regular.ttf");
 }
 @font-face {
-    font-family: Playfair;
+    font-family: PlayfairSC;
     font-variant: small-caps;
     font-weight: 400;
     font-style: italic;
@@ -67,14 +67,14 @@
 }
 /* Bold = 700 */
 @font-face {
-    font-family: Playfair;
+    font-family: PlayfairSC;
     font-variant: small-caps;
     font-weight: 700;
     font-style: normal;
     src: url("PlayfairDisplaySC-Bold.ttf");
 }
 @font-face {
-    font-family: Playfair;
+    font-family: PlayfairSC;
     font-variant: small-caps;
     font-weight: 700;
     font-style: italic;
@@ -82,14 +82,14 @@
 }
 /* Black = 900 */
 @font-face {
-    font-family: Playfair;
+    font-family: PlayfairSC;
     font-variant: small-caps;
     font-weight: 900;
     font-style: normal;
     src: url("PlayfairDisplaySC-Black.ttf");
 }
 @font-face {
-    font-family: Playfair;
+    font-family: PlayfairSC;
     font-variant: small-caps;
     font-weight: 900;
     font-style: italic;

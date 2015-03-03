@@ -3,16 +3,22 @@
  * margins & widths
  * text sizes & font assignments
  * link rendering
+ * vim: fdm=marker
  */
-
+/* Import rules {{{ */
 @import url("./fonts/playfair.css");
 @import url("./fonts/fira.css");
 /* @import url("fonts/courier-prime.css");
  * ^^^^^^ for typewriter pages in Paul */
-
+/* }}} */
+/* Body & Links {{{ */
 body {
-    font-family: Fira, serif;
-    font-size: 14pt;
+    font-family: Fira, sans-serif;
+    font-size: 12pt;
+}
+.thing {
+    max-width: 39em;
+    margin: auto;
 }
 
 /* Links */
@@ -31,12 +37,19 @@ a:hover {
 a:active {
     color: green;
 }
-
-/* Headings */
+/* }}} */
+/* Header section {{{ */
+header {
+    max-width: 39em;
+    margin: auto;
+}
+/* headings */
 h1.title {
     font-family: Playfair, serif;
     font-size: 16pt;
     font-weight: bold;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
 }
 h1.subtitle {
     font-family: Playfair, serif;
@@ -48,3 +61,34 @@ h2 {
     font-size: 14pt;
     font-weight: 600;
 }
+/* Epigraph & Dedication */
+.epigraph {
+    text-align: right;
+}
+.epigraph p {
+    margin: 0;
+}
+.epigraph-attrib {
+    text-align: right;
+    margin-top: 0;
+}
+.epigraph-attrib:before {
+    content: '– ';
+}
+
+.dedication {
+    font-style: italic;
+    text-align: right;
+}
+.dedication:before {
+    content: 'for ';
+    font-style: italic;
+}
+/* }}} */
+/* Navigation {{{ */
+nav {
+    max-width: 39em;
+    margin: auto;
+    text-align: center;
+}
+/* }}} */

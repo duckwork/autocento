@@ -29,26 +29,23 @@ $for(include-before)$ $include-before$ $endfor$
         <!-- title -->
         $if(title)$<h1 class="title">$title$</h1>$endif$
         $if(subtitle)$<h1 class="subtitle">$subtitle$</h1>$endif$
+
         $if(epigraph.content)$
         <!-- epigraph -->
-        <p class="epigraph">
+        <div class="epigraph">
             $if(epigraph.link)$
             <a href="$epigraph.link$">$epigraph.content$</a>
             $else$
             $epigraph.content$
             $endif$
-        </p>
+        </div>
         $if(epigraph.attrib)$
-        <p class="epigraph-attrib">
-            &mdash; $epigraph.attrib$
-        </p>
+        <div class="epigraph-attrib">$epigraph.attrib$</div>
         $endif$
         $endif$
         $if(dedication)$
         <!-- dedication -->
-        <p class="dedication">
-            <em>for $dedication$</em>
-        </p>
+        <div class="dedication">$dedication$</div>
         $endif$
     </header>
 
@@ -58,14 +55,14 @@ $for(include-before)$ $include-before$ $endfor$
 
     <nav>
         $for(project.prev)$
-        <a href="$project.prev.link$.html">
-            <span class="prevlink">&lt; $project.prev.title$</span>
+        <a class="prevlink" href="$project.prev.link$.html">
+            $project.prev.title$
         </a>
         $endfor$
         <a href="#" id="lozenge"> &loz; </a>
         $for(project.next)$
-        <a href="$project.next.link$.html">
-            <span class="nextlink">$project.next.title$ &gt;</span>
+        <a class="nextlink" href="$project.next.link$.html">
+            $project.next.title$
         </a>
         $endfor$
     </nav>
