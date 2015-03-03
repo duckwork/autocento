@@ -160,3 +160,11 @@ nav .nextlink:after {
     text-decoration: none;
 }
 /* }}} */
+/* Footnotes {{{ */
+.footnotes {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+}
+/* }}} */
