@@ -17,10 +17,10 @@ project:
     order: 1
     next:
     - title: Ipsum lorem
-      link: ipsumlorem
+      link: .ipsumlorem
     prev:
     - title: Ipsum lorem
-      link: ipsumlorem
+      link: .ipsumlorem
 ...
 
 [Lorem ipsum dolor sit amet][], consectetur adipiscing elit.
@@ -71,4 +71,4 @@ Ut placerat lectus metus, vel molestie felis luctus ac.
 Quisque facilisis lectus id magna hendrerit, auctor ornare nisl rutrum.
 Pellentesque vehicula purus vitae dui auctor, in accumsan risus efficitur.
 
-[Lorem ipsum dolor sit amet]: ipsumlorem.html
+[Lorem ipsum dolor sit amet]: .ipsumlorem.html
