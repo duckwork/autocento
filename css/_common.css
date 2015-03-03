@@ -12,30 +12,43 @@
  * ^^^^^^ for typewriter pages in Paul */
 /* }}} */
 /* Body & Links {{{ */
-body {
+html, body {
     font-family: Fira, sans-serif;
     font-size: 12pt;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+#wrapper { /*makes sure nav is at bottom of window*/
+    min-height: 100%;
+    position: relative;
 }
 .thing {
     max-width: 39em;
     margin: auto;
+    padding-bottom: 3em; /*height of nav*/
 }
-
+/* Tables */
+table { border-collapse: collapse; }
+td {
+    vertical-align: top;
+}
+tr {
+    border-bottom: 1px solid #aaa;
+}
 /* Links */
 a:link {
     color: inherit;
-    text-decoration: none;
+    text-decoration: underline;
 }
 a:visited {
     color: inherit;
-    font-weight: lighter;
 }
 a:hover {
-    color: blue;
-    font-style: italic;
+    text-decoration: underline;
 }
 a:active {
-    color: green;
+    text-decoration: underline;
 }
 /* }}} */
 /* Header section {{{ */
@@ -55,6 +68,8 @@ h1.subtitle {
     font-family: Playfair, serif;
     font-size: 15pt;
     font-style: italic;
+    position: relative;
+    top: -0.5em;
 }
 h2 {
     font-family: Fira, sans-serif;
@@ -62,6 +77,17 @@ h2 {
     font-weight: 600;
 }
 /* Epigraph & Dedication */
+.dedication {
+    font-style: italic;
+    font-size: 10pt;
+    margin-top: -0.5em;
+    margin-bottom: 1em;
+}
+.dedication:before {
+    content: 'for ';
+    font-style: italic;
+}
+
 .epigraph {
     text-align: right;
     font-size: 10pt;
@@ -79,20 +105,14 @@ h2 {
 .epigraph-attrib:before {
     content: '– ';
 }
-
-.dedication {
-    font-style: italic;
-    font-size: 10pt;
-}
-.dedication:before {
-    content: 'for ';
-    font-style: italic;
-}
 /* }}} */
 /* Navigation {{{ */
 nav {
-    max-width: 39em;
-    margin: auto;
+    width: 100%;
+    height: 3em;
+    position: absolute;
+    bottom: 0;
+    left: 0;
     text-align: center;
 }
 nav .prevlink:before {

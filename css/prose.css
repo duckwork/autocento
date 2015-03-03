@@ -1,0 +1,10 @@
+/* PROSE css for Autocento.
+ * for PROSE considerations ONLY, e.g.:
+ * line-height
+ * hyphenation
+ * etc.
+ */
+
+.prose {
+    text-align: justify;
+}
