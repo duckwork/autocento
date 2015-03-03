@@ -64,6 +64,8 @@ h2 {
 /* Epigraph & Dedication */
 .epigraph {
     text-align: right;
+    font-size: 10pt;
+    font-style: italic;
 }
 .epigraph p {
     margin: 0;
@@ -71,6 +73,8 @@ h2 {
 .epigraph-attrib {
     text-align: right;
     margin-top: 0;
+    font-size: 10pt;
+    font-style: italic;
 }
 .epigraph-attrib:before {
     content: '– ';
@@ -78,7 +82,7 @@ h2 {
 
 .dedication {
     font-style: italic;
-    text-align: right;
+    font-size: 10pt;
 }
 .dedication:before {
     content: 'for ';
@@ -90,5 +94,11 @@ nav {
     max-width: 39em;
     margin: auto;
     text-align: center;
+}
+nav .prevlink:before {
+    content: '« '
+}
+nav .nextlink:after {
+    content: ' »'
 }
 /* }}} */

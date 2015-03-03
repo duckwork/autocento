@@ -30,6 +30,11 @@ $for(include-before)$ $include-before$ $endfor$
         $if(title)$<h1 class="title">$title$</h1>$endif$
         $if(subtitle)$<h1 class="subtitle">$subtitle$</h1>$endif$
 
+        $if(dedication)$
+        <!-- dedication -->
+        <div class="dedication">$dedication$</div>
+        $endif$
+
         $if(epigraph.content)$
         <!-- epigraph -->
         <div class="epigraph">
@@ -42,10 +47,6 @@ $for(include-before)$ $include-before$ $endfor$
         $if(epigraph.attrib)$
         <div class="epigraph-attrib">$epigraph.attrib$</div>
         $endif$
-        $endif$
-        $if(dedication)$
-        <!-- dedication -->
-        <div class="dedication">$dedication$</div>
         $endif$
     </header>
 
