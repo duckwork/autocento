@@ -22,21 +22,21 @@ subtitle: Subtitle                           # optional
 genre: verse                                 # verse or prose
 
 epigraph:                                    # optional
-- content: 'Quote from outside'              # req'd if epigraph exists
-  link: 'Link to online version of epigraph' # optional
-  attrib: 'Who said the epigraph'            # optional
+- content: 'Content of epigraph'             # req'd if epigraph exists
+  link: 'http://link-to-epigraph-source/'    # optional
+  attrib: 'Epigraph attribution'             # optional
 
-dedication: John Doe                         # optional
+dedication: my mother                        # optional
 
 project:
     title: Original project name
-    order: 1                                 # original project order
-    prev:
+    order: 1                                 # page number, optional
+    prev:                                    # optional
     - title: Title of previous thing in original project
       link: link to that thing
     - title: Title of other previous thing
       link: link to that thing
-    next:
+    next:                                    #optional
     - title: Title of next thing in original project
       link: link to that thing
     - title: Title of other next thing
@@ -44,6 +44,6 @@ project:
 ...
 ````
 
-To compile all the markdown into glorious, glorious HTML (visible at <autocento.me>), run `compile.sh` (`bash compile.sh` in Windows) in the root directory of this git repository.
+To compile all the markdown into glorious, glorious HTML (visible at <http://autocento.me>), run `compile.sh` (`bash compile.sh` in Windows) in the root directory of this git repository.
 
 [pandoc]: http://johnmacfarlane.net/pandoc/

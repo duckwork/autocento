@@ -1,5 +1,5 @@
 ---
-title: Something about all music being performances of _4\'33\"_ in places where other bands happen to be playing
+title: Something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing
 genre: verse
 
 dedication: '[Randall](https://xkcd.com/1199/)'

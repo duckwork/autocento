@@ -12,7 +12,7 @@ project:
     - title: The Sixteenth Chapel
       link: sixteenth-chapel
     prev:
-    - title: Something about all music being performances of _4\'33\"_ in places where other bands happen to be playing
+    - title: Something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing
       link: music-433
     - title: I think it's you (but it's not)
       link: i-think-its-you
