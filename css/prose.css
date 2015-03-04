@@ -10,6 +10,7 @@
     hyphens: auto;
     -moz-hyphens: auto;
 }
-.prose p:first-child::first-line {
+.prose p::first-child::first-line {
     font-variant: small-caps;
+    letter-spacing: 0.1em;
 }

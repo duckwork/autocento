@@ -23,7 +23,7 @@ blockquote p::first-line {
 blockquote ul {
     list-style-type: none;
 }
-blockquote ul li:before {
+blockquote ul li::before {
     content: '- ';
 }
 
