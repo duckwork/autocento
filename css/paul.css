@@ -17,6 +17,9 @@ blockquote {
     padding: 0 1em;
     text-align: left;
 }
+blockquote p::first-line {
+    font-variant: normal !important;
+}
 blockquote ul {
     list-style-type: none;
 }

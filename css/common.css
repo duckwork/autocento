@@ -1,48 +1,58 @@
 /* Common CSS for all of Autocento at the breakfast table
- * should include ONLY the following:
- * margins & widths
- * text sizes & font assignments
- * link rendering
- * images
  * vim: fdm=marker
  */
-/* Import rules {{{ */
+/* IMPORTS {{{ */
 /* Playfair Display (headings) */
 @import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic&subset=latin,latin-ext);
 /* Fira Sans (body) */
 @import url(http://code.cdn.mozilla.net/fonts/fira.css);
 /* @import url("fonts/courier-prime.css");
  * ^^^^^^ for typewriter pages in Paul */
-/* }}} */
-/* Body {{{ */
+/* imports }}} */
+/* LAYOUT {{{ */
 html, body {
-    font-family: "Fira Sans", sans-serif;
-    font-size: 12pt;
     margin: 0;
     padding: 0;
-    height: 100%;
+
+    font-family: "Fira Sans", sans-serif;
+    font-size: 12pt;
 }
-#wrapper { /*makes sure nav is at bottom of window*/
+html { height: 100%; }
+body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
     min-height: 100%;
-    position: relative;
-    margin: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+header {
+    max-width: 39em;
+    margin: auto;
 }
 .thing {
     max-width: 39em;
-    margin: auto;
-    padding-bottom: 3em; /*height of nav*/
+    margin: 0 auto;
+    padding-bottom: 24px;
 }
-/* Tables */
-table { border-collapse: collapse; }
-td {
-    vertical-align: top;
+nav {
+    height: 24px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
 }
-tr {
-    border-bottom: 1px solid #aaa;
-    border-top: 1px solid #aaa;
+.footnotes {
+    width: 80%;
+    position: absolute;
+    top: 100%;
+    left: 10%;
+    font-size: 10pt;
 }
-/* }}} */
-/* Links {{{ */
+/* layout }}} */
+/* LINKS {{{ */
 a:link {
     color: inherit;
     text-decoration: underline;
@@ -68,8 +78,8 @@ a[href^="http"]:hover {
 a[href^="http"]:active {
     text-decoration: underline;
 }
-/* }}} */
-/* Images {{{ */
+/* links }}} */
+/* IMAGES {{{ */
 figure {
     width: 100%;
     margin: auto;
@@ -82,13 +92,8 @@ img {
     max-width: 100%;
     margin: auto;
 }
-/* }}} */
-/* Header section {{{ */
-header {
-    max-width: 39em;
-    margin: auto;
-}
-/* headings */
+/* images }}} */
+/* HEADINGS {{{ */
 h1.title {
     font-family: "Playfair Display", Georgia, serif;
     font-size: 16pt;
@@ -110,7 +115,8 @@ h2 {
     font-size: 12pt;
     font-weight: 600;
 }
-/* Epigraph & Dedication */
+/* headings }}} */
+/* DEDICATION {{{ */
 .dedication {
     font-style: italic;
     font-size: 10pt;
@@ -121,7 +127,8 @@ h2 {
     content: 'for ';
     font-style: italic;
 }
-
+/* dedication }}} */
+/* EPIGRAPH {{{ */
 .epigraph {
     text-align: right;
     font-size: 10pt;
@@ -139,52 +146,41 @@ h2 {
 .epigraph-attrib:before {
     content: '– ';
 }
-/* }}} */
-/* Navigation {{{ */
-nav {
-    width: 100%;
-    height: 3em;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    text-align: center;
-}
-nav .prevlink {
-    float: left;
-    text-align: left;
+/* epigraph }}} */
+/* NAV {{{ */
+nav .prevlink { float: left; text-align: left; }
+nav .nextlink { float: right; text-align: right; }
+/* Properties both types of navlinks share */
+nav .prevlink, nav .nextlink {
     margin: 0 0.5em;
-    max-width: 20%;
-}
-nav .nextlink {
-    float: right;
-    text-align: right;
-    margin: 0 0.5em;
-    max-width: 20%;
+    max-width: 25%;
+    font-size: 10pt;
+    font-family: "Playfair Display", Georgia, serif;
+    font-style: italic;
+    text-transform: lowercase;
+    height: 20px;
+    overflow: hidden;
+    text-decoration: none;
 }
 nav .prevlink:before {
-    content: ' «'
+    content: ' «';
+    font-style: normal;
 }
 nav .nextlink:after {
-    content: ' »'
+    content: ' »';
+    font-style: normal;
 }
 #lozenge {
     position: absolute;
     left: 50%;
     text-decoration: none;
 }
-/* }}} */
-/* Footnotes {{{ */
-.footnotes {
-    position: absolute;
-    top: 100%;
-    left: 25%;
-    width: 50%;
-    font-size: 10pt;
-}
+/* nav }}} */
+/* FOOTNOTES {{{ */
 .footnotes p::first-line {
     font-variant: normal !important;
 }
 .footnotes a[href^="#fnref"] {
     float: right;
 }
-/* }}} */
+/* footnotes }}} */

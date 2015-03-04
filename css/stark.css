@@ -1,6 +1,6 @@
 /* STARK RAVING css project rules */
 
-/* Tables */
+/* TABLES {{{ */
 table { border-collapse: collapse; }
 td {
     vertical-align: top;
@@ -9,3 +9,4 @@ tr {
     border-bottom: 1px solid #aaa;
     border-top: 1px solid #aaa;
 }
+/* tables }}} */
