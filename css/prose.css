@@ -7,6 +7,8 @@
 
 .prose {
     text-align: justify;
+    hyphens: auto;
+    -moz-hyphens: auto;
 }
 .prose p:first-child::first-line {
     font-variant: small-caps;
