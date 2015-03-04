@@ -1,0 +1,10 @@
+THINGS STILL TO DO FOR AUTOCENTO.ME
+===================================
+
+- Link old poems to new poems
+- add colors to projects' css
+    - and background colors
+- add index page with all pieces
+- add a "notes" or "about" page
+- think about --html-q-tags option for pandoc
+    - and --ascii option
