@@ -14,17 +14,18 @@ project:
 
 [And](and.html)
 [the angel, to Abraham](angeltoabraham.html),
-[on seeing the panorama of the Apollo 11 landing site](apollo11.html):
+[on seeing the panorama \
+of the Apollo 11 landing site](apollo11.html):
 "[Ars poetica](arspoetica.html):
 [art](art.html),
-an [axe](axe.html),
+an [axe](axe.html), \
 [the big dipper](big-dipper.html) and
-[the boar](boar.html). \
+[the boar](boar.html).
 The [boy on the bus](boy_bus.html) is
-[building](building.html).
+[building](building.html). \
 [Call me](call-me-aural-pleasure.html)
 [_Cereal_](cereal.html) or
-[_Cold Wind_](cold-wind.html)." \
+[_Cold Wind_](cold-wind.html)."
 
 [Creation myth](creation-myth.html):
 [dead man](deadman.html) =
@@ -37,8 +38,8 @@ The [boy on the bus](boy_bus.html) is
 an [epigraph](epigraph.html), \
 [_ex machina_](ex-machina.html) and
 [exasperated](exasperated.html);
-[Father](father.html) \
-[feeding the raven](feedingtheraven.html),
+[Father](father.html) [feeding \
+the raven](feedingtheraven.html),
 [finding the lion](finding-the-lion.html),
 setting a [fire](fire.html).
 
@@ -46,70 +47,72 @@ setting a [fire](fire.html).
 [hands](hands.html)! \
 [A hard game](hard-game.html):
 [hardware](hardware.html). \
-[How it happened](howithappened.html)? \
-[How to read this](howtoread.html)
-[hymnal](hymnal.html):
+([How it happened](howithappened.html)?) \
 
-"[I am](i-am.html)." \
-"[I think it’s you (but it’s not)](i-think-its-you.html)."
+[How to read this](howtoread.html)
+[hymnal](hymnal.html): \
+"[I am](i-am.html)." "[I think it’s \
+you (but it’s not)](i-think-its-you.html)."
 
 [I wanted to tell you something](i-wanted-to-tell-you-something.html)
-[in bed](in-bed.html), the
-[initial conditions](initial-conditions.html) \
+[in bed](in-bed.html)--- \
+the [initial conditions](initial-conditions.html)
 of [January](january.html)'s
 [joke](joke.html) are
-[L’appel du vide](lappel-du-vide.html). \
+[_l’appel du vide_](lappel-du-vide.html). \
 [The largest asteroid in the asteroid belt](largest-asteroid.html) is the
-[last bastion](last-bastion.html), the \
-[last passenger](last-passenger.html)
+[last bastion](last-bastion.html), \
+the [last passenger](last-passenger.html)
 [leaf](leaf.html), the
 [leg](leg.html)
 [liking things](likingthings.html).
 
 [Listen](listen.html):
-[love as God](love-as-god.html) is better \
+[love as God](love-as-god.html) loves, better \
 than a [love song](lovesong.html),
 [man](man.html).
 
-[The moon is drowning](moon-drowning.html). \
-[The moon is gone and in its place: a mirror](moongone.html). \
-[The mountain](mountain.html)'s
-[moving sideways](movingsideways.html), \
-[something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing](music-433.html). \
-Listen:
+[The moon is drowning](moon-drowning.html).
+[The moon is gone, \
+and in its place: a mirror](moongone.html).
+[The mountain](mountain.html)'s \
+[moving sideways](movingsideways.html), [something about all music \
+being performances of _4&prime;33&Prime;_ in places \
+where other bands happen to be playing](music-433.html). Listen: \
 [no nothing](no-nothing.html), no
-[notes](notes.html). \
-[Nothing is ever over](nothing-is-ever-over.html).
+[notes](notes.html), [_nothing_ is ever over](nothing-is-ever-over.html).
 
 [On formal poetry](onformalpoetry.html),
 [options](options.html): \
 an [ouroboros of memory](ouroboros_memory.html),
 [_Paul_](paul.html),
 [philosophy](philosophy.html), \
-a [phone](phone.html),
+[phone](phone.html)s, or
 [planks](planks.html).
 A [litany for a plant](plant.html).
 
-[Something about the nature of poetry and time](poetry-time.html): \
+[Something about the nature \
+of poetry and time](poetry-time.html):
 [prelude](prelude.html),
 [problems](problems.html),
-[proverbs](proverbs.html),
-[punch](punch.html),
-[the purpose of dogs](purpose-dogs.html).
+[proverbs](proverbs.html). \
+[Punch](punch.html)
+is [the purpose of dogs](purpose-dogs.html).
 
 A [question](question.html): if
 [a real writer](real-writer.html)
 [reports](reports.html) on \
 the [riptide of memory](riptide_memory.html), does
-[Ronald McDonald](ronaldmcdonald.html) wear \
-[rough gloves](roughgloves.html) or
+[Ronald McDonald](ronaldmcdonald.html) \
+wear [rough gloves](roughgloves.html) or
 a [sapling](sapling.html)?
 
 [Seasonal affective disorder](seasonal-affective-disorder.html) is part of
 the [sense of it](sense-of-it.html). \
 The [serengeti](serengeti.html) is
-a [shed](shed.html). \
-[The shipwright](shipwright.html) builds
+a [shed](shed.html).
+[The shipwright](shipwright.html) \
+builds
 [the sixteenth chapel](sixteenth-chapel.html) in
 [snow](snow.html).
 
@@ -122,21 +125,22 @@ a [shed](shed.html). \
 
 A [stump](stump.html) is not
 a [swansong](swansong-alt.html) is not
-a [_swan song_](swansong.html). \
+a [_swan_, Song](swansong.html). \
 
 [Swear](swear.html)
 the [table of contents](table_contents.html) is
-a [tapestry](tapestry.html) of \
-[telemarketer](telemarketer.html)s. Swear that
-[the night we met, I was out of my mind](the-night-we-met.html).
+a [tapestry](tapestry.html). \
+[Telemarketer](telemarketer.html)s swear that
+[the night we met, I \
+was out of my mind](the-night-we-met.html).
 
 [The sea and the beach](the-sea_the-beach.html), even
-[the ocean overflows with camels](theoceanoverflowswithcamels.html). \
-[Time looks up to the sky](time-looks-up-to-the-sky.html),
+[the ocean overflows \
+with camels](theoceanoverflowswithcamels.html).
+[Time looks up to the sky](time-looks-up-to-the-sky.html), \
 [to Daniel](todaniel.html) on
-the [toilet](toilet.html) \
-writing
-"[Toothpaste](toothpaste.html),"
+the [toilet](toilet.html) writing
+"[Toothpaste](toothpaste.html)," \
 a [treatise](treatise.html) on
 [underwear](underwear.html) and
 [wallpaper](wallpaper.html).
@@ -144,10 +148,11 @@ a [treatise](treatise.html) on
 [We played those games too](weplayedthosegamestoo.html).
 
 [When I’m sorry I wash dishes](when-im-sorry-i.html) in
-the [window](window.html), thinking about \
+the [window](window.html), thinking \
+about
 [words and meaning](words-meaning.html).
 I feel [worse, \
 looking over](worse-looking-over.html) at you,
-than when I'm [writing](writing.html)
+than when I'm [writing](writing.html) \
 an [x-ray](x-ray.html) in
 [yellow](yellow.html).
