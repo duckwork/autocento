@@ -1,9 +1,7 @@
-# for windows only right now
-
 num=0
 for file in src/{.[!.]*,*}.txt; do
     # TODO: change this to work with globs & args & stuff
-    echo -n "Compiling $file ..."
+    echo -n "Compiling $file to HTML5"
     pandoc -f markdown \
            -t html5 \
            --template=.template.html \
@@ -11,6 +9,11 @@ for file in src/{.[!.]*,*}.txt; do
            --mathml \
            "$file" \
            -o "${file%.txt}.html"
+    echo -n " & RIVER ..."
+    pandoc -f markdown \
+           -t lua/river.lua \
+           "$file" \
+           -o "${file%.txt}.river"
     echo " Done."
     ((num += 1))
 done
@@ -18,6 +21,12 @@ done
 echo
 echo "Moving files to build directory ..."
 mv src/{.[!.]*,*}.html ./
+echo "Moving RIVERs to river/ ..."
+mv src/{.[!.]*,*}.river river/
+echo "Concatenating and counting rivers ..."
+cat river/*.river | \
+    sed -e "s/^\s\+//" -e "s/\s\+$//" -e 's/--\+/\n/g' | \
+    sort | uniq -c | sort >river/COUNTS.txt
 echo "Finished compiling $num files."
 ###############################################
 echo
