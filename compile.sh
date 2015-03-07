@@ -22,10 +22,10 @@ echo
 echo "Moving files to build directory ..."
 mv src/{.[!.]*,*}.html ./
 echo "Moving RIVERs to river/ ..."
-mv src/{.[!.]*,*}.river river/
+mv src/*.river river/
+rm src/*.river
 echo "Concatenating and counting rivers ..."
 cat river/*.river | \
-    sed -e "s/^\s\+//" -e "s/\s\+$//" -e 's/--\+/\n/g' | \
     sort | uniq -c | sort >river/COUNTS.txt
 echo "Finished compiling $num files."
 ###############################################
