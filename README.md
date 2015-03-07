@@ -44,6 +44,6 @@ project:
 ...
 ````
 
-To compile all the markdown into glorious, glorious HTML (visible at <http://autocento.me>), run `compile.sh` (`bash compile.sh` in Windows) in the root directory of this git repository.
+To compile all the markdown into glorious, glorious HTML (visible at <http://autocento.me>), run `compile.lua` (`bash compile.lua` in Windows) in the root directory of this git repository.
 
 [pandoc]: http://johnmacfarlane.net/pandoc/
