@@ -31,6 +31,7 @@
 </head>
 <body>
 $for(include-before)$ $include-before$ $endfor$
+<article id="header">
     <header>
         <!-- title -->
         $if(title)$<h1 class="title">$title$</h1>$endif$
@@ -56,20 +57,23 @@ $for(include-before)$ $include-before$ $endfor$
         $endif$
     </header>
 
-    <section class="thing $genre$">
-    $body$
+    <section class="content $genre$">
+        $body$
     </section>
+</article>
 
     <nav>
         $for(project.prev)$
-        <a class="prevlink" href="$project.prev.link$.html">
+        <a class="prevlink" href="$project.prev.link$.html"
+            title="Next article$if(project.title)$ in $project.title$$endif$">
             $project.prev.title$
         </a>
         $endfor$
         <a href="#" id="lozenge" title="Random page"> &loz; </a>
         $for(project.next)$
-        <a class="nextlink" href="$project.next.link$.html">
-            $project.next.title$
+        <a class="nextlink" href="$project.next.link$.html"
+            title="Previous article$if(project.title)$ in $project.title$$endif$">
+            $project.next.title$>
         </a>
         $endfor$
     </nav>

@@ -5,5 +5,10 @@
  * etc.
  */
 
+#container {
+    text-align: center;
+}
+
 .verse {
+    display: inline-box;
 }

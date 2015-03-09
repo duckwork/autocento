@@ -31,8 +31,8 @@ header {
     max-width: 39em;
     margin: auto;
 }
-.thing {
-    max-width: 39em;
+#container {
+    /* max-width: 39em; */
     margin: 0 auto;
     padding-bottom: 24px;
 }
