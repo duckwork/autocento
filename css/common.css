@@ -30,11 +30,23 @@ body {
 header {
     max-width: 39em;
     margin: auto;
+    text-align: center;
+}
+.title {
+    text-align: left;
+    display: inline-block;
+}
+.subtitle {
+    text-align: center;
+    display: block;
+}
+.dedication {
+    text-align: right;
 }
 #container {
     /* max-width: 39em; */
     margin: 0 auto;
-    padding-bottom: 24px;
+    padding-bottom: 30px;
 }
 nav {
     height: 24px;

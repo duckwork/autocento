@@ -1,6 +1,6 @@
 ---
 title: Ars poetica
-genre: verse
+genre: prose
 
 project:
     title: Elegies for alternate selves
