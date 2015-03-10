@@ -10,5 +10,6 @@
 }
 
 .verse {
-    display: inline-box;
+    display: inline-block;
+    text-align: left;
 }

@@ -8,6 +8,7 @@
 .prose {
     text-align: justify;
     max-width: 39em;
+    margin: auto;
     hyphens: auto;
     -moz-hyphens: auto;
 }
