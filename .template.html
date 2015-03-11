@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<!-- Template for compiled 'Autocento' documents -->
+<!-- AUTOCENTO OF THE BREAKFAST TABLE -->
+<!-- vim: fdm=indent -->
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -30,38 +31,38 @@
     $endfor$
 </head>
 <body>
-$for(include-before)$ $include-before$ $endfor$
-<article id="container">
-    <header>
-        <!-- title -->
-        $if(title)$<h1 class="title">$title$</h1>$endif$
-        $if(subtitle)$<h1 class="subtitle">$subtitle$</h1>$endif$
+    $for(include-before)$ $include-before$ $endfor$
+    <article id="container">
+        <header>
+            <!-- title -->
+            $if(title)$<h1 class="title">$title$</h1>$endif$
+            $if(subtitle)$<h1 class="subtitle">$subtitle$</h1>$endif$
 
-        $if(dedication)$
-        <!-- dedication -->
-        <div class="dedication">$dedication$</div>
-        $endif$
-
-        $if(epigraph.content)$
-        <!-- epigraph -->
-        <div class="epigraph">
-            $if(epigraph.link)$
-            <a href="$epigraph.link$">$epigraph.content$</a>
-            $else$
-            $epigraph.content$
+            $if(epigraph.content)$
+            <!-- epigraph -->
+            <div class="epigraph">
+                $if(epigraph.link)$
+                <a href="$epigraph.link$">$epigraph.content$</a>
+                $else$
+                $epigraph.content$
+                $endif$
+            </div>
+            $if(epigraph.attrib)$
+            <div class="epigraph-attrib">$epigraph.attrib$</div>
             $endif$
-        </div>
-        $if(epigraph.attrib)$
-        <div class="epigraph-attrib">$epigraph.attrib$</div>
-        $endif$
-        $endif$
-    </header>
 
-    <section class="content $genre$">
-        $body$
-    </section>
-</article>
+            $if(dedication)$
+            <!-- dedication -->
+            <div class="dedication">$dedication$</div>
+            $endif$
 
+            $endif$
+        </header>
+
+        <section class="content $genre$">
+            $body$
+        </section>
+    </article>
     <nav>
         $for(project.prev)$
         <a class="prevlink" href="$project.prev.link$.html"
@@ -77,8 +78,8 @@ $for(include-before)$ $include-before$ $endfor$
         </a>
         $endfor$
     </nav>
-$for(include-after)$
-$include-after$
-$endfor$
+    $for(include-after)$
+    $include-after$
+    $endfor$
 </body>
 </html>
