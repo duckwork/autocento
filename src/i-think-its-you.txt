@@ -4,7 +4,7 @@ genre: verse
 
 epigraph:
     content: When you fall in love everyone looks the same.
-    link: i-think-its-you
+    link: i-think-its-you.html
 
 project:
     title: Stark Raving
