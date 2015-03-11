@@ -1,6 +1,5 @@
 ---
 title: epigraph
-subtitle: An epigraph
 genre: prose
 
 project:

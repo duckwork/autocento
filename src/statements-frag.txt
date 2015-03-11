@@ -8,7 +8,7 @@ project:
     css: autocento
 ...
 
-I. Eli {#i.-eli .unnumbered}
+I. Eli {#eli}
 ------
 
 "Can one truly describe an emotion?"  Eli asked me over the walkie-talkie.
@@ -43,7 +43,7 @@ So I walked around the coffee table as he sat down, not looking at me anymore, a
 The blanket I had been sitting in was crumpled next to him like a dead bird.
 I opened my mouth but thought better of talking, and closed the door behind me slowly.
 
-II. Dimorphic {#ii.-dimorphic .unnumbered}
+II. Dimorphic {#dimorphic .verse}
 -------------
 
 [Oranges][].  Poison.  A compromise \
@@ -57,7 +57,7 @@ has a seething mass of eels \
 for a brain, mating in the water so forcefully \
 that it could [drown you under the moon][].
 
-III. Declaration of Poetry {#iii.-declaration-of-poetry .unnumbered}
+III. Declaration of Poetry {#declaration-of-poetry}
 --------------------------
 
 You have to go one line at a time, and you have to start on the first or second line.

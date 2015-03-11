@@ -84,7 +84,11 @@ end
 
 if intable(args, '-html') then
     print("Compiling HTML ... ")
-    compile(files, "html5", "html", ".template.html", { "smart", "mathml" })
+    compile(files, "html5", "html", ".template.html", {
+        "smart",
+        "mathml",
+        "section-divs",
+    })
     -- move(tabsub(files,'^.*/(.*)%.txt','%1.html'), ".")
 end
 if intable(args, '-river') then

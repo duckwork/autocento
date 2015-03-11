@@ -1,6 +1,6 @@
 ---
 title: L'appel du vide
-genre: verse
+genre: prose
 
 epigraph:
     content: You can never go home again.
@@ -43,7 +43,7 @@ The problem was that the best wasn't good enough.
 
 [accounting firm]: telemarketer.html
 
-II. L'appel du vide
+II. L'appel du vide {.verse}
 -------------------
 
 And I'll get in my car and drive \
