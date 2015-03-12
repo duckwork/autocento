@@ -7,6 +7,11 @@ epigraph:
     attrib: Philip Gould
     link: http://www.npr.org/blogs/13.7/2013/11/19/245996903/embracing-life-and-death
 
+ekphrastic:
+    image: gould.png
+    title: Philip Gould
+    link: 'http://www.npr.org/blogs/13.7/2013/11/19/245996903/embracing-life-and-death'
+
 project:
     title: Stark Raving
     css: stark
@@ -22,8 +27,6 @@ project:
     - title: AMBER alert
       link: amber-alert
 ...
-
-![Philip Gould](img/gould.png)
 
 When I think of death I think \
 of Peter Falk in _The Princess Bride_ patting \

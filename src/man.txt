@@ -2,6 +2,11 @@
 title: Man
 genre: prose
 
+ekphrastic:
+    image: tbedemugshot.jpg
+    title: This man refused to open his eyes
+    link: 'http://collection.hht.net.au/firsthhtpictures/fullRecordPicture.jsp?recnoListAttr=recnoList&recno=31230'
+
 project:
     title: "Buildings out of air: Paul in the Woods"
     css: paul
@@ -18,9 +23,7 @@ project:
       link: leg
 ...
 
-_[THIS MAN REFUSED TO OPEN HIS EYES][man]_
-
-![THIS MAN REFUSED TO OPEN HIS EYES](img/tbedemugshot.jpg)
+_THIS MAN REFUSED TO OPEN HIS EYES_
 
 Paul read this on an old mugshot in the library.
 He had taken the [bus][] into town to check out a few books on woodworking and got distracted by the True Crime section.
@@ -43,7 +46,6 @@ He wondered what crime he had committed.
 Above the man's head was written [_T. BEDE.22.11.28 / 203 A_.][emilia]
 _THIS MAN REFUSED TO OPEN HIS EYES_ was written over his suit, directly below his ribcage.
 
-[man]: http://collection.hht.net.au/firsthhtpictures/fullRecordPicture.jsp?recnoListAttr=recnoList&recno=31230
 [emilia]: http://emiliaphillips.com/books/signaletics/
 [bus]: boy_bus.html
 [photograph]: about-the-author.html

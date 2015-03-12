@@ -62,9 +62,43 @@
             $endif$
         </header>
 
-        <section class="content $genre$">
-            $body$
-        </section>
+        $if(ekphrastic.image)$
+            <div class="ekphrastic">
+            $if(ekphrastic.link)$
+                <a href="$ekphrastic.link$">
+                    <img src="img/$ekphrastic.image$"
+                    $if(ekphrastic.title)$
+                        title="$ekphrastic.title$"
+                    $endif$
+                    $if(ekphrastic.alt)$
+                        alt="$ekphrastic.alt$"
+                    $else$
+                        alt="$ekphrastic.title$"
+                    $endif$
+                    $if(ekphrastic.class)$
+                        class="$ekphrastic.class$"
+                    $endif$
+                    />
+                </a>
+            $else$
+                <img src="img/$ekphrastic.image$"
+                $if(ekphrastic.title)$
+                    title="$ekphrastic.title$"
+                $endif$
+                $if(ekphrastic.alt)$
+                    alt="$ekphrastic.alt$"
+                $else$
+                    alt="$ekphrastic.title$"
+                $endif$
+                $if(ekphrastic.class)$
+                    class="$ekphrastic.class$"
+                $endif$
+                />
+            $endif$
+            </div>
+        $endif$
+
+        <section class="content $genre$">$body$</section>
     </article>
     <nav>
         $for(project.prev)$

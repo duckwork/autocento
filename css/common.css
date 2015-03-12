@@ -93,13 +93,10 @@ a[href^="http"]:active {
 }
 /* links }}} */
 /* IMAGES {{{ */
-figure {
+.ekphrastic {
     max-width: 39em;
     margin: auto;
     text-align: center;
-}
-figcaption {
-    display: none;
 }
 img {
     max-width: 100%;

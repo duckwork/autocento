@@ -6,6 +6,11 @@ epigraph:
     content: Apparently it does nothing.
     link: 'http://www.boston.com/bostonglobe/ideas/articles/2008/07/20/abducted/?page=full'
 
+ekphrastic:
+    image: amber.jpg
+    title: Amber Hagerman
+    link: 'https://en.wikipedia.org/wiki/AMBER_alert'
+
 project:
     title: Stark Raving
     css: stark
@@ -27,8 +32,6 @@ They have to want to be found---is that why we tack up signs, hang socks from ho
 Maybe the lost *want* to be found but we're looking in the wrong places.
 Maybe we speak the wrong language, the language of the found, to call to them.
 Maybe we should [try another door][].
-
-![Amber Hagerman](https://upload.wikimedia.org/wikipedia/en/5/54/Amber_Hagerman.jpg)
 
 [Lost things]: lappel-du-vide
 [staying lost]: http://www.poetryfoundation.org/poem/176996

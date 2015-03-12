@@ -2,6 +2,11 @@
 title: The moon is gone and in its place a mirror
 genre: prose
 
+ekphrastic:
+    image: moongone.jpg
+    title: The moon is gone
+    link: 'http://apod.nasa.gov/apod/ap120102.html'
+
 project:
     title: Elegies for alternate selves
     css: elegies
@@ -14,9 +19,7 @@ project:
       link: mountain
 ...
 
-![The moon is gone](img/moongone.jpg)
-
-The [moon is gone][] and in its place a mirror.  Looking at the night sky now
+The moon is gone and in its place a mirror.  Looking at the night sky now
 yields nothing but the viewer's own face as viewed from a million miles,
 surrounded by the landscape he is only vaguely aware of being surrounded
 by.  He believes that he is [alone][], surrounded by desert and mountain, but
@@ -30,4 +33,3 @@ completely alone.
 
 [alone]: apollo11.html
 [Earth]: serengeti.html
-[moon is gone]: http://apod.nasa.gov/apod/ap120102.html

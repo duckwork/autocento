@@ -28,6 +28,11 @@ epigraph:                                    # optional
 
 dedication: my mother                        # optional
 
+ekphrastic:                                  # optional image ekphrastic
+    image: 'link-to-image.ext'
+    title: 'Text for title text of image'
+    link: 'http://link-to-host-of-original/'
+
 project:
     title: Original project name
     order: 1                                 # page number, optional
