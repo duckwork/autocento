@@ -94,7 +94,7 @@ a[href^="http"]:active {
 /* links }}} */
 /* IMAGES {{{ */
 figure {
-    width: 100%;
+    max-width: 39em;
     margin: auto;
     text-align: center;
 }
