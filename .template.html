@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <!-- AUTOCENTO OF THE BREAKFAST TABLE -->
-<!-- vim: fdm=indent -->
+<!-- vim: fdm=indent
+-->
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -32,6 +33,7 @@
 </head>
 <body>
     $for(include-before)$ $include-before$ $endfor$
+
     <article id="container">
         <header>
             <!-- title -->
@@ -39,23 +41,23 @@
             $if(subtitle)$<h1 class="subtitle">$subtitle$</h1>$endif$
 
             $if(epigraph.content)$
-            <!-- epigraph -->
-            <div class="epigraph">
+                <!-- epigraph -->
+                <div class="epigraph">
                 $if(epigraph.link)$
-                <a href="$epigraph.link$">$epigraph.content$</a>
+                    <a href="$epigraph.link$">$epigraph.content$</a>
                 $else$
-                $epigraph.content$
+                    $epigraph.content$
                 $endif$
-            </div>
-            $if(epigraph.attrib)$
-            <div class="epigraph-attrib">$epigraph.attrib$</div>
+
+                $if(epigraph.attrib)$
+                    <div class="attrib">$epigraph.attrib$</div>
+                $endif$
+                </div>
             $endif$
 
             $if(dedication)$
-            <!-- dedication -->
-            <div class="dedication">$dedication$</div>
-            $endif$
-
+                <!-- dedication -->
+                <div class="dedication">$dedication$</div>
             $endif$
         </header>
 
