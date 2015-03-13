@@ -58,38 +58,50 @@ nav {
     text-align: center;
 }
 .footnotes {
-    width: 80%;
+    font-size: 10pt;
+    width: 100%;
     position: absolute;
     top: 100%;
-    left: 10%;
-    font-size: 10pt;
+    left: 0;
+}
+.footnotes li {
+    margin-right: 2em;
+    border-bottom: 1px solid gray;
+    max-width: 45em;
+    margin: auto;
+}
+.footnotes li:last-child {
+    border-bottom: none;
 }
 /* layout }}} */
 /* LINKS {{{ */
 a:link {
+    padding-top: 1px;
     color: inherit;
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: 1px solid black;
 }
 a:visited {
     color: inherit;
 }
 a:hover {
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 a:active {
-    text-decoration: underline;
+    /* text-decoration: underline; */
+    border-top: 1px solid black;
 }
 /* External Links */
 a[href^="http"]:link {
     text-decoration: none;
+    border-bottom: 1px dashed black;
 }
 a[href^="http"]:visited {
 }
 a[href^="http"]:hover {
-    text-decoration: underline;
 }
 a[href^="http"]:active {
-    text-decoration: underline;
+    border-top: 1px dashed black;
 }
 /* links }}} */
 /* IMAGES {{{ */
@@ -160,6 +172,7 @@ h2 {
 }
 /* epigraph }}} */
 /* NAV {{{ */
+nav a:link { border-bottom: none; }
 nav .prevlink { float: left; text-align: left; }
 nav .nextlink { float: right; text-align: right; }
 /* Properties both types of navlinks share */
@@ -196,5 +209,8 @@ nav .nextlink::after {
 }
 .footnotes a[href^="#fnref"] {
     float: right;
+}
+a.footnoteRef {
+    border: none;
 }
 /* footnotes }}} */
