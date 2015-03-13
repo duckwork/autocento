@@ -188,6 +188,7 @@ nav .prevlink, nav .nextlink {
     overflow: hidden;
     text-overflow: ellipsis;
     text-decoration: none;
+    position: relative;
 }
 nav .prevlink::before {
     content: ' «';

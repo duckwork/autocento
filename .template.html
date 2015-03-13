@@ -103,20 +103,19 @@
     <nav>
         $for(project.prev)$
         <a class="prevlink" href="$project.prev.link$.html"
-            title="Next article$if(project.title)$ in $project.title$$endif$">
+            title="Previous article$if(project.title)$ in $project.title$$endif$">
             $project.prev.title$
         </a>
         $endfor$
         <a href="#" id="lozenge" title="Random page"> &loz; </a>
         $for(project.next)$
         <a class="nextlink" href="$project.next.link$.html"
-            title="Previous article$if(project.title)$ in $project.title$$endif$">
+            title="Next article$if(project.title)$ in $project.title$$endif$">
             $project.next.title$
         </a>
         $endfor$
     </nav>
-    $for(include-after)$
-    $include-after$
-    $endfor$
+
+    $for(include-after)$ $include-after$ $endfor$
 </body>
 </html>
