@@ -54,6 +54,9 @@ header {
 .content p:first-child {
     margin-top: 0
 }
+.content {
+    line-height: 1.3em;
+}
 nav {
     height: 24px;
     width: 100%;
