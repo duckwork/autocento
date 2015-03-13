@@ -14,7 +14,7 @@ html, body {
     margin: 0;
     padding: 0;
 
-    font-family: "Fira Sans", sans-serif;
+    font-family: "Linux Libertine O", sans-serif;
     font-size: 12pt;
 }
 html { height: 100%; }
@@ -31,6 +31,8 @@ header {
     max-width: 39em;
     margin: auto;
     text-align: center;
+    border-bottom: 1px solid black;
+    padding: 1em 0;
     margin-bottom: 1em;
 }
 .title {
@@ -42,12 +44,15 @@ header {
     display: block;
 }
 .dedication {
-    text-align: right;
+    text-align: left;
 }
 #container {
     /* max-width: 39em; */
     margin: 0 auto;
     padding-bottom: 30px;
+}
+.content p:first-child {
+    margin-top: 0
 }
 nav {
     height: 24px;
@@ -74,6 +79,35 @@ nav {
     border-bottom: none;
 }
 /* layout }}} */
+/* HEADINGS {{{ */
+.title {
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 18pt;
+    /* font-weight: bold; */
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin: 0;
+}
+.subtitle {
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 15pt;
+    font-style: italic;
+    font-weight: 400;
+    /* position: relative; */
+    /* top: -0.5em; */
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h2 {
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 12pt;
+    font-weight: 600;
+}
+header {
+    position: relative;
+}
+/* headings }}} */
 /* LINKS {{{ */
 a:link {
     padding-top: 1px;
@@ -106,46 +140,24 @@ a[href^="http"]:active {
 /* links }}} */
 /* IMAGES {{{ */
 .ekphrastic {
-    max-width: 39em;
-    margin: auto;
+    max-width: 41em;
+    margin-top: -1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
+.ekphrastic a:link { border: none; }
 img {
     max-width: 100%;
     margin: auto;
 }
 /* images }}} */
-/* HEADINGS {{{ */
-.title {
-    font-family: "Playfair Display", Georgia, serif;
-    font-size: 16pt;
-    /* font-weight: bold; */
-    font-weight: 400;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-}
-.subtitle {
-    font-family: "Playfair Display", Georgia, serif;
-    font-size: 15pt;
-    font-style: italic;
-    font-weight: 400;
-    position: relative;
-    top: -0.5em;
-    margin-top: 0;
-    margin-bottom: 0;
-}
-h2 {
-    font-family: "Playfair Display", Georgia, serif;
-    font-size: 12pt;
-    font-weight: 600;
-}
-/* headings }}} */
 /* DEDICATION {{{ */
 .dedication {
     font-style: italic;
-    font-size: 10pt;
+    font-size: 11pt;
     margin-top: 1em;
-    margin-bottom: 1em;
 }
 .dedication::before {
     content: 'for ';
@@ -155,8 +167,10 @@ h2 {
 /* EPIGRAPH {{{ */
 .epigraph {
     text-align: right;
-    font-size: 10pt;
+    font-size: 11pt;
     font-style: italic;
+    /* font-family: "Playfair Display", Georgia, serif; */
+    margin-top: 1em;
 }
 .epigraph p {
     margin: 0;
@@ -164,8 +178,8 @@ h2 {
 .epigraph .attrib {
     text-align: right;
     margin-top: 0;
-    font-size: 10pt;
-    font-style: italic;
+    font-size: 11pt;
+    font-style: normal;
 }
 .epigraph .attrib::before {
     content: '– ';
@@ -173,6 +187,7 @@ h2 {
 /* epigraph }}} */
 /* NAV {{{ */
 nav a:link { border-bottom: none; }
+nav a:active { border: none; }
 nav .prevlink { float: left; text-align: left; }
 nav .nextlink { float: right; text-align: right; }
 /* Properties both types of navlinks share */

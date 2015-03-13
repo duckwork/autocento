@@ -41,6 +41,11 @@
             $if(title)$<h1 class="title">$title$</h1>$endif$
             $if(subtitle)$<h1 class="subtitle">$subtitle$</h1>$endif$
 
+            $if(dedication)$
+                <!-- dedication -->
+                <div class="dedication">$dedication$</div>
+            $endif$
+
             $if(epigraph.content)$
                 <!-- epigraph -->
                 <div class="epigraph">
@@ -54,11 +59,6 @@
                     <div class="attrib">$epigraph.attrib$</div>
                 $endif$
                 </div>
-            $endif$
-
-            $if(dedication)$
-                <!-- dedication -->
-                <div class="dedication">$dedication$</div>
             $endif$
         </header>
 

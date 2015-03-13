@@ -29,6 +29,6 @@ blockquote ul li::before {
 
 /* Emphasis = handwritten */
 em {
-    font-family: "Playfair Display", Georgia, sans-serif;
+    /* font-family: "Playfair Display", Georgia, sans-serif; */
     font-style: italic;
 }
