@@ -32,6 +32,7 @@ ekphrastic:                                  # optional image ekphrastic
     image: 'link-to-image.ext'
     title: 'Text for title text of image'
     link: 'http://link-to-host-of-original/'
+    class: css class(es) for the image
 
 project:
     title: Original project name

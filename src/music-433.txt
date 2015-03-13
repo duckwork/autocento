@@ -1,5 +1,6 @@
 ---
-title: Something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing
+title: Something
+subtitle: 'about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing'
 genre: verse
 
 dedication: '[Randall](https://xkcd.com/1199/)'
@@ -21,7 +22,7 @@ project:
 ...
 
 Silence lies underneath us all in the same way \
-the Nile has a river underneath ten times as large \
+[the Nile has a river underneath ten times as large][nile] \
 (although this is an urban legend, apparently).
 
 So underneath [truth][] or legend, flowing by \
@@ -50,3 +51,4 @@ although this is an urban legend, apparently.
 [silence]: nothing-is-ever-over.html
 [songs]: swansong.html
 [sound one sound]: swansong-alt.html
+[nile]: http://members.authorsguild.net/svobodni/resonance_80307.htm "Personals"

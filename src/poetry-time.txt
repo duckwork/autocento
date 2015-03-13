@@ -1,5 +1,6 @@
 ---
-title: Something about the nature of poetry and time
+title: Something
+subtitle: about the nature of poetry and time
 genre: verse
 
 project:

@@ -8,10 +8,10 @@ project:
 ...
 
 | While [swimming in the river][]
-| I saw underneath it a river
+| I saw [underneath it a river][]
 | of stars.  Only there was no
 | river: it was noon.  You can
-| say [the sun is a river][]; you
+| say the sun is a river; you
 | can argue the stars back it
 | like [shirts behind a closet][]
 | door; you can say [the earth][]
@@ -60,7 +60,6 @@ project:
 | origins deep within itself.
 
 [swimming in the river]: father.html
-[the sun is a river]: music-433.html
 [shirts behind a closet]: lovessong.html
 [the earth]: big-dipper.html
 [nor door]: amber-alert.html
@@ -69,3 +68,4 @@ project:
 [might've drowned]: in-bed.html
 [wailing and gnashing]: http://biblehub.com/luke/13-28.htm
 [river underneath]: howtoread.html
+[underneath it a river]: music-433.html
