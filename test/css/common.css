@@ -1,0 +1,63 @@
+/* Colors  {{{ */
+#container {
+    border: 1px dashed black;
+}
+header {
+    background-color: black;
+    border-bottom: 5px dotted maroon;
+}
+.title {
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
+.subtitle {
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+}
+.dedication {
+    background-color: yellow;
+    color: black;
+    border: 1px solid black;
+}
+.epigraph {
+    background-color: yellow;
+    color: blue;
+}
+.content {
+    background-color: purple;
+    color: white;
+    border: 1px solid black;
+}
+nav {
+    border: 1px solid black;
+}
+/* }}} */
+header {
+    position: relative;
+    max-width: 39em;
+    margin: auto;
+}
+.dedication {
+    text-align: left;
+}
+.epigraph {
+    border: 1px solid black;
+    text-align: right;
+}
+#dedepi { text-align: right; }
+.dedication,.epigraph {
+    vertical-align: bottom;
+    display: inline-block;
+    margin: 0 1%;
+    width: 47%;
+}
+.epigraph p { margin: 0; padding: 0; }
+header::after {
+    content: " ";
+    display: inline-block;
+    clear: both;
+    height: 0px;
+    width: 100%;
+}

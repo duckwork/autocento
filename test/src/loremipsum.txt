@@ -1,0 +1,74 @@
+---
+title: Lorem ipsum
+subtitle: a test suite for the gods
+genre: prose
+
+epigraph:
+    content: |
+        Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+    link: 'http://lipsum.com/'
+    attrib: Cicero
+
+dedication: you, dear Reader
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+    order: 1
+    next:
+    - title: Ipsum lorem
+      link: .ipsumlorem
+    prev:
+    - title: Ipsum lorem
+      link: .ipsumlorem
+...
+
+[Lorem ipsum dolor sit amet][], consectetur adipiscing elit.
+Vivamus at vulputate ligula, ac ullamcorper magna.
+In in porta metus.
+Curabitur iaculis faucibus posuere.
+Nunc elementum libero vitae sapien auctor mollis.
+Aenean eget tellus ac urna tincidunt vestibulum.
+Vivamus eget orci nec purus mollis efficitur.
+Pellentesque eu pharetra justo.
+
+Duis tincidunt convallis vulputate.
+Etiam non magna mi.
+Proin porttitor vel quam ac dignissim.
+Pellentesque tempus orci orci, quis tincidunt enim tincidunt in.
+Vestibulum posuere leo ut lacus imperdiet, nec rutrum turpis pellentesque.
+Pellentesque dictum finibus posuere.
+Mauris vehicula lacus lorem, a euismod purus cursus eu.
+Vivamus magna mauris, vehicula et libero at, commodo consectetur purus.
+
+Sed laoreet posuere consectetur.
+Proin sed rutrum ligula, id scelerisque eros.
+Duis rhoncus magna eu magna scelerisque, non volutpat libero volutpat.
+Mauris gravida et tellus non ornare.
+Integer nibh nulla, commodo aliquam imperdiet a, condimentum pulvinar magna.
+Praesent commodo eros eu nisi sagittis pulvinar.
+Cras id lectus vel eros porta faucibus eu eu quam.
+Morbi et nisi id nunc elementum facilisis.
+Maecenas ultrices eu purus nec auctor.
+Cras quis sagittis nunc, in accumsan lacus.
+
+Sed sem arcu, eleifend imperdiet ligula consectetur, tempus efficitur massa.
+Donec commodo convallis cursus.
+Donec id magna at arcu malesuada vulputate.
+Nam cursus leo eros, vel volutpat diam tincidunt eu.
+Morbi eleifend accumsan mollis.
+Sed dui lacus, tincidunt eu elit eu, venenatis ultrices erat.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Fusce sit amet imperdiet sapien, ut finibus ex.
+Quisque tincidunt, est vitae iaculis bibendum, augue odio pharetra libero, nec ornare erat risus ac quam.
+Nam varius mauris sit amet purus cursus, eget molestie ex tempus.
+
+Proin augue ligula, interdum quis fermentum eu, suscipit eget tortor.
+Suspendisse nec egestas odio, vitae vestibulum turpis.
+Proin ipsum ligula, maximus vitae mauris ut, imperdiet ultricies eros.
+Integer mi orci, vestibulum ut porttitor quis, dictum eu lacus.
+Ut placerat lectus metus, vel molestie felis luctus ac.
+Quisque facilisis lectus id magna hendrerit, auctor ornare nisl rutrum.
+Pellentesque vehicula purus vitae dui auctor, in accumsan risus efficitur.
+
+[Lorem ipsum dolor sit amet]: .ipsumlorem.html
