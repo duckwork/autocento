@@ -41,25 +41,27 @@
             $if(title)$<h1 class="title">$title$</h1>$endif$
             $if(subtitle)$<h1 class="subtitle">$subtitle$</h1>$endif$
 
-            $if(dedication)$
-                <!-- dedication -->
-                <div class="dedication">$dedication$</div>
-            $endif$
-
-            $if(epigraph.content)$
-                <!-- epigraph -->
-                <div class="epigraph">
-                $if(epigraph.link)$
-                    <a href="$epigraph.link$">$epigraph.content$</a>
-                $else$
-                    $epigraph.content$
+            <div class="header-extra">
+                $if(dedication)$
+                    <!-- dedication -->
+                    <div class="dedication">$dedication$</div>
                 $endif$
 
-                $if(epigraph.attrib)$
-                    <div class="attrib">$epigraph.attrib$</div>
+                $if(epigraph.content)$
+                    <!-- epigraph -->
+                    <div class="epigraph">
+                    $if(epigraph.link)$
+                        <a href="$epigraph.link$">$epigraph.content$</a>
+                    $else$
+                        $epigraph.content$
+                    $endif$
+
+                    $if(epigraph.attrib)$
+                        <div class="attrib">$epigraph.attrib$</div>
+                    $endif$
+                    </div>
                 $endif$
-                </div>
-            $endif$
+            </div>
         </header>
 
         $if(ekphrastic.image)$
