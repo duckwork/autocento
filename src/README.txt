@@ -32,7 +32,7 @@ In compiling the works that make up this text, I've pulled from a few different 
 * [Stark raving](table_contents.html)
 * [Buildings out of air](art.html)
 
-as well as added new poems, written quite recently.
+as well as added new articles, written quite recently.
 As I've compiled them into this project, I've linked them together based on common images or language, moving back and forth through time.
 This should give the reader a fair idea of what my head looks like on the inside.
 
@@ -51,15 +51,15 @@ You can view the repository and its changes and files at [my Github profile][].[
 Using this site
 ---------------
 
-All of the articles on this site are linked together hypertextually, that is, like a webpage.
+All of the articles on this site are linked together hypertextually (i.e., like a webpage).
 This means that all you need to do to explore the creative threads linking these articles together is to start clicking links.
-However, if you find you're looping around to a lot of the same articles, you can head back to the [index][] and click through the titles in order---that poem contains the titles of all the other poems in this project.
+However, if you find you're looping around to a lot of the same articles, you can head back to the [index][] and click through the titles in order---that article contains the titles of all the other works in this project.
 
 Alternatively, you can click the lozenge (&loz;) at the bottom of each page.
 It'll take you to a random article in the project, thanks to [this javascript][].
 
 If you want to experience the earlier projects in something resembling the original orders, previous and next links are provided at the bottom of each page, next to the lozenge.
-Sometimes, there are more than one of each of these---they represent other work I've done with hypertextuality.
+Sometimes, there are more than one of each of these, or there are none, dependant on the structure of their original project.
 
 Things still to do
 ------------------
