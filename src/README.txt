@@ -15,12 +15,33 @@ Introduction
 ------------
 
 _Autocento [of the breakfast table][]_ is a hypertextual exploration of the workings of revision across time.
-Somebody^[_[citation needed][]_]^ once said that every relationship we have is part of the same relationship; the same is true of authorship.
+Somebody^[[citation needed][]]^ once said that every relationship we have is part of the same relationship; the same is true of authorship.
 As we write, as we continue writing across our lives, patterns thread themselves through our work: images, certain phrases, preoccupations.
 This project attempts to make those threads more apparent, using the technology of hypertext.
 
 I'm also an MFA candidate at [Northern Arizona University][NAU].
 This is my thesis.
+
+Genesis
+-------
+
+This project revolves around two sister concepts: the _hapax legomenon_ and the _cento_.
+
+_Hapax legomenon_ ([ἅπαξ][] λεγόμενον) is Greek for "something said only once."
+It's used in linguistics to describe words that appear only once in a corpus.
+If expanded to _n-grams_, it can be used to describe utterances that occur only once, and this is where it gets interesting.
+If this line of thinking is taken to its logical conclusion, we can say that all writing, all utterances, are _hapax legomena_, because they appear only once in the world as they are.
+In short, everything is individual; everything is differentiated; everything is an island.
+
+On the other hand, a _cento_, from the Latin, from the Greek κέντρόνη, meaning "patchwork garment," is a poem composed completely of fragments of other poems.
+It's a mash-up that makes up for its lack of originality in utterance with a novelty in arrangement.
+Usually, it refers to taking phrases, lines, or stanzas from other authors' works, but I don't see why it couldn't refer to _n-grams_ or individual words.
+If _this_ line of thinking is taken to its logical conclusion, we can say that no writing is truly original; that every utterance has, in some scrambled way at least, been uttered before.
+In other words, nothing is individual.
+We float on an ocean of language which we did nothing to create, and the best we can hope for is to find some combination that hasn't been thought of too many times before.
+As Solomon said, "[There is nothing new under the sun][nothing-new]."
+
+_Autocento of the breakfast table_ works within the tension caused by these two concepts.
 
 Process
 -------
@@ -77,6 +98,10 @@ If you'd like to contact me about the state of this work or my writing in genera
 <!-- links & footnotes -->
 [of the breakfast table]: http://www.ibiblio.org/eldritch/owh/abt.html
 [citation needed]: https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Dealing_with_unsourced_material
+[NAU]: http://nau.edu/CAL/English/Degrees-Programs/Graduate/MFA/
+
+[ἅπαξ]: http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a%28/pac
+[nothing-new]: https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A9&version=NIV
 
 [text]: src/index.html
 
