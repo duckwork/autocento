@@ -15,7 +15,7 @@ Introduction
 ------------
 
 _Autocento [of the breakfast table][]_ is a hypertextual exploration of the workings of revision across time.
-Somebody^[citation needed]^ once said that every relationship we have is part of the same relationship; the same is true of authorship.
+Somebody^[_[citation needed][]_]^ once said that every relationship we have is part of the same relationship; the same is true of authorship.
 As we write, as we continue writing across our lives, patterns thread themselves through our work: images, certain phrases, preoccupations.
 This project attempts to make those threads more apparent, using the technology of hypertext.
 
@@ -76,6 +76,7 @@ If you'd like to contact me about the state of this work or my writing in genera
 
 <!-- links & footnotes -->
 [of the breakfast table]: http://www.ibiblio.org/eldritch/owh/abt.html
+[citation needed]: https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Dealing_with_unsourced_material
 
 [text]: src/index.html
 
