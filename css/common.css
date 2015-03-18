@@ -24,8 +24,8 @@ body {
     left: 0;
     right: 0;
     min-height: 100%;
-    padding-left: 12px;
-    padding-right: 12px;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 header {
     max-width: 39em;
@@ -158,6 +158,17 @@ img {
     margin: auto;
 }
 /* images }}} */
+/* HEADER-EXTRA {{{ */
+.header-extra {
+    text-align: right;
+}
+.dedication,.epigraph {
+    vertical-align: bottom;
+    display: inline-block;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 45%;
+}
 /* DEDICATION {{{ */
 .dedication {
     font-style: italic;
@@ -172,16 +183,6 @@ img {
     text-align: right;
 }
 /* dedication }}} */
-.header-extra {
-    text-align: right;
-}
-.dedication,.epigraph {
-    vertical-align: bottom;
-    display: inline-block;
-    margin-left: 2%;
-    margin-right: 2%;
-    width: 45%;
-}
 /* EPIGRAPH {{{ */
 .epigraph {
     text-align: right;
@@ -202,6 +203,7 @@ img {
     content: '– ';
 }
 /* epigraph }}} */
+/* header-extra }}} */
 /* NAV {{{ */
 nav a:link { border-bottom: none; }
 nav a:active { border: none; }

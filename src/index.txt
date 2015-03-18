@@ -1,7 +1,12 @@
 ---
 title: Autocento of the breakfast table
-subtitle: Index of first lines and common titles
+subtitle: index of first lines and common titles
 genre: verse
+
+epigraph:
+    content: 'Read me.'
+    link: README.html
+    attrib: Case Duckworth
 
 project:
     title: Autocento of the breakfast table
