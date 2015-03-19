@@ -1,0 +1,25 @@
+---
+title: About Case Duckworth
+genre: prose
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+...
+
+Case Duckworth is the cowardly but lovable Great Dane who solves mysteries on TV.
+Maybe you've seen him while watching commercials for Pine-Sol or Orange-Glo cleaners.
+These products dress as monsters to lure only the right kind of venture capitalist, but Duckworth believes in the right of all [venture capitalists][] to invest in products they believe in.
+His mortal enemy is the evil Old Man Jenkins, who believes that the only venture capitalists that should be allowed to invests are from the Meddling Kids gang of Edo.
+
+When not being a Great Dane, Duckworth is a Christmas ham, spreading good cheer and pork products to underprivileged gangs of venture capitalists in winter.
+He keeps them warm with his questionable farming practices and threat of Trichinosis, as well as with his own brand of firestarter called Duckworth Stax.
+He usually steals his Stax from dog food factories, making him a modern Robin Hood in addition to a Great Dane and Christmas Ham.
+
+Case Duckworth truly is a jack-of-all-trades.
+The only thing missing from his repertoire is the ability to begin a word with anything but an "R" sound, although given the fact he is a dog, it's remarkable he can speak at all.
+Duckworth was voiced by [Don Messick][] until his death in 1997, when [Frank Welker][] took over, to the dismay of fans everywhere.
+
+[venture capitalists]: love-as-god.html
+[Don Messick]: http://www.behindthevoiceactors.com/Don-Messick/
+[Frank Welker]: http://www.behindthevoiceactors.com/Frank-Welker/

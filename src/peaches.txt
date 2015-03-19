@@ -1,0 +1,84 @@
+---
+title: Peaches
+genre: prose
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+...
+
+"My anger is like a peach," he said.
+He was trying to show how metaphors could be anything.
+I thought it worked.
+I wrote it down in my red notebook.
+
+In my other class, there was a long discussion about the difference between metaphor and simile as they relate to [Prufrock][].
+I could only think about his peaches.
+I wonder if he dared.
+
+A few years ago my friend dressed up as J. Alfred Prufrock for Halloween.
+Her costume consisted of rolled khaki trousers and a peach.
+(I wonder where she found that in [October][].)
+She was annoyed that she had to tell everyone who she was---"At a writers' party!"
+I don't remember if she ate that peach.
+I do remember the main meal was spaghetti.
+
+That party was held in a house in Chattanooga, in the basement.
+There was a big back yard where people drank and talked and sat in the darkness.
+Somewhere someone was smoking weed with a visiting writer.
+
+Earlier that day, [the writer had read a poem about his car accident][sebastian] a year ago, in Georgia, on the interstate.
+It had broken him pretty badly, and his wife, but somehow their child was unharmed.
+He said something about the peach pit being the one place Georgia held sacred.
+He said it was the place where all new things grow.
+
+I can see how anger could be like a peach: its juice runs out of the mouth and down the chin, dropping onto the pants and staining them.
+In the same way, I can see how [anger is like sex][]: they are both heightened states of emotional observation.
+
+In Atlanta, there are something like five or ten [Peachtree Streets][].
+I'm not sure if they all connect at some point, but from what I could see, they would have to do some contorting to get to the same point.
+I like to think a giant peach tree grows there, like the Tree of the Knowledge of Good and Evil.
+
+I was walking down one of Atlanta's Peachtrees with my girlfriend when a man in tight pants, a runner, jogged past us.
+We both agreed he had a marvelous ass.
+I was annoyed, however, when she confessed that she wished I had one like his.
+Later, we ate at a taqueria with peach-habanero salsa.
+
+[My mother][] would read to us as children.
+The first real books I remember, the first novels, are Island of the Blue Dolphins and James and the Giant Peach.
+I don't remember Island of the Blue Dolphins as well, probably because no movie was made of it.
+
+There's an independent video rental store where I grew up called [Popcorn Video][], one of the only stores I went to in my hometown that wasn't a chain.
+Every time we went, my sister would rent two movies: _James and the Giant Peach_ and _Home Alone 3_.
+
+I wasn't allowed to stay home alone, or I don't remember it, until I was fifteen.
+I built a potato cannon out of PVC pipe and a barbecue lighter.
+I would load a potato, spray hairspray into the barrel, and light it.
+Once, the cannon wouldn't light.
+I looked down the barrel and pushed the trigger button to see if I could see a light.
+I forgot that I had already primed the barrel with hairspray.
+I singed my eyebrows and bangs.
+
+In peach season, my father would bring home a bag of the freestones every week or so.
+He always got the cheap ones, so they were usually dry and pithy, with a stone that fell apart and nearly broke my tooth.
+I don't eat them anymore when I go home.
+
+My mother would always eat canned peaches with cottage cheese.
+For some reason I didn't think this was common knowledge.
+I showed people how good it was when we went to a buffet: they said "I know."
+
+To be honest, I'm not even sure what a peach tree looks like.
+I do know what an orange tree looks like, from a backyard in Phoenix, and a fig tree, from a back yard in Chattanooga.
+I also know what a cherry tree looks like, or at least a type of them, from my own backyard at home, as well as mulberry and apple.
+If, for some reason, I find myself lost in a sinister Garden of Eden, I'll at least know a few of the trees I can eat from.
+
+I always heard growing up that the Fruit of the Tree of the Knowledge of Good and Evil was an apple.
+Maybe I'll luck out: maybe it'll be a peach.
+
+[Prufrock]: http://www.bartleby.com/198/1.html
+[October]: axe.html
+[sebastian]: http://www.32poems.com/blog/5158/weekly-prose-feature-an-interview-with-sebastian-matthews-by-justin-bigos
+[anger is like sex]: statements-frag.html
+[Peachtree Streets]: https://www.google.com/maps/place/Peachtree+Rd+NE,+Atlanta,+GA/@33.7779425,-84.3843615
+[My mother]: riptide_memory.html
+[Popcorn Video]: http://popcornvideo.net/

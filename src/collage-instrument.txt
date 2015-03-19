@@ -1,0 +1,86 @@
+---
+title: Instrumented
+subtitle: a collage
+genre: prose
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+...
+
+[`tr`][] has been a part of the Unix toolset since the late 70s.
+Short for translate or transliterate, `tr` takes two strings as arguments, and replaces incidences of the first with the second while reading a byte stream.
+It also supports ranges of characters, in formats such as `A-Z` as well as the POSIX-compliant `[:alpha:]`.
+Although [`sed`][] has more options and features, for a quick search-and-replace, `tr` is more than sufficient.
+
+The [wind blows hard up here][]---far harder than anywhere else I've been.
+I wonder, at times, if it might [pick me up like an angel][] and carry me into the night.
+
+The secret to truly great [rolls is mayonnaise][].
+Although I have received looks of disgust at this assertion, I think the explanation is enough to expel doubt: mayonnaise includes the fat, cream and egg content rolls need to be any good, plus in mayonnaise they come premeasured and perfectly blended, which makes for incredibly easy and delicious rolls.
+After I explain myself, the looks of disgust usually remain.
+
+My mother used to make me mayonnaise rolls, and hers will always be the best.
+I had a teacher in college who explained xenophobia as "Mother's cooking is best."
+
+One of my favorite fictional theories is the [Shoe Event Horizon][], an economic truth which states that as a society progresses, shoe stores become more and more prevalent.
+The demand for shoes raises slowly, almost imperceptibly, causing shoe manufacturers to make more and cheaper shoes.
+This begins a vicious cycle during which more and more shoes are made, more and more cheaply, causing more shoes to be bought, and thus made, until finally the society reaches the Shoe Event Horizon.
+This is the point at which it becomes economically impossible for any stores but shoe stores to exist.
+After the economy collapses, the society's people invariably turn [into birds][], never to touch ground again.
+
+[`awk`][] is often used as a command-line stream-editing tool, but it is actually an entire interpreted language.
+It supports multiple variables and logical structuring, and has been the inspiration for [Perl][], which has largely replaced it.
+It was originally written in 1977, but over the years has evolved, with multiple implementations made for different uses.
+
+The best shoes I ever owned were Franco Fortinis, a brand I have yet to find anywhere else.
+Sometimes I wonder if I dreamed the shoes, like in stories where the protagonist buys a powerful object from a mysterious store and try to return it after it backfires in some tragic way, only to find the spot where the store stood is an empty lot, or worse, a [blank brick wall][].
+
+After having moved to Arizona, I fear I will forget what rain is like.
+I don't think it's sandbags falling on the body, and I believe it is cold.
+I think _Daredevil_, that piss of a film, has endeared itself to me forever with its depiction of rain.
+
+Recent studies have proven eyewitness testimony to be utterly unreliable.
+It turns out that memory is not a record set down on the tablet of the brain, but rather a series of impressions, emotions, and physical states that changes even with access.
+One of my students is having a hard time finding arguments in favor of the use of eyewitness testimony for a paper.
+This is how obvious the workings of memory are.
+
+And yet.
+[Without our memory we are nothing][].
+Memory is the tether to the floor of the ocean of our past, the ocean is our collective subconscious, which we float on, on the inner tube of individual perception, slathering on the suntan lotion of our prejudices, wearing the sunglasses of self-deception, all underneath the sun of technology.
+The seagulls of death circle slowly, calling to each other the call of their society, secret in its machinations.
+
+My father told me that once, when swimming, a rip tide pulled him far out to sea.
+He said it was impossible to tell until it was too late.
+The shore simply receded too slowly.
+He never told me how he made it back, but I imagine him, bearded, beached, coughing up saltwater: a new shipwrecked victim.
+
+[`grep`][] is a basic search tool for UNIX-based systems.
+It has a robust syntax, though I've had trouble remembering the regex nuances between it, `sed`'s, and `perl`'s.
+There is a POSIX standard, but no one follows standards.
+
+My mother loves Annie Dillard.
+She always talks about the praying mantis egg case scene: Dillard could never find a praying mantis egg case, until she finally saw one by accident.
+After that, she saw them everywhere.
+
+My mother showed me an egg case once.
+I haven't seen one since.
+
+My friend Steven has over three hundred pairs of shoes.
+He tells me his goal is eventually to obtain a calendar of shoes, and wear a different one each day of the year.
+He doesn't include the forty days of Lent, however.
+[He goes barefoot those forty days][].
+
+[`tr`]: http://man.cx/tr
+[`sed`]: http://man.cx/sed
+[wind blows hard up here]: cold-wind.html
+[pick me up like an angel]: lappel-du-vide.html
+[rolls is mayonnaise]: riptide_memory.html
+[Shoe Event Horizon]: http://www.voxday.blogspot.com/2015/02/mailvox-marxism-and-shoe-event-horizon.html
+[into birds]: statements-frag.html
+[`awk`]: http://man.cx/awk
+[Perl]: http://www.perl.org/
+[blank brick wall]: building.html
+[Without our memory we are nothing]: early.html
+[`grep`]: http://man.cx/grep
+[He goes barefoot those forty days]: leg.html

@@ -1,0 +1,26 @@
+---
+title: Walking in the rain
+genre: verse
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+...
+
+I can walk through the rain, [that rare occurrence][] \
+and never be hit by a drop.  There is a space around me \
+that refuses to be [penetrated][] by weather of any kind \
+be it rain or snow or sunshine.  [Is it cold I hear you][] \
+asking in your voice soft as a breeze.  No it is not \
+[particularly cold][].  If I were to describe it as warm \
+[I would be lying as well][].  If I were to pretend I heard \
+you, far-off, mirage, breeze on the horizon, [no truth][] \
+would ever be said to have come from [my frozen lips][].
+
+[that rare occurrence]: collage-instrument.html
+[Is it cold I hear you]: seasonal-affective-disorder.html
+[particularly cold]: cold-wind.html
+[I would be lying as well]: todaniel.html
+[no truth]: no-nothing.html
+[my frozen lips]: swansong-alt.html
+[penetrated]: lovesong.html
