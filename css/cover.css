@@ -100,7 +100,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: #e5bfb2;
+    color: #e5e5b2;
 }
 li {
     list-style: none;
@@ -110,7 +110,7 @@ li {
     text-align: center;
     font-size: 1.8em;
     letter-spacing: 0.5em;
-    color: #b2d9e5;
+    color: #efefb2;
 }
 .byline {
     font-style: italic;
