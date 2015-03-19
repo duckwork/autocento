@@ -14,8 +14,9 @@ project:
 ...
 
 [100 lines](100-lines.html)
-[about the author](about-the-author.html)
-[(Amber): alert](amber-alert.html)!
+[about the author](about-the-author.html),
+[Case Duckworth](about_author.html) (née
+[Amber): alert](amber-alert.html)!
 
 [And](and.html)
 [the angel, to Abraham](angeltoabraham.html),
@@ -30,7 +31,8 @@ The [boy on the bus](boy_bus.html) is
 [building](building.html). \
 [Call me](call-me-aural-pleasure.html)
 [_Cereal_](cereal.html) or
-[_Cold Wind_](cold-wind.html)."
+[_Cold Wind_](cold-wind.html). \
+[Instrument](collage-instrumented) a collage."
 
 [Creation myth](creation-myth.html):
 [dead man](deadman.html) =
@@ -49,7 +51,7 @@ the raven](feedingtheraven.html),
 setting a [fire](fire.html).
 
 [Look](found-typewriter-poem.html):
-[hands](hands.html)! \
+[hands](hands.html)-[on poetry](on-genre-dimension.html)! \
 [A hard game](hard-game.html):
 [hardware](hardware.html). \
 ([How it happened](howithappened.html)?) \
@@ -61,6 +63,7 @@ you (but it’s not)](i-think-its-you.html)."
 
 [I wanted to tell you something](i-wanted-to-tell-you-something.html)
 [in bed](in-bed.html)--- \
+[I want to say](i-want-to-say.html)
 the [initial conditions](initial-conditions.html)
 of [January](january.html)'s
 [joke](joke.html) are
@@ -75,7 +78,8 @@ the [last passenger](last-passenger.html)
 [Listen](listen.html):
 [love as God](love-as-god.html) loves, better \
 than a [love song](lovesong.html),
-[man](man.html).
+[man](man.html). This is \
+a [manifesto](manifesto_poetics.html).
 
 [The moon is drowning](moon-drowning.html).
 [The moon is gone, \
@@ -100,7 +104,8 @@ A [litany for a plant](plant.html).
 of poetry and time](poetry-time.html):
 [prelude](prelude.html),
 [problems](problems.html),
-[proverbs](proverbs.html). \
+[proverbs](proverbs.html), \
+some [peaches](peaches.html).
 [Punch](punch.html)
 is [the purpose of dogs](purpose-dogs.html).
 
@@ -125,6 +130,7 @@ builds
 [spittle](spittle.html) on
 [the squirrel](squirrel.html) sitting
 [stagnant](stagnant.html). \
+[Something about my tenure as a bear](dollywood.html).
 [Statements](statements-frag.html)
 [stayed on the bus too long](stayed-on-the-bus.html).
 
@@ -153,9 +159,12 @@ a [treatise](treatise.html) on
 [We played those games too](weplayedthosegamestoo.html).
 
 [When I’m sorry I wash dishes](when-im-sorry-i.html) in
-the [window](window.html), thinking \
-about
-[words and meaning](words-meaning.html).
+the [window](window.html), [walking \
+in the rain](walking-in-the-rain),
+thinking about
+[what we are made of](what-we-are-made-of.html):
+[words and meaning](words-meaning.html),
+[irritably reaching after reason](words-irritable-reaching.html).
 I feel [worse, \
 looking over](worse-looking-over.html) at you,
 than when I'm [writing](writing.html) \
