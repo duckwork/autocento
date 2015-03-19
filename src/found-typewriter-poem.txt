@@ -15,7 +15,6 @@ project:
     css: autocento
 ...
 
-
 Look, I say---look here--- \
 at this [old place \
 where nothing changes][old-place].  \

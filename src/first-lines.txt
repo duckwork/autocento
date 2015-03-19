@@ -1,0 +1,160 @@
+---
+title: Autocento of the breakfast table
+subtitle: index of first lines
+genre: prose
+
+project:
+    title: Autocento of the breakfast table
+    css: autocento
+...
+
+[A dead man finds his way into our hearts](deadman.html)
+[a dog moving sideways is sick; a man moving sideways is drunk.](movingsideways.html)
+[ART and CRAFT are only the inside and outside of the same building.](building.html)
+[Abraham, Abraham, you are old and cannot hear:](angeltoabraham.html)
+[after searching for days or even months](big-dipper.html)
+[and you were there in the start of it all](and.html)
+[apparently typewriters need ribbon.](tapestry.html)
+[Bottom of the drink: they had](ex-machina.html)
+[contents of the shed](paul.html).
+
+["Can one truly describe an emotion?"  Eli asked me over the walkie-talkie.](statements-frag.html)
+[Case Duckworth is the cowardly but lovable Great Dane who solves mysteries on TV.](about_author.html)
+[Dimly remembered celebrity chefs shuffle](last-bastion.html).
+["Do you have to say your thoughts out loud for them to mean anything" Paul asked Jill on his first coffee break at work.](question.html)
+[EVERYTHING CHANGES OR EVERYTHING STAYS THE SAME](planks.html).
+[EVERYTHING CHANGES OR EVERYTHING STAYS THE SAME](swear.html).
+[God is love, they say, but there is](love-as-god.html)
+[hymn 386: jokes](window.html).
+
+[He builds a ship as if it were the last thing](shipwright.html)
+[he chopped down: a sapling pine tree and looked at his watch.](sapling.html)
+[He couldn't find a shirt to go to work in.](toothpaste.html)
+[He didn't go back into the shed for a long time.](wallpaper.html)
+[He didn't have any polish so he spit-shined the whole thing,](deathstrumpet.html)
+[he dropped the penny in the dryer, turned it on, and turned around.](underwear.html)
+[He is so full in himself:](squirrel.html)
+[He looked down at his hands idly while he was typing.](hands.html)
+[He said at the beginning, "It's like rolling yarn into a too-small ball.](ouroboros_memory.html)"
+[He sat down at his writing desk and removed his new pen from its plastic wrapping.](writing.html)
+[He shrugged the wood off his shoulder, letting it fall with a clog onto the earth floor of his Writing Shack.](leaf.html)
+[He walked into the woods for the first time in months.](stump.html)
+[He was born on a few separate occasions: green traffic lights at night](about-the-author.html).
+[He woke up after eleven and didn't go outside all day, not even to his Writing Shack.](cereal.html)
+[He would enter data at work for fifty minutes and then go on break.](yellow.html)
+[He wrote JOKES on the top of a page in his notebook.](joke.html)
+
+["Hello Paul this is Jill Jill Noe remember me" the voice on the phone was a woman's.](phone.html)
+[His first chair was a stool.](leg.html)
+[His mother drove him to the Hardware Store on a Tuesday.](hardware.html)
+[His mother ran out of the house in her nightgown.](fire.html)
+
+["How astonishing it is that language can almost mean, / and frightening that it does not quite," Jack Gilbert opens his poem "The Forgotten Dialect of the Heart."](words-meaning.html)
+[How does one describe a poem?](on-genre-dimension.html)
+[I am a great pillar of white smoke.](i-am.html)
+[I can walk through the rain, that rare occurrence](walking-in-the-rain.html).
+[I didn't write this sestina yesterday.](exasperated.html)
+[I don't care if they burn he wrote on his last blank notecard.](snow.html)
+[I hear the rats run](in-bed.html).
+[I lost my hands & knit replacement ones](roughgloves.html).
+[I need a plant.  I need a thing](plant.html).
+[I only write poems on the bus anymore.](sense-of-it.html)
+[I saw my life branching out before me like the green fig tree in the story.](epigraph.html)
+[I saw two Eskimo girls playing a game](weplayedthosegamestoo.html)
+[I think that I could write formal poems](onformalpoetry.html);
+[I thought I saw you walking](i-think-its-you.html).
+[I turned off the TV as soon as the end credits began.](dollywood.html)
+
+[I want to say I take it all back](i-want-to-say.html),
+[I wanted to tell you something in order to](i-wanted-to-tell-you-something.html)---
+[I was away on vacation when I heard---](howithappened.html)
+[I wish I'd kissed you when I had the chance.](time-looks-up-to-the-sky.html)
+[I'm writing this now because I have to.](poetry-time.html)
+[If Justin Bieber isn't going for the sixteenth](sixteenth-chapel.html)---
+[if you swallow hard enough](listen.html)---
+[importance is important.](philosophy.html)
+[Inside of my memory, the poem is another memory.](riptide_memory.html)
+
+["Is man the natural thing that makes unnatural things" he thought to himself as he looked out the kitchen window at the shed.](father.html)
+[It had gotten cold.](dream.html)
+[It was a gamble](stayed-on-the-bus.html);
+[it was one of those nameless gray buildings that could be seen from the street only if Larry craned his neck to almost vertical.](telemarketer.html)
+[It's all jokes Paul wrote in what he was now calling his Hymnal.](hymnal.html)
+[January.](january.html)
+
+"[Like 40 as I challenge anyone to come too!](call-me-aural-pleasure.html)
+[Look, I say---look here---](found-typewriter-poem.html)
+[Lost things have a way of staying lost.](amber-alert.html)"
+[Man of autumn, cold wind,](cold-wind.html)
+[memory works strangely, spooling its thread](last-passenger.html).
+
+["My anger is like a peach," he said.](peaches.html)
+"[My body is attached to your body by a thin spittle of thought.](spittle.html)"
+[My head is full of fire, my tongue swollen,](the-night-we-met.html)
+[nothing is ever over; nothing](nothing-is-ever-over.html)---
+[nothing matters; everything is sacred.](proverbs.html)
+[Now the ticking clocks scare me.](boar.html)
+
+[Of course, there is a God.](prelude.html)---
+[Okay, so there either is or isn't a God.](purpose-dogs.html)
+[On your desk I set a tangerine:](seasonal-affective-disorder.html)
+[Paul began typing on notecards.](notes.html)
+
+[Paul only did his reading on the toilet.](toilet.html)
+[Paul took his axe and went out into the woods to chop trees.](axe.html)
+[Paul was writing in his diary about art.](art.html)
+
+["Paul, you can't turn in your reports on four-by-six notecards" Jill told him after he handed her his reports, typed carefully on twelve four-by-six notecards.](reports.html)
+["Riding the bus to work is a good way to think or to read" Paul thought to himself on the bus ride to work.](stagnant.html)
+
+[Say there are no words.  Say that we are conjoined](elegyforanalternateself.html):
+[silence lies underneath us all in the same way](music-433.html)
+[it's the fucking moon.  Big deal.  As if](apollo11.html)
+[two hyperintelligent pandimensional beings](creation-myth.html)
+[feel as though I am not a real writer.](real-writer.html)
+[Somewhere I remember reading advice for beginning writers not to show their work to anyone, at least that in the early stages.](words-irritable-reaching.html)
+
+[Swans fly overhead singing goodbye](swansong.html):
+[THIS MAN REFUSED TO OPEN HIS EYES](man.html).
+[TREATISE ON LITERATURE AS "SPOOKY ACTION AT A DISTANCE"](treatise.html):
+[the definition of happiness is _doing stuff that you really like_.](likingthings.html)
+[The look she gave me (Half-hours in heaven are three times that in hell)](table_contents.html).
+[The moon is drowning the stars it pushes them](moon-drowning.html)---
+[The moon is gone and in its place a mirror.  Looking at the night sky now](moongone.html),
+[the other side of this mountain](mountain.html):
+[the problem with people is this: we cannot be happy.](problems.html)
+[The radio is screaming the man](worse-looking-over.html)---
+[the self is a serengeti](serengeti.html)---
+[there are more modern ideals of beauty](todaniel.html)---
+[there is a cave just outside of Flagstaff made from ancient lava flows.](what-we-are-made-of.html)
+
+[There is a theory which states the Universe](initial-conditions.html),
+[this book, is an exploration of life, of all possible lives that could be lived.](howtoread.html)
+[This poem is dry like chapped lips.](swansong-alt.html)
+[Tonight, as I look up, the stars](finding-the-lion.html),
+[waiting for a reading to start](the-sea_the-beach.html),
+[walking along in the dark, is a good way to begin a song.](lovesong.html)
+
+[Walter rides the bus into work on Wednesday morning when he realizes, with the force and surprise of a rogue current, that he is in the home-for-death phase of life.](lappel-du-vide.html)
+[We found your shirt deep in the dark water](theoceanoverflowswithcamels.html)---
+[what did he do when he was in the woods?](options.html)
+
+["What do you do all day in that shed out back" his mother asked one night while they ate dinner in front of the TV.](shed.html)
+
+[What is a poem?](manifesto_poetics.html)
+[What is poetry?](arspoetica.html)
+[What secrets does it hold?](largest-asteroid.html)
+[When I think of death I think](death-zone.html),
+[when Ronald McDonald takes off his striped shirt,](ronaldmcdonald.html)
+[when he finally got back to work, he was surprised they threw him a party.](punch.html)
+[When he said Bible I heard his southern accent](boy_bus.html):
+[whenever you call me friend](100-lines.html)
+[while chopping a tree in the woods with his hatchet (a Christmas gift from his mother) a bird he'd never heard before cried out.](x-ray.html)
+[While swimming in the river](no-nothing.html):
+[YOU CANNOT DISCOVER ART ART MUST BE CREATED he sat on the couch at home while his mother watched TV and smoked.](early.html)
+
+[You never can tell just when Charlie Sheen will enter your life.](feedingtheraven.html)
+[You think building Hoggle's a hard game?](hard-game.html)
+[Your casserole dish takes the longest:](when-im-sorry-i.html)
+[in mammals the ratio between bladder size](something-simple.html)
+[has been a part of the Unix toolset since the late 70s.](collage-instrument.html)

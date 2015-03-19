@@ -18,7 +18,6 @@ project:
       link: stump
 ...
 
-
 > [EVERYTHING CHANGES OR EVERYTHING STAYS THE SAME][]
 >
 > First, a history: I was writing my
