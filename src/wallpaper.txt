@@ -18,7 +18,6 @@ project:
       link: underwear
 ...
 
-
 He didn't go back into the shed for a long time.
 His hatchet was in there, and his axe.
 He didn't want to face them.

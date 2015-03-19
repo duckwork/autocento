@@ -2,6 +2,9 @@
 title: epigraph
 genre: prose
 
+epigraph:
+    attrib: Sylvia Plath
+
 project:
     title: Elegies for alternate selves
     css: elegies
