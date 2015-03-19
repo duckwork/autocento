@@ -32,7 +32,7 @@ The [boy on the bus](boy_bus.html) is
 [Call me](call-me-aural-pleasure.html)
 [_Cereal_](cereal.html) or
 [_Cold Wind_](cold-wind.html). \
-[Instrument](collage-instrumented) a collage."
+[Instrument](collage-instrumented.html) a collage."
 
 [Creation myth](creation-myth.html):
 [dead man](deadman.html) =
@@ -160,7 +160,7 @@ a [treatise](treatise.html) on
 
 [When I’m sorry I wash dishes](when-im-sorry-i.html) in
 the [window](window.html), [walking \
-in the rain](walking-in-the-rain),
+in the rain](walking-in-the-rain.html),
 thinking about
 [what we are made of](what-we-are-made-of.html):
 [words and meaning](words-meaning.html),
