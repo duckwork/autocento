@@ -12,6 +12,17 @@
         <link rel="stylesheet" type="text/css" href="./css/cover.css">
         <script src="./js/lozenge.js" type="text/javascript"> </script>
 
+        <script>
+            function _about() {
+                var about = document.getElementById('about');
+                var files = ["about-the-author.html", "about_author.html"]
+                var which = Math.floor(Math.random() * files.length);
+                about.setAttribute("href", files[which]);
+                about.setAttribute("title", "About the author");
+            }
+            window.onload = function () { _about() }
+        </script>
+
         <!--[if lt IE 9]>
             <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"> </script>
         <![endif]-->
@@ -20,7 +31,9 @@
         <article id="cover">
             <header>
                 <h1 class="title">Autocento of the breakfast table</h1>
-                <h2 class="byline">by Case Duckworth</h2>
+                <h2 class="byline">by
+                    <a href="#" id="about">Case Duckworth</a>
+                </h2>
                 <h3 class="lozenge"><a href="#" id="lozenge">&loz;</a></h3>
             </header>
             <section class="content">
@@ -29,7 +42,7 @@
                         <a href="first-lines.html">first lines</a> and
                         <a href="common-titles.html">common titles</a>.
                     </li>
-                    <li><a href="README.html">An explanation</a>.</li>
+                    <li><a href="README.html">About this project</a>.</li>
                 </ul>
             </section>
         </article>
