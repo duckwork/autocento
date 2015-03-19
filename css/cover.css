@@ -100,6 +100,17 @@ body {
 }
 a {
     text-decoration: none;
+}
+a:link {
+    color: #b2d9e5;
+}
+a:visited {
+    color: #b2b2e5;
+}
+a:hover {
+    color: #e5bfb2;
+}
+a:active {
     color: #e5e5b2;
 }
 li {
