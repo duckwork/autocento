@@ -66,12 +66,12 @@ project:
 [I turned off the TV as soon as the end credits began.](dollywood.html)
 
 [I want to say I take it all back](i-want-to-say.html),
-[I wanted to tell you something in order to](i-wanted-to-tell-you-something.html)---
-[I was away on vacation when I heard---](howithappened.html)
+[I wanted to tell you something in order to](i-wanted-to-tell-you-something.html) ---
+[I was away on vacation when I heard ---](howithappened.html)
 [I wish I'd kissed you when I had the chance.](time-looks-up-to-the-sky.html)
 [I'm writing this now because I have to.](poetry-time.html)
-[If Justin Bieber isn't going for the sixteenth](sixteenth-chapel.html)---
-[if you swallow hard enough](listen.html)---
+[If Justin Bieber isn't going for the sixteenth](sixteenth-chapel.html) ---
+[if you swallow hard enough](listen.html) ---
 [importance is important.](philosophy.html)
 [Inside of my memory, the poem is another memory.](riptide_memory.html)
 
@@ -83,7 +83,7 @@ project:
 [January.](january.html)
 
 "[Like 40 as I challenge anyone to come too!](call-me-aural-pleasure.html)
-[Look, I say---look here---](found-typewriter-poem.html)
+[Look, I say --- look here ---](found-typewriter-poem.html)
 [Lost things have a way of staying lost.](amber-alert.html)"
 [Man of autumn, cold wind,](cold-wind.html)
 [memory works strangely, spooling its thread](last-passenger.html).
@@ -91,11 +91,11 @@ project:
 ["My anger is like a peach," he said.](peaches.html)
 "[My body is attached to your body by a thin spittle of thought.](spittle.html)"
 [My head is full of fire, my tongue swollen,](the-night-we-met.html)
-[nothing is ever over; nothing](nothing-is-ever-over.html)---
+[nothing is ever over; nothing](nothing-is-ever-over.html) ---
 [nothing matters; everything is sacred.](proverbs.html)
 [Now the ticking clocks scare me.](boar.html)
 
-[Of course, there is a God.](prelude.html)---
+[Of course, there is a God.](prelude.html) ---
 [Okay, so there either is or isn't a God.](purpose-dogs.html)
 [On your desk I set a tangerine:](seasonal-affective-disorder.html)
 [Paul began typing on notecards.](notes.html)
@@ -119,13 +119,13 @@ project:
 [TREATISE ON LITERATURE AS "SPOOKY ACTION AT A DISTANCE"](treatise.html):
 [the definition of happiness is _doing stuff that you really like_.](likingthings.html)
 [The look she gave me (Half-hours in heaven are three times that in hell)](table_contents.html).
-[The moon is drowning the stars it pushes them](moon-drowning.html)---
+[The moon is drowning the stars it pushes them](moon-drowning.html) ---
 [The moon is gone and in its place a mirror.  Looking at the night sky now](moongone.html),
 [the other side of this mountain](mountain.html):
 [the problem with people is this: we cannot be happy.](problems.html)
-[The radio is screaming the man](worse-looking-over.html)---
-[the self is a serengeti](serengeti.html)---
-[there are more modern ideals of beauty](todaniel.html)---
+[The radio is screaming the man](worse-looking-over.html) ---
+[the self is a serengeti](serengeti.html) ---
+[there are more modern ideals of beauty](todaniel.html) ---
 [there is a cave just outside of Flagstaff made from ancient lava flows.](what-we-are-made-of.html)
 
 [There is a theory which states the Universe](initial-conditions.html),
@@ -136,7 +136,7 @@ project:
 [walking along in the dark, is a good way to begin a song.](lovesong.html)
 
 [Walter rides the bus into work on Wednesday morning when he realizes, with the force and surprise of a rogue current, that he is in the home-for-death phase of life.](lappel-du-vide.html)
-[We found your shirt deep in the dark water](theoceanoverflowswithcamels.html)---
+[We found your shirt deep in the dark water](theoceanoverflowswithcamels.html) ---
 [what did he do when he was in the woods?](options.html)
 
 ["What do you do all day in that shed out back" his mother asked one night while they ate dinner in front of the TV.](shed.html)
