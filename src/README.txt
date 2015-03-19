@@ -103,7 +103,7 @@ If you'd like to contact me about the state of this work or my writing in genera
 [ἅπαξ]: http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a%28/pac
 [nothing-new]: https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A9&version=NIV
 
-[text]: src/index.html
+[text]: src/common-titles.html
 
 [pandoc]: http://johnmacfarlane.net/pandoc/
 [compile.lua]: https://github.com/duckwork/autocento/blob/gh-pages/compile.lua
@@ -112,7 +112,7 @@ If you'd like to contact me about the state of this work or my writing in genera
 [git]: http://www.git-scm.com/
 [my Github profile]: https://github.com/duckwork/autocento
 
-[index]: index.html
+[index]: first-lines.html
 [this javascript]: https://github.com/duckwork/autocento/blob/gh-pages/js/lozenge.js
 
 [published]: published.html

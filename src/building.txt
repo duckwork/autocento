@@ -45,7 +45,7 @@ The [act of memory][] is our only ART._
 [chair]: boar.html
 [message to a future person]: poetry-time.html
 [We have to try.]: plant.html
-[our buildings of air]: index.html
+[our buildings of air]: common-titles.html
 [photographs]: man.html
 [memory]: ouroboros_memory.html
 [act of memory]: riptide_memory.html

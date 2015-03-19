@@ -116,7 +116,7 @@ a:link {
     padding-top: 1px;
     color: inherit;
     text-decoration: none;
-    border-bottom: 1px dotted #a1a3a1;
+    border-bottom: 1px dotted black;
 }
 a:visited {
     color: inherit;
