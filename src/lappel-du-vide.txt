@@ -3,8 +3,8 @@ title: L'appel du vide
 genre: prose
 
 epigraph:
-    content: You can never go home again.
-    attrib: Thomas Wolfe
+    content: Don't you know you can't go home again?
+    attrib: Ella Winter
     link: 'http://books.google.com/books?id=yybDMC0TRIwC&pg=PR12&lpg=PR12#v=onepage&q&f=false'
 
 project:
