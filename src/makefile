@@ -17,8 +17,11 @@ all : $(HTMLs) $(RIVERs)
 
 # Generic rule for HTML targets and Markdown sources
 %.html : %.txt
-	pandoc $< -f markdown -t html5 $(HTMLopts) -o $(HTMLdir)/$@
+	pandoc $< -f markdown -t html5 $(HTMopts) -o $(HTMLdir)/$@
 
 # Generic rule for RIVER targets and Markdown sources
 %.river : %.txt
 	pandoc $< -f markdown -t $(LUAdir)/river.lua $(RIVopts) -o $(RIVdir)/$@
+
+# TODO: add lozenge updating
+# 	AND compiling hapax
