@@ -11,9 +11,12 @@ HTMopts = --template=$(HTMLdir)/.template.html
 HTMopts+= --smart --mathml --section-divs
 RIVERs := $(patsubst %.txt,%.river,$(wildcard *.txt))
 RIVopts =
+LOZENGE = ../js/lozenge.js
+LOZupd  = ../js/update-lozenge.sh
 
 # Do everything
-all : $(HTMLs) $(RIVERs)
+.PHONY: all
+all : $(HTMLs) $(RIVERs) lozenge
 
 # Generic rule for HTML targets and Markdown sources
 %.html : %.txt
@@ -23,5 +26,12 @@ all : $(HTMLs) $(RIVERs)
 %.river : %.txt
 	pandoc $< -f markdown -t $(LUAdir)/river.lua $(RIVopts) -o $(RIVdir)/$@
 
-# TODO: add lozenge updating
-# 	AND compiling hapax
+lozenge : $(HTMLdir)/$(HTMLs)
+	@echo "Updating lozenge.js..."
+	@list=`ls $(HTMLdir)/*.html |\
+	sed -e 's,../,,g' |\
+	tr '\n' ' ' |\
+	sed -e 's/\(\S\+.html\) /"\1",/g'\
+	    -e 's/^\(.*\),$$/var files=[\1]/'` &&\
+	sed -i "s/var files=.*/$$list/" $(LOZENGE)
+# TODO: add compiling hapax
