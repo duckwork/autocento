@@ -2,6 +2,11 @@
 title: On seeing the panorama of the Apollo 11 landing site
 genre: verse
 
+ekphrastic:
+    image: "img/panorama-apollo11.jpg"
+    title: "Big deal."
+    link: "http://apod.nasa.gov/apod/ap141220.html"
+
 project:
     title: Elegies for alternate selves
     css: elegies

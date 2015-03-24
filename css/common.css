@@ -57,6 +57,12 @@ header {
 .content {
     line-height: 1.3em;
 }
+blockquote {
+    border-left: 1px solid gray;
+    padding-left: 2em;
+    margin-left: 2em;
+    font-style: italic;
+}
 nav {
     height: 24px;
     width: 100%;
