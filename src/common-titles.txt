@@ -4,13 +4,15 @@ id: common-titles
 subtitle: index of common titles
 genre: verse
 
-epigraph:
-    content: 'Read me.'
-    link: README.html
-
 project:
-    title: Autocento of the breakfast table
-    class: autocento
+    title: About Autocento
+    class: meta
+    next:
+    - title: Index of first lines
+      link: first-lines
+    prev:
+    - title: About _Autocento_
+      link: about
 ...
 
 [100 lines](100-lines.html)

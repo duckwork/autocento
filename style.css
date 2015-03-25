@@ -94,21 +94,12 @@ nav {
 }
 /* .title + .subtitle }}} */
 /* .HEADER-EXTRA {{{ */
-.header-extra {
-    text-align: right;
-}
-.dedication,.epigraph {
-    vertical-align: bottom;
-    display: inline-block;
-    margin-left: 2%;
-    margin-right: 2%;
-    width: 45%;
-}
 /* DEDICATION {{{ */
 .dedication {
     font-style: italic;
     font-size: 0.92em;
     margin-top: 1em;
+    text-align: left;
 }
 .dedication::before {
     content: 'for ';
@@ -138,6 +129,16 @@ nav {
     content: '– ';
 }
 /* epigraph }}} */
+.header-extra {
+    text-align: right;
+}
+.dedication,.epigraph {
+    vertical-align: bottom;
+    display: inline-block;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 45%;
+}
 /* header-extra }}} */
 /* header elements }}} */
 /* .EKPHRASTIC {{{ */
@@ -208,8 +209,14 @@ a[href^="http"]:active {
 /* NAV ELEMENTS {{{ */
 nav a:link { border-bottom: none; }
 nav a:active { border: none; }
-nav .prevlink { float: left; text-align: left; }
-nav .nextlink { float: right; text-align: right; }
+nav .prevlink {
+    float: left;
+    text-align: left;
+}
+nav .nextlink {
+    float: right;
+    text-align: right;
+}
 /* Properties both types of navlinks share */
 nav .prevlink, nav .nextlink {
     margin: 0 0.5em;
@@ -233,6 +240,7 @@ nav .prevlink::before {
     text-align: left;
     padding-left: 0.5em;
     padding-right: 0.5em;
+    width: 1em;
 }
 nav .nextlink::after {
     content: ' »';
@@ -242,6 +250,7 @@ nav .nextlink::after {
     text-align: right;
     padding-left: 0.5em;
     padding-right: 0.5em;
+    width: 1em;
 }
 #lozenge {
     position: absolute;

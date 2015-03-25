@@ -8,8 +8,14 @@ epigraph:
     content: by Case Duckworth
 
 project:
-    title: Autocento of the breakfast table
-    class: autocento
+    title: About Autocento
+    class: meta
+    next:
+    - title: Index of common titles
+      link: common-titles
+    prev:
+    - title: Index of first lines
+      link: first-lines
 ...
 
 Introduction

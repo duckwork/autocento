@@ -5,8 +5,14 @@ subtitle: index of first lines
 genre: prose
 
 project:
-    title: Autocento of the breakfast table
-    class: autocento
+    title: About Autocento
+    class: meta
+    next:
+    - title: About _Autocento_
+      link: about
+    prev:
+    - title: Index of common titles
+      link: common-titles
 ...
 
 [A dead man finds his way into our hearts](deadman.html)

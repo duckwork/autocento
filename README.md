@@ -17,14 +17,15 @@ At the top of each file, there is a YAML metadata block that looks something lik
 
 ````yaml
 ---
-title: Title of poem
+title: Title of article
+id: file-name-without-extension
 subtitle: Subtitle                           # optional
 genre: verse                                 # verse or prose
 
 epigraph:                                    # optional
-- content: 'Content of epigraph'             # req'd if epigraph exists
-  link: 'http://link-to-epigraph-source/'    # optional
-  attrib: 'Epigraph attribution'             # optional
+    content: 'Content of epigraph'             # req'd if epigraph exists
+    link: 'http://link-to-epigraph-source/'    # optional
+    attrib: 'Epigraph attribution'             # optional
 
 dedication: my mother                        # optional
 
@@ -36,6 +37,7 @@ ekphrastic:                                  # optional image ekphrastic
 
 project:
     title: Original project name
+    class: class-name-for-css
     order: 1                                 # page number, optional
     prev:                                    # optional
     - title: Title of previous thing in original project
