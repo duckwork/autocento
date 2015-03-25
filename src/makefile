@@ -15,8 +15,11 @@ LOZENGE = ../js/lozenge.js
 LOZupd  = ../js/update-lozenge.sh
 
 # Do everything
-.PHONY: all
-all : $(HTMLs) $(RIVERs) lozenge
+.PHONY: all html river lozenge
+all     : html river lozenge
+html    : $(HTMLs)
+river   : $(RIVERs)
+lozenge : $(LOZENGE)
 
 # Generic rule for HTML targets and Markdown sources
 %.html : %.txt
@@ -24,9 +27,11 @@ all : $(HTMLs) $(RIVERs) lozenge
 
 # Generic rule for RIVER targets and Markdown sources
 %.river : %.txt
-	pandoc $< -f markdown -t $(LUAdir)/river.lua $(RIVopts) -o $(RIVdir)/$@
+	@echo River-ing $@
+	@sed "s/[^A-Za-z0-9'-]/ /g" $< |\
+	pandoc - -f markdown -t $(LUAdir)/river.lua $(RIVopts) -o $(RIVdir)/$@
 
-lozenge : $(HTMLdir)/$(HTMLs)
+$(LOZENGE) : $(HTMLdir)/$(HTMLs)
 	@echo "Updating lozenge.js..."
 	@list=`ls $(HTMLdir)/*.html |\
 	sed -e 's,../,,g' |\
@@ -35,3 +40,4 @@ lozenge : $(HTMLdir)/$(HTMLs)
 	    -e 's/^\(.*\),$$/var files=[\1]/'` &&\
 	sed -i "s/var files=.*/$$list/" $(LOZENGE)
 # TODO: add compiling hapax
+# TODO: add first line compiler
