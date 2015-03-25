@@ -1,11 +1,12 @@
 ---
 title: The night we met, I was out of my mind
+id: the-night-we-met
 subtitle: or lying in the dark
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 My head is [full of fire][], my tongue swollen, \

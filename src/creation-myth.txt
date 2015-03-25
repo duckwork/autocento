@@ -1,10 +1,11 @@
 ---
 title: Creation myth
+id: creation-myth
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 So two hyperintelligent pandimensional beings \

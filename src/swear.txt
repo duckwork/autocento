@@ -1,10 +1,11 @@
 ---
 title: Swear
+id: swear
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 25
     next:
     - title: Options

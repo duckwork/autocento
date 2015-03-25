@@ -1,10 +1,11 @@
 ---
 title: "Death's trumpet"
+id: deathstrumpet
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 28
     prev:
       title: 'To Daniel: an elaboration'

@@ -1,11 +1,12 @@
 ---
 title: Statements
+id: statements-frag
 subtitle: a fragment
 genre: prose
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 I. Eli {#eli}

@@ -12,18 +12,10 @@
     <title>$title$ | Autocento of the breakfast table</title>
     <link rel="icon" type="image/png" href="img/favico.png" />
 
-    <link rel="stylesheet" type="text/css" href="./css/common.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <script src="./js/lozenge.js" type="text/javascript"> </script>
     <script src="./js/hylo.js" type="text/javascript"> </script>
 
-    $if(genre)$
-    <link rel="stylesheet" type="text/css" href="./css/$genre$.css">
-    <script src="./js/$genre$.js" type="text/javascript"> </script>
-    $endif$
-    $if(project.css)$
-    <link rel="stylesheet" type="text/css" href="./css/$project.css$.css">
-    <script src="./js/$project.css$.js" type="text/javascript"> </script>
-    $endif$
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"> </script>
     <![endif]-->
@@ -32,10 +24,10 @@
     $headerincludes$
     $endfor$
 </head>
-<body>
+<body id="$id$"$if(project.class)$ class="$project.class$"$endif$>
     $for(include-before)$ $include-before$ $endfor$
 
-    <article id="container">
+    <article class="container">
         <header>
             <!-- title -->
             $if(title)$<h1 class="title">$title$</h1>$endif$
@@ -100,7 +92,9 @@
             </div>
         $endif$
 
-        <section class="content $genre$">$body$</section>
+        <section class="content $genre$">
+            $body$
+        </section>
     </article>
     <nav>
         $for(project.prev)$

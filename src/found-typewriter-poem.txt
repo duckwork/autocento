@@ -1,5 +1,6 @@
 ---
 title: Look
+id: found-typewriter-poem
 subtitle: a found typewriter poem
 genre: verse
 
@@ -12,7 +13,7 @@ epigraph:
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 Look, I say---look here--- \

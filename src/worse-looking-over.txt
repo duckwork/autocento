@@ -1,10 +1,11 @@
 ---
 title: Worse looking over
+id: worse-looking-over
 genre: verse
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 4
     next:
     - title: The Sixteenth Chapel

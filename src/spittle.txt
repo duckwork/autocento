@@ -1,10 +1,11 @@
 ---
 title: Spittle
+id: spittle
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 22
     prev:
     - title: The shipwright

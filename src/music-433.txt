@@ -1,5 +1,6 @@
 ---
 title: Something
+id: music-433
 subtitle: 'about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing'
 genre: verse
 
@@ -7,7 +8,7 @@ dedication: '[Randall](https://xkcd.com/1199/)'
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 18
     next:
     - title: Riptide of memory

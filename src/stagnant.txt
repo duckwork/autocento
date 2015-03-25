@@ -1,10 +1,11 @@
 ---
 title: Stagnant
+id: stagnant
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 27
     next:
     - title: Building

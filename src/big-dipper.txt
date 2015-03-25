@@ -1,10 +1,11 @@
 ---
 title: The Big Dipper
+id: big-dipper
 genre: verse
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 2
     next:
     - title: The Moon is drowning

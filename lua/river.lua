@@ -4,6 +4,8 @@
 -- vim: fdm=marker
 -- invoke with: pandoc -t river.lua
 
+os.setlocale("en_US.UTF-8")
+
 local function flow(s)
     return s:gsub("%s+", "\n")
 end
@@ -33,7 +35,7 @@ local function nude(s)
     -- Remove dashes (not hyphens)
     s = s:gsub('%-%-+', ' ')
     s = s:gsub('%-%s', ' ')
-    -- Remove general punctuation
+    -- Remove everything that is not letters or numbers
     s = s:gsub('[%.!%?:;,%[%]%(%)<>]', ' ')
     -- Remove extra spaces
     s = s:gsub('%s+', ' ')

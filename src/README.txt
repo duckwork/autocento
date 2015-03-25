@@ -1,5 +1,6 @@
 ---
 title: Autocento of the breakfast table
+id: README
 subtitle: about this site
 genre: prose
 
@@ -8,7 +9,7 @@ epigraph:
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 Introduction

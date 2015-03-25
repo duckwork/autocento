@@ -1,10 +1,11 @@
 ---
 title: Fire
+id: fire
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 39
     next:
     - title: Hands

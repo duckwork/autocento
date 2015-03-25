@@ -1,10 +1,11 @@
 ---
 title: I wanted to tell you something
+id: i-wanted-to-tell-you-something
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 I wanted to tell you something in order [to][] \

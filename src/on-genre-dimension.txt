@@ -1,10 +1,11 @@
 ---
 title: On genre and the dimensionality of poetry
+id: on-genre-dimension
 genre: prose
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 How does one describe a poem?

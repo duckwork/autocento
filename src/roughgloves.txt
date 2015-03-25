@@ -1,10 +1,11 @@
 ---
 title: Rough gloves
+id: roughgloves
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 16
     prev:
     - title: Love Song

@@ -1,10 +1,11 @@
 ---
 title: I want to say
+id: i-want-to-say
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 I want to say I take it all back \

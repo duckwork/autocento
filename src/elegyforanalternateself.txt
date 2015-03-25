@@ -1,10 +1,11 @@
 ---
 title: Elegy for an alternate self
+id: elegyforanalternateself
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 Say there are no words.  Say that we are conjoined \

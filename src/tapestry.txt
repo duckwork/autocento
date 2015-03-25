@@ -1,10 +1,11 @@
 ---
 title: Tapestry
+id: tapestry
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 17
     next:
     - title: Window

@@ -1,5 +1,6 @@
 ---
 title: The Sixteenth Chapel
+id: sixteenth-chapel
 genre: verse
 
 epigraph:
@@ -11,7 +12,7 @@ dedication: Max
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 17
     next:
     - title: Last bastion

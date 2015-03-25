@@ -1,10 +1,11 @@
 ---
 title: Dead man
+id: deadman
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 9
     prev:
     - title: The boar

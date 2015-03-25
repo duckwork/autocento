@@ -1,10 +1,11 @@
 ---
 title: Listen
+id: listen
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 If you swallow hard enough \

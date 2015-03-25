@@ -1,10 +1,11 @@
 ---
 title: Treatise
+id: treatise
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 15
     next:
     - title: Phone

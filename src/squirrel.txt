@@ -1,10 +1,11 @@
 ---
 title: The squirrel
+id: squirrel
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 23
     prev:
     - title: Spittle

@@ -1,10 +1,11 @@
 ---
 title: Litany for a plant
+id: plant
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 I need a plant.  I need a thing \

@@ -1,10 +1,11 @@
 ---
 title: In bed
+id: in-bed
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 ## I

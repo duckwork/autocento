@@ -1,10 +1,11 @@
 ---
 title: Time looks up to the sky
+id: time-looks-up-to-the-sky
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 I wish I'd kissed you when I had the chance.  \

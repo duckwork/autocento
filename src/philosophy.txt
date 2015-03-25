@@ -1,10 +1,11 @@
 ---
 title: Philosophy
+id: philosophy
 genre: prose
 
 project:
     title: Book of Hezekiah
-    css: hezekiah
+    class: hezekiah
     order: 3
     next:
     - title: Proverbs

@@ -1,10 +1,11 @@
 ---
 title: The boar
+id: boar
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 8
     prev:
     - title: The ocean overflows with camels

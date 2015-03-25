@@ -1,10 +1,11 @@
 ---
 title: The Moon is drowning
+id: moon-drowning
 genre: verse
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 3
     next:
     - title: Something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing

@@ -1,10 +1,11 @@
 ---
 title: Problems
+id: problems
 genre: prose
 
 project:
     title: Book of Hezekiah
-    css: hezekiah
+    class: hezekiah
     order: 6
     next:
     - title: Liking things

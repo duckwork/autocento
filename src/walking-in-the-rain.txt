@@ -1,10 +1,11 @@
 ---
 title: Walking in the rain
+id: walking-in-the-rain
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 I can walk through the rain, [that rare occurrence][] \

@@ -1,5 +1,6 @@
 ---
 title: The Death Zone
+id: death-zone
 genre: verse
 
 epigraph:
@@ -14,7 +15,7 @@ ekphrastic:
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 7
     next:
     - title: The Big Dipper

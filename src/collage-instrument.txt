@@ -1,11 +1,12 @@
 ---
 title: Instrumented
+id: collage-instrument
 subtitle: a collage
 genre: prose
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 [`tr`][] has been a part of the Unix toolset since the late 70s.

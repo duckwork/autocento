@@ -1,5 +1,6 @@
 ---
 title: epigraph
+id: epigraph
 genre: prose
 
 epigraph:
@@ -7,7 +8,7 @@ epigraph:
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 1
     next:
       title: How to read this

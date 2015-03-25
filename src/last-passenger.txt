@@ -1,10 +1,11 @@
 ---
 title: Last passenger
+id: last-passenger
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 
 TODO: revise based on reading notes
 ...

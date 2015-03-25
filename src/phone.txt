@@ -1,10 +1,11 @@
 ---
 title: Phone
+id: phone
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 16
     next:
     - title: Tapestry

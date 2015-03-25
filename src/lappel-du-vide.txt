@@ -1,5 +1,6 @@
 ---
 title: L'appel du vide
+id: lappel-du-vide
 genre: prose
 
 epigraph:
@@ -9,7 +10,7 @@ epigraph:
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 14
     next:
     - title: Boy on the bus

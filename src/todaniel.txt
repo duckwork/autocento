@@ -1,11 +1,12 @@
 ---
 title: To Daniel
+id: todaniel
 subtitle: an elaboration of a previous comment
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 27
     prev:
     - title: We played those games too

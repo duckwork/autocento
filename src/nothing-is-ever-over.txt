@@ -1,10 +1,11 @@
 ---
 title: Nothing is ever over
+id: nothing-is-ever-over
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 [Nothing is ever over][]; nothing \

@@ -1,10 +1,11 @@
 ---
 title: Ronald McDonald
+id: ronaldmcdonald
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 17
     prev:
     - title: Rough gloves

@@ -1,10 +1,11 @@
 ---
 title: Love as God
+id: love-as-god
 genre: verse
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 13
     next:
     - title: Worse looking over

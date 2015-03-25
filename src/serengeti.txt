@@ -1,10 +1,11 @@
 ---
 title: Serengeti
+id: serengeti
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 20
     prev:
     - title: The mountain

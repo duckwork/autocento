@@ -1,10 +1,11 @@
 ---
 title: Father
+id: father
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 37
     next:
     - title: Paul

@@ -1,10 +1,11 @@
 ---
 title: Stayed on the bus too long
+id: stayed-on-the-bus
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 It was a [gamble][] \

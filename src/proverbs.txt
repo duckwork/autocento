@@ -1,10 +1,11 @@
 ---
 title: Proverbs
+id: proverbs
 genre: prose
 
 project:
     title: Book of Hezekiah
-    css: hezekiah
+    class: hezekiah
     order: 4
     next:
     - title: Moving sideways

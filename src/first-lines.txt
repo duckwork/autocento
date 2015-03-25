@@ -1,11 +1,12 @@
 ---
 title: Autocento of the breakfast table
+id: first-lines
 subtitle: index of first lines
 genre: prose
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 [A dead man finds his way into our hearts](deadman.html)

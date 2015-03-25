@@ -1,10 +1,11 @@
 ---
 title: Boy on the bus
+id: boy_bus
 genre: verse
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 9
     next:
     - title: I think it's you (but it's not)

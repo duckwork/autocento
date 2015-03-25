@@ -1,10 +1,11 @@
 ---
 title: Stump
+id: stump
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 34
     next:
     - title: Early

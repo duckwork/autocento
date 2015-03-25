@@ -1,10 +1,11 @@
 ---
 title: When I'm sorry I wash dishes
+id: when-im-sorry-i
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 Your casserole dish takes the longest: \

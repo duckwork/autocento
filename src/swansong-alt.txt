@@ -1,11 +1,12 @@
 ---
 title: Swansong
+id: swansong-alt
 subtitle: alternate version
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 This poem is dry like [chapped lips][].  \

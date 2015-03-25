@@ -1,11 +1,12 @@
 ---
 title: Something
+id: poetry-time
 subtitle: about the nature of poetry and time
 genre: verse
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 5
     next:
     - title: The Moon is drowning

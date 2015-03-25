@@ -1,10 +1,11 @@
 ---
 title: The purpose of dogs
+id: purpose-dogs
 genre: prose
 
 project:
     title: Book of Hezekiah
-    css: hezekiah
+    class: hezekiah
     order: 2
     next:
     - title: Philosophy

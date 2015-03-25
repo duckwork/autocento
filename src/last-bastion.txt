@@ -1,10 +1,11 @@
 ---
 title: Last bastion
+id: last-bastion
 genre: verse
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 10
     next:
     - title: AMBER alert

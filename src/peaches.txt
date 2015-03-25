@@ -1,10 +1,11 @@
 ---
 title: Peaches
+id: peaches
 genre: prose
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 "My anger is like a peach," he said.

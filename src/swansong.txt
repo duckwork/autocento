@@ -1,10 +1,11 @@
 ---
 title: Swan song
+id: swansong
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 24
     prev:
     - title: The squirrel

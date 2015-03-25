@@ -1,11 +1,12 @@
 ---
 title: Something
+id: dollywood
 subtitle: about my tenure as a bear
 genre: prose
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 I turned off the TV as soon as the end credits began.

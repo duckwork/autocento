@@ -1,5 +1,6 @@
 ---
 title: Ouroboros of Memory
+id: ouroboros_memory
 genre: prose
 
 epigraph:
@@ -12,7 +13,7 @@ epigraph:
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 12
     next:
     - title: L'appel du vide

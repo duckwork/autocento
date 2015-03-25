@@ -1,5 +1,6 @@
 ---
 title: And
+id: and
 genre: verse
 
 epigraph:
@@ -12,7 +13,7 @@ epigraph:
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 3
     next:
     - title: Words and meaning

@@ -1,10 +1,11 @@
 ---
 title: Finding the Lion
+id: finding-the-lion
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 Tonight, as I look up, the stars \

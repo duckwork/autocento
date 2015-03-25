@@ -1,10 +1,11 @@
 ---
 title: Cereal
+id: cereal
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 21
     next:
     - title: Man

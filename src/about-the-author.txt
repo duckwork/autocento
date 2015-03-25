@@ -1,5 +1,6 @@
 ---
 title: About the author
+id: about-the-author
 subtitle: (not pictured)
 genre: prose
 
@@ -8,7 +9,7 @@ epigraph:
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 19
     prev:
     - title: Something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing

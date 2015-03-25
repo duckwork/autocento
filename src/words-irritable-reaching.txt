@@ -1,10 +1,11 @@
 ---
 title: Words and their irritable reaching
+id: words-irritable-reaching
 genre: prose
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 Somewhere I remember reading advice for beginning writers not to show their work to anyone, at least that in the early stages.

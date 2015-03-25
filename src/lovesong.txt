@@ -1,10 +1,11 @@
 ---
 title: Love Song
+id: lovesong
 genre: prose
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 15
     prev:
     - title: How it happened

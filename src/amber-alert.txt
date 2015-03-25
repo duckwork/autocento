@@ -1,5 +1,6 @@
 ---
 title: AMBER alert
+id: amber-alert
 genre: prose
 
 epigraph:
@@ -13,7 +14,7 @@ ekphrastic:
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 6
     next:
     - title: Exasperated

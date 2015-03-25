@@ -1,5 +1,6 @@
 ---
 title: Ex machina
+id: ex-machina
 genre: verse
 
 epigraph:
@@ -8,7 +9,7 @@ epigraph:
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 Bottom of the drink: they had \

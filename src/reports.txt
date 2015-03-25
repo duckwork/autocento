@@ -1,10 +1,11 @@
 ---
 title: Reports
+id: reports
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 24
     next:
     - title: Swear

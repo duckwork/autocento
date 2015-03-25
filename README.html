@@ -12,23 +12,19 @@
     <title>Autocento of the breakfast table | Autocento of the breakfast table</title>
     <link rel="icon" type="image/png" href="img/favico.png" />
 
-    <link rel="stylesheet" type="text/css" href="./css/common.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <script src="./js/lozenge.js" type="text/javascript"> </script>
     <script src="./js/hylo.js" type="text/javascript"> </script>
 
-        <link rel="stylesheet" type="text/css" href="./css/prose.css">
-    <script src="./js/prose.js" type="text/javascript"> </script>
-            <link rel="stylesheet" type="text/css" href="./css/autocento.css">
-    <script src="./js/autocento.js" type="text/javascript"> </script>
-        <!--[if lt IE 9]>
+    <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"> </script>
     <![endif]-->
     <!-- <script src="js/external.js"> </script> -->
     </head>
-<body>
+<body id="README" class="autocento">
     
 
-    <article id="container">
+    <article class="container">
         <header>
             <!-- title -->
             <h1 class="title">Autocento of the breakfast table</h1>
@@ -45,62 +41,64 @@
         </header>
 
         
-        <section class="content prose"><section id="introduction" class="level2">
-<h2>Introduction</h2>
-<p><em>Autocento <a href="http://www.ibiblio.org/eldritch/owh/abt.html">of the breakfast table</a></em> is a hypertextual exploration of the workings of revision across time. Somebody<sup>[<a href="https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Dealing_with_unsourced_material">citation needed</a>]</sup> once said that every relationship we have is part of the same relationship; the same is true of authorship. As we write, as we continue writing across our lives, patterns thread themselves through our work: images, certain phrases, preoccupations. This project attempts to make those threads more apparent, using the technology of hypertext.</p>
-<p>I’m also an MFA candidate at <a href="http://nau.edu/CAL/English/Degrees-Programs/Graduate/MFA/">Northern Arizona University</a>. This is my thesis.</p>
-</section>
-<section id="genesis" class="level2">
-<h2>Genesis</h2>
-<p>This project revolves around two sister concepts: the <em>hapax legomenon</em> and the <em>cento</em>.</p>
-<p><em>Hapax legomenon</em> (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a%28/pac">ἅπαξ</a> λεγόμενον) is Greek for “something said only once.” It’s used in linguistics to describe words that appear only once in a corpus. If expanded to <em>n-grams</em>, it can be used to describe utterances that occur only once, and this is where it gets interesting. If this line of thinking is taken to its logical conclusion, we can say that all writing, all utterances, are <em>hapax legomena</em>, because they appear only once in the world as they are. In short, everything is individual; everything is differentiated; everything is an island.</p>
-<p>On the other hand, a <em>cento</em>, from the Latin, from the Greek κέντρόνη, meaning “patchwork garment,” is a poem composed completely of fragments of other poems. It’s a mash-up that makes up for its lack of originality in utterance with a novelty in arrangement. Usually, it refers to taking phrases, lines, or stanzas from other authors’ works, but I don’t see why it couldn’t refer to <em>n-grams</em> or individual words. If <em>this</em> line of thinking is taken to its logical conclusion, we can say that no writing is truly original; that every utterance has, in some scrambled way at least, been uttered before. In other words, nothing is individual. We float on an ocean of language which we did nothing to create, and the best we can hope for is to find some combination that hasn’t been thought of too many times before. As Solomon said, “<a href="https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A9&amp;version=NIV">There is nothing new under the sun</a>.”</p>
-<p><em>Autocento of the breakfast table</em> works within the tension caused by these two concepts.</p>
-</section>
-<section id="process" class="level2">
-<h2>Process</h2>
-<p>In compiling the works that make up this text, I’ve pulled from a few different projects:</p>
-<ul>
-<li><a href="and.html">Elegies for alternate selves</a></li>
-<li><a href="prelude.html">The book of Hezekiah</a></li>
-<li><a href="table_contents.html">Stark raving</a></li>
-<li><a href="art.html">Buildings out of air</a></li>
-</ul>
-<p>as well as added new articles, written quite recently. As I’ve compiled them into this project, I’ve linked them together based on common images or language, moving back and forth through time. This should give the reader a fair idea of what my head looks like on the inside.</p>
-</section>
-<section id="technology" class="level2">
-<h2>Technology</h2>
-<p>Because this project lives online, I’ve used a fair amount of technology to get it there. First, I converted all the articles<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> present into plain text files, which are viewable <a href="src/common-titles.html">here</a>. Then, I used John McFarlane’s venerable document preparation system <a href="http://johnmacfarlane.net/pandoc/">pandoc</a>, along with a short <a href="https://github.com/duckwork/autocento/blob/gh-pages/compile.lua">script</a>, to compile the text sources to HTML using <a href="https://github.com/duckwork/autocento/blob/gh-pages/.template.html">this template</a>. The compiled HTML is what you’re reading now.<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></p>
-<p>To host the project, I’m using <a href="https://github.com/">Github</a>, an online code-collaboration tool with the version control system <a href="http://www.git-scm.com/">git</a> under the hood. This enables me (and you, dear Reader!) to explore the path of revision even more, from beginning to end, based on my commits to the repository. You can view the repository and its changes and files at <a href="https://github.com/duckwork/autocento">my Github profile</a>.<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></p>
-</section>
-<section id="using-this-site" class="level2">
-<h2>Using this site</h2>
-<p>All of the articles on this site are linked together hypertextually (i.e., like a webpage). This means that all you need to do to explore the creative threads linking these articles together is to start clicking links. However, if you find you’re looping around to a lot of the same articles, you can head back to the <a href="first-lines.html">index</a> and click through the titles in order—that article contains the titles of all the other works in this project.</p>
-<p>Alternatively, you can click the lozenge (◊) at the bottom of each page. It’ll take you to a random article in the project, thanks to <a href="https://github.com/duckwork/autocento/blob/gh-pages/js/lozenge.js">this javascript</a>.</p>
-<p>If you want to experience the earlier projects in something resembling the original orders, previous and next links are provided at the bottom of each page, next to the lozenge. Sometimes, there are more than one of each of these, or there are none, dependant on the structure of their original project.</p>
-</section>
-<section id="things-still-to-do" class="level2">
-<h2>Things still to do</h2>
-<p><em>Autocento of the breakfast table</em> is a work in progress. The first draft is completed, but some revision and aesthetic work remains to be done for me to consider it fully “<a href="published.html">published</a>” (what does this word mean in 2015?). You can see the full list of to-dos by visiting the <a href="https://github.com/duckwork/autocento/issues">issues page</a> of the Github site.</p>
-</section>
-<section id="contact-me" class="level2">
-<h2>Contact me</h2>
-<p>If you’d like to contact me about the state of this work or my writing in general, you can email me at <script type="text/javascript">
-<!--
-h='&#x61;&#x75;&#116;&#x6f;&#x63;&#x65;&#110;&#116;&#x6f;&#46;&#x6d;&#x65;';a='&#64;';n='&#x63;&#x61;&#x73;&#x65;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#x63;&#x61;&#x73;&#x65;&#32;&#x61;&#116;&#32;&#x61;&#x75;&#116;&#x6f;&#x63;&#x65;&#110;&#116;&#x6f;&#32;&#100;&#x6f;&#116;&#32;&#x6d;&#x65;</noscript>.</p>
-<!-- links & footnotes -->
-</section>
-<section class="footnotes">
-<hr />
-<ol>
-<li id="fn1"><p>I’ve decided to use the word <em>article</em> instead of <em>poem</em>, because not all of the texts included are poems; and instead of <em>piece</em>, because <em>piece</em> is vague and, to my mind, pretentious. I’m aware that the true <a href="http://www.etymonline.com/index.php?search=article">etymology</a> of <em>article</em> does not reflect my use of it, namely “a little chunk of art”, a la the (personal folk) derivation of <em>icicle</em>, <em>treicle</em>, etc.<a href="#fnref1">↩</a></p></li>
-<li id="fn2"><p>The great thing about <code>pandoc</code> is that it can compile to, and convert between, about fifty formats or so. This means that if, in the future, I choose to convert this project to a printable form (for example PDF, ODT, or even DOCX), I’ll be able to with a fairly small amount of work.<a href="#fnref2">↩</a></p></li>
-<li id="fn3"><p>For more information on the technological aspect of this project, see the <a href="https://github.com/duckwork/autocento/blob/gh-pages/README.md">README.md</a> file at the root of the github repo.<a href="#fnref3">↩</a></p></li>
-</ol>
-</section></section>
+        <section class="content prose">
+            <section id="introduction" class="level2">
+            <h2>Introduction</h2>
+            <p><em>Autocento <a href="http://www.ibiblio.org/eldritch/owh/abt.html">of the breakfast table</a></em> is a hypertextual exploration of the workings of revision across time. Somebody<sup>[<a href="https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Dealing_with_unsourced_material">citation needed</a>]</sup> once said that every relationship we have is part of the same relationship; the same is true of authorship. As we write, as we continue writing across our lives, patterns thread themselves through our work: images, certain phrases, preoccupations. This project attempts to make those threads more apparent, using the technology of hypertext.</p>
+            <p>I’m also an MFA candidate at <a href="http://nau.edu/CAL/English/Degrees-Programs/Graduate/MFA/">Northern Arizona University</a>. This is my thesis.</p>
+            </section>
+            <section id="genesis" class="level2">
+            <h2>Genesis</h2>
+            <p>This project revolves around two sister concepts: the <em>hapax legomenon</em> and the <em>cento</em>.</p>
+            <p><em>Hapax legomenon</em> (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a%28/pac">ἅπαξ</a> λεγόμενον) is Greek for “something said only once.” It’s used in linguistics to describe words that appear only once in a corpus. If expanded to <em>n-grams</em>, it can be used to describe utterances that occur only once, and this is where it gets interesting. If this line of thinking is taken to its logical conclusion, we can say that all writing, all utterances, are <em>hapax legomena</em>, because they appear only once in the world as they are. In short, everything is individual; everything is differentiated; everything is an island.</p>
+            <p>On the other hand, a <em>cento</em>, from the Latin, from the Greek κέντρόνη, meaning “patchwork garment,” is a poem composed completely of fragments of other poems. It’s a mash-up that makes up for its lack of originality in utterance with a novelty in arrangement. Usually, it refers to taking phrases, lines, or stanzas from other authors’ works, but I don’t see why it couldn’t refer to <em>n-grams</em> or individual words. If <em>this</em> line of thinking is taken to its logical conclusion, we can say that no writing is truly original; that every utterance has, in some scrambled way at least, been uttered before. In other words, nothing is individual. We float on an ocean of language which we did nothing to create, and the best we can hope for is to find some combination that hasn’t been thought of too many times before. As Solomon said, “<a href="https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A9&amp;version=NIV">There is nothing new under the sun</a>.”</p>
+            <p><em>Autocento of the breakfast table</em> works within the tension caused by these two concepts.</p>
+            </section>
+            <section id="process" class="level2">
+            <h2>Process</h2>
+            <p>In compiling the works that make up this text, I’ve pulled from a few different projects:</p>
+            <ul>
+            <li><a href="and.html">Elegies for alternate selves</a></li>
+            <li><a href="prelude.html">The book of Hezekiah</a></li>
+            <li><a href="table_contents.html">Stark raving</a></li>
+            <li><a href="art.html">Buildings out of air</a></li>
+            </ul>
+            <p>as well as added new articles, written quite recently. As I’ve compiled them into this project, I’ve linked them together based on common images or language, moving back and forth through time. This should give the reader a fair idea of what my head looks like on the inside.</p>
+            </section>
+            <section id="technology" class="level2">
+            <h2>Technology</h2>
+            <p>Because this project lives online, I’ve used a fair amount of technology to get it there. First, I converted all the articles<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> present into plain text files, which are viewable <a href="src/common-titles.html">here</a>. Then, I used John McFarlane’s venerable document preparation system <a href="http://johnmacfarlane.net/pandoc/">pandoc</a>, along with a short <a href="https://github.com/duckwork/autocento/blob/gh-pages/compile.lua">script</a>, to compile the text sources to HTML using <a href="https://github.com/duckwork/autocento/blob/gh-pages/.template.html">this template</a>. The compiled HTML is what you’re reading now.<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></p>
+            <p>To host the project, I’m using <a href="https://github.com/">Github</a>, an online code-collaboration tool with the version control system <a href="http://www.git-scm.com/">git</a> under the hood. This enables me (and you, dear Reader!) to explore the path of revision even more, from beginning to end, based on my commits to the repository. You can view the repository and its changes and files at <a href="https://github.com/duckwork/autocento">my Github profile</a>.<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></p>
+            </section>
+            <section id="using-this-site" class="level2">
+            <h2>Using this site</h2>
+            <p>All of the articles on this site are linked together hypertextually (i.e., like a webpage). This means that all you need to do to explore the creative threads linking these articles together is to start clicking links. However, if you find you’re looping around to a lot of the same articles, you can head back to the <a href="first-lines.html">index</a> and click through the titles in order—that article contains the titles of all the other works in this project.</p>
+            <p>Alternatively, you can click the lozenge (◊) at the bottom of each page. It’ll take you to a random article in the project, thanks to <a href="https://github.com/duckwork/autocento/blob/gh-pages/js/lozenge.js">this javascript</a>.</p>
+            <p>If you want to experience the earlier projects in something resembling the original orders, previous and next links are provided at the bottom of each page, next to the lozenge. Sometimes, there are more than one of each of these, or there are none, dependant on the structure of their original project.</p>
+            </section>
+            <section id="things-still-to-do" class="level2">
+            <h2>Things still to do</h2>
+            <p><em>Autocento of the breakfast table</em> is a work in progress. The first draft is completed, but some revision and aesthetic work remains to be done for me to consider it fully “<a href="published.html">published</a>” (what does this word mean in 2015?). You can see the full list of to-dos by visiting the <a href="https://github.com/duckwork/autocento/issues">issues page</a> of the Github site.</p>
+            </section>
+            <section id="contact-me" class="level2">
+            <h2>Contact me</h2>
+            <p>If you’d like to contact me about the state of this work or my writing in general, you can email me at <script type="text/javascript">
+            <!--
+            h='&#x61;&#x75;&#116;&#x6f;&#x63;&#x65;&#110;&#116;&#x6f;&#46;&#x6d;&#x65;';a='&#64;';n='&#x63;&#x61;&#x73;&#x65;';e=n+a+h;
+            document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
+            // -->
+            </script><noscript>&#x63;&#x61;&#x73;&#x65;&#32;&#x61;&#116;&#32;&#x61;&#x75;&#116;&#x6f;&#x63;&#x65;&#110;&#116;&#x6f;&#32;&#100;&#x6f;&#116;&#32;&#x6d;&#x65;</noscript>.</p>
+            <!-- links & footnotes -->
+            </section>
+            <section class="footnotes">
+            <hr />
+            <ol>
+            <li id="fn1"><p>I’ve decided to use the word <em>article</em> instead of <em>poem</em>, because not all of the texts included are poems; and instead of <em>piece</em>, because <em>piece</em> is vague and, to my mind, pretentious. I’m aware that the true <a href="http://www.etymonline.com/index.php?search=article">etymology</a> of <em>article</em> does not reflect my use of it, namely “a little chunk of art”, a la the (personal folk) derivation of <em>icicle</em>, <em>treicle</em>, etc.<a href="#fnref1">↩</a></p></li>
+            <li id="fn2"><p>The great thing about <code>pandoc</code> is that it can compile to, and convert between, about fifty formats or so. This means that if, in the future, I choose to convert this project to a printable form (for example PDF, ODT, or even DOCX), I’ll be able to with a fairly small amount of work.<a href="#fnref2">↩</a></p></li>
+            <li id="fn3"><p>For more information on the technological aspect of this project, see the <a href="https://github.com/duckwork/autocento/blob/gh-pages/README.md">README.md</a> file at the root of the github repo.<a href="#fnref3">↩</a></p></li>
+            </ol>
+            </section>
+        </section>
     </article>
     <nav>
                 <a href="#" id="lozenge" title="Random page"> &loz; </a>

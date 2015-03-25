@@ -1,5 +1,6 @@
 ---
 title: Table of contents
+id: table_contents
 genre: verse
 
 epigraph:
@@ -8,7 +9,7 @@ epigraph:
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 1
     next:
     - title: Ouroboros of memory

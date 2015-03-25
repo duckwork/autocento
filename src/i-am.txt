@@ -1,10 +1,11 @@
 ---
 title: I am
+id: i-am
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 13
     prev:
     - title: On formal poetry

@@ -1,10 +1,11 @@
 ---
 title: Feeding the raven
+id: feedingtheraven
 genre: prose
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 11
     prev:
     - title: The angel to Abraham

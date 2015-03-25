@@ -1,5 +1,6 @@
 ---
 title: Call me
+id: call-me-aural-pleasure
 subtitle: aural pleasure
 genre: verse
 
@@ -10,7 +11,7 @@ epigraph:
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 Like _40_ as I challenge anyone to come too! \

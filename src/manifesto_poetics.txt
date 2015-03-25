@@ -1,10 +1,11 @@
 ---
 title: Manifesto of poetics
+id: manifesto_poetics
 genre: prose
 
 project:
     title: Stark raving
-    css: stark
+    class: stark
 ...
 
 What is a poem?

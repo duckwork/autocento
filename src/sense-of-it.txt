@@ -1,10 +1,11 @@
 ---
 title: Sense of it
+id: sense-of-it
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 I only write poems on [the bus][] anymore.  \

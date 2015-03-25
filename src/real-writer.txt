@@ -1,10 +1,11 @@
 ---
 title: A real writer
+id: real-writer
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 Sometimes I feel as though I am not a real writer.  \

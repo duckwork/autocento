@@ -1,5 +1,6 @@
 ---
 title: I think it's you (but it's not)
+id: i-think-its-you
 genre: verse
 
 epigraph:
@@ -8,7 +9,7 @@ epigraph:
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 15
     next:
     - title: Initial conditions

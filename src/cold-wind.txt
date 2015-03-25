@@ -1,12 +1,13 @@
 ---
 title: Cold wind
+id: cold-wind
 genre: verse
 
 dedication: Justin
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 [Man of autumn][], cold wind, \

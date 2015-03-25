@@ -1,10 +1,11 @@
 ---
 title: The largest asteroid in the asteroid belt
+id: largest-asteroid
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 What secrets does it hold?  \

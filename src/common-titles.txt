@@ -1,5 +1,6 @@
 ---
 title: Autocento of the breakfast table
+id: common-titles
 subtitle: index of common titles
 genre: verse
 
@@ -9,12 +10,12 @@ epigraph:
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 [100 lines](100-lines.html)
 [about the author](about-the-author.html),
-[Case Duckworth](about_author.html) (née
+[Case Duckworth](about_author.html) (nee
 [Amber): alert](amber-alert.html)!
 
 [And](and.html)
@@ -36,7 +37,7 @@ The [boy on the bus](boy_bus.html) is
 [Creation myth](creation-myth.html):
 [dead man](deadman.html) =
 [the death zone](death-zone.html) = \
-[Death’s trumpet](deathstrumpet.html).
+[Death's trumpet](deathstrumpet.html).
 [Dream](dream.html)
 [early](early.html).
 
@@ -57,8 +58,8 @@ setting a [fire](fire.html).
 
 [How to read this](howtoread.html)
 [hymnal](hymnal.html): \
-"[I am](i-am.html)." "[I think it’s \
-you (but it’s not)](i-think-its-you.html)."
+"[I am](i-am.html)." "[I think it's \
+you (but it's not)](i-think-its-you.html)."
 
 [I wanted to tell you something](i-wanted-to-tell-you-something.html)
 [in bed](in-bed.html)--- \
@@ -66,7 +67,7 @@ you (but it’s not)](i-think-its-you.html)."
 the [initial conditions](initial-conditions.html)
 of [January](january.html)'s
 [joke](joke.html) are
-[_l’appel du vide_](lappel-du-vide.html). \
+[_l'appel du vide_](lappel-du-vide.html). \
 [The largest asteroid in the asteroid belt](largest-asteroid.html) is the
 [last bastion](last-bastion.html), \
 the [last passenger](last-passenger.html)
@@ -125,7 +126,7 @@ builds
 [the sixteenth chapel](sixteenth-chapel.html) in
 [snow](snow.html).
 
-[Let’s start with something simple](something-simple.html): \
+[Let's start with something simple](something-simple.html): \
 [spittle](spittle.html) on
 [the squirrel](squirrel.html) sitting
 [stagnant](stagnant.html). \
@@ -157,11 +158,11 @@ a [treatise](treatise.html) on
 
 [We played those games too](weplayedthosegamestoo.html).
 
-[When I’m sorry I wash dishes](when-im-sorry-i.html) in
+[When I'm sorry I wash dishes](when-im-sorry-i.html) in
 the [window](window.html), [walking \
-in the rain](walking-in-the-rain.html),
-thinking about
-[what we are made of](what-we-are-made-of.html):
+in the rain](walking-in-the-rain.html), thinking \
+about
+[what we are made of](what-we-are-made-of.html): \
 [words and meaning](words-meaning.html),
 [irritably reaching after reason](words-irritable-reaching.html).
 I feel [worse, \

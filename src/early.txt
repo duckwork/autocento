@@ -1,10 +1,11 @@
 ---
 title: Early
+id: early
 genre: prose
 
 project:
     title: "Buildings out of air: Paul in the Woods"
-    css: paul
+    class: paul
     order: 35
     next:
     - title: Toothpaste

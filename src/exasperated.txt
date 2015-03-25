@@ -1,10 +1,11 @@
 ---
 title: Exasperated
+id: exasperated
 genre: verse
 
 project:
     title: Stark Raving
-    css: stark
+    class: stark
     order: 8
     next:
     - title: The Death Zone

@@ -1,10 +1,11 @@
 ---
 title: Prelude
+id: prelude
 genre: prose
 
 project:
     title: Book of Hezekiah
-    css: hezekiah
+    class: hezekiah
     order: 1
     next:
     - title: The purpose of dogs

@@ -1,10 +1,11 @@
 ---
 title: The angel to Abraham
+id: angeltoabraham
 genre: verse
 
 project:
     title: Elegies for alternate selves
-    css: elegies
+    class: elegies
     order: 10
     prev:
     - title: Dead man

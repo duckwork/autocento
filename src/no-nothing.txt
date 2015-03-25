@@ -1,10 +1,11 @@
 ---
 title: No nothing
+id: no-nothing
 genre: verse
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 | While [swimming in the river][]

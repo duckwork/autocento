@@ -1,12 +1,13 @@
 ---
 title: A hard game
+id: hard-game
 genre: verse
 
 dedication: Jim Henson
 
 project:
     title: Autocento of the breakfast table
-    css: autocento
+    class: autocento
 ...
 
 You think building Hoggle's a hard game?  \
