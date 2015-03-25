@@ -28,7 +28,8 @@ lozenge : $(LOZENGE)
 # Generic rule for RIVER targets and Markdown sources
 %.river : %.txt
 	@echo River-ing $@
-	@sed "s/[^A-Za-z0-9'-]/ /g" $< |\
+	@sed -e '/^---$$/,/^...$$/d'\
+	     -e "s/[^][A-Za-z0-9\/\"':.-]/ /g" $< |\
 	pandoc - -f markdown -t $(LUAdir)/river.lua $(RIVopts) -o $(RIVdir)/$@
 
 $(LOZENGE) : $(HTMLdir)/$(HTMLs)
