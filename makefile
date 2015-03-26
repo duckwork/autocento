@@ -3,16 +3,13 @@
 # inspired by Lincoln Mullen | lincolnmullen.com
 
 # Define directories, file lists, and options
-HTMLdir = ..
-RIVdir  = ../river
-LUAdir  = ../lua
 HTMLs  := $(patsubst %.txt,%.html,$(wildcard *.txt))
-HTMopts = --template=$(HTMLdir)/.template.html
+HTMopts = --template=.template.html
 HTMopts+= --smart --mathml --section-divs
+RIVERer = lua/river.lua
 RIVERs := $(patsubst %.txt,%.river,$(wildcard *.txt))
 RIVopts =
-LOZENGE = ../js/lozenge.js
-LOZupd  = ../js/update-lozenge.sh
+LOZENGE = js/lozenge.js
 
 # Do everything
 .PHONY: all html river lozenge
@@ -23,18 +20,18 @@ lozenge : $(LOZENGE)
 
 # Generic rule for HTML targets and Markdown sources
 %.html : %.txt
-	pandoc $< -f markdown -t html5 $(HTMopts) -o $(HTMLdir)/$@
+	pandoc $< -f markdown -t html5 $(HTMopts) -o $@
 
 # Generic rule for RIVER targets and Markdown sources
 %.river : %.txt
 	@echo River-ing $@
 	@sed -e '/^---$$/,/^...$$/d'\
 	     -e "s/[^][A-Za-z0-9\/\"':.-]/ /g" $< |\
-	pandoc - -f markdown -t $(LUAdir)/river.lua $(RIVopts) -o $(RIVdir)/$@
+	pandoc - -f markdown -t $(RIVERer) $(RIVopts) -o $@
 
-$(LOZENGE) : $(HTMLdir)/$(HTMLs)
+$(LOZENGE) : $(HTMLs)
 	@echo "Updating lozenge.js..."
-	@list=`ls $(HTMLdir)/*.html |\
+	@list=`ls *.html |\
 	sed -e 's,../,,g' |\
 	tr '\n' ' ' |\
 	sed -e 's/\(\S\+.html\) /"\1",/g'\
