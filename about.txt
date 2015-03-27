@@ -55,10 +55,10 @@ Process
 
 In compiling the works that make up this text, I've pulled from a few different projects:
 
-* [Elegies for alternate selves](and.html)
-* [The book of Hezekiah](prelude.html)
-* [Stark raving](table_contents.html)
-* [Buildings out of air](art.html)
+* [Elegies for alternate selves][elegies-link]
+* [The book of Hezekiah][hez-link]
+* [Stark raving][stark-link]
+* [Buildings out of air][paul-link]
 
 as well as added new articles, written quite recently.
 As I've compiled them into this project, I've linked them together based on common images or language, moving back and forth through time.
@@ -109,6 +109,11 @@ If you'd like to contact me about the state of this work or my writing in genera
 
 [ἅπαξ]: http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a%28/pac
 [nothing-new]: https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A9&version=NIV
+
+[elegies-link]: and.html
+[hez-link]: prelude.html
+[stark-link]: table_contents.html
+[paul-link]: art.html
 
 [text]: src/common-titles.html
 

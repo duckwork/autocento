@@ -7,9 +7,9 @@
 /* Playfair Display: headings */
 @import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic&subset=latin,latin-ext);
 /* Linux Libertine: body text */
-@import url(fonts/libertine.css);
+@import url(trunk/libertine.css);
 /* Courier New: typewriter text */
-@import url(fonts/courier-prime.css);
+@import url(trunk/courier-prime.css);
 /* @imports }}} */
 /* MAIN LAYOUT ELEMENTS {{{ */
 /* HTML + BODY {{{ */
@@ -385,7 +385,7 @@ a.footnoteRef {
 /* }}} */
 #cover {
     color: #b2d9e5;
-    background-image: url('img/black-streak.jpg');
+    background-image: url('trunk/black-streak.jpg');
     background-position: 0 0;
     background-size: 100% 100%;
     background-repeat: no-repeat;

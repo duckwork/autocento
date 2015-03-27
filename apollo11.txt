@@ -4,7 +4,7 @@ id: apollo11
 genre: verse
 
 ekphrastic:
-    image: "img/panorama-apollo11.jpg"
+    image: "panorama-apollo11.jpg"
     title: "Big deal."
     link: "http://apod.nasa.gov/apod/ap141220.html"
 

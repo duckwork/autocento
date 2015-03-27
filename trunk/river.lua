@@ -23,6 +23,8 @@ local function nude(s)
             return x
         end
     end)
+    s = s:gsub("it's", "it is")
+    s = s:gsub("n't", " not ")
     -- Get rid of quotes around words
     s = s:gsub('"', ' ')
     s = s:gsub("%s+'", ' ')

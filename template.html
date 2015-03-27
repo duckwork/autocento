@@ -10,16 +10,15 @@
     <meta name="author" content="Case Duckworth">
 
     <title>$title$ | Autocento of the breakfast table</title>
-    <link rel="icon" type="image/png" href="img/favico.png" />
+    <link rel="icon" type="image/png" href="trunk/favico.png" />
 
     <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="./js/lozenge.js" type="text/javascript"> </script>
-    <script src="./js/hylo.js" type="text/javascript"> </script>
+    <script src="trunk/lozenge.js" type="text/javascript"> </script>
+    <script src="trunk/hylo.js" type="text/javascript"> </script>
 
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"> </script>
     <![endif]-->
-    <!-- <script src="js/external.js"> </script> -->
     $for(header-includes)$
     $headerincludes$
     $endfor$
@@ -60,7 +59,7 @@
             <div class="ekphrastic">
             $if(ekphrastic.link)$
                 <a href="$ekphrastic.link$">
-                    <img src="img/$ekphrastic.image$"
+                    <img src="trunk/$ekphrastic.image$"
                     $if(ekphrastic.title)$
                         title="$ekphrastic.title$"
                     $endif$
@@ -75,7 +74,7 @@
                     />
                 </a>
             $else$
-                <img src="img/$ekphrastic.image$"
+                <img src="trunk/$ekphrastic.image$"
                 $if(ekphrastic.title)$
                     title="$ekphrastic.title$"
                 $endif$
