@@ -5,9 +5,12 @@
 # Define directories, file lists, and options
 TEXTs  := $(wildcard *.txt)
 
+VERSIFY = trunk/versify.exe
+
 HTMLbl := index.html template.html index-txt.html
 HTMLs  := $(filter-out $(HTMLbl),$(patsubst %.txt,%.html,$(TEXTs)))
 HTMopts = --template=template.html
+HTMopts+= --filter=$(VERSIFY)
 HTMopts+= --smart --mathml --section-divs
 
 HAPAXbl:= first-lines.river common-titles.river hapax.river
@@ -35,7 +38,7 @@ river   : $(RIVERs)
 lozenge : $(LOZENGE)
 
 # Generic rule for HTML targets and Markdown sources
-%.html : %.txt template.html
+%.html : %.txt template.html $(VERSIFY)
 	pandoc $< -f markdown -t html5 $(HTMopts) -o $@
 
 # Generic rule for RIVER targets and Markdown sources
@@ -44,6 +47,9 @@ lozenge : $(LOZENGE)
 	@sed -e '/^---$$/,/^...$$/d'\
 	     -e "s/[^][A-Za-z0-9\/\"':.-]/ /g" $< |\
 	 pandoc - -f markdown -t $(RIVERer) -o $@
+
+$(VERSIFY) : trunk/versify.hs
+	ghc --make trunk/versify.hs
 
 $(LOZENGE) : $(HTMLs)
 	@echo "Updating lozenge.js..."

@@ -300,6 +300,16 @@ a.footnoteRef {
     display: inline-block;
     text-align: left;
 }
+.verse p {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+.verse .line {
+    display: block;
+    margin: 0;
+    text-indent: -1em;
+    margin-left: 1em;
+}
 /* .verse }}} */
 /* PROJECT CSS */
 /* #COVER {{{ */
