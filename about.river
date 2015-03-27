@@ -485,8 +485,7 @@ pandoc
 along
 with
 a
-short
-script
+makefile
 to
 compile
 the

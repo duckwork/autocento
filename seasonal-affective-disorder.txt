@@ -8,26 +8,26 @@ project:
     class: autocento
 ...
 
-On your desk I set a tangerine:  \
-a relic of a [winter][] quickly passing.
+| On your desk I set a tangerine:
+| a relic of a [winter][] quickly passing.
 
-I'm reminded, fiercely, of a summer:  \
-I watched the [cemetery grass][] on my stomach.
+| I'm reminded, fiercely, of a summer:
+| I watched the [cemetery grass][] on my stomach.
 
-You hate the wind [blowing through buildings][]:  \
-the coldness of fire, blister of a mountain stream.
+| You hate the wind [blowing through buildings][]:
+| the coldness of fire, blister of a mountain stream.
 
-When you broke down that night: your aunt / you  \
-never have been / [you shook that night][] /
+| When you broke down that night: your aunt / you
+| never have been / [you shook that night][] /
 
-Seasonal affective disorder is real: you  \
-[mutter under your breath on the highway][].
+| Seasonal affective disorder is real: you
+| [mutter under your breath on the highway][].
 
-The ant carries an orange peel past a headstone:  \
-it carries her nearly as often.
+| The ant carries an orange peel past a headstone:
+| it carries her nearly as often.
 
-I set a tangerine on your desk:  \
-an engagement ring, winter-returned.
+| I set a tangerine on your desk:
+| an engagement ring, winter-returned.
 
 [winter]: january.html
 [cemetery grass]: death-zone.html

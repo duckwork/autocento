@@ -16,7 +16,7 @@ RIVERs := $(filter-out $(HAPAXbl),$(patsubst %.txt,%.river,$(TEXTs)))
 
 HAPAXs := $(filter-out $(HAPAXbl),$(RIVERs))
 HAPAXer = trunk/hapax.lua
-HAPAXhd = trunk/hapax.head
+HAPAXhd:= trunk/hapax.head
 HAPAXtmp= hapax.tmp
 HAPAX   = hapax.txt
 
@@ -35,7 +35,7 @@ river   : $(RIVERs)
 lozenge : $(LOZENGE)
 
 # Generic rule for HTML targets and Markdown sources
-%.html : %.txt
+%.html : %.txt template.html
 	pandoc $< -f markdown -t html5 $(HTMopts) -o $@
 
 # Generic rule for RIVER targets and Markdown sources

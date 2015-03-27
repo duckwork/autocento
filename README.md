@@ -37,7 +37,6 @@ ekphrastic:                                  # optional image ekphrastic
 
 project:
     title: Original project name
-    class: class-name-for-css
     order: 1                                 # page number, optional
     prev:                                    # optional
     - title: Title of previous thing in original project

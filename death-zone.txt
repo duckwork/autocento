@@ -29,33 +29,33 @@ project:
       link: amber-alert
 ...
 
-When I think of death I think \
-of Peter Falk in _The Princess Bride_ patting \
-[his pockets][] as he leaves the room
+| When I think of death I think
+| of Peter Falk in _The Princess Bride_ patting
+| [his pockets][] as he leaves the room
 
-Life is a series of doors or so \
-they say but I ask them this \
-where does that last door lead?
+| Life is a series of doors or so
+| they say but I ask them this
+| where does that last door lead?
 
-For Falk maybe it leads backstage \
-a black-walled catered affair with stage \
-lights slowly baking stale muffins
+| For Falk maybe it leads backstage
+| a black-walled catered affair with stage
+| lights slowly baking stale muffins
 
-[Sweaty cheese][] leaking onto dried-out \
-grapes a chocolate fountain clogged \
-by some errant strawberry crown
+| [Sweaty cheese][] leaking onto dried-out
+| grapes a chocolate fountain clogged
+| by some errant strawberry crown
 
-but this is not where it leads for you or \
-for me that door opens onto darkness marked \
-only by a trellis or the lid of a casket
+| but this is not where it leads for you or
+| for me that door opens onto darkness marked
+| only by a trellis or the lid of a casket
 
-the door of the [earth's womb][] opening \
-finally to accept us and with us the dirt \
-not to grow more strawberries for Falk
+| the door of the [earth's womb][] opening
+| finally to accept us and with us the dirt
+| not to grow more strawberries for Falk
 
-but to pad his feet as he walks overhead \
-to visit someone he certainly cares about \
-but whose name is lost to posterity.
+| but to pad his feet as he walks overhead
+| to visit someone he certainly cares about
+| but whose name is lost to posterity.
 
 [his pockets]: creation-myth.html
 [Sweaty cheese]: i-wanted-to-tell-you-something.html

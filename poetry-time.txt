@@ -20,51 +20,51 @@ project:
       link: worse-looking-over
 ...
 
-I'm writing this now because I have to.  \
-Not in some "my soul yearns for this and \
-I can't help it" way, but in the way that this \
-moment is structured as such, that it is \
-crystallized this way, me writing this, and later \
-you reading it, now for you, later for me,
+| I'm writing this now because I have to.
+| Not in some "my soul yearns for this and
+| I can't help it" way, but in the way that this
+| moment is structured as such, that it is
+| crystallized this way, me writing this, and later
+| you reading it, now for you, later for me,
 
-and this tenuous connection mates me \
-and you forever, combined with each other, two \
-[electrons momentarily entwined][].  Later, \
-when I'm dead or far too famous for you, and \
-you're in school, reading my words because it is \
-required reading, I want you to remember this
+| and this tenuous connection mates me
+| and you forever, combined with each other, two
+| [electrons momentarily entwined][].  Later,
+| when I'm dead or far too famous for you, and
+| you're in school, reading my words because it is
+| required reading, I want you to remember this
 
-connection we've always had, this \
-[spider's thread][] hanging between you and me.  \
-Which of us is the spider and which is \
-the fly still remains to be seen.  To \
-eat, perchance to fly: all of that and \
-more.  We can settle all of this later.
+| connection we've always had, this
+| [spider's thread][] hanging between you and me.
+| Which of us is the spider and which is
+| the fly still remains to be seen.  To
+| eat, perchance to fly: all of that and
+| more.  We can settle all of this later.
 
-Yes, it is you I'm thinking of in your later \
-time: you specifically, not another.  This \
-is true for all $x$ such that $x > 0$ and \
-$x$ is a real person, though it doesn't bother me \
-to write to a fictional figure or to \
-[a figment][], maybe, of my imagination.  This is
+| Yes, it is you I'm thinking of in your later
+| time: you specifically, not another.  This
+| is true for all $x$ such that $x > 0$ and
+| $x$ is a real person, though it doesn't bother me
+| to write to a fictional figure or to
+| [a figment][], maybe, of my imagination.  This is
 
-what you are right now, anyway, [dear Reader][], is \
-it not?  I'm talking about my now, of course, not later, \
-which is your now.  Later will be my now too, \
-and maybe I'm ultimately writing to a future part of this \
-self: you could very well be me.  \
-In fact, you probably are me, [some other version][], and
+| what you are right now, anyway, [dear Reader][], is
+| it not?  I'm talking about my now, of course, not later,
+| which is your now.  Later will be my now too,
+| and maybe I'm ultimately writing to a future part of this
+| self: you could very well be me.
+| In fact, you probably are me, [some other version][], and
 
-I am you in the past, or what you could've been, and \
-at the same time, this isn't true.  Everything is, \
-and nothing isn't.  The difference between "you" and "me" \
-is in name only.  Maybe you'll get this later, \
-[when you're older][], when I'm older, when all of this \
-is something we'll look fondly back to,
+| I am you in the past, or what you could've been, and
+| at the same time, this isn't true.  Everything is,
+| and nothing isn't.  The difference between "you" and "me"
+| is in name only.  Maybe you'll get this later,
+| [when you're older][], when I'm older, when all of this
+| is something we'll look fondly back to,
 
-because I do hope to meet you, although much later, \
-and I hope your feeling is the same.  All this \
-talk on me and you and you and me we'll keep between us two.
+| because I do hope to meet you, although much later,
+| and I hope your feeling is the same.  All this
+| talk on me and you and you and me we'll keep between us two.
 
 [electrons momentarily entwined]: treatise.html
 [spider's thread]: last-passenger.html

@@ -15,25 +15,25 @@ project:
       link: deadman
 ...
 
-Now the ticking clocks scare me.  \
-The [empty][] rooms, clock towers, belfries; \
-I am terrified by them all.
+| Now the ticking clocks scare me.
+| The [empty][] rooms, clock towers, belfries;
+| I am terrified by them all.
 
-I really used to enjoy going to church, \
-singing in the choir, listening to the sermon.  \
-Now the chairs squeal like dying pigs---
+| I really used to enjoy going to church,
+| singing in the choir, listening to the sermon.
+| Now the chairs squeal like dying pigs---
 
-It was the boar that did it.  \
-[Fifteen feet][] from me that night \
-in the grass, rooting for God \
-knows what, finding me instead.
+| It was the boar that did it.
+| [Fifteen feet][] from me that night
+| in the grass, rooting for God
+| knows what, finding me instead.
 
-I ran, not knowing where or how, \
-not looking for his pursuit of me.  \
-I ran to God's front door, found \
-it locked, found the [house][] empty
+| I ran, not knowing where or how,
+| not looking for his pursuit of me.
+| I ran to God's front door, found
+| it locked, found the [house][] empty
 
-with a note saying, "Condemned."
+| with a note saying, "Condemned."
 
 [empty]: mountain.html
 [Fifteen feet]: telemarketer.html

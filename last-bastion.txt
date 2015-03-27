@@ -19,37 +19,37 @@ project:
       link: boy_bus
 ...
 
-Dimly remembered celebrity chefs shuffle \
-down the cold and darkened highways of the heart.  \
-They are the last personality left.  They are [the meek \
-who inherited the heart][meek], what was left of it.\
+| Dimly remembered celebrity chefs shuffle
+| down the cold and darkened highways of the heart.
+| They are the last personality left.  They are [the meek
+| who inherited the heart][meek], what was left of it.\
 
-Without food to cook in new or exciting ways \
-nor audience to gasp and cackle, the chefs \
-of the heart quietly waste away while staring \
-doe-eyed into now-empty Safeway windows \
-checking under the dusty produce shelves \
-for something they pray the [rats][] haven't found yet.
+| Without food to cook in new or exciting ways
+| nor audience to gasp and cackle, the chefs
+| of the heart quietly waste away while staring
+| doe-eyed into now-empty Safeway windows
+| checking under the dusty produce shelves
+| for something they pray the [rats][] haven't found yet.
 
-Years ago, the economy of the heart boomed \
-and there was food everywhere.  Produce \
-piled high in pyramids of devotion, meat in \
-gilded glass cases opulent under fluorescence, \
-dairy which ran like the [mythical river][] toward \
-cereals hot and cold.  Under it all, thrumming \
-like great stone wheels on sand under a hot sun \
-near a river where reeds sang in the wind \
-the heart produced and gave reward for hard labor.
+| Years ago, the economy of the heart boomed
+| and there was food everywhere.  Produce
+| piled high in pyramids of devotion, meat in
+| gilded glass cases opulent under fluorescence,
+| dairy which ran like the [mythical river][] toward
+| cereals hot and cold.  Under it all, thrumming
+| like great stone wheels on sand under a hot sun
+| near a river where reeds sang in the wind
+| the heart produced and gave reward for hard labor.
 
-No one knows when it all ended.  No one can say \
-if it was the heart that dried up or the heart's supply.  \
-Either way, food of the heart became scarcer and scarcer.  \
-People began dying, not of starvation \
-but of a certain facial expression that could only \
-be described as desperation.  Now \
-all that are left are the celebrity chefs, last bastion \
-of a once mighty empire of the [heart \
-are reduced to husks][heart] blown dry by wind.
+| No one knows when it all ended.  No one can say
+| if it was the heart that dried up or the heart's supply.
+| Either way, food of the heart became scarcer and scarcer.
+| People began dying, not of starvation
+| but of a certain facial expression that could only
+| be described as desperation.  Now
+| all that are left are the celebrity chefs, last bastion
+| of a once mighty empire of the [heart
+| are reduced to husks][heart] blown dry by wind.
 
 [meek]: http://biblehub.com/matthew/5-5.htm
 [rats]: in-bed.html

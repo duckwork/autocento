@@ -8,20 +8,20 @@ project:
     class: autocento
 ...
 
-in mammals the ratio between bladder size \
-and urethra is such that it takes \
-all of them the same time to piss.  Take \
-for example the fact that Fibonnacci \
-numbers show up everywhere.  How can you \
-look at this at all of this all of \
-these facts and tell me to my face there \
-is no God?  And yet there isn't \
-you murmer quietly into my ear over \
-and over like a low tide sounding \
-its lonely waves on an abandoned beach.  \
-The ocean that birthed us holds us \
-still.  We are tied, you and I, together \
-in her arms.  The [moon, caring father,][moon] \
-looks down from a dispassionate sky.
+| in mammals the ratio between bladder size
+| and urethra is such that it takes
+| all of them the same time to piss.  Take
+| for example the fact that Fibonnacci
+| numbers show up everywhere.  How can you
+| look at this at all of this all of
+| these facts and tell me to my face there
+| is no God?  And yet there isn't
+| you murmer quietly into my ear over
+| and over like a low tide sounding
+| its lonely waves on an abandoned beach.
+| The ocean that birthed us holds us
+| still.  We are tied, you and I, together
+| in her arms.  The [moon, caring father,][moon]
+| looks down from a dispassionate sky.
 
 [moon]: moon-drowning.html

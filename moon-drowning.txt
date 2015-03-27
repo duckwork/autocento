@@ -19,24 +19,24 @@ project:
       link: big-dipper
 ...
 
-[The moon is drowning][] the stars it pushes them \
-under into the darkness they cannot breathe \
-they are flailing the moon boasts to my shadow \
-how powerful is the moon how great its light
+| [The moon is drowning][] the stars it pushes them
+| under into the darkness they cannot breathe
+| they are flailing the moon boasts to my shadow
+| how powerful is the moon how great its light
 
-My shadow nods and calls the moon father though \
-it acknowledges also the existence of others \
-headlights are like little moons father my shadow says \
-they pass like waves in a dark ocean
+| My shadow nods and calls the moon father though
+| it acknowledges also the existence of others
+| headlights are like little moons father my shadow says
+| they pass like waves in a dark ocean
 
-Father moon becomes angry and threatens \
-I can maroon you shadow I can trap you in darkness \
-your strength comes from my own the little moons \
-are fleeting like foam on a darkened sea
+| Father moon becomes angry and threatens
+| I can maroon you shadow I can trap you in darkness
+| your strength comes from my own the little moons
+| are fleeting like foam on a darkened sea
 
-My shadow fears the night as it fears death \
-but it remembers the moon's strength is from another \
-my shadow wants the headlights like an ocean \
-might want the moon as a seducer as a lover
+| My shadow fears the night as it fears death
+| but it remembers the moon's strength is from another
+| my shadow wants the headlights like an ocean
+| might want the moon as a seducer as a lover
 
 [The moon is drowning]: moongone.html

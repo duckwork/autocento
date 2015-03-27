@@ -8,51 +8,51 @@ project:
     class: autocento
 ...
 
-January.  \
-It's cold, and I don't like it.  \
-I prefer warm weather, \
-although I like sweaters.  They are the one \
-warm spot in an otherwise [shitty][] season.  \
-But fall is better sweater weather.  So be patient,
+| January.
+| It's cold, and I don't like it.
+| I prefer warm weather,
+| although I like sweaters.  They are the one
+| warm spot in an otherwise [shitty][] season.
+| But fall is better sweater weather.  So be patient,
 
-_patient_, \
-while waiting for the end of January.  \
-A change of season \
-brings a change of mood along with it, \
-although I never thought I'd be one \
-to believe that [SAD][] junk about effects of weather---
+| _patient_,
+| while waiting for the end of January.
+| A change of season
+| brings a change of mood along with it,
+| although I never thought I'd be one
+| to believe that [SAD][] junk about effects of weather---
 
-weather!--- \
-on a person.  Who becomes a patient \
-just because of one \
-[month of snow][]?  I did say of January: \
-"It's cold, and I don't like it," \
-but I hardly think it's fair, knocking whole seasons,
+| weather!---
+| on a person.  Who becomes a patient
+| just because of one
+| [month of snow][]?  I did say of January:
+| "It's cold, and I don't like it,"
+| but I hardly think it's fair, knocking whole seasons,
 
-seasoning \
-your conversation with demands for better weather.  \
-(While I find it \
-nearly impossible, it's my mission to be patient \
-while waiting for the end of January.) \
-Oh, but how the long nights do so [tax][] one!
+| seasoning
+| your conversation with demands for better weather.
+| (While I find it
+| nearly impossible, it's my mission to be patient
+| while waiting for the end of January.)
+| Oh, but how the long nights do so [tax][] one!
 
-One \
-[warm spot][] in an otherwise shitty season--- \
-all I ask, January, \
-is one warm day.  Do you care whether \
-I'm a person who becomes a patient \
-in some psych ward?  This just about does it.
+| One
+| [warm spot][] in an otherwise shitty season---
+| all I ask, January,
+| is one warm day.  Do you care whether
+| I'm a person who becomes a patient
+| in some psych ward?  This just about does it.
 
-I.T., \
-although I never thought I'd call one, \
-is fair and patient \
-when I call.  They talk with me, season \
-my conversation of demands for better weather \
-with an argument for the white beauty of January.
+| I.T.,
+| although I never thought I'd call one,
+| is fair and patient
+| when I call.  They talk with me, season
+| my conversation of demands for better weather
+| with an argument for the white beauty of January.
 
-They know it's hard; they say each season \
-has its detractors.  _One day_, they say, _the weather \
-will be controlled---until then, patience in January_.
+| They know it's hard; they say each season
+| has its detractors.  _One day_, they say, _the weather
+| will be controlled---until then, patience in January_.
 
 [shitty]: tapestry.html
 [SAD]: seasonal-affective-disorder.html

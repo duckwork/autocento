@@ -16,28 +16,28 @@ project:
     class: autocento
 ...
 
-Look, I say---look here--- \
-at this [old place \
-where nothing changes][old-place].  \
-Look at the people \
-who pass by.  Look at \
-the trees.  The flowers \
-full of wanting: look \
-[how full they are][] with \
-color.  Look how they mock \
-us, empty people who \
-must fill themselves \
-with changes---emptiness.
+| Look, I say---look here---
+| at this [old place
+| where nothing changes][old-place].
+| Look at the people
+| who pass by.  Look at
+| the trees.  The flowers
+| full of wanting: look
+| [how full they are][] with
+| color.  Look how they mock
+| us, empty people who
+| must fill themselves
+| with changes---emptiness.
 
-"[There is nothing][] to be \
-but happy.  [There is no][] \
-sadness to fall down \
-like cherry petals."
+| "[There is nothing][] to be
+| but happy.  [There is no][]
+| sadness to fall down
+| like cherry petals."
 
-The [trees don't under- \
-stand:][trees] they are too \
-tall to see the germ \
-of discontent in us.
+| The [trees don't under-
+| stand:][trees] they are too
+| tall to see the germ
+| of discontent in us.
 
 [old-place]: planks.html
 [how full they are]: squirrel.html

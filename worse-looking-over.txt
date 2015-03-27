@@ -19,27 +19,27 @@ project:
       link: moon-drowning
 ...
 
-[The radio is screaming the man][] \
-on the radio will not be quiet he is \
-pushed far into the background \
-while some NPR talkers murmur over \
-his screaming he lost something \
-very important.  He says it over \
-and over but they do not listen \
-they think of their children at home \
-lying [in bed][] dreaming sweet \
-childhood one of them is staying over \
-at a friend's house they are staying \
-up late they never want it to be over \
-not like the man.  His life on the radio \
-will be the only one he ever has \
-his life it is wasted he's being spoken over \
-such pain is in his voice.  I wish you \
-could hear it.  [It's something never over][].  \
-Suffering everywhere always and over it \
-the same serene murmur of the comfortable \
-distracted or worse looking over \
-the [shoulder][] and quietly looking away.
+| [The radio is screaming the man][]
+| on the radio will not be quiet he is
+| pushed far into the background
+| while some NPR talkers murmur over
+| his screaming he lost something
+| very important.  He says it over
+| and over but they do not listen
+| they think of their children at home
+| lying [in bed][] dreaming sweet
+| childhood one of them is staying over
+| at a friend's house they are staying
+| up late they never want it to be over
+| not like the man.  His life on the radio
+| will be the only one he ever has
+| his life it is wasted he's being spoken over
+| such pain is in his voice.  I wish you
+| could hear it.  [It's something never over][].
+| Suffering everywhere always and over it
+| the same serene murmur of the comfortable
+| distracted or worse looking over
+| the [shoulder][] and quietly looking away.
 
 [The radio is screaming the man]: moon-drowning.html
 [in bed]: in-bed.html

@@ -12,41 +12,41 @@ project:
     class: autocento
 ...
 
-Bottom of the drink: they had \
-to go.  The Coke machine, the snack \
-machine, the deep fryer.  Hoisted
+| Bottom of the drink: they had
+| to go.  The Coke machine, the snack
+| machine, the deep fryer.  Hoisted
 
-and dragged through the halls \
-and out to the curb, they sat with \
-other trash beneath gray, forlorn
+| and dragged through the halls
+| and out to the curb, they sat with
+| other trash beneath gray, forlorn
 
-skies behind the elementary \
-school, wondering what their next \
-move would be.  The Coke machine
+| skies behind the elementary
+| school, wondering what their next
+| move would be.  The Coke machine
 
-had always wanted to live \
-the life of a [hobo][], jumping trains, \
-eating from garbage, making fire
+| had always wanted to live
+| the life of a [hobo][], jumping trains,
+| eating from garbage, making fire
 
-in old oil drums.  It had some \
-strange romantic notions of being homeless, \
-is what the deep fryer thought.
+| in old oil drums.  It had some
+| strange romantic notions of being homeless,
+| is what the deep fryer thought.
 
-Its opinion was to head to court, \
-sue the bastards at the school for early \
-termination of contract.  It was
+| Its opinion was to head to court,
+| sue the bastards at the school for early
+| termination of contract.  It was
 
-the embodiment of [justifiable anger][]. \
-It believed privately that it was an incarnation \
-of Nemesis, the goddess of divine
+| the embodiment of [justifiable anger][].
+| It believed privately that it was an incarnation
+| of Nemesis, the goddess of divine
 
-retribution.  What the snack machine \
-thought, it kept to itself, but it did say \
-that [nothing ever ends][].  The others
+| retribution.  What the snack machine
+| thought, it kept to itself, but it did say
+| that [nothing ever ends][].  The others
 
-were confused, then angry, but finally \
-understood, or thought they did.  The snack \
-machine's candy melted in the sun.
+| were confused, then angry, but finally
+| understood, or thought they did.  The snack
+| machine's candy melted in the sun.
 
 [hobo]: prelude.html
 [justifiable anger]: table_contents.html

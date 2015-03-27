@@ -16,7 +16,7 @@ function _lozenge() {
 
     if (current != files[index]) {
         lozenge.setAttribute("href", files[index]);
-        lozenge.setAttribute("title", "Random article");
+        lozenge.setAttribute("title", "To random article");
     } else {
         _lozenge()
     }

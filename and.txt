@@ -22,26 +22,26 @@ project:
       link: howtoread
 ...
 
-And you were there in the start of it all \
-and you folded your [hands like little doves][] \
-that would fly away like an afterthought \
-and you turned to me the window light on your face \
-and you asked me something that I did not recognize \
-like a great throng of people who are not you \
-and I asked are we in a [church][] \
-and you answered with the look on your face \
-of someone [grieving something gone][] for years \
- but that they had been reminded of \
-by a catch in the light or in someone's voice \
-and I think maybe it could have been mine \
-and I looked away thickly my head was in jelly \
-and I didn't get an answer from you but I got one
+| And you were there in the start of it all
+| and you folded your [hands like little doves][]
+| that would fly away like an afterthought
+| and you turned to me the window light on your face
+| and you asked me something that I did not recognize
+| like a great throng of people who are not you
+| and I asked are we in a [church][]
+| and you answered with the look on your face
+| of someone [grieving something gone][] for years
+| but that they had been reminded of
+| by a catch in the light or in someone's voice
+| and I think maybe it could have been mine
+| and I looked away thickly my head was in jelly
+| and I didn't get an answer from you but I got one
 
-I looked at the man in front of us with glasses \
-he was speaking and holding a book \
-and I didn't understand him he was far away \
-and I could tell I was missing something important \
-and you nodded to yourself at something he said
+| I looked at the man in front of us with glasses
+| he was speaking and holding a book
+| and I didn't understand him he was far away
+| and I could tell I was missing something important
+| and you nodded to yourself at something he said
 
 [church]: boar.html
 [grieving something gone]: roughgloves.html

@@ -253,9 +253,11 @@ nav .nextlink::after {
     width: 1em;
 }
 #lozenge {
+    text-decoration: none;
+}
+nav .anchors {
     position: absolute;
     left: 50%;
-    text-decoration: none;
 }
 /* nav elements }}} */
 /* .FOOTNOTES ELEMENTS {{{ */

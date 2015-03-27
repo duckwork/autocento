@@ -8,40 +8,40 @@ project:
     class: autocento
 ...
 
-I want to say I take it all back \
-I want \
-I want to take it back I want it none of it \
-to be ever have happened not \
-when I saw you step over the rope \
-when we went to New York for a week \
-but stayed upstate when you punched me \
-hard in the solar plexus in Prague \
-when I looked in your face and [saw myself][] \
-looking back smiling when we went on another trip \
-and another all the trips I want to have \
-stayed home I want to have seen the clouds \
-drifting past [my car window][] to have listened \
-to that sound the bridge makes driving over it \
-without thinking of you always it was you
+| I want to say I take it all back
+| I want
+| I want to take it back I want it none of it
+| to be ever have happened not
+| when I saw you step over the rope
+| when we went to New York for a week
+| but stayed upstate when you punched me
+| hard in the solar plexus in Prague
+| when I looked in your face and [saw myself][]
+| looking back smiling when we went on another trip
+| and another all the trips I want to have
+| stayed home I want to have seen the clouds
+| drifting past [my car window][] to have listened
+| to that sound the bridge makes driving over it
+| without thinking of you always it was you
 
-I want
+| I want
 
-I [want to be fresh][] I want to roll out of bed \
-as though it were my [first morning in a new state][] \
-I want nothing more than absolution of sins \
-[a negation but there is no way to subtract here][] \
-I cannot remove this growth that appeared  \
-seemingly overnight I cannot [cut you away from myself][] \
-I cannot forget what has already and will always have been \
-I cannot get out of a [new bed][] ever \
-New York will always be as it was when I saw it first \
-with you my breathing will always be labored outside \
-of the cafe I will always see you when [I look in a mirror][] \
-of someone's face the reflection of missed thoughts missed \
-[words will cease to give meaning][] the center will come out \
-of me I will make a new center yes I will drag what is \
-your center around with me and [repeat and repeat][] again \
-I cannot want cannot want want not
+| I [want to be fresh][] I want to roll out of bed
+| as though it were my [first morning in a new state][]
+| I want nothing more than absolution of sins
+| [a negation but there is no way to subtract here][]
+| I cannot remove this growth that appeared
+| seemingly overnight I cannot [cut you away from myself][]
+| I cannot forget what has already and will always have been
+| I cannot get out of a [new bed][] ever
+| New York will always be as it was when I saw it first
+| with you my breathing will always be labored outside
+| of the cafe I will always see you when [I look in a mirror][]
+| of someone's face the reflection of missed thoughts missed
+| [words will cease to give meaning][] the center will come out
+| of me I will make a new center yes I will drag what is
+| your center around with me and [repeat and repeat][] again
+| I cannot want cannot want want not
 
 [new bed]: in-bed.html
 [saw myself]: deathstrumpet.html

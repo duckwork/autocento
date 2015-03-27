@@ -9,27 +9,27 @@ project:
     class: autocento
 ...
 
-This poem is dry like [chapped lips][].  \
-[It is hard as teeth][]---hear the tapping?  \
-It is the swan song of beauty, as all \
-swan songs are.  [Reading][] it, you are \
-puzzled, perhaps a little repulsed.  \
-Swans do not have teeth, nor do they sing.  \
-A honking over the cliff is all \
-they can do, and that they do \
-badly.  You don't know where I'm going.  \
-You want to tell me, [You are not you][].  \
-[You are the air the swan walks on.][]  \
-You are the fringe of the curtain \
-[that separates me from you][].  I say \
-that you are no longer the temple, \
-that you have been through [fire][] \
-and are now less than ash.  You are \
-the subtraction of yourself from \
-the world, [the air without a swan][].  \
-Together, we are each other.  You \
-and I have both nothing and everything \
-at once, we own the world and nothing in it.
+| This poem is dry like [chapped lips][].
+| [It is hard as teeth][]---hear the tapping?
+| It is the swan song of beauty, as all
+| swan songs are.  [Reading][] it, you are
+| puzzled, perhaps a little repulsed.
+| Swans do not have teeth, nor do they sing.
+| A honking over the cliff is all
+| they can do, and that they do
+| badly.  You don't know where I'm going.
+| You want to tell me, [You are not you][].
+| [You are the air the swan walks on.][]
+| You are the fringe of the curtain
+| [that separates me from you][].  I say
+| that you are no longer the temple,
+| that you have been through [fire][]
+| and are now less than ash.  You are
+| the subtraction of yourself from
+| the world, [the air without a swan][].
+| Together, we are each other.  You
+| and I have both nothing and everything
+| at once, we own the world and nothing in it.
 
 [chapped lips]: time-looks-up-to-the-sky.html
 [It is hard as teeth]: no-nothing.html

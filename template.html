@@ -102,7 +102,13 @@
             $project.prev.title$
         </a>
         $endfor$
-        <a href="#" id="lozenge" title="Random page"> &loz; </a>
+
+        <!-- ANCHORS -->
+        <div class="anchors">
+            <a href="index.html" id="cover-link" title="To cover">&loz;</a>
+            <a href="#" id="lozenge" title="ERROR">&#x221d;</a>
+        </div>
+
         $for(project.next)$
         <a class="nextlink" href="$project.next.link$.html"
             title="Next article$if(project.title)$ in $project.title$$endif$">

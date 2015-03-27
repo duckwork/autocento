@@ -8,107 +8,107 @@ project:
     class: autocento
 ...
 
-I need a plant.  I need a thing \
-to take care of.  I need \
-a little green brownspotted \
-[blackdirt][] growing \
-quietness.  I need a sunlit \
-dawn knowing my name filtered \
-through a [thin green window][]. \
-I need chlorophyll \
-working its [magic][] on beams of \
-grassmade early morning dewdrop \
-sweetmaking green.  I need \
-the dark earth sucking water \
-from a black crevice \
-its black magic churning \
-wormilled rockturned starblind \
-darkness and cold into \
-[the opposite of dust][].  I need the heat \
-to blind me.  I need the dumb making \
-to charge my coldened blood.  I need \
-the dropturned leaves to turn again \
-their [faces to the windblown sun][]. \
-I need millions of tiny years \
-summed up and burning out some unknown \
-new growth into the air.  I need four \
-hundred feet of dark red gnarled wood \
-and needles glistening wetly on goldheaded \
-branches hoisting themselves \
-to the sky.  I need ten strong men \
-to fail to bring you down.  Old one \
-I need the peace that comes with knowing \
-something sacred holds still \
-in the world.  I need your green tongues \
-[of flame to lick at old wounds][] \
-stitching us together away from ourselves. \
-I need your brownbranching grasp \
-to keep me from drifting off \
-into [unknowing terrible sleep][].  I need \
-[to know the snake][] hanging \
-from your branches.  I need to watch \
-the dropping of flesh massful \
-onto the ground from a height.  I need \
-the gnawer at your root to strike \
-a vein to quicken old brown stone \
-to movement.  I need jeweleyed venom \
-barking new greennesses into the bark. \
-I need a knocker of dark secrets hidden \
-in the dark bark hiding a smallstone \
-smoldering pearl in the knot.  I need \
-that [pearl held out in a hand][] like an offering. \
-I need the hand to be a plant's hand.
+| I need a plant.  I need a thing
+| to take care of.  I need
+| a little green brownspotted
+| [blackdirt][] growing
+| quietness.  I need a sunlit
+| dawn knowing my name filtered
+| through a [thin green window][].
+| I need chlorophyll
+| working its [magic][] on beams of
+| grassmade early morning dewdrop
+| sweetmaking green.  I need
+| the dark earth sucking water
+| from a black crevice
+| its black magic churning
+| wormilled rockturned starblind
+| darkness and cold into
+| [the opposite of dust][].  I need the heat
+| to blind me.  I need the dumb making
+| to charge my coldened blood.  I need
+| the dropturned leaves to turn again
+| their [faces to the windblown sun][].
+| I need millions of tiny years
+| summed up and burning out some unknown
+| new growth into the air.  I need four
+| hundred feet of dark red gnarled wood
+| and needles glistening wetly on goldheaded
+| branches hoisting themselves
+| to the sky.  I need ten strong men
+| to fail to bring you down.  Old one
+| I need the peace that comes with knowing
+| something sacred holds still
+| in the world.  I need your green tongues
+| [of flame to lick at old wounds][]
+| stitching us together away from ourselves.
+| I need your brownbranching grasp
+| to keep me from drifting off
+| into [unknowing terrible sleep][].  I need
+| [to know the snake][] hanging
+| from your branches.  I need to watch
+| the dropping of flesh massful
+| onto the ground from a height.  I need
+| the gnawer at your root to strike
+| a vein to quicken old brown stone
+| to movement.  I need jeweleyed venom
+| barking new greennesses into the bark.
+| I need a knocker of dark secrets hidden
+| in the dark bark hiding a smallstone
+| smoldering pearl in the knot.  I need
+| that [pearl held out in a hand][] like an offering.
+| I need the hand to be a plant's hand.
 
-I need a plant.  I need a growing \
-growler [groaning][] toward heat and air. \
-I need a green thin stem surprisingly strong \
-holding up the weight of a plain \
-of fallow [greennesses of creases and caresses][] \
-of tiny worldmaking hardworking grandeur. \
-I need a singer of life crying \
-forward into old roads covered over \
-by dead trees.  I need the rasping of root \
-in dirt.  I need the unfurling of fiddleheads \
-to sing forth a new symphony.  I need \
-fruits swelling large for the harvest. \
-I need yellow light shining through white bark. \
-I need juicecrush flowing waterlike \
-through valleys percolating up \
-through the ground.  I need springs bubbling sap \
-into cabins of wood fought for by labor. \
-I need snow on the ground with shoots \
-dotting the melting patches.  I need two \
-leaves on a thin stalk shivering \
-in [moonlight][].  I need robinsong warbling \
-over the heads of small seeds sprouting \
-to enliven their growth.  I need rings \
-of woody material widening to push \
-the ground out of their way.  I need \
-new greennesses pushing out from \
-the brown dark bark gnarled.  I \
-need the robin to build its songfilled \
-nest in a [branchcrotch][].  I need \
-the fecundity of fungi on the branches. \
-I need quiet of the sunlight shooting \
-through thousands of branched leaves \
-quivering.  [I need whisper at dawn.][] \
-I need burrows underground foxholes. \
-I need duff layers eaten through \
-by worms.  I need brooks murmuring \
-through crooks of roots.  I need small \
-[fish swimming][] in their schools at \
-midnight.  I need oldnesses giving way \
-[to youngnesses giving way to oldnesses][]. \
-I need dapplegray yellowshot ashbark. \
-I need the crunch of dead leaves underfoot. \
-I need [snowquiet deadbranch][] mourning. \
-I need those [purple mountains majesty][]. \
-I need a walk between trees in the dark. \
-I need that moment when stopping to rest \
-it suddenly seems that all the weary \
-[forestroads][] in all their meandering come \
-[to rest their heads][] at my astonished \
-feet, none of them needing more than me.
+| I need a plant.  I need a growing
+| growler [groaning][] toward heat and air.
+| I need a green thin stem surprisingly strong
+| holding up the weight of a plain
+| of fallow [greennesses of creases and caresses][]
+| of tiny worldmaking hardworking grandeur.
+| I need a singer of life crying
+| forward into old roads covered over
+| by dead trees.  I need the rasping of root
+| in dirt.  I need the unfurling of fiddleheads
+| to sing forth a new symphony.  I need
+| fruits swelling large for the harvest.
+| I need yellow light shining through white bark.
+| I need juicecrush flowing waterlike
+| through valleys percolating up
+| through the ground.  I need springs bubbling sap
+| into cabins of wood fought for by labor.
+| I need snow on the ground with shoots
+| dotting the melting patches.  I need two
+| leaves on a thin stalk shivering
+| in [moonlight][].  I need robinsong warbling
+| over the heads of small seeds sprouting
+| to enliven their growth.  I need rings
+| of woody material widening to push
+| the ground out of their way.  I need
+| new greennesses pushing out from
+| the brown dark bark gnarled.  I
+| need the robin to build its songfilled
+| nest in a [branchcrotch][].  I need
+| the fecundity of fungi on the branches.
+| I need quiet of the sunlight shooting
+| through thousands of branched leaves
+| quivering.  [I need whisper at dawn.][]
+| I need burrows underground foxholes.
+| I need duff layers eaten through
+| by worms.  I need brooks murmuring
+| through crooks of roots.  I need small
+| [fish swimming][] in their schools at
+| midnight.  I need oldnesses giving way
+| [to youngnesses giving way to oldnesses][].
+| I need dapplegray yellowshot ashbark.
+| I need the crunch of dead leaves underfoot.
+| I need [snowquiet deadbranch][] mourning.
+| I need those [purple mountains majesty][].
+| I need a walk between trees in the dark.
+| I need that moment when stopping to rest
+| it suddenly seems that all the weary
+| [forestroads][] in all their meandering come
+| [to rest their heads][] at my astonished
+| feet, none of them needing more than me.
 
 [blackdirt]: building.html
 [thin green window]: window.html

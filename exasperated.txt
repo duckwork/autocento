@@ -19,51 +19,51 @@ project:
       link: death-zone
 ...
 
-I didn't write this sestina yesterday.  \
-It's the first time I fell behind in my task \
-and hopefully, the only time it will.  \
-This means that today I must write two \
-sestinas.  If I don't write them today, I \
-will have to write two later down the line.
+| I didn't write this sestina yesterday.
+| It's the first time I fell behind in my task
+| and hopefully, the only time it will.
+| This means that today I must write two
+| sestinas.  If I don't write them today, I
+| will have to write two later down the line.
 
-Although I feel I'm slogging through each line \
-I think I'm doing better every day, \
-though maybe this is wishful thinking: I \
-showed my friend my just-completed task \
-two days ago (my God, was it two \
-entire days?  I've no idea what I'll
+| Although I feel I'm slogging through each line
+| I think I'm doing better every day,
+| though maybe this is wishful thinking: I
+| showed my friend my just-completed task
+| two days ago (my God, was it two
+| entire days?  I've no idea what I'll
 
-do [after thirty-nine days][].  I think I'll \
-feel like [Inigo Montoya][], who'd been in the line \
-of revenging for so long, he didn't know what to \
-do with the rest of his life), and he deigned \
-to be polite, but I could tell the task \
-was hard for him.  He told me finally that I
+| do [after thirty-nine days][].  I think I'll
+| feel like [Inigo Montoya][], who'd been in the line
+| of revenging for so long, he didn't know what to
+| do with the rest of his life), and he deigned
+| to be polite, but I could tell the task
+| was hard for him.  He told me finally that I
 
-had made a noble effort, but that ultimately I \
-failed.  [So my question][]: when will \
-I be a decent sestina writer?  For this is my task.  \
-Maybe if I just keep cranking out line after line \
-I'll finally figure it out.  Maybe one more day \
-or another week will do it, or maybe I'll need two,
+| had made a noble effort, but that ultimately I
+| failed.  [So my question][]: when will
+| I be a decent sestina writer?  For this is my task.
+| Maybe if I just keep cranking out line after line
+| I'll finally figure it out.  Maybe one more day
+| or another week will do it, or maybe I'll need two,
 
-or maybe it'll never happen.  Maybe a sestina's too \
-involved, too much [weaving][] of words too fine, and I \
-will never write a good one, even on my best day, \
-even if I employ all my skill and all my will.  \
-I'm not used to writing poems with thirty-nine lines, \
-that must be the problem, must be why this task
+| or maybe it'll never happen.  Maybe a sestina's too
+| involved, too much [weaving][] of words too fine, and I
+| will never write a good one, even on my best day,
+| even if I employ all my skill and all my will.
+| I'm not used to writing poems with thirty-nine lines,
+| that must be the problem, must be why this task
 
-is Herculean.  He only had to finish twelve tasks, \
-and I have one less one thousand, five hundred twenty-two, \
-and it's nothing but complaining lines \
-about [how hard it is to be a person][].  I \
-am getting sick of myself with these poems, and will \
-soon be loathe to get out of bed every day.
+| is Herculean.  He only had to finish twelve tasks,
+| and I have one less one thousand, five hundred twenty-two,
+| and it's nothing but complaining lines
+| about [how hard it is to be a person][].  I
+| am getting sick of myself with these poems, and will
+| soon be loathe to get out of bed every day.
 
-But I tasked myself with this, which may be the worst I \
-ever do to myself.  I thought a poem NaNoWriMo would \
-be fun, would line my resume, give me something I could publish someday.
+| But I tasked myself with this, which may be the worst I
+| ever do to myself.  I thought a poem NaNoWriMo would
+| be fun, would line my resume, give me something I could publish someday.
 
 [after thirty-nine days]: http://biblehub.com/2_corinthians/11-24.htm
 [Inigo Montoya]: death-zone.html
