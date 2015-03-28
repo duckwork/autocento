@@ -1,0 +1,34 @@
+---
+title: Autocento of the breakfast table
+subititle: abstract
+id: abstract
+genre: prose
+
+project:
+    title: About Autocento
+    class: meta
+...
+
+Brief Description
+-----------------
+
+_Autocento of the breakfast table_ is my Master's thesis, an inter/hypertextual exploration of the workings of inspiration, revision, and obsession.
+I've compiled this work over multiple years, and recently linked it all together to form a (hopefully) more cohesive whole.
+To make this easier than collating everything by hand, I've relied on a process that leverages open-source technologies to publish my work onto a web platform.
+
+Things to notice
+----------------
+
+Take a look around the site.
+See how it's navigable: there are links within each article to other articles and to the wider web, mapping common images, themes, or inspirations;
+  there's also navigation links at the bottom of each page:
+
+- The **&phi;** shows you the backlinks to each page.
+- The **&loz;** takes you back to the cover of the project, to start over.
+- The **&#x221d;** takes you to a random article in the project.
+- Some pages also have _previous_ and _next_ links.  These take you to other articles in their original project-order.  It's another way to navigate the page.
+
+Check out my [process narrative][] for the technical details of putting this site together, or see my [about page][] for an artist's statement.
+
+[process narrative]: process.html
+[about page]: about.html
