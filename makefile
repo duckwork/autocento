@@ -5,19 +5,24 @@
 # Define directories, file lists, and options
 TEXTs  := $(wildcard *.txt)
 
-VERSIFY = trunk/versify.exe
+VERSIFYer = trunk/versify.exe
 
 HTMLbl := index.html template.html index-txt.html
 HTMLs  := $(filter-out $(HTMLbl),$(patsubst %.txt,%.html,$(TEXTs)))
 HTMopts = --template=template.html
-HTMopts+= --filter=$(VERSIFY)
+HTMopts+= --filter=$(VERSIFYer)
 HTMopts+= --smart --mathml --section-divs
 
-HAPAXbl:= first-lines.river common-titles.river hapax.river
-RIVERer = trunk/river.lua
-RIVERs := $(filter-out $(HAPAXbl),$(patsubst %.txt,%.river,$(TEXTs)))
+BKTXTbl = "hapax.txt|first-lines.txt|common-titles.txt"
+BKTXTs  = $(patsubst %.html,%.back,$(HTMLs))
+BKTXThd = trunk/backlink.head
+BKHTMLs = $(patsubst %.back,%_backlinks.htm,$(BKTXTs))
 
-HAPAXs := $(filter-out $(HAPAXbl),$(RIVERs))
+RIVERbl:= first-lines.river common-titles.river hapax.river
+RIVERer = trunk/river.lua
+RIVERs := $(filter-out $(RIVERbl),$(patsubst %.txt,%.river,$(TEXTs)))
+
+HAPAXs := $(RIVERs)
 HAPAXer = trunk/hapax.lua
 HAPAXhd:= trunk/hapax.head
 HAPAXtmp= hapax.tmp
@@ -26,29 +31,50 @@ HAPAX   = hapax.txt
 LOZENGE = trunk/lozenge.js
 
 .PHONY: all
-all     : hapax html river lozenge
+all : river hapax $(VERSIFYer) html lozenge backlinks
 
 .PHONY: hapax
-hapax   : $(HAPAX)
+hapax : $(HAPAX)
 .PHONY: html
-html    : $(HTMLs)
+html : $(HTMLs)
 .PHONY: river
-river   : $(RIVERs)
+river : $(RIVERs)
 .PHONY: lozenge
 lozenge : $(LOZENGE)
+.PHONY: backlinks
+backlinks : $(BKHTMLs)
 
-# Generic rule for HTML targets and Markdown sources
-%.html : %.txt template.html $(VERSIFY)
+%.html : %.txt template.html $(VERSIFYer)
 	pandoc $< -f markdown -t html5 $(HTMopts) -o $@
 
-# Generic rule for RIVER targets and Markdown sources
+%_backlinks.htm : %.back
+	pandoc $< -f markdown -t html5 $(HTMopts) -o $@
+
+%.back : %.txt $(BKTXThd)
+	@echo -n "Back-linking $<"
+	@cat $(BKTXThd) > $@
+	-@grep -ql "$(patsubst %.txt,%.html,$<)" *.txt |\
+	  grep -vE $(BKTXTbl) >> $@ || \
+	  echo "_Nothing links here!_" >> $@;
+	@echo -n "."
+	@title=`grep '^title:' $< | cut -d' ' -f2-`; \
+	 sed -i "s/_TITLE_/$$title/" $@;
+	@echo -n "."
+	@for file in `cat $@ | grep '.txt'`; do \
+	    title=`grep '^title:' $$file | cut -d' ' -f2-`; \
+	    replace=`basename $$file .txt`; \
+	    sed -i "s/^\($$replace\).txt$$/- [$$title](\1.html)/" $@;\
+	    echo -n "."; \
+	 done
+	@echo "Done."
+
 %.river : %.txt
 	@echo River-ing $@
 	@sed -e '/^---$$/,/^...$$/d'\
 	     -e "s/[^][A-Za-z0-9\/\"':.-]/ /g" $< |\
 	 pandoc - -f markdown -t $(RIVERer) -o $@
 
-$(VERSIFY) : trunk/versify.hs
+$(VERSIFYer) : trunk/versify.hs
 	ghc --make trunk/versify.hs
 
 $(LOZENGE) : $(HTMLs)
@@ -62,7 +88,7 @@ $(HAPAX) : $(RIVERs) $(HAPAXhd)
 	-rm -f $(HAPAXbl)
 	@echo "Compiling $(HAPAX)..."
 	pandoc -f markdown -t $(HAPAXer) -o $(HAPAX) *.river
-	@echo -n "Linking $(HAPAX)..."
+	@echo -n "Linking $(HAPAX)"
 	@cat $(HAPAXhd) > $(HAPAXtmp) &&\
 	 for word in `sort hapax.txt`; do\
 	    file=`grep -liwq "^$$word$$" *.river | grep -v '$(HAPAX)'`;\
@@ -75,8 +101,10 @@ $(HAPAX) : $(RIVERs) $(HAPAXhd)
 
 .PHONY: clean
 clean:
-	-rm -f hapax.txt hapax.tmp *.river
+	-rm -f hapax.txt hapax.tmp
+	-rm -f $(RIVERs)
 	-rm -f $(HTMLs)
+	-rm -f $(BKTXTs) $(BKHTMLs)
 
 .PHONY: again
 again: clean all

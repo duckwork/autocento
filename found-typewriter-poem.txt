@@ -17,8 +17,8 @@ project:
 ...
 
 | Look, I say---look here---
-| at this [old place
-| where nothing changes][old-place].
+| at this old place
+| [where nothing changes][old-place].
 | Look at the people
 | who pass by.  Look at
 | the trees.  The flowers

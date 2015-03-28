@@ -311,6 +311,22 @@ a.footnoteRef {
     margin-left: 1em;
 }
 /* .verse }}} */
+/* .LIST {{{ */
+.list {
+    display: inline-block;
+    text-align: left;
+    max-width: 39em;
+    margin: auto;
+    hyphens: auto;
+    -moz-hyphens: auto;
+}
+/* .list }}} */
+/* .TABLE {{{ */
+.table {
+    display: inline-block;
+    text-align: left;
+}
+/* .table }}} */
 /* PROJECT CSS */
 /* #COVER {{{ */
 /* Flexboxing {{{ */
@@ -462,6 +478,8 @@ a.footnoteRef {
 table { border-collapse: collapse; }
 td {
     vertical-align: top;
+    text-indent: -1em;
+    padding-left: 1em;
 }
 tr {
     border-bottom: 1px solid #aaa;

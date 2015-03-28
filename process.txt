@@ -1,0 +1,62 @@
+---
+title: Autocento of the breakfast table
+subtitle: process narrative
+id: process
+genre: prose
+
+project:
+    title: About Autocento
+    class: meta
+...
+
+Hi.  My name is Case Duckworth.  This is my thesis.
+---------------------------------------------------
+
+_Autocento of the breakfast table_ is an inter/hypertextual exploration of the workings of inspiration, revision, and obsession.
+I've compiled this work over multiple years, and recently linked it all together to form a (hopefully) more cohesive whole.
+To make this easier than collating everything by hand, I've relied on a process that leverages open-source technologies to publish my work onto a web platform.
+
+Process steps
+-------------
+
+1. Write poems.
+2. Convert to Markdown -- generally easy.
+    - Markdown, originally by [John Gruber][], is a lightweight markup language that allows me to focus on the _content_ of my writing, knowing that I can work on the _presentation_ later.
+    - The original `markdown.pl` program is buggy and inconsistent with how it applies styles to markup.  It also only works to convert text to HTML.
+    - Because of these limitations, I've used John MacFarlane's [extended Markdown syntax][], which lets me write richer documents and programmatically compile my work into multiple formats.
+3. Compile to HTML with Pandoc.
+    - At first, I used this code in the shell to generate my HTML:
+        ```bash
+        for file in *.txt; do
+            pandoc "$file" -f markdown -t html5 --template=template.html -o "${file%txt}html"
+        done
+        ```
+        but this proved tedious with time.
+    - After a lot of experimenting with different scripting languages, I finally realized that [`GNU make`][] would fit this task perfectly.
+    - You can see my makefile [here][]
+
+4. Style the pages with CSS.
+4. Use Github to put them online.
+    - `git` has been used throughout to keep track of changes.
+    - It's a Version Control System -- usually used for code but adapted
+      for creative writing.
+5. Write Makefile for ease-of-compilation.
+    - A `makefile` is a collection of instructions to `make` that tells it how
+      to compile a set of files.
+    - It's made the other parts of this much easier.
+6. Write _Hapax legomenon_ compiler.
+7. Write compiler for backlinks.
+8. (TODO) write compiler for Index of first lines and common titles.
+
+The beauty of this system
+-------------------------
+
+- I can compile these poems into (almost) any format: `pandoc` supports a lot.
+- Once I complete the above process once, I can focus on revising my poems.
+- These poems are online for anyone to see and work off of.
+- Something something intertextuality.
+
+[John Gruber]: http://daringfireball.net/projects/markdown/
+[extended Markdown syntax]: http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown
+[`GNU make`]: https://www.gnu.org/software/make/manual/make.html
+[here]: 
