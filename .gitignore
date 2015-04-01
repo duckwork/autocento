@@ -1,0 +1,8 @@
+# Intermediate build files
+*.river
+*.hapax
+*.back
+*.hi
+*.o
+# Executables
+*.exe

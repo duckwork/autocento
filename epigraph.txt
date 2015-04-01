@@ -1,20 +1,18 @@
 ---
 title: epigraph
 id: epigraph
+subtitle: "&ndash; Sylvia Plath"
 genre: prose
-
-epigraph:
-    attrib: Sylvia Plath
 
 project:
     title: Elegies for alternate selves
     class: elegies
     order: 1
     next:
-      title: How to read this
+    - title: How to read this
       link: howtoreadthis
     prev:
-      title: Death's Trumpet
+    - title: Death's Trumpet
       link: deathstrumpet
 ...
 
