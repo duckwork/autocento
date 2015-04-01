@@ -12,4 +12,4 @@ transformVerseParas x = x
 
 addLineSpans :: [Inline] -> [Inline]
 addLineSpans = map encloseInSpan . splitWhen (== LineBreak)
-    where encloseInSpan = Span("", ["line"], [])
+    where encloseInSpan = Span ("", ["line"], [])
