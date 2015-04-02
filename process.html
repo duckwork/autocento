@@ -21,7 +21,7 @@
     <![endif]-->
     </head>
 <body id="process" class="meta">
-
+    
 
     <article class="container">
         <header>
@@ -30,11 +30,11 @@
             <h1 class="subtitle">process narrative</h1>
 
             <div class="header-extra">
-
+                
                             </div>
         </header>
 
-
+        
         <section class="content prose">
             <section id="hi.-my-name-is-case-duckworth.-this-is-my-thesis." class="level2">
             <h2>Hi. My name is Case Duckworth. This is my thesis.</h2>
@@ -54,9 +54,9 @@
             <ul>
             <li><p>At first, I used this code in the shell to generate my HTML:</p>
             <pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">for</span> <span class="kw">file</span> in *.txt<span class="kw">;</span> <span class="kw">do</span>
-    <span class="kw">pandoc</span> <span class="st">&quot;</span><span class="ot">$file</span><span class="st">&quot;</span> -f markdown -t html5 \
-    --template=template.html -o <span class="st">&quot;</span><span class="ot">${file%</span>txt<span class="ot">}</span><span class="st">html&quot;</span>
-<span class="kw">done</span></code></pre>
+            <span class="kw">pandoc</span> <span class="st">&quot;</span><span class="ot">$file</span><span class="st">&quot;</span> -f markdown -t html5 \
+            --template=template.html -o <span class="st">&quot;</span><span class="ot">${file%</span>txt<span class="ot">}</span><span class="st">html&quot;</span>
+            <span class="kw">done</span></code></pre>
             but this proved tedious with time.</li>
             <li>After a lot of experimenting with different scripting languages, I finally realized that <a href="https://www.gnu.org/software/make/manual/make.html"><code>GNU make</code></a> would fit this task perfectly.</li>
             <li>You can see my makefile <a href="https://github.com/duckwork/autocento/blob/gh-pages/makefile">here</a>—it’s kind of a mess, but it does the job. See below for a more detailed explanation of the makefile.</li>
@@ -97,7 +97,7 @@
         </section>
     </article>
     <nav>
-
+        
         <!-- ANCHORS -->
         <div class="anchors">
             <a href="process_backlinks.htm" id="back-link" title="Links to this page">
@@ -109,6 +109,6 @@
 
             </nav>
 
-
+    
 </body>
 </html>

@@ -1,110 +1,95 @@
-# Produce HTML & RIVER outputs with pandoc
-# Case Duckworth | autocento.me
+# MAKEFILE for Autocento of the breakfast table
+# by Case Duckworth | case.duckworth@gmail.com | autocento.me
 # inspired by Lincoln Mullen | lincolnmullen.com
+# vim: fdm=marker
 
-# Define directories, file lists, and options
-TEXTs  := $(wildcard *.txt)
+# Define variables {{{
+srcs      := $(wildcard *.txt)
+templates := $(wildcard _template.*)
+trunk     := trunk
+metas      = hapax first-lines common-titles index
+metas     += $(templates)
 
-VERSIFYer = trunk/versify.exe
+htmls = $(filter-out \
+	$(patsubst %,%.html,$(metas)),\
+	$(patsubst %.txt,%.html,$(srcs)))
+htmlPre           = $(trunk)/versify.exe
+htmlPreSrc        = $(trunk)/versify.hs
+htmlTemplate      = _template.html
+htmlPandocOptions = --template=$(htmlTemplate)
+htmlPandocOptions+= --filter=$(htmlPre)
+htmlPandocOptions+= --smart --mathml --section-divs
 
-HTMLbl := index.html template.html index-txt.html
-HTMLs  := $(filter-out $(HTMLbl),$(patsubst %.txt,%.html,$(TEXTs)))
-HTMopts = --template=template.html
-HTMopts+= --filter=$(VERSIFYer)
-HTMopts+= --smart --mathml --section-divs
+lozenger   = $(trunk)/lozenge.sh
+lozengeOut = $(trunk)/lozenge.js
 
-BKTXTbl = "hapax.txt|first-lines.txt|common-titles.txt"
-BKTXTs  = $(patsubst %.html,%.back,$(HTMLs))
-BKTXThd = trunk/backlink.head
-BKHTMLs = $(patsubst %.back,%_backlinks.htm,$(BKTXTs))
+hapaxs = $(filter-out \
+	 $(patsubst %,%.hapax,$(metas)),\
+	 $(patsubst %.txt,%.hapax,$(srcs)))
+hapaxer            = $(trunk)/hapax.lua
+hapaxPre           = $(trunk)/forceascii.exe
+hapaxPreSrc        = $(trunk)/forceascii.hs
+hapaxPandocOptions = --filter=$(hapaxPre)
+hapaxOut           = hapax.txt
+hapaxHead          = $(trunk)/hapax.head
+hapaxLinker        = $(trunk)/hapaxlink.sh
 
-RIVERbl:= first-lines.river common-titles.river hapax.river
-RIVERer = trunk/river.lua
-RIVERs := $(filter-out $(RIVERbl),$(patsubst %.txt,%.river,$(TEXTs)))
-
-HAPAXs := $(RIVERs)
-HAPAXer = trunk/hapax.lua
-HAPAXhd:= trunk/hapax.head
-HAPAXtmp= hapax.tmp
-HAPAX   = hapax.txt
-
-LOZENGE = trunk/lozenge.js
+backTxts   = $(patsubst %.html,%.back,$(htmls))
+backHtms   = $(patsubst %.back,%_backlinks.htm,$(backTxts))
+backHead   = $(trunk)/backlink.head
+backlinker = $(trunk)/backlink.sh
+backPandocOptions = --template=$(htmlTemplate) --smart
+# }}}
 
 .PHONY: all
-all : river hapax $(VERSIFYer) html lozenge backlinks
+all: $(hapaxOut)\
+     $(htmlPre) $(htmls) $(lozengeOut)\
+     $(backTxts) $(backHtms)
 
-.PHONY: hapax
-hapax : $(HAPAX)
-.PHONY: html
-html : $(HTMLs)
-.PHONY: river
-river : $(RIVERs)
-.PHONY: lozenge
-lozenge : $(LOZENGE)
-.PHONY: backlinks
-backlinks : $(BKHTMLs)
+# HTML {{{
+$(htmlPre): $(htmlPreSrc)
+	ghc --make $(htmlPreSrc)
 
-%.html : %.txt template.html $(VERSIFYer)
-	pandoc $< -f markdown -t html5 $(HTMopts) -o $@
+%.html: %.txt | $(htmlTemplate) $(htmlPre)
+	pandoc $< -t html5 $(htmlPandocOptions) -o $@
 
-%_backlinks.htm : %.back
-	pandoc $< -f markdown -t html5 $(HTMopts) -o $@
+$(lozengeOut): $(htmls)
+	@bash $(lozenger) $(lozengeOut) $(htmls)
+# }}}
+# BACKLINKS {{{
+%.back: %.html | $(backHead)
+	@bash $(backlinker) $< $@ $(backHead) $(htmls)
 
-%.back : %.txt $(BKTXThd)
-	@echo -n "Back-linking $<"
-	@cat $(BKTXThd) > $@
-	-@grep -ql "$(patsubst %.txt,%.html,$<)" *.txt |\
-	  grep -vE $(BKTXTbl) >> $@ || \
-	  echo "_Nothing links here!_" >> $@;
-	@echo -n "."
-	@title=`grep '^title:' $< | cut -d' ' -f2-`; \
-	 sed -i "s/_TITLE_/$$title/" $@;
-	@echo -n "."
-	@for file in `cat $@ | grep '.txt'`; do \
-	    title=`grep '^title:' $$file | cut -d' ' -f2-`; \
-	    replace=`basename $$file .txt`; \
-	    sed -i "s/^\($$replace\).txt$$/- [$$title](\1.html)/" $@;\
-	    echo -n "."; \
-	 done
-	@echo "Done."
+%_backlinks.htm: %.back | $(htmlTemplate)
+	pandoc $< -t html5 $(backPandocOptions) -o $@ && rm $<
+# }}}
+# HAPAX {{{
+$(hapaxPre): $(hapaxPreSrc)
+	ghc --make $(hapaxPreSrc)
 
-%.river : %.txt
-	@echo River-ing $@
-	@sed -e '/^---$$/,/^...$$/d'\
-	     -e "s/[^][A-Za-z0-9\/\"':.-]/ /g" $< |\
-	 pandoc - -f markdown -t $(RIVERer) -o $@
+%.hapax: %.txt | $(hapaxPre)
+	pandoc $< -t $(hapaxer) $(hapaxPandocOptions) -o $@
 
-$(VERSIFYer) : trunk/versify.hs
-	ghc --make trunk/versify.hs
-
-$(LOZENGE) : $(HTMLs)
-	@echo "Updating lozenge.js..."
-	@list=`echo $(HTMLs) |\
-	 sed -e 's/\(\S\+.html\) \?/"\1",/g'\
-	     -e 's/^\(.*\),$$/var files=[\1]/'` &&\
-	 sed -i "s/var files=.*/$$list/" $(LOZENGE)
-
-$(HAPAX) : $(RIVERs) $(HAPAXhd)
-	-rm -f $(HAPAXbl)
-	@echo "Compiling $(HAPAX)..."
-	pandoc -f markdown -t $(HAPAXer) -o $(HAPAX) *.river
-	@echo -n "Linking $(HAPAX)"
-	@cat $(HAPAXhd) > $(HAPAXtmp) &&\
-	 for word in `sort hapax.txt`; do\
-	    file=`grep -liwq "^$$word$$" *.river | grep -v '$(HAPAX)'`;\
-	    echo "[$$word](`basename $$file river`html)">>$(HAPAXtmp);\
-	    echo -n '.';\
-	 done && mv $(HAPAXtmp) $(HAPAX)
-	@echo "Done."
-
-# TODO: Add indices compilers (first-lines, common-titles)
-
+$(hapaxOut): $(hapaxs) | $(hapaxPre) $(hapaxLinker) $(hapaxHead)
+	pandoc $^ -t $(hapaxer) -o $(hapaxOut)
+	@bash $(hapaxLinker) $@ $(hapaxHead) $^
+	-rm *.hapax
+# }}}
+# FIRST LINES & COMMON TITLES {{{
+# TODO
+# }}}
+# CLEAN {{{
 .PHONY: clean
 clean:
-	-rm -f hapax.txt hapax.tmp
-	-rm -f $(RIVERs)
-	-rm -f $(HTMLs)
-	-rm -f $(BKTXTs) $(BKHTMLs)
+	-rm -f $(hapaxs) $(hapaxOut)
+	-rm -f $(htmls)
+	-rm -f $(backHtms)
+	-rm -f *.tmp trunk/*.tmp
+
+.PHONY: nuke
+nuke: clean
+	-rm -f $(hapaxPre) $(htmlPre)
 
 .PHONY: again
 again: clean all
+# }}}
