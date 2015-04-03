@@ -24,8 +24,7 @@ project:
       link: love-as-god
 ...
 
-I. Walter
----------
+## I. Walter
 
 Walter [rides the bus][] into work on Wednesday morning when he realizes, with the force and surprise of a rogue current, that he is in the home-for-death phase of life.
 That era in which the next time he goes under, to the fields of seaweed waving gently, the anemones slowly filtering seawater, it will most likely be for a death in the family.
@@ -44,8 +43,7 @@ The problem was that the best wasn't good enough.
 
 [accounting firm]: telemarketer.html
 
-II. L'appel du vide {.verse}
--------------------
+## II. L'appel du vide {.verse}
 
 And I'll get in my car and drive \
 and I'll want to keep driving \

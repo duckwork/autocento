@@ -18,8 +18,7 @@ project:
       link: first-lines
 ...
 
-Introduction
-------------
+## Introduction
 
 _Autocento [of the breakfast table][]_ is a hypertextual exploration of the workings of revision across time.
 Somebody^[[citation needed][]]^ once said that every relationship we have is part of the same relationship; the same is true of authorship.
@@ -29,8 +28,7 @@ This project attempts to make those threads more apparent, using the technology 
 I'm also an MFA candidate at [Northern Arizona University][NAU].
 This is my thesis.
 
-Genesis
--------
+## Genesis
 
 This project revolves around two sister concepts: the _hapax legomenon_ and the _cento_.
 
@@ -50,8 +48,7 @@ As Solomon said, "[There is nothing new under the sun][nothing-new]."
 
 _Autocento of the breakfast table_ works within the tension caused by these two concepts.
 
-Process
--------
+## Process
 
 In compiling the works that make up this text, I've pulled from a few different projects:
 
@@ -64,8 +61,7 @@ as well as added new articles, written quite recently.
 As I've compiled them into this project, I've linked them together based on common images or language, moving back and forth through time.
 This should give the reader a fair idea of what my head looks like on the inside.
 
-Technology
-----------
+## Technology
 
 Because this project lives online, I've used a fair amount of technology to get it there.
 First, I converted all the articles[^1] present into plain text files, which are viewable from [here][text].
@@ -76,8 +72,7 @@ To host the project, I'm using [Github][], an online code-collaboration tool wit
 This enables me (and you, dear Reader!) to explore the path of revision even more, from beginning to end, based on my commits to the repository.
 You can view the repository and its changes and files at [my Github profile][].[^3]
 
-Using this site
----------------
+## Using this site
 
 All of the articles on this site are linked together hypertextually (i.e., like a webpage).
 This means that all you need to do to explore the creative threads linking these articles together is to start clicking links.
@@ -89,16 +84,14 @@ It'll take you to a random article in the project, thanks to [this javascript][]
 If you want to experience the earlier projects in something resembling the original orders, previous and next links are provided at the bottom of each page, next to the lozenge.
 Sometimes, there are more than one of each of these, or there are none, dependant on the structure of their original project.
 
-Things still to do
-------------------
+## Things still to do
 
 _Autocento of the breakfast table_ is a work in progress.
 The first draft is completed, but some revision and aesthetic work remains to be done for me to consider it fully "[published][]"
 (what does this word mean in 2015?).
 You can see the full list of to-dos by visiting the [issues page][issues] of the Github site.
 
-Contact me
-----------
+## Contact me
 
 If you'd like to contact me about the state of this work or my writing in general, you can email me at <case@autocento.me>.
 

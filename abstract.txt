@@ -9,15 +9,13 @@ project:
     class: meta
 ...
 
-Brief Description
------------------
+## Brief Description
 
 _Autocento of the breakfast table_ is my Master's thesis, an inter/hypertextual exploration of the workings of inspiration, revision, and obsession.
 I've compiled this work over multiple years, and recently linked it all together to form a (hopefully) more cohesive whole.
 To make this easier than collating everything by hand, I've relied on a process that leverages open-source technologies to publish my work onto a web platform.
 
-Things to notice
-----------------
+## Things to notice
 
 Take a look around the site.
 See how it's navigable: there are links within each article to other articles and to the wider web, mapping common images, themes, or inspirations;

@@ -1,0 +1,17 @@
+---
+title: Autocento of the breakfast table
+id: common-titles
+subtitle: index of common titles
+genre: prose
+
+project:
+    title: About Autocento
+    class: meta
+    next:
+    - title: Index of first lines
+      link: first-lines
+    prev:
+    - title: About _Autocento_
+      link: about
+...
+

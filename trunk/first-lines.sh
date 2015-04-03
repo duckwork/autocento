@@ -1,17 +1,27 @@
 #!/bin/bash
 
-outFile=src/first-lines.txt
+outFile="$1";
+header="$2";
+shift 2;
+glob="$@";
 
-echo "" > $outFile
+firstLineOf() { # $1 = file
+    endOfYaml=$(sed -n '/^\.\.\.$/=' "$1")
+    tryLineNumber=$((endOfYaml + 1))
+    try=""
+    while [[ -z $try ]]; do
+        try=$(head -n $tryLineNumber "$1" | tail -n 1 |\
+              sed -e 's/^[|>] //' -e 's/[][]//g' -e 's/^#.*//' -e 's/^--.*//')
+        (( tryLineNumber += 1 ))
+    done
+    echo "$try"
+}
 
-for file in src/*.txt; do
-    echo -n "Getting first line of $file .. "
-    endOfYAML=$(sed -n '/^\.\.\.$/=' "$file")
-    firstLineNumber=$((endOfYAML + 2))
+echo -n "Compiling ${outFile}..."
+cat "$header" > $outFile
 
-    echo "$file: " >> $outFile
-    echo "      $(head -n $firstLineNumber "$file" | tail -n 1)" >> $outFile
-
-    unset endOfYAML firstLineNumber
-    echo "Done."
+for file in $glob; do
+    # Copy first line to $outFile & link
+    echo "[$(firstLineOf "$file")](${file%.*}.html)" >> $outFile
 done
+echo "Done."

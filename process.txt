@@ -9,15 +9,13 @@ project:
     class: meta
 ...
 
-Hi.  My name is Case Duckworth.  This is my thesis.
----------------------------------------------------
+## Hi.  My name is Case Duckworth.  This is my thesis.
 
 _Autocento of the breakfast table_ is an inter/hypertextual exploration of the workings of inspiration, revision, and obsession.
 I've compiled this work over multiple years, and recently linked it all together to form a (hopefully) more cohesive whole.
 To make this easier than collating everything by hand, I've relied on a process that leverages open-source technologies to publish my work onto a web platform.
 
-Process steps
--------------
+## Process steps
 
 1. Write poems.
 2. Convert to Markdown.
@@ -51,8 +49,7 @@ Process steps
     - As of now, I've completed a _[Hapax legomenon][]_ compiler, a [back-link][] compiler, and an updater for the [random link functionality][] that's on this site.
     - I'd like to build a compiler for the [Index of first lines][] and [Index of common titles][] once I have time.
 
-The beauty of this system
--------------------------
+## The beauty of this system
 
 - I can compile these poems into (almost) any format: `pandoc` supports a lot.
 - Once I complete the above process once, I can focus on revising my poems.
