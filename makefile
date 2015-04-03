@@ -58,21 +58,23 @@ commonTitler     = $(trunk)/common-titles.sh
 commonTitlesHead = $(trunk)/common-titles.head
 # }}}
 # PHONY {{{
-.PHONY: all clean nuke again meta
+.PHONY: all clean distclean again meta
 all: meta \
      $(htmlPre) $(htmls) $(lozengeOut)\
      $(backHtms) $(islandHtm)
 
 clean:
-	-rm -f $(hapaxs) $(hapaxOut)
-	-rm -f $(firstLinesOut) $(firstLinesTxt)
-	-rm -f $(commonTitlesOut) $(commonTitlesTxt)
-	-rm -f $(htmls)
-	-rm -f $(backTxts) $(backHtms)
+	-rm -f $(hapaxs)
+	-rm -f $(firstLinesTxt)
+	-rm -f $(commonTitlesTxt)
+	-rm -f $(backTxts)
 	-rm -f *.tmp trunk/*.tmp
 
-nuke: clean
+distclean: clean
 	-rm -f $(hapaxPre) $(htmlPre)
+	-rm -f $(hapaxOut) $(firstLinesOut) $(commonTitlesOut)
+	-rm -f $(backHtms)
+	-rm -f $(htmls)
 
 again: clean all
 
@@ -82,7 +84,7 @@ meta: $(hapaxOut) $(firstLinesOut) $(commonTitlesOut)
 $(htmlPre): $(htmlPreSrc)
 	ghc --make $(htmlPreSrc)
 
-%.html: %.txt $(htmlTemplate) $(htmlPre)
+%.html: %.txt | $(htmlTemplate) $(htmlPre)
 	pandoc $< -t html5 $(htmlPandocOptions) -o $@
 
 $(lozengeOut): $(htmls)
