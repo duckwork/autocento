@@ -257,7 +257,12 @@ nav .nextlink::after {
 }
 nav .anchors {
     position: absolute;
-    left: 50%;
+    width: 100%;
+    text-align: center;
+}
+nav .anchors a {
+    margin-right: 0.25em;
+    margin-left: 0.25em;
 }
 /* nav elements }}} */
 /* .FOOTNOTES ELEMENTS {{{ */

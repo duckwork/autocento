@@ -17,11 +17,12 @@ firstLineOf() { # $1 = file
     echo "$try"
 }
 
-echo -n "Compiling ${outFile}..."
+echo -n "Compiling ${outFile}"
 cat "$header" > $outFile
 
 for file in $glob; do
     # Copy first line to $outFile & link
-    echo "[$(firstLineOf "$file")](${file%.*}.html)" >> $outFile
+    echo "[$(firstLineOf "$file")](${file%.*}.html)" >> $outFile;
+    echo -n ".";
 done
 echo "Done."

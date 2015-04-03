@@ -7,8 +7,8 @@
 srcs      := $(wildcard *.txt)
 templates := $(wildcard _template.*)
 trunk     := trunk
-metas      = hapax first-lines common-titles index
-metas     += $(templates)
+metas      = hapax first-lines common-titles index island
+metas     += $(templates) $(wildcard _*)
 
 txts = $(filter-out \
        $(patsubst %,%.txt,$(metas)),\
@@ -44,6 +44,10 @@ backHead   = $(trunk)/backlink.head
 backlinker = $(trunk)/backlink.sh
 backPandocOptions = --template=$(htmlTemplate) --smart
 
+islandHead = $(trunk)/island.head
+islandTxt  = island.txt
+islandHtm  = island.htm
+
 firstLinesTxt    = first-lines.txt
 firstLinesOut    = first-lines.html
 firstLiner       = $(trunk)/first-lines.sh
@@ -53,67 +57,71 @@ commonTitlesOut  = common-titles.html
 commonTitler     = $(trunk)/common-titles.sh
 commonTitlesHead = $(trunk)/common-titles.head
 # }}}
-
-.PHONY: all
-all: $(hapaxOut) $(firstLinesOut) $(commonTitlesOut)\
+# PHONY {{{
+.PHONY: all clean nuke again meta
+all: meta \
      $(htmlPre) $(htmls) $(lozengeOut)\
-     $(backTxts) $(backHtms)
+     $(backHtms) $(islandHtm)
 
-# HTML {{{
-$(htmlPre): $(htmlPreSrc)
-	ghc --make $(htmlPreSrc)
-
-%.html: %.txt | $(htmlTemplate) $(htmlPre)
-	pandoc $< -t html5 $(htmlPandocOptions) -o $@
-
-$(lozengeOut): $(htmls)
-	@bash $(lozenger) $(lozengeOut) $(htmls)
-# }}}
-# BACKLINKS {{{
-%.back: %.html | $(backHead)
-	@bash $(backlinker) $< $@ $(backHead) $(htmls)
-
-%_backlinks.htm: %.back | $(htmlTemplate)
-	pandoc $< -t html5 $(backPandocOptions) -o $@
-# }}}
-# HAPAX {{{
-$(hapaxPre): $(hapaxPreSrc)
-	ghc --make $(hapaxPreSrc)
-
-%.hapax: %.txt | $(hapaxPre)
-	pandoc $< -t $(hapaxer) $(hapaxPandocOptions) -o $@
-
-$(hapaxOut): $(hapaxs) | $(hapaxPre) $(hapaxLinker) $(hapaxHead)
-	pandoc $^ -t $(hapaxer) -o $(hapaxOut)
-	@bash $(hapaxLinker) $@ $(hapaxHead) $^
-# }}}
-# FIRST LINES & COMMON TITLES {{{
-$(firstLinesTxt): $(txts) | $(firstLiner) $(firstLinesHead)
-	@bash $(firstLiner) $@ $(firstLinesHead) $^
-
-$(firstLinesOut): $(firstLinesTxt) | $(htmlTemplate) $(htmlPre)
-	pandoc $< -t html5 $(htmlPandocOptions) -o $@
-
-$(commonTitlesTxt): $(txts) | $(commonTitler) $(commonTitlesHead)
-	@bash $(commonTitler) $@ $(commonTitlesHead) $^
-
-$(commonTitlesOut): $(commonTitlesTxt) | $(htmlTemplate) $(htmlPre)
-	pandoc $< -t html5 $(htmlPandocOptions) -o $@
-# }}}
-# CLEAN {{{
-.PHONY: clean
 clean:
 	-rm -f $(hapaxs) $(hapaxOut)
 	-rm -f $(firstLinesOut) $(firstLinesTxt)
 	-rm -f $(commonTitlesOut) $(commonTitlesTxt)
 	-rm -f $(htmls)
-	-rm -f $(backHtms)
+	-rm -f $(backTxts) $(backHtms)
 	-rm -f *.tmp trunk/*.tmp
 
-.PHONY: nuke
 nuke: clean
 	-rm -f $(hapaxPre) $(htmlPre)
 
-.PHONY: again
 again: clean all
+
+meta: $(hapaxOut) $(firstLinesOut) $(commonTitlesOut)
+# }}}
+# HTML {{{
+$(htmlPre): $(htmlPreSrc)
+	ghc --make $(htmlPreSrc)
+
+%.html: %.txt $(htmlTemplate) $(htmlPre)
+	pandoc $< -t html5 $(htmlPandocOptions) -o $@
+
+$(lozengeOut): $(htmls)
+	bash $(lozenger) $(lozengeOut) $(htmls)
+# }}}
+# BACKLINKS {{{
+%.back: %.html $(backHead)
+	@bash $(backlinker) $< $@ $(backHead) $(islandHead) $(txts)
+
+%_backlinks.htm: %.back
+	pandoc $< -t html5 $(backPandocOptions) -o $@
+
+$(islandTxt): $(backTxts)
+
+$(islandHtm): $(islandTxt) $(islandHead) $(backHtms)
+	pandoc $< -t html5 $(htmlPandocOptions) -o $@
+	rm -f $(islandTxt)
+# }}}
+# HAPAX {{{
+$(hapaxPre): $(hapaxPreSrc)
+	ghc --make $(hapaxPreSrc)
+
+%.hapax: %.txt $(hapaxPre) $(hapaxLinker) $(hapaxHead)
+	pandoc $< -t $(hapaxer) $(hapaxPandocOptions) -o $@
+
+$(hapaxOut): $(hapaxs)
+	pandoc $^ -t $(hapaxer) -o $@
+	bash $(hapaxLinker) $@ $(hapaxHead) $^
+# }}}
+# FIRST LINES & COMMON TITLES {{{
+$(firstLinesTxt): $(txts) | $(firstLiner) $(firstLinesHead)
+	bash $(firstLiner) $@ $(firstLinesHead) $^
+
+$(firstLinesOut): $(firstLinesTxt) $(htmlTemplate) $(htmlPre)
+	pandoc $< -t html5 $(htmlPandocOptions) -o $@
+
+$(commonTitlesTxt): $(txts) | $(commonTitler) $(commonTitlesHead)
+	bash $(commonTitler) $@ $(commonTitlesHead) $^
+
+$(commonTitlesOut): $(commonTitlesTxt) $(htmlTemplate) $(htmlPre)
+	pandoc $< -t html5 $(htmlPandocOptions) -o $@
 # }}}
