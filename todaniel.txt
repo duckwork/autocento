@@ -17,7 +17,7 @@ project:
 ...
 
 | There are more modern ideals of beauty
-| than yours, young padowan.  Jessica has
+| than yours, young padawan.  Jessica has
 | some assets, that I'll give you easily,
 | but in my women I prefer pizzazz.
 

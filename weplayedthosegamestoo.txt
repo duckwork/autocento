@@ -16,10 +16,10 @@ project:
 ...
 
 | I saw two Eskimo girls playing a game
-| blowing on each other's' vocal chords to make music
+| blowing on each other's' vocal cords to make music
 | on the tundra.  I thought about how
 | once we played the same game
-| and the sounds blowing over the chords of our throats
+| and the sounds blowing over the cords of our throats
 | was the same as a wind over frozen prairie.
 | We are the Eskimo girls who played
 | the game that night to keep ourselves warm.

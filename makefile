@@ -42,7 +42,8 @@ backTxts   = $(patsubst %.html,%.back,$(htmls))
 backHtms   = $(patsubst %.back,%_backlinks.htm,$(backTxts))
 backHead   = $(trunk)/backlink.head
 backlinker = $(trunk)/backlink.sh
-backPandocOptions = --template=$(htmlTemplate) --smart
+backHtmTemplate = _backlinks_template.htm
+backPandocOptions = --template=$(backHtmTemplate) --smart
 
 islandHead = $(trunk)/island.head
 islandTxt  = island.txt
@@ -94,7 +95,7 @@ $(lozengeOut): $(htmls)
 %.back: %.html $(backHead)
 	@bash $(backlinker) $< $@ $(backHead) $(islandHead) $(txts)
 
-%_backlinks.htm: %.back
+%_backlinks.htm: %.back $(backHtmTemplate)
 	pandoc $< -t html5 $(backPandocOptions) -o $@
 
 $(islandTxt): $(backTxts)

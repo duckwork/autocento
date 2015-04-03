@@ -34,7 +34,8 @@ de Campos said of him at one point, "[Fernando Pessoa, strictly speaking, doesn'
 It's not just Pessoa---I, strictly speaking, don't exist, both as the specific me that writes this now and as the concept of selfhood, the ego.
 Heraclitus famously said that we can't step into the [same river][] twice, and the fact of the matter is that we can't occupy the same self twice.
 It's constantly changing and adapting to new stimuli from the environment, from other selves, from inside itself, and each time it forms anew into something that's never existed before.
-The person I am beginning a poem is a separate being than the one I am finishing a poem, and part of it is the poem I've written has brought forth some other dish onto the great table that is myself.
+The person I was when beginning a poem is distinct from the person who finished the poem, largely due to the poem itself.
+In a way, it's been the waiter that brought the next course into the great meal that is myself.
 
 In the same way, with each poem you read of this, you too could become a different person.
 Depending on which order you read them in, you could be any number of possible people.
@@ -93,7 +94,7 @@ A fortress of dialectic is constructed that ultimately obstructs the meaning beh
 With this in mind, I collect these poems that were written over a period of four years into this book.
 Where I can, I insert cross-references (like the one above, in the margin) to other pieces in the text where I think the two resonate in some way.
 You can read this book in any way you'd like: you can go front-to-back, or back-to-front, or you can follow the arrows around, or you can work out a complex mathematical formula with Merseinne primes and logarithms and the 2000 Census information, or you can go completely randomly through like a magazine, or at least the way I flip through magazines.
-I think writing is a communication of the self, and I think this is the best way to communicate mine in all its multiversity.
+If writing is a communication of the self, then this is the best way to communicate mine in all its multiversity.
 
 [pessoa-exist]: philosophy.html
 [same river]: mountain.html
