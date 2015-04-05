@@ -116,7 +116,7 @@ project:
 [to rest their heads]: riptide_memory.html
 [forestroads]: http://www.bartleby.com/119/1.html
 [purple mountains majesty]: http://www.wrensworld.com/purpmount.htm
-[snowquiet deadbranch]: 100-lines.html
+[snowquiet deadbranch]: one-hundred-lines.html
 [to youngnesses giving way to oldnesses]: about-the-author.html
 [fish swimming]: proverbs.html
 [I need whisper at dawn.]: apollo11.html

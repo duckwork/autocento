@@ -51,5 +51,5 @@ It makes nothing on its own._
 [thundercloud]: serengeti.html
 [thinking]: lappel-du-vide.html
 [how they formed rows]: axe.html
-[The snow]: 100-lines.html
+[The snow]: one-hundred-lines.html
 [does that too]: weplayedthosegamestoo.html

@@ -400,7 +400,7 @@ a.footnoteRef {
     -ms-flex-item-align: auto;
     align-self: auto;
 }
-#cover .lozenge {
+#cover .anchors {
     -webkit-box-ordinal-group: 1;
     -moz-box-ordinal-group: 1;
     -webkit-order: 0;
@@ -428,6 +428,8 @@ a.footnoteRef {
 }
 #cover header {
     border: none;
+    margin: auto;
+    padding: 0;
 }
 #cover .content {
     max-width: 39em;
@@ -466,6 +468,10 @@ a.footnoteRef {
     letter-spacing: 0.2em;
     color: #e5bfb2;
 }
+#cover .anchors a {
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+}
 #cover .lozenge {
     text-align: center;
     font-size: 1em;
@@ -483,12 +489,12 @@ a.footnoteRef {
 table { border-collapse: collapse; }
 td {
     vertical-align: top;
-    text-indent: -1em;
-    padding-left: 1em;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
 }
 tr {
-    border-bottom: 1px solid #aaa;
-    border-top: 1px solid #aaa;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
 }
 /* .stark }}} */
 /* .PAUL {{{ */
@@ -527,3 +533,20 @@ tr {
     background-color: white;
 }
 /* .autocento }}} */
+/* ARTICLE CSS */
+/* #TABLE_CONTENTS {{{ */
+#table_contents table {
+    max-width: 39em;
+}
+#table_contents tr {
+    border: none;
+}
+#table_contents td {
+    max-width: 50%;
+}
+/* #table_contents }}} */
+/* #ABOUT_AUTHOR {{{ */
+#about-the-author td {
+    vertical-align: middle;
+}
+/* #about_author }}} */

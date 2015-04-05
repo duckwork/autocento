@@ -53,5 +53,5 @@ project:
 [my father is caught by a riptide]: father.html
 [memory]: ouroboros_memory.html
 [another shipwreck]: shipwright.html
-[ghost]: 100-lines.html
+[ghost]: one-hundred-lines.html
 [stars above the mountains]: finding-the-lion.html

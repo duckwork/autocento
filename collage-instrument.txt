@@ -30,6 +30,8 @@ This begins a vicious cycle during which more and more shoes are made, more and 
 This is the point at which it becomes economically impossible for any stores but shoe stores to exist.
 After the economy collapses, the society's people invariably turn [into birds][], never to touch ground again.
 
+***
+
 [`awk`][] is often used as a command-line stream-editing tool, but it is actually an entire interpreted language.
 It supports multiple variables and logical structuring, and has been the inspiration for [Perl][], which has largely replaced it.
 It was originally written in 1977, but over the years has evolved, with multiple implementations made for different uses.
@@ -55,6 +57,8 @@ My father told me that once, when swimming, a rip tide pulled him far out to sea
 He said it was impossible to tell until it was too late.
 The shore simply receded too slowly.
 He never told me how he made it back, but I imagine him, bearded, beached, coughing up saltwater: a new shipwrecked victim.
+
+***
 
 [`grep`][] is a basic search tool for UNIX-based systems.
 It has a robust syntax, though I've had trouble remembering the regex nuances between it, `sed`'s, and `perl`'s.

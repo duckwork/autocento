@@ -21,30 +21,37 @@ project:
 ...
 
 | So it's the [fucking moon][].  Big deal.  As if
-| you haven't seen it before, hanging in the sky
-| like a piece of [rotten meat][] nailed to the wall,
+| you haven't seen it before, tacked to the sky
+| like a [rotten hunk of meat][], a maudlin love
 
-| a maudlin love letter (the i's dotted with [hearts][])
-| tacked to the sky's door like ninety-eight theses.
+| letter (the _i_s dotted with hearts) hung
+| on the sky like ninety-eight theses.
 | Don't stare at it like it means anything.
 
+| Walk past it quickly, eyes averted.
 | Don't give it the chance to collect meaning
-| from your hand like an old pigeon.  Don't dare ascribe
-| it a will, or call it fickle, or think it has any say
+| from your [outstretched hand like a pigeon][].
 
-| in your affairs.  It's separated from your life
-| by three hundred eighty-four thousand miles of space,
-| the same distance you stepped away from time that night
+| Ascribing it a will, calling it fickle, or
+| thinking it has any say or even an opinion
+| of your affairs is a mistake: it's separated
 
-| you said your love was broken, a crippled gyroscope
-| knocking in the dark.  It was then that time fell apart,
-| had a nervous breakdown and started following you
+| from you by three hundred eighty thousand miles
+| of emptiness, staring at you blankly like a child
+| or your reflection when you found your love broken
 
-| everywhere, moonfaced, always asking where you're going.
-| You keep trying to get away from it but it nuzzles closer
-| and sings you songs that sound like the cooing of a dove
-| that will only escape again into an empty sky at dawn.
+| in the dark, when time fell apart, broke down,
+| started following you around everywhere, [moonfaced][],
+| doggedly asking where you're going, like you know.
+
+| Don't try side stepping time, either: it's only
+| a river you're stuck in, [carrying you][] under the glare
+| of the moon nuzzling closer, cooing in your ear
+
+| like a dove that escapes into the empty sky at dawn.
 
 [fucking moon]: deathstrumpet.html
-[rotten meat]: roughgloves.html
-[hearts]: proverbs.html
+[rotten hunk of meat]: roughgloves.html
+[outstretched hand like a pigeon]: last-passenger.html
+[moonfaced]: boy_bus.html
+[carrying you]: music-433.html

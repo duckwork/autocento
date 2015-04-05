@@ -37,7 +37,7 @@ project:
 [my tongue swollen]: plant.html
 [a picture of our future]: last-passenger.html
 [in the dark]: apollo11.html
-[future together]: 100-lines.html
+[future together]: one-hundred-lines.html
 [down on your couch]: early.html
 [and memory was]: riptide_memory.html
 [full of fire]: found-typewriter-poem.html

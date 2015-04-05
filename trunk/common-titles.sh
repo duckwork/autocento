@@ -1,12 +1,10 @@
 #!/bin/bash
 
 outFile="$1";
-header="$2";
-shift 2;
+shift 1;
 glob="$@";
 
 echo -n "Compiling ${outFile}";
-cat "$header" > $outFile;
 
 for file in $glob; do
     # Copy title to $outFile & link

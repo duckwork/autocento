@@ -44,4 +44,4 @@ He imagined her seeing [fisheye][] versions of herself in them.
 
 [fisheye]: hands.html
 [frosting flowers]: big-dipper.html
-[gauze]: 100-lines.html
+[gauze]: one-hundred-lines.html

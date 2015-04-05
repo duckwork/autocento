@@ -4,12 +4,8 @@
 searchQuery="$1";               # .html file to backlink
 outFile="$2";                   # .back file to create
 headerFile="$3";                # header information file
-islandHead="$4";
-shift 4;
+shift 3;
 glob="$@";                      # where to search for backlinks
-
-islandLink="island"
-[[ ! -f ${islandLink}.txt ]] && cat "$islandHead" > ${islandLink}.txt;
 
 # Find backlinkers
 echo -n "Back-linking \"$searchQuery\""

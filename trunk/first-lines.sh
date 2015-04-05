@@ -1,8 +1,7 @@
 #!/bin/bash
 
 outFile="$1";
-header="$2";
-shift 2;
+shift 1;
 glob="$@";
 
 firstLineOf() { # $1 = file
@@ -18,7 +17,6 @@ firstLineOf() { # $1 = file
 }
 
 echo -n "Compiling ${outFile}"
-cat "$header" > $outFile
 
 for file in $glob; do
     # Copy first line to $outFile & link

@@ -68,7 +68,7 @@ project:
 [same gravity]: the-sea_the-beach.html
 [orbiting suns]: big-dipper.html
 [morning]: plant.html
-[had the ice of inner space]: 100-lines.html
+[had the ice of inner space]: one-hundred-lines.html
 [I turn on the tap]: hard-game.html
 [this poem about the Universe]: howtoread.html
 [body]: ouroboros_memory.html

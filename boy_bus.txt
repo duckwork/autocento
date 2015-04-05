@@ -28,7 +28,7 @@ project:
 
 | I have seen this face before whether in life or a dream
 | I can't tell
-| I might've seen him on the street once
+| if I've seen him on the street once
 | twice who knows and his pastor's [moon face][]
 | reminds me of something
 | some distant light my life used to own

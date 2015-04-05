@@ -12,10 +12,10 @@ project:
 
 | [Man of autumn][], cold wind,
 | blow down the trees' leaves.
-| [Fire on the ground][].  The sky
+| [Fire on the ground][].  The sky is
 | perfect water, frost-cold,
 | rippled only by flocks
-| [of black birds][] flying, gone.
+| [of black birds][] flying and gone.
 | Their brightness can blind
 | an uncareful watcher, work him
 | [in a froth of hands][], not-wings

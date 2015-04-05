@@ -1,6 +1,6 @@
 ---
 title: Autocento of the breakfast table
-subititle: abstract
+subtitle: abstract
 id: abstract
 genre: prose
 
@@ -23,7 +23,7 @@ See how it's navigable: there are links within each article to other articles an
 
 - The **&phi;** shows you the backlinks to each page.
 - The **&loz;** takes you back to the cover of the project, to start over.
-- The **&#x221d;** takes you to a random article in the project.
+- The **&xi;** takes you to a random article in the project.
 - Some pages also have _previous_ and _next_ links.  These take you to other articles in their original project-order.  It's another way to navigate the page.
 
 Check out my [process narrative][] for the technical details of putting this site together, or see my [about page][] for an artist's statement.

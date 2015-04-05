@@ -2,7 +2,7 @@
 title: About the author
 id: about-the-author
 subtitle: (not pictured)
-genre: prose
+genre: table
 
 epigraph:
     content: The body that surrounds him is his, but his insides are not.

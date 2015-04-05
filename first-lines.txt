@@ -15,7 +15,6 @@ project:
       link: common-titles
 ...
 
-[Whenever you call me friend](100-lines.html)
 [He was born on a few separate occasions                              _green traffic lights at night_](about-the-author.html)
 [_Autocento of the breakfast table_ is a hypertextual exploration of the workings of revision across time.](about.html)
 [Case Duckworth is the cowardly but lovable Great Dane who solves mysteries on TV.](about_author.html)
@@ -36,9 +35,9 @@ project:
 [Man of autumn, cold wind,](cold-wind.html)
 [`tr` has been a part of the Unix toolset since the late 70s.](collage-instrument.html)
 [So two hyperintelligent pandimensional beings](creation-myth.html)
-[A dead man finds his way into our hearts](deadman.html)
+[The dead man finds his way into our hearts](deadman.html)
 [When I think of death I think](death-zone.html)
-[He didn't have any polish so he spit-shined the whole thing,](deathstrumpet.html)
+[He didn't have any polish so he spit-shined the whole thing](deathstrumpet.html)
 [I turned off the TV as soon as the end credits began.](dollywood.html)
 [It had gotten cold.](dream.html)
 [_YOU CANNOT DISCOVER ART ART MUST BE CREATED_ he sat on the couch at home while his mother watched TV and smoked.](early.html)
@@ -86,6 +85,7 @@ project:
 [Paul began typing on notecards.](notes.html)
 [Nothing is ever over; nothing](nothing-is-ever-over.html)
 [How does one describe a poem?](on-genre-dimension.html)
+[Whenever you call me friend](one-hundred-lines.html)
 [I think that I could write formal poems](onformalpoetry.html)
 [What did he do when he was in the woods?](options.html)
 [He said at the beginning, "It's like rolling yarn into a too-small ball.](ouroboros_memory.html)
@@ -126,7 +126,7 @@ project:
 [This poem is dry like chapped lips.](swansong-alt.html)
 [Swans fly overhead singing goodbye](swansong.html)
 [EVERYTHING CHANGES OR EVERYTHING STAYS THE SAME](swear.html)
-[4. The look she gave me                 4. Half-hours in heaven are three times](table_contents.html)
+[ 4. The look she gave me                  4. Half-hours in heaven are three times](table_contents.html)
 [_Apparently typewriters need ribbon.](tapestry.html)
 [It was one of those nameless gray buildings that could be seen from the street only if Larry craned his neck to almost vertical.](telemarketer.html)
 [My head is full of fire, my tongue swollen,](the-night-we-met.html)
@@ -150,3 +150,4 @@ project:
 [He sat down at his writing desk and removed his new pen from its plastic wrapping.](writing.html)
 [While chopping a tree in the woods with his hatchet (a Christmas gift from his mother) a bird he'd never heard before cried out.](x-ray.html)
 [He would enter data at work for fifty minutes and then go on break.](yellow.html)
+[](trunk/first-lines.html)

@@ -57,9 +57,15 @@ commonTitlesTxt  = common-titles.txt
 commonTitlesOut  = common-titles.html
 commonTitler     = $(trunk)/common-titles.sh
 commonTitlesHead = $(trunk)/common-titles.head
+
+tocTxt  = _toc.txt
+tocHtml = _toc.html
+tocer   = $(trunk)/toc.sh
+tocHead = $(trunk)/toc.head
+tocInc = $(hapaxOut) $(islandTxt) $(firstLinesTxt) $(commonTitlesTxt) $(txts)
 # }}}
 # PHONY {{{
-.PHONY: all clean distclean again meta
+.PHONY: all clean distclean again remake meta
 all: meta \
      $(htmlPre) $(htmls) $(lozengeOut)\
      $(backHtms) $(islandHtm)
@@ -72,14 +78,15 @@ clean:
 	-rm -f *.tmp trunk/*.tmp
 
 distclean: clean
-	-rm -f $(hapaxPre) $(htmlPre)
+	-rm -f $(hapaxPre) $(htmlPre) hapax.html
 	-rm -f $(hapaxOut) $(firstLinesOut) $(commonTitlesOut)
 	-rm -f $(backHtms)
 	-rm -f $(htmls)
 
 again: clean all
+remake: distclean all
 
-meta: $(hapaxOut) $(firstLinesOut) $(commonTitlesOut)
+meta: $(hapaxOut) $(firstLinesOut) $(commonTitlesOut) $(tocHtml)
 # }}}
 # HTML {{{
 $(htmlPre): $(htmlPreSrc)
@@ -93,7 +100,7 @@ $(lozengeOut): $(htmls)
 # }}}
 # BACKLINKS {{{
 %.back: %.html $(backHead)
-	@bash $(backlinker) $< $@ $(backHead) $(islandHead) $(txts)
+	@bash $(backlinker) $< $@ $(backHead) $(txts)
 
 %_backlinks.htm: %.back $(backHtmTemplate)
 	pandoc $< -t html5 $(backPandocOptions) -o $@
@@ -101,14 +108,19 @@ $(lozengeOut): $(htmls)
 $(islandTxt): $(backTxts)
 
 $(islandHtm): $(islandTxt) $(islandHead) $(backHtms)
-	pandoc $< -t html5 $(htmlPandocOptions) -o $@
-	rm -f $(islandTxt)
+	pandoc $(islandHead) $< -t html5 $(htmlPandocOptions) -o $@
+
+$(tocTxt): $(tocInc) | $(tocead) $(tocer)
+	@bash $(tocer) $(tocTxt) $(tocInc)
+
+$(tocHtml): $(tocTxt) $(tocHead)
+	pandoc $(tocHead) $< -t html5 $(htmlPandocOptions) -o $@
 # }}}
 # HAPAX {{{
 $(hapaxPre): $(hapaxPreSrc)
 	ghc --make $(hapaxPreSrc)
 
-%.hapax: %.txt $(hapaxPre) $(hapaxLinker) $(hapaxHead)
+%.hapax: %.txt $(hapaxPre) $(hapaxLinker)
 	pandoc $< -t $(hapaxer) $(hapaxPandocOptions) -o $@
 
 $(hapaxOut): $(hapaxs)

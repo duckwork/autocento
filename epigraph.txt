@@ -16,7 +16,7 @@ project:
       link: deathstrumpet
 ...
 
-I saw my life branching out before me like the green fig tree in the story.
+I saw my life branching out before me like the [green fig tree][] in the story.
 From the tip of every branch, like a fat purple fig, a wonderful future beckoned and winked.
 One fig was a husband and a happy home and children,
 and another fig was a famous poet and another fig was a brilliant professor,
@@ -29,3 +29,4 @@ I wanted each and every one of them, but choosing one meant losing all the rest,
 
 [other lovers]: spittle.html
 [death]: deathstrumpet.html
+[green fig tree]: peaches.html

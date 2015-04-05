@@ -15,24 +15,61 @@ project:
       link: angeltoabraham
 ...
 
-| A dead man finds his way into our [hearts][]
-| simply by opening the door and walking in.
-| He pours himself a drink, speaks aimlessly
-| about hunting or some bats he saw
-| on the way over, wheeling around each other.
-| Look how [they spin][], he says, it's like the
-| ripples atoms make as they hurl past each other
-| in the space between their bodies.
-| We mention the eels at the aquarium, how
-| their bodies [knot while mating][].  The dead man
-| was a boyscout once, and tied a lot of knots.
-| His favorite was the one with the rabbit
-| and the hole, and the rabbit going in and out
-| and around the tree.  The dead man liked it
-| because he liked to pretend that the rabbit
-| was running from a fox, and the rabbit
-| always ended up safe, back in his hole.
+| The dead man finds [his way into our hearts][]
+| by [opening the door][] and walking in.
 
-[hearts]: words-meaning.html
-[they spin]: moongone.html
-[knot while mating]: spittle.html
+| He pours himself [a drink][], something like
+| German cognac, from the mini-bar.  He starts talking
+
+| aimlessly about hunting or some bats he saw
+| on the way over, wheeling around each other
+
+| like [x-rays][] around bones and soft tissue.
+| The dead man can see x-rays now, he says,
+
+| a perk of his [condition][].
+| It's not so bad, he says, though
+
+| he stops short of saying it's as good as
+| being alive, an omission we can, ultimately,
+
+| forgive.  There's [a short silence][] where nothing
+| is said, we're just looking at him as he looks
+
+| at the ceiling or through it.  He looks good
+| for being dead.  We mention this to him
+
+| but he just looks embarrassed.  He mentions
+| eels he saw in the aquarium earlier, how they knot
+
+| while mating.  For hours, it's just a huge mass
+| of [eel flesh, he says, undulating in the water][].
+
+| We nod, waiting for what he'll say next.  He seems
+| uncomfortable carrying the conversation, but we
+
+| can't think of anything either.  Now it's his turn
+| to look at us, and [ours to stare at the ceiling][]
+
+| or wherever.  Finally, we mention the knots we tied
+| in Boy Scouts, especially the loop---a noose? he asks---
+
+| but we say no, the one with the rabbit in its hole
+| and the tree it goes around.  The dead man
+
+| knows that knot, he says, it's a good knot.  But what
+| he really likes is the rabbit, coming out of its hole
+
+| in the morning, eating some grass, and a fox creeping
+| out of its hiding place and chasing the rabbit around
+
+| the tree, back into its hole, where it always ends up safe.
+
+[his way into our hearts]: last-bastion.html
+[opening the door]: words-meaning.html
+[a drink]: ex-machina.html
+[x-rays]: x-ray.html
+[condition]: initial-conditions.html
+[a short silence]: creation-myth.html
+[eel flesh, he says, undulating in the water]: spittle.html
+[ours to stare at the ceiling]: moongone.html
