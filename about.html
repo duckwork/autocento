@@ -34,8 +34,6 @@
                             </div>
         </header>
 
-        <a id="src" href="about.txt">&para;</a>
-
         
         <section class="content prose">
             <section id="introduction" class="level2">
@@ -46,7 +44,7 @@
             <h3><a href="hapax.html">Hapax</a> legomenon, or <em>You are special</em></h3>
             <p><em>Hapax legomenon</em> (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a%28/pac">ἅπαξ</a> λεγόμενον) is Greek for “something said only once.” It comes from the field of corpus linguistics, where it causes problems for translators of ancient texts. Because it only happens once in its corpus, a <em>hapax legmonenon</em> is an enigma: there’s only one context to guess its meaning from. This means that many <em>hapax legomena</em> remain untranslated, as in Mayan tablets, or are questionably translated, as in the Bible.</p>
             <p>Given the way we use language every day, treading over the same words and thoughts in a way that is nonetheless comforting, and given the fact that a <em>hapax legomenon</em> is, by its definition, the rarest word in the place it appears, you might think that <em>hapax legomena</em>, as phenomena, are rare. You’d be wrong. In the Brown Corpus of American English Text, which comprises some fifty thousand words, <a href="https://en.wikipedia.org/wiki/Hapax_legomenon#cite_note-6">about half are <em>hapax legomena</em></a>. In most large corpora, in fact, between forty and sixty per cent of the words occur only once, and another ten to fifteen per cent occur only twice, a fact that I imagine causes translators all sorts of <a href="one-hundred-lines.html">grief</a>.</p>
-            <p>This seeming paradox is reminiscent of another in biology, as summed up by this infographic I keep seeing around the Internet<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>: <img src="https://i.imgur.com/Dub8k.png" alt="Really. I see it everywhere." /></p>
+            <p>This seeming paradox is reminiscent of another in biology, as summed up by this infographic I keep seeing around the Internet<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>: <img src="trunk/infographic.png" alt="Really. I see it everywhere." /></p>
             <p>Apparently, the chances of you, dear Reader, being born is <a href="music-433.html">something</a> like one in 10<sup>2,685,000</sup>. The chances of me <a href="about-the-author.html">being born</a> is <a href="poetry-time.html">something</a> like one in 10<sup>2,685,000</sup>. The chances of the guy you stood behind in line <a href="yellow.html">for your coffee</a> this morning? His chance of being born was <a href="dollywood.html">something</a> like one in 10<sup>2,685,000</sup>. The thing is, a number like one in 10<sup>2,685,000</sup> stops meaning so much when we take the number of times such a “rare” event occurs. There are about seven billion (or <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>7</mn><mo>×</mo><msup><mn>10</mn><mn>9</mn></msup></mrow><annotation encoding="application/x-tex">7 \times 10^{9}</annotation></semantics></math>) people on Earth—and all of them have that same small chance of one in 10<sup>2,685,000</sup> of being born. And they all were.</p>
             <p>It stops seeming so special after thinking about it.</p>
             </section>
@@ -69,10 +67,10 @@
             <h2>Process</h2>
             <p>In compiling this text, I’ve pulled from a few different projects:</p>
             <ul>
-            <li>[Elegies for alternate selves][elegies-link]</li>
-            <li>[The book of Hezekiah][hez-link]</li>
-            <li>[Stark raving][stark-link]</li>
-            <li>[Buildings out of air][paul-link]</li>
+            <li><a href="elegyforanalternateself.html">Elegies for alternate selves</a></li>
+            <li><a href="prelude.html">The book of Hezekiah</a></li>
+            <li><a href="table_contents.html">Stark raving</a></li>
+            <li><a href="art.html">Buildings out of air</a></li>
             </ul>
             <p>as well as <a href="last-passenger.html">new poems</a>, written quite recently. As I’ve compiled them into this project, I’ve linked them together based on common images or language, disregarding the order of their compositions. What I hope to have accomplished with this hypertext is an approximation of my self as it’s evolved, but <a href="https://www.youtube.com/watch?v=oJjcF2DmFFY">all at one time</a>. Ultimately, <em>Autocento of the breakfast table</em> is a <a href="building.html">long-exposure photograph</a> of my mind.</p>
             <section id="a-note-on-terminology" class="level3">
@@ -84,25 +82,47 @@
             <p>Because this project lives online (welcome to the Internet!), I’ve used a fair amount of technology to get it there.</p>
             <p>First, I typed all of the objects present into a human-readable markup format called <a href="http://daringfireball.net/projects/markdown/">Markdown</a> by John Gruber, using a plain-text editor called <a href="http://www.vim.org">Vim</a>.<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a> Markdown is a plain-text format that uses unobtrusive mark-up to signal semantic meaning around a text. A text written with markup can then be passed to a compiler, such as John Gruber’s <code>Markdown.pl</code> script, to turn it into functioning HTML for viewing in a browser.</p>
             <p>As an example, here’s the previous paragraph as I typed it:</p>
-            <pre class="sourceCode markdown"><code class="sourceCode markdown">First, I typed all of the objects present into a human-readable markup
-            format called <span class="ot">[Markdown][] </span>by John Gruber, using a plain-text editor called
-            <span class="ot">[Vim][]</span>.<span class="ot">[^5]</span>  Markdown is a plain-text format that uses unobtrusive mark-up to
-            signal semantic meaning around a text.  A text written with markup can then be
-            passed to a compiler, such as John Gruber&#39;s original Markdown.pl script, to
-            turn it into functioning HTML for viewing in a browser.
+            <pre class="sourceCode markdown"><code class="sourceCode markdown">First, I typed all of the objects present into a
+            human-readable markup format called <span class="ot">[Markdown][]</span>
+            by John Gruber, using a plain-text editor called
+            <span class="ot">[Vim][]</span>.<span class="ot">[^5]</span>  Markdown is a plain-text format
+            that uses unobtrusive mark-up to signal semantic
+            meaning around a text.  A text written with
+            markup can then be passed to a compiler, such as
+            John Gruber&#39;s original Markdown.pl script, to
+            turn it into functioning HTML for viewing in a
+            browser.
             
             <span class="ot">[Markdown]: http://daringfireball.net/projects/markdown/</span>
             <span class="ot">[Vim]: http://www.vim.org</span>
             
-            <span class="ot">[^5]</span>: I could&#39;ve used any text editor for the composition step, including
-            <span class="bn">      Notepad, but I personally like Vim for its extensibility, composability,</span>
-            <span class="bn">      and honestly its colorschemes.</span></code></pre>
+            <span class="ot">[^5]</span>: I could&#39;ve used any text editor for the
+            <span class="bn">      composition step, including Notepad, but I</span>
+            <span class="bn">      personally like Vim for its extensibility,</span>
+            <span class="bn">      composability, and honestly its colorschemes.</span></code></pre>
             <p>And here it is as a compiled HTML file:</p>
-            <pre class="sourceCode html"><code class="sourceCode html"><span class="kw">&lt;p&gt;</span>First, I typed all of the objects present into a human-readable markup format called <span class="kw">&lt;a</span><span class="ot"> href=</span><span class="st">&quot;http://daringfireball.net/projects/markdown/&quot;</span><span class="kw">&gt;</span>Markdown<span class="kw">&lt;/a&gt;</span> by John Gruber, using a plain-text editor called <span class="kw">&lt;a</span><span class="ot"> href=</span><span class="st">&quot;http://www.vim.org&quot;</span><span class="kw">&gt;</span>Vim<span class="kw">&lt;/a&gt;</span>.<span class="kw">&lt;a</span><span class="ot"> href=</span><span class="st">&quot;#fn1&quot;</span><span class="ot"> class=</span><span class="st">&quot;footnoteRef&quot;</span><span class="ot"> id=</span><span class="st">&quot;fnref1&quot;</span><span class="kw">&gt;&lt;sup&gt;</span>1<span class="kw">&lt;/sup&gt;&lt;/a&gt;</span> Markdown is a plain-text format that uses unobtrusive mark-up to signal semantic meaning around a text. A text written with markup can then be passed to a compiler, such as John Gruber&#39;s original Markdown.pl script, to turn it into functioning HTML for viewing in a browser.<span class="kw">&lt;/p&gt;</span>
+            <pre class="sourceCode html"><code class="sourceCode html"><span class="kw">&lt;p&gt;</span>
+                First, I typed all of the objects present into a human-readable markup
+                format called <span class="kw">&lt;a</span><span class="ot"> href=</span><span class="st">&quot;http://daringfireball.net/projects/markdown/&quot;</span><span class="kw">&gt;</span>
+                Markdown<span class="kw">&lt;/a&gt;</span> by John Gruber, using a plain-text editor called
+                <span class="kw">&lt;a</span><span class="ot"> href=</span><span class="st">&quot;http://www.vim.org&quot;</span><span class="kw">&gt;</span>Vim<span class="kw">&lt;/a&gt;</span>.<span class="kw">&lt;a</span><span class="ot"> href=</span><span class="st">&quot;#fn1&quot;</span><span class="ot"> class=</span><span class="st">&quot;footnoteRef&quot;</span>
+            <span class="ot">    id=</span><span class="st">&quot;fnref1&quot;</span><span class="kw">&gt;&lt;sup&gt;</span>1<span class="kw">&lt;/sup&gt;&lt;/a&gt;</span> Markdown is a plain-text format that uses
+                unobtrusive mark-up to signal semantic meaning around a text. A text
+                written with markup can then be passed to a compiler, such as John Gruber&#39;s
+                original Markdown.pl script, to turn it into functioning HTML for viewing
+                in a browser.
+            <span class="kw">&lt;/p&gt;</span>
             <span class="kw">&lt;section</span><span class="ot"> class=</span><span class="st">&quot;footnotes&quot;</span><span class="kw">&gt;</span>
             <span class="kw">&lt;hr</span> <span class="kw">/&gt;</span>
             <span class="kw">&lt;ol&gt;</span>
-            <span class="kw">&lt;li</span><span class="ot"> id=</span><span class="st">&quot;fn1&quot;</span><span class="kw">&gt;&lt;p&gt;</span>I could&#39;ve used any text editor for the composition step, including Notepad, but I personally like Vim for its extensibility, composability, and honestly its colorschemes.<span class="kw">&lt;a</span><span class="ot"> href=</span><span class="st">&quot;#fnref1&quot;</span><span class="kw">&gt;</span>↩<span class="kw">&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;</span>
+            <span class="kw">&lt;li</span><span class="ot"> id=</span><span class="st">&quot;fn1&quot;</span><span class="kw">&gt;</span>
+                <span class="kw">&lt;p&gt;</span>
+                    I could&#39;ve used any text editor for the composition step, including
+                    Notepad, but I personally like Vim for its extensibility,
+                    composability, and honestly its colorschemes.
+                    <span class="kw">&lt;a</span><span class="ot"> href=</span><span class="st">&quot;#fnref1&quot;</span><span class="kw">&gt;</span>↩<span class="kw">&lt;/a&gt;</span>
+                 <span class="kw">&lt;/p&gt;</span>
+            <span class="kw">&lt;/li&gt;</span>
             <span class="kw">&lt;/ol&gt;</span>
             <span class="kw">&lt;/section&gt;</span></code></pre>
             <p>For these files, I opted to use John McFarlane’s <a href="http://johnmcfarlane.net/pandoc/">pandoc</a> over the original <code>Markdown.pl</code> compiler, because it’s more consistent with edge cases in formatting, and because it can compile the Markdown source into a wide variety of different formats, including DOCX, ODT, PDF, HTML, and others. I use an <a href="https://github.com/duckwork/autocento/blob/gh-pages/template.html">HTML template</a> for <code>pandoc</code> to correctly typeset each object in the web browser. The compiled HTML pages are what you’re reading now.</p>
