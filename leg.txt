@@ -1,7 +1,9 @@
 ---
 title: Leg
-id: leg
 genre: prose
+
+id: leg
+toc: "Leg"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

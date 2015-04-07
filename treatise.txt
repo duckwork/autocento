@@ -1,7 +1,9 @@
 ---
 title: Treatise
-id: treatise
 genre: prose
+
+id: treatise
+toc: "Treatise"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

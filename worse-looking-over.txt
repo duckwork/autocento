@@ -1,7 +1,9 @@
 ---
 title: Worse looking over
-id: worse-looking-over
 genre: verse
+
+id: worse-looking-over
+toc: "Worse looking over"
 
 project:
     title: Stark Raving

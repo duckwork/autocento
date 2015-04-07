@@ -1,7 +1,9 @@
 ---
 title: Tapestry
-id: tapestry
 genre: prose
+
+id: tapestry
+toc: "Tapestry"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

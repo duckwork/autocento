@@ -1,7 +1,9 @@
 ---
 title: The ocean overflows with camels
-id: theoceanoverflowswithcamels
 genre: verse
+
+id: theoceanoverflowswithcamels
+toc: "The ocean overflows with camels"
 
 project:
     title: Elegies for alternate selves

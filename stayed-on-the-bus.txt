@@ -1,7 +1,9 @@
 ---
 title: Stayed on the bus too long
-id: stayed-on-the-bus
 genre: verse
+
+id: stayed-on-the-bus
+toc: "Stayed on the bus too long"
 
 project:
     title: Autocento of the breakfast table

@@ -1,7 +1,9 @@
 ---
 title: Table of contents
-id: table_contents
 genre: table
+
+id: table_contents
+toc: "A table of contents"
 
 epigraph:
     content: We are awash in the unseen and science has made us aware of the flood.

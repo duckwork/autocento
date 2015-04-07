@@ -1,7 +1,9 @@
 ---
 title: Sapling
-id: sapling
 genre: prose
+
+id: sapling
+toc: "Sapling"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

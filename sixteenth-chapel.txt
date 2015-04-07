@@ -1,7 +1,9 @@
 ---
 title: The Sixteenth Chapel
-id: sixteenth-chapel
 genre: verse
+
+id: sixteenth-chapel
+toc: "The sixteenth chapel"
 
 epigraph:
     content: "Canadian High School!"

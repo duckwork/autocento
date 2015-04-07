@@ -1,7 +1,9 @@
 ---
 title: The mountain
-id: mountain
 genre: verse
+
+id: mountain
+toc: "The mountain"
 
 project:
     title: Elegies for alternate selves

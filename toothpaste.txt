@@ -1,7 +1,9 @@
 ---
 title: Toothpaste
-id: toothpaste
 genre: prose
+
+id: toothpaste
+toc: "Toothpaste"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

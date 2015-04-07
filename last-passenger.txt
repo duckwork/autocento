@@ -1,7 +1,9 @@
 ---
 title: Last passenger
-id: last-passenger
 genre: verse
+
+id: last-passenger
+toc: "Last passenger"
 
 project:
     title: Autocento of the breakfast table

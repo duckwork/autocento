@@ -1,7 +1,9 @@
 ---
 title: Dead man
-id: deadman
 genre: verse
+
+id: deadman
+toc: "Dead man"
 
 project:
     title: Elegies for alternate selves

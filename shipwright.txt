@@ -1,7 +1,9 @@
 ---
 title: The shipwright
-id: shipwright
 genre: verse
+
+id: shipwright
+toc: "Shipwright"
 
 project:
     title: Elegies for alternate selves

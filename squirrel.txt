@@ -1,7 +1,9 @@
 ---
 title: The squirrel
-id: squirrel
 genre: verse
+
+id: squirrel
+toc: "The squirrel"
 
 project:
     title: Elegies for alternate selves

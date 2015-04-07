@@ -1,7 +1,9 @@
 ---
 title: The largest asteroid in the asteroid belt
-id: largest-asteroid
 genre: verse
+
+id: largest-asteroid
+toc: "The largest asteroid in the asteroid belt"
 
 project:
     title: Autocento of the breakfast table

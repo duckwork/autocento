@@ -1,7 +1,9 @@
 ---
 title: Elegy for an alternate self
-id: elegyforanalternateself
 genre: verse
+
+id: elegyforanalternateself
+toc: "Elegy for an alternate self"
 
 project:
     title: Autocento of the breakfast table

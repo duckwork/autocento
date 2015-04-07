@@ -1,7 +1,9 @@
 ---
 title: Axe
-id: axe
 genre: prose
+
+id: axe
+toc: "Axe"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

@@ -1,7 +1,9 @@
 ---
 title: Nothing is ever over
-id: nothing-is-ever-over
 genre: verse
+
+id: nothing-is-ever-over
+toc: "Nothing is ever over"
 
 project:
     title: Autocento of the breakfast table

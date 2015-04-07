@@ -1,8 +1,10 @@
 ---
 title: Something
-id: music-433
 subtitle: 'about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing'
 genre: verse
+
+id: music-433
+toc: "Something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing"
 
 dedication: '[Randall](https://xkcd.com/1199/)'
 

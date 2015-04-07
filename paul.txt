@@ -1,7 +1,9 @@
 ---
 title: Paul
-id: paul
 genre: prose
+
+id: paul
+toc: "Paul"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

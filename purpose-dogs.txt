@@ -1,7 +1,9 @@
 ---
 title: The purpose of dogs
-id: purpose-dogs
 genre: prose
+
+id: purpose-dogs
+toc: "The purpose of dogs"
 
 project:
     title: Book of Hezekiah

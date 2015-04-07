@@ -1,7 +1,9 @@
 ---
 title: Snow
-id: snow
 genre: prose
+
+id: snow
+toc: "Snow"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

@@ -1,7 +1,9 @@
 ---
 title: Walking in the rain
-id: walking-in-the-rain
 genre: verse
+
+id: walking-in-the-rain
+toc: "Walking in the rain"
 
 project:
     title: Autocento of the breakfast table

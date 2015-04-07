@@ -1,7 +1,9 @@
 ---
 title: Manifesto of poetics
-id: manifesto_poetics
 genre: prose
+
+id: manifesto_poetics
+toc: "A manifesto of poetics"
 
 project:
     title: Stark raving

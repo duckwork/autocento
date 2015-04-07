@@ -1,7 +1,9 @@
 ---
 title: Ouroboros of Memory
-id: ouroboros_memory
 genre: prose
+
+id: ouroboros_memory
+toc: "Ouroboros of memory"
 
 epigraph:
     content: |

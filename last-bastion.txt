@@ -1,7 +1,9 @@
 ---
 title: Last bastion
-id: last-bastion
 genre: verse
+
+id: last-bastion
+toc: "Last bastion"
 
 project:
     title: Stark Raving

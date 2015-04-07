@@ -1,7 +1,9 @@
 ---
 title: Ars poetica
-id: arspoetica
 genre: prose
+
+id: arspoetica
+toc: "Ars poetica"
 
 project:
     title: Elegies for alternate selves

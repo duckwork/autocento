@@ -1,7 +1,9 @@
 ---
 title: Window
-id: window
 genre: prose
+
+id: window
+toc: "Window"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

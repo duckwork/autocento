@@ -1,7 +1,9 @@
 ---
 title: Early
-id: early
 genre: prose
+
+id: early
+toc: "Early"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

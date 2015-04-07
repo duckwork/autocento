@@ -1,7 +1,9 @@
 ---
 title: Words and their irritable reaching
-id: words-irritable-reaching
 genre: prose
+
+id: words-irritable-reaching
+toc: "Words and their irritable reaching"
 
 project:
     title: Autocento of the breakfast table

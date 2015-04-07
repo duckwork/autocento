@@ -1,7 +1,9 @@
 ---
 title: Punch
-id: punch
 genre: prose
+
+id: punch
+toc: "Punch"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

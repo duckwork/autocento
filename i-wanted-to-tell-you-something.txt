@@ -1,7 +1,9 @@
 ---
 title: I wanted to tell you something
-id: i-wanted-to-tell-you-something
 genre: verse
+
+id: i-wanted-to-tell-you-something
+toc: "I wanted to tell you something"
 
 project:
     title: Autocento of the breakfast table

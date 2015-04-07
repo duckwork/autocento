@@ -1,7 +1,9 @@
 ---
 title: The angel to Abraham
-id: angeltoabraham
 genre: verse
+
+id: angeltoabraham
+toc: "The angel to Abraham"
 
 ekphrastic:
     image: "Sacrifice_of_Isaac-Caravaggio.jpg"

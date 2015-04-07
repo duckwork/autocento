@@ -1,7 +1,9 @@
 ---
 title: Building
-id: building
 genre: prose
+
+id: building
+toc: "Building"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

@@ -1,7 +1,9 @@
 ---
 title: Peaches
-id: peaches
 genre: prose
+
+id: peaches
+toc: "Peaches"
 
 project:
     title: Autocento of the breakfast table

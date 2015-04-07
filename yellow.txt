@@ -1,7 +1,9 @@
 ---
 title: Yellow
-id: yellow
 genre: prose
+
+id: yellow
+toc: "Yellow"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

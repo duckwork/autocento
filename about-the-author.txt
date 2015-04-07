@@ -1,8 +1,10 @@
 ---
 title: About the author
-id: about-the-author
 subtitle: (not pictured)
 genre: table
+
+id: about-the-author
+toc: "About the author (not pictured)"
 
 epigraph:
     content: The body that surrounds him is his, but his insides are not.

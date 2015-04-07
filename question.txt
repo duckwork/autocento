@@ -1,7 +1,9 @@
 ---
 title: Question
-id: question
 genre: prose
+
+id: question
+toc: "Question"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

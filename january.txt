@@ -1,7 +1,9 @@
 ---
 title: January
-id: january
 genre: verse
+
+id: january
+toc: "January"
 
 project:
     title: Autocento of the breakfast table

@@ -1,7 +1,9 @@
 ---
 title: Feeding the raven
-id: feedingtheraven
 genre: prose
+
+id: feedingtheraven
+toc: "Feeding the raven"
 
 project:
     title: Elegies for alternate selves

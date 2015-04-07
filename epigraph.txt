@@ -1,8 +1,10 @@
 ---
 title: epigraph
-id: epigraph
 subtitle: "&ndash; Sylvia Plath"
 genre: prose
+
+id: epigraph
+toc: "_epigraph_"
 
 project:
     title: Elegies for alternate selves

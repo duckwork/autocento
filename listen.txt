@@ -1,7 +1,9 @@
 ---
 title: Listen
-id: listen
 genre: verse
+
+id: listen
+toc: "Listen"
 
 project:
     title: Autocento of the breakfast table

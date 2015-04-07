@@ -1,7 +1,9 @@
 ---
 title: A real writer
-id: real-writer
 genre: verse
+
+id: real-writer
+toc: "A real writer"
 
 project:
     title: Autocento of the breakfast table

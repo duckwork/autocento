@@ -1,8 +1,10 @@
 ---
 title: Swansong
-id: swansong-alt
 subtitle: alternate version
 genre: verse
+
+id: swansong-alt
+toc: "Swan song (alternate)"
 
 project:
     title: Autocento of the breakfast table

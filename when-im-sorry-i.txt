@@ -1,7 +1,9 @@
 ---
 title: When I'm sorry I wash dishes
-id: when-im-sorry-i
 genre: verse
+
+id: when-im-sorry-i
+toc: "Whem I'm sorry I wash dishes"
 
 project:
     title: Autocento of the breakfast table

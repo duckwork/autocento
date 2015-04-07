@@ -1,7 +1,9 @@
 ---
 title: Creation myth
-id: creation-myth
 genre: verse
+
+id: creation-myth
+toc: "Creation myth"
 
 project:
     title: Autocento of the breakfast table

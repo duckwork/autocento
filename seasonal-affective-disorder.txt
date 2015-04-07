@@ -1,7 +1,9 @@
 ---
 title: Seasonal affective disorder
-id: seasonal-affective-disorder
 genre: verse
+
+id: seasonal-affective-disorder
+toc: "Seasonal affective disorder"
 
 project:
     title: Autocento of the breakfast table

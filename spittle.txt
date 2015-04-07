@@ -1,7 +1,9 @@
 ---
 title: Spittle
-id: spittle
 genre: verse
+
+id: spittle
+toc: "Spittle"
 
 project:
     title: Elegies for alternate selves

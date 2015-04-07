@@ -1,8 +1,10 @@
 ---
 title: Look
-id: found-typewriter-poem
 subtitle: a found typewriter poem
 genre: verse
+
+id: found-typewriter-poem
+toc: "Look: a found typewriter poem"
 
 epigraph:
     content: |

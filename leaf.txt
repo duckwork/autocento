@@ -1,7 +1,9 @@
 ---
 title: Leaf
-id: leaf
 genre: prose
+
+id: leaf
+toc: "Leaf"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

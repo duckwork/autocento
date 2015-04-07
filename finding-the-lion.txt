@@ -1,7 +1,9 @@
 ---
 title: Finding the Lion
-id: finding-the-lion
 genre: verse
+
+id: finding-the-lion
+toc: "Finding the lion"
 
 project:
     title: Autocento of the breakfast table

@@ -1,7 +1,9 @@
 ---
 title: Words and meaning
-id: words-meaning
 genre: prose
+
+id: words-meaning
+toc: "Words and meaning"
 
 project:
     title: Elegies for alternate selves

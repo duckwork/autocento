@@ -1,7 +1,9 @@
 ---
 title: Serengeti
-id: serengeti
 genre: verse
+
+id: serengeti
+toc: "Serengeti"
 
 project:
     title: Elegies for alternate selves

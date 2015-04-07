@@ -1,7 +1,9 @@
 ---
 title: Love as God
-id: love-as-god
 genre: verse
+
+id: love-as-god
+toc: "Love as god"
 
 project:
     title: Stark Raving

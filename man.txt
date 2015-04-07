@@ -1,7 +1,9 @@
 ---
 title: Man
-id: man
 genre: prose
+
+id: man
+toc: "Man"
 
 ekphrastic:
     image: tbedemugshot.jpg

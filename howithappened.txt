@@ -1,7 +1,9 @@
 ---
 title: How it happened
-id: howithappened
 genre: 'verse'
+
+id: howithappened
+toc: "How it happened"
 
 project:
     title: Elegies for alternate selves

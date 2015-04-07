@@ -1,7 +1,9 @@
 ---
 title: Moving Sideways
-id: movingsideways
 genre: prose
+
+id: movingsideways
+toc: "Moving sideways"
 
 project:
     title: Book of Hezekiah

@@ -1,7 +1,9 @@
 ---
 title: Stump
-id: stump
 genre: prose
+
+id: stump
+toc: "Stump"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

@@ -1,7 +1,9 @@
 ---
 title: I am
-id: i-am
 genre: verse
+
+id: i-am
+toc: "I am"
 
 project:
     title: Elegies for alternate selves

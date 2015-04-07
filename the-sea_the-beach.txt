@@ -1,7 +1,9 @@
 ---
 title: The sea and the beach
-id: the-sea_the-beach
 genre: verse
+
+id: the-sea_the-beach
+toc: "The sea and the beach"
 
 project:
     title: Autocento of the breakfast table

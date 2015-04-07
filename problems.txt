@@ -1,7 +1,9 @@
 ---
 title: Problems
-id: problems
 genre: prose
+
+id: problems
+toc: "Problems"
 
 project:
     title: Book of Hezekiah

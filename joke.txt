@@ -1,7 +1,9 @@
 ---
 title: Joke
-id: joke
 genre: prose
+
+id: joke
+toc: "Joke"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

@@ -1,7 +1,9 @@
 ---
 title: A hard game
-id: hard-game
 genre: verse
+
+id: hard-game
+toc: "A hard game"
 
 dedication: Jim Henson
 

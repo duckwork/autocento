@@ -1,7 +1,9 @@
 ---
 title: On genre and the dimensionality of poetry
-id: on-genre-dimension
 genre: prose
+
+id: on-genre-dimension
+toc: "On genre and the dimensionality of poetry"
 
 project:
     title: Autocento of the breakfast table

@@ -1,7 +1,9 @@
 ---
 title: Love Song
-id: lovesong
 genre: prose
+
+id: lovesong
+toc: "Love song"
 
 project:
     title: Elegies for alternate selves

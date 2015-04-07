@@ -1,7 +1,9 @@
 ---
 title: On formal poetry
-id: onformalpoetry
 genre: verse
+
+id: onformalpoetry
+toc: "On formal poetry"
 
 project:
     title: Elegies for alternate selves

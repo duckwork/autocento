@@ -1,12 +1,14 @@
 ---
 title: Autocento of the breakfast table
 subtitle: process narrative
-id: process
 genre: prose
 
+id: process
+toc: "Process narrative"
+
 project:
-    title: About Autocento
-    class: meta
+    title: Front matter
+    class: front-matter
 ...
 
 ## Hi.  My name is Case Duckworth.  This is my thesis.

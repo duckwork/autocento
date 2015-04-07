@@ -1,8 +1,10 @@
 ---
 title: Something
-id: dollywood
 subtitle: about my tenure as a bear
 genre: prose
+
+id: dollywood
+toc: "Something about my tenure as a bear"
 
 project:
     title: Autocento of the breakfast table

@@ -1,7 +1,9 @@
 ---
 title: No nothing
-id: no-nothing
 genre: verse
+
+id: no-nothing
+toc: "No nothing"
 
 project:
     title: Autocento of the breakfast table

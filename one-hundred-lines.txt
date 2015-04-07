@@ -1,7 +1,9 @@
 ---
 title: One hundred lines
-id: one-hundred-lines
 genre: verse
+
+id: one-hundred-lines
+toc: "100 lines"
 
 project:
     title: Autocento of the breakfast table

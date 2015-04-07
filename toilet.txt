@@ -1,7 +1,9 @@
 ---
 title: Toilet
-id: toilet
 genre: prose
+
+id: toilet
+toc: "Toilet"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

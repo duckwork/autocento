@@ -1,8 +1,10 @@
 ---
 title: Call me
-id: call-me-aural-pleasure
 subtitle: aural pleasure
 genre: verse
+
+id: call-me-aural-pleasure
+toc: "Call me aural pleasure"
 
 epigraph:
     content: |

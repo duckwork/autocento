@@ -1,7 +1,9 @@
 ---
 title: I want to say
-id: i-want-to-say
 genre: verse
+
+id: i-want-to-say
+toc: "I want to say"
 
 project:
     title: Autocento of the breakfast table

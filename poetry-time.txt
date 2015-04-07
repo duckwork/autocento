@@ -1,8 +1,10 @@
 ---
 title: Something
-id: poetry-time
 subtitle: about the nature of poetry and time
 genre: verse
+
+id: poetry-time
+toc: "Something about the nature of poetry and time"
 
 project:
     title: Stark Raving

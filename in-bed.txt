@@ -1,7 +1,9 @@
 ---
 title: In bed
-id: in-bed
 genre: verse
+
+id: in-bed
+toc: "In bed"
 
 project:
     title: Autocento of the breakfast table

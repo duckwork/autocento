@@ -1,7 +1,9 @@
 ---
 title: Hands
-id: hands
 genre: prose
+
+id: hands
+toc: "Hands"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

@@ -1,7 +1,9 @@
 ---
 title: The moon is gone and in its place a mirror
-id: moongone
 genre: prose
+
+id: moongone
+toc: "The moon is gone and in its place a mirror"
 
 ekphrastic:
     image: moongone.jpg

@@ -1,7 +1,9 @@
 ---
 title: Father
-id: father
 genre: prose
+
+id: father
+toc: "Father"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

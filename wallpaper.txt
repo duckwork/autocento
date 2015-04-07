@@ -1,7 +1,9 @@
 ---
 title: Wallpaper
-id: wallpaper
 genre: prose
+
+id: wallpaper
+toc: "Wallpaper"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

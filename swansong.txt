@@ -1,7 +1,9 @@
 ---
 title: Swan song
-id: swansong
 genre: verse
+
+id: swansong
+toc: "Swan song"
 
 project:
     title: Elegies for alternate selves

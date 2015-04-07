@@ -1,7 +1,9 @@
 ---
 title: Hymnal
-id: hymnal
 genre: prose
+
+id: hymnal
+toc: "Hymnal"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

@@ -1,7 +1,9 @@
 ---
 title: The Death Zone
-id: death-zone
 genre: verse
+
+id: death-zone
+toc: "The death zone"
 
 epigraph:
     content: And my life became death.

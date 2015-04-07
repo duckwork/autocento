@@ -1,7 +1,9 @@
 ---
 title: We played those games too
-id: weplayedthosegamestoo
 genre: verse
+
+id: weplayedthosegamestoo
+toc: "We played those games too"
 
 project:
     title: Elegies for alternate selves

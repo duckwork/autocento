@@ -1,12 +1,14 @@
 ---
 title: Autocento of the breakfast table
 subtitle: abstract
-id: abstract
 genre: prose
 
+id: abstract
+toc: "_abstract_"
+
 project:
-    title: About Autocento
-    class: meta
+    title: Front matter
+    class: front-matter
 ...
 
 ## Brief Description

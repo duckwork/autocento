@@ -1,7 +1,9 @@
 ---
 title: Stagnant
-id: stagnant
 genre: prose
+
+id: stagnant
+toc: "Stagnant"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

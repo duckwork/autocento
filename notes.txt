@@ -1,7 +1,9 @@
 ---
 title: Notes
-id: notes
 genre: prose
+
+id: notes
+toc: "Notes"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

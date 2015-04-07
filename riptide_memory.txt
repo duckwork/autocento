@@ -1,7 +1,9 @@
 ---
 title: Riptide of memory
-id: riptide_memory
 genre: verse
+
+id: riptide_memory
+toc: "Riptide of memory"
 
 project:
     title: Stark Raving

@@ -1,7 +1,9 @@
 ---
 title: Options
-id: options
 genre: prose
+
+id: options
+toc: "Options"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

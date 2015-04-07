@@ -1,7 +1,9 @@
 ---
 title: Ex machina
-id: ex-machina
 genre: verse
+
+id: ex-machina
+toc: "Ex machina"
 
 epigraph:
     content: with lines from National Geographic

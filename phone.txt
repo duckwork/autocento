@@ -1,7 +1,9 @@
 ---
 title: Phone
-id: phone
 genre: prose
+
+id: phone
+toc: "Phone"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

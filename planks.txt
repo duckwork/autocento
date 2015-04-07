@@ -1,7 +1,9 @@
 ---
 title: Planks
-id: planks
 genre: prose
+
+id: planks
+toc: "Planks"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

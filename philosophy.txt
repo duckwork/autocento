@@ -1,7 +1,9 @@
 ---
 title: Philosophy
-id: philosophy
 genre: prose
+
+id: philosophy
+toc: "Philosophy"
 
 project:
     title: Book of Hezekiah

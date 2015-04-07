@@ -1,7 +1,9 @@
 ---
 title: Proverbs
-id: proverbs
 genre: prose
+
+id: proverbs
+toc: "Proverbs"
 
 project:
     title: Book of Hezekiah

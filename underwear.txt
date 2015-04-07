@@ -1,7 +1,9 @@
 ---
 title: Underwear
-id: underwear
 genre: prose
+
+id: underwear
+toc: "Underwear"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

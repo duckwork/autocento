@@ -1,7 +1,9 @@
 ---
 title: Boy on the bus
-id: boy_bus
 genre: verse
+
+id: boy_bus
+toc: "Boy on the bus"
 
 project:
     title: Stark Raving

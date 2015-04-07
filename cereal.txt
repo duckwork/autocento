@@ -1,7 +1,9 @@
 ---
 title: Cereal
-id: cereal
 genre: prose
+
+id: cereal
+toc: "Cereal"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

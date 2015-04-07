@@ -1,7 +1,9 @@
 ---
 title: Initial conditions
-id: initial-conditions
 genre: verse
+
+id: initial-conditions
+toc: "Initial conditions"
 
 project:
     title: Stark Raving

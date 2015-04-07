@@ -1,7 +1,9 @@
 ---
 title: X-ray
-id: x-ray
 genre: prose
+
+id: x-ray
+toc: "X-ray"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

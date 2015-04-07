@@ -1,7 +1,9 @@
 ---
 title: Rough gloves
-id: roughgloves
 genre: verse
+
+id: roughgloves
+toc: "Rough gloves"
 
 project:
     title: Elegies for alternate selves

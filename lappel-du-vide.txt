@@ -1,7 +1,9 @@
 ---
 title: L'appel du vide
-id: lappel-du-vide
 genre: prose
+
+id: lappel-du-vide
+toc: "L'appel du vide"
 
 epigraph:
     content: Don't you know you can't go home again?

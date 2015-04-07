@@ -1,7 +1,9 @@
 ---
 title: Liking Things
-id: likingthings
 genre: prose
+
+id: likingthings
+toc: "Liking things"
 
 project:
     title: Book of Hezekiah

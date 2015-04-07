@@ -1,7 +1,9 @@
 ---
 title: Exasperated
-id: exasperated
 genre: verse
+
+id: exasperated
+toc: "Exasperated"
 
 project:
     title: Stark Raving

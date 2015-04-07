@@ -1,7 +1,9 @@
 ---
 title: Dream
-id: dream
 genre: prose
+
+id: dream
+toc: "Dream"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

@@ -1,7 +1,9 @@
 ---
 title: Hardware
-id: hardware
 genre: prose
+
+id: hardware
+toc: "Hardware"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

@@ -1,7 +1,9 @@
 ---
 title: How to read this
-id: howtoread
 genre: prose
+
+id: howtoread
+toc: "How to read this"
 
 project:
     title: Elegies for alternate selves

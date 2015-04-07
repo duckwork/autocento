@@ -1,7 +1,9 @@
 ---
 title: Telemarketer
-id: telemarketer
 genre: prose
+
+id: telemarketer
+toc: "Telemarketer"
 
 project:
     title: Elegies for alternate selves

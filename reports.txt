@@ -1,7 +1,9 @@
 ---
 title: Reports
-id: reports
 genre: prose
+
+id: reports
+toc: "Reports"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

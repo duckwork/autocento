@@ -1,7 +1,9 @@
 ---
 title: The Moon is drowning
-id: moon-drowning
 genre: verse
+
+id: moon-drowning
+toc: "The moon is drowning"
 
 project:
     title: Stark Raving

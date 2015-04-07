@@ -1,7 +1,11 @@
 ---
-title: Litany for a plant
-id: plant
+title: Litany
 genre: verse
+
+dedication: a plant
+
+id: plant
+toc: "Litany for a plant"
 
 project:
     title: Autocento of the breakfast table

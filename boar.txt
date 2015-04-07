@@ -1,7 +1,9 @@
 ---
 title: The boar
-id: boar
 genre: verse
+
+id: boar
+toc: "The boar"
 
 project:
     title: Elegies for alternate selves

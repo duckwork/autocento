@@ -1,8 +1,10 @@
 ---
 title: Instrumented
-id: collage-instrument
 subtitle: a collage
 genre: prose
+
+id: collage-instrument
+toc: "Instrumented: a collage"
 
 project:
     title: Autocento of the breakfast table

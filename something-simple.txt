@@ -1,7 +1,9 @@
 ---
 title: "Let's start with something simple:"
-id: something-simple
 genre: verse
+
+id: something-simple
+toc: "Something simple"
 
 project:
     title: Autocento of the breakfast table

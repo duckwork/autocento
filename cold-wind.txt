@@ -1,7 +1,9 @@
 ---
 title: Cold wind
-id: cold-wind
 genre: verse
+
+id: cold-wind
+toc: "Cold wind"
 
 dedication: Justin
 

@@ -1,7 +1,9 @@
 ---
 title: Prelude
-id: prelude
 genre: prose
+
+id: prelude
+toc: "Prelude"
 
 project:
     title: Book of Hezekiah

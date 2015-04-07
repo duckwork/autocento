@@ -1,7 +1,10 @@
 ---
-title: I think it's you (but it's not)
-id: i-think-its-you
+title: I think it's you
+subtitle: "but it's not"
 genre: verse
+
+id: i-think-its-you
+toc: "I think it's you (but it's not)"
 
 epigraph:
     content: When you fall in love everyone looks the same.

@@ -1,7 +1,9 @@
 ---
 title: About Case Duckworth
-id: about_author
 genre: prose
+
+id: about_author
+toc: "About the author"
 
 project:
     title: Autocento of the breakfast table

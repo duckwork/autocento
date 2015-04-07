@@ -1,7 +1,9 @@
 ---
 title: AMBER alert
-id: amber-alert
 genre: prose
+
+id: amber-alert
+toc: "AMBER alert"
 
 epigraph:
     content: Apparently it does nothing.

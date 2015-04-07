@@ -1,7 +1,9 @@
 ---
 title: Swear
-id: swear
 genre: prose
+
+id: swear
+toc: "Swear"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

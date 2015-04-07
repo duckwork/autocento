@@ -1,7 +1,9 @@
 ---
 title: Sense of it
-id: sense-of-it
 genre: verse
+
+id: sense-of-it
+toc: "Sense of it"
 
 project:
     title: Autocento of the breakfast table

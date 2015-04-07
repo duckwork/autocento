@@ -1,7 +1,9 @@
 ---
 title: What we are made of
-id: what-we-are-made-of
 genre: prose
+
+id: what-we-are-made-of
+toc: "What we are made of"
 
 project:
     title: Autocento of the breakfast table

@@ -1,7 +1,9 @@
 ---
 title: Writing
-id: writing
 genre: prose
+
+id: writing
+toc: "Writing"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

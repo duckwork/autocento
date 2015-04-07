@@ -1,7 +1,9 @@
 ---
 title: Art
-id: art
 genre: prose
+
+id: art
+toc: "Art"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

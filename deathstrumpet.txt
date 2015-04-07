@@ -1,7 +1,9 @@
 ---
 title: "Death's trumpet"
-id: deathstrumpet
 genre: verse
+
+id: deathstrumpet
+toc: "Death's trumpet"
 
 project:
     title: Elegies for alternate selves

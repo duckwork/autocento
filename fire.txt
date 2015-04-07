@@ -1,7 +1,9 @@
 ---
 title: Fire
-id: fire
 genre: prose
+
+id: fire
+toc: "Fire"
 
 project:
     title: "Buildings out of air: Paul in the Woods"

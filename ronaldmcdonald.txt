@@ -1,7 +1,9 @@
 ---
 title: Ronald McDonald
-id: ronaldmcdonald
 genre: verse
+
+id: ronaldmcdonald
+toc: "Ronald McDonald"
 
 project:
     title: Elegies for alternate selves

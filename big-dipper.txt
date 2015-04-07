@@ -1,7 +1,9 @@
 ---
 title: The Big Dipper
-id: big-dipper
 genre: verse
+
+id: big-dipper
+toc: "The big dipper"
 
 project:
     title: Stark Raving

@@ -1,8 +1,10 @@
 ---
 title: To Daniel
-id: todaniel
 subtitle: an elaboration of a previous comment
 genre: verse
+
+id: todaniel
+toc: "To Daniel"
 
 project:
     title: Elegies for alternate selves
