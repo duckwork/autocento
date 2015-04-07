@@ -140,6 +140,16 @@ nav {
     width: 45%;
 }
 /* header-extra }}} */
+/* #SRC {{{ */
+#src {
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    color: gray;
+    font-size: 8pt;
+}
+/* #src }}} */
 /* header elements }}} */
 /* .EKPHRASTIC {{{ */
 .ekphrastic {
@@ -550,3 +560,11 @@ tr {
     vertical-align: middle;
 }
 /* #about_author }}} */
+/* #ABOUT {{{ */
+#about img {
+    max-width: 10em;
+    float: right;
+    padding-top: 0.5em;
+    padding-left: 1em;
+}
+/* #about }}} */
