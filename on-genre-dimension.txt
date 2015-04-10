@@ -44,7 +44,7 @@ It's able to meditate on a subject, or expand on it lyrically, exploring the emo
 Through repitition of sounds, the poem builds meaning through resonance and rhyming, something that's harder to do in prose.
 Take, for example, the first lines of "[The Love Song of J. Alfred Prufrock][]:"
 
-> LET us go then, you and I, \
+> Let us go then, you and I, \
 > When the evening is spread out against the sky \
 > Like a patient etherized upon a table; \
 > Let us go, through certain half-deserted streets, \
@@ -59,7 +59,7 @@ Take, for example, the first lines of "[The Love Song of J. Alfred Prufrock][]:"
 
 And here it is again, without line breaks:
 
-> LET us go then, you and I,
+> Let us go then, you and I,
 > when the evening is spread out against the sky
 > like a patient etherized upon a table;
 > let us go, through certain half-deserted streets,
