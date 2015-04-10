@@ -319,7 +319,7 @@ a.footnoteRef {
     margin-bottom: 1em;
     margin-top: 1em;
 }
-.verse .line {
+.line {
     display: block;
     margin: 0;
     text-indent: -1em;
