@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<!-- AUTOCENTO OF THE BREAKFAST TABLE -->
+<!-- vim: fdm=indent
+-->
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="generator" content="pandoc">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="author" content="Case Duckworth">
+
+    <title>$title$ | Autocento of the breakfast table</title>
+    <link rel="icon" type="image/png" href="../trunk/favico.png" />
+
+    <link rel="stylesheet" type="text/css" href="../trunk/style.css">
+    <script src="../scripts/randomize.js" type="text/javascript"> </script>
+    <script src="../scripts/hylo.js" type="text/javascript"> </script>
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"> </script>
+    <![endif]-->
+    $for(header-includes)$
+    $headerincludes$
+    $endfor$
+</head>
+<body id="$id$-backlinks"$if(project.class)$ class="$project.class$"$endif$>
+    $for(include-before)$ $include-before$ $endfor$
+
+    <article class="container">
+        <header>
+            <!-- title -->
+            $if(title)$<h1 class="title">$title$</h1>$endif$
+            $if(subtitle)$<h1 class="subtitle">$subtitle$</h1>$endif$
+
+            <div class="header-extra">
+                $if(dedication)$
+                    <!-- dedication -->
+                    <div class="dedication">$dedication$</div>
+                $endif$
+
+                $if(epigraph.content)$
+                    <!-- epigraph -->
+                    <div class="epigraph">
+                    $if(epigraph.link)$
+                        <a href="$epigraph.link$">$epigraph.content$</a>
+                    $else$
+                        $epigraph.content$
+                    $endif$
+
+                    $if(epigraph.attrib)$
+                        <div class="attrib">$epigraph.attrib$</div>
+                    $endif$
+                    </div>
+                $endif$
+            </div>
+        </header>
+
+        $if(ekphrastic.image)$
+            <div class="ekphrastic">
+            $if(ekphrastic.link)$
+                <a href="$ekphrastic.link$">
+                    <img src="trunk/$ekphrastic.image$"
+                    $if(ekphrastic.title)$
+                        title="$ekphrastic.title$"
+                    $endif$
+                    $if(ekphrastic.alt)$
+                        alt="$ekphrastic.alt$"
+                    $else$
+                        alt="$ekphrastic.title$"
+                    $endif$
+                    $if(ekphrastic.class)$
+                        class="$ekphrastic.class$"
+                    $endif$
+                    />
+                </a>
+            $else$
+                <img src="trunk/$ekphrastic.image$"
+                $if(ekphrastic.title)$
+                    title="$ekphrastic.title$"
+                $endif$
+                $if(ekphrastic.alt)$
+                    alt="$ekphrastic.alt$"
+                $else$
+                    alt="$ekphrastic.title$"
+                $endif$
+                $if(ekphrastic.class)$
+                    class="$ekphrastic.class$"
+                $endif$
+                />
+            $endif$
+            </div>
+        $endif$
+
+        <section class="content $genre$">
+            $body$
+        </section>
+    </article>
+    <nav>
+        <div class="anchors">
+            <a href="../$id$.html" id="backlinks" title="Links to this page">
+                &phi;
+            </a>
+            <a href="index.html" id="coverlink" title="To cover">&loz;</a>
+            <a href="#" id="randomizelink" title="ERROR">&xi;</a>
+        </div>
+
+        $for(project.prev)$
+        <a class="prevlink" href="$project.prev.link$.html"
+            title="Previous article$if(project.title)$ in $project.title$$endif$">
+            $project.prev.title$
+        </a>
+        $endfor$
+
+        $for(project.next)$
+        <a class="nextlink" href="$project.next.link$.html"
+            title="Next article$if(project.title)$ in $project.title$$endif$">
+            $project.next.title$
+        </a>
+        $endfor$
+    </nav>
+
+    $for(include-after)$ $include-after$ $endfor$
+</body>
+</html>

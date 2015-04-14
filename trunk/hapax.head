@@ -1,11 +1,17 @@
 ---
-title: Autocento of the breakfast table
+title: Appendix H
+subtitle: index of hapax legomena
 id: hapax
-subtitle: hapax legomena
 genre: prose
 
 project:
-    title: About autocento
-    class: meta
+    title: Appendices
+    class: appendices
+    next:
+    - title: Index of islands
+      link: islands
+    prev:
+    - title: Index of first lines
+      link: first-lines
 ...
 

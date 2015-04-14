@@ -1,142 +1,149 @@
-# MAKEFILE for Autocento of the breakfast table
-# by Case Duckworth | case.duckworth@gmail.com | autocento.me
-# inspired by Lincoln Mullen | lincolnmullen.com
+# Makefile for Autocento of the breakfast table
+# by Case Duckworth | autocento.me
 # vim: fdm=marker
 
-# Define variables {{{
-srcs      := $(wildcard *.txt)
-templates := $(wildcard _template.*)
-trunk     := trunk
-metas      = hapax first-lines common-titles index island
-metas     += $(templates) $(wildcard _*)
+# variables {{{
+appendixd  := appendix
+backlinkd  := backlinks
+hapaxd     := hapax
+scriptd    := scripts
+templated  := templates
+textd      := text
+trunkd     := trunk
+wipd       := wip
 
-txts = $(filter-out \
-       $(patsubst %,%.txt,$(metas)),\
-       $(srcs))
+compiler := bash $(scriptd)/compile.sh
+texts    := $(wildcard $(textd)/*.txt)
 
-htmls = $(filter-out \
-        $(patsubst %,%.html,$(metas)),\
-        $(patsubst %.txt,%.html,$(srcs)))
-htmlPre           = $(trunk)/versify.exe
-htmlPreSrc        = $(trunk)/versify.hs
-htmlTemplate      = _template.html
-htmlPandocOptions = --template=$(htmlTemplate)
-htmlPandocOptions+= --filter=$(htmlPre)
-htmlPandocOptions+= --smart --mathml --section-divs
+htmls          = $(patsubst $(textd)/%.txt,%.html,$(texts))
+htmlWriter    := html5
+htmlTemplate  := $(templated)/page.html
+htmlFilter    := $(scriptd)/versify.exe
+htmlFilterSrc := $(scriptd)/versify.hs      # Converts <br />s to <span>s
+htmlOptions   := --template=$(htmlTemplate)
+htmlOptions   += --filter=$(htmlFilter)
+htmlOptions   += --smart        # Smart "correct" typeography
+htmlOptions   += --mathml       # Use mathml for TeX math in HTML
+htmlOptions   += --section-divs # Add a <section> around sections
+htmlOptions   += --normalize    # merge adjacent `Str`, `Emph`, `Space`
 
-lozenger   = $(trunk)/lozenge.sh
-lozengeOut = $(trunk)/lozenge.js
+randomize := $(scriptd)/randomize.js
 
-hapaxs = $(filter-out \
-         $(patsubst %,%.hapax,$(metas)),\
-         $(patsubst %.txt,%.hapax,$(srcs)))
-hapaxer            = $(trunk)/hapax.lua
-hapaxPre           = $(trunk)/forceascii.exe
-hapaxPreSrc        = $(trunk)/forceascii.hs
-hapaxPandocOptions = --filter=$(hapaxPre)
-hapaxOut           = hapax.txt
-hapaxHead          = $(trunk)/hapax.head
-hapaxLinker        = $(trunk)/hapaxlink.sh
+backTexts         = $(patsubst $(textd)/%.txt,$(backlinkd)/%.back,$(texts))
+backTextHead     := $(trunkd)/backlink.head
+backHtmls        := $(patsubst %.back,%.html,$(backTexts))
+backHtmlWriter   := $(htmlWriter)
+backHtmlTemplate := $(templated)/backlinks.html
+backHtmlOptions  := --template=$(backHtmlTemplate)
+backHtmlOptions  += --smart
 
-backTxts   = $(patsubst %.html,%.back,$(htmls))
-backHtms   = $(patsubst %.back,%_backlinks.htm,$(backTxts))
-backHead   = $(trunk)/backlink.head
-backlinker = $(trunk)/backlink.sh
-backHtmTemplate = _backlinks_template.htm
-backPandocOptions = --template=$(backHtmTemplate) --smart
+hapaxSrcs       = $(patsubst $(textd)/%.txt,$(hapaxd)/%.hapax,$(texts))
+hapax          := $(appendixd)/hapax.txt
+hapaxWriter    := $(scriptd)/hapax.lua
+hapaxFilter    := $(scriptd)/forceascii.exe
+hapaxFilterSrc := $(scriptd)/forceascii.hs
+hapaxOptions   := --filter=$(hapaxFilter)
+hapaxHead      := $(trunkd)/hapax.head
+hapaxTmp       := $(trunkd)/_HAPAXTMP.tmp
+hapaxHtml      := hapax.html
 
-islandHead = $(trunk)/island.head
-islandTxt  = island.txt
-islandHtm  = island.htm
-
-firstLinesTxt    = first-lines.txt
-firstLinesOut    = first-lines.html
-firstLiner       = $(trunk)/first-lines.sh
-firstLinesHead   = $(trunk)/first-lines.head
-commonTitlesTxt  = common-titles.txt
-commonTitlesOut  = common-titles.html
-commonTitler     = $(trunk)/common-titles.sh
-commonTitlesHead = $(trunk)/common-titles.head
-
-tocTxt  = _toc.txt
-tocHtml = _toc.html
-tocer   = $(trunk)/toc.sh
-tocHead = $(trunk)/toc.head
-tocInc = $(hapaxOut) $(islandTxt) $(firstLinesTxt) $(commonTitlesTxt) $(txts)
+island           := $(appendixd)/islands.txt
+islandHead       := $(trunkd)/islands.head
+islandHtml       := islands.html
+firstLines       := $(appendixd)/first-lines.txt
+firstLinesHead   := $(trunkd)/first-lines.head
+firstLinesHtml   := first-lines.html
+commonTitles     := $(appendixd)/common-titles.txt
+commonTitlesHead := $(trunkd)/common-titles.head
+commonTitlesHtml := common-titles.html
+toc              := $(appendixd)/toc.txt
+tocHead          := $(trunkd)/toc.head
+tocHtml          := toc.html
+appendices       := $(island) $(firstLines) $(commonTitles) $(toc) $(hapax)
+appendixHtmls    := $(patsubst $(appendixd)/%.txt,%.html,$(appendices))
 # }}}
-# PHONY {{{
-.PHONY: all clean distclean again remake meta
-all: meta \
-     $(htmlPre) $(htmls) $(lozengeOut)\
-     $(backHtms) $(islandHtm)
-
-clean:
-	-rm -f $(hapaxs)
-	-rm -f $(firstLinesTxt)
-	-rm -f $(commonTitlesTxt)
-	-rm -f $(backTxts)
-	-rm -f *.tmp trunk/*.tmp
-
-distclean: clean
-	-rm -f $(hapaxPre) $(htmlPre) hapax.html
-	-rm -f $(hapaxOut) $(firstLinesOut) $(commonTitlesOut)
-	-rm -f $(backHtms)
+# PHONY TARGETS {{{
+.PHONY: all clean again appendices htmls backlinks
+all : appendices backlinks htmls
+htmls: $(htmls)
+backlinks: $(backHtmls)
+appendices: $(appendixHtmls)
+clean :
 	-rm -f $(htmls)
-
-again: clean all
-remake: distclean all
-
-meta: $(hapaxOut) $(firstLinesOut) $(commonTitlesOut) $(tocHtml)
+	-rm -f $(backlinkd)/*
+	-rm -f $(appendixd)/*
+	-rm -f $(hapaxd)/*
+	-rm -f $(appendixHtmls)
+again : clean all
 # }}}
-# HTML {{{
-$(htmlPre): $(htmlPreSrc)
-	ghc --make $(htmlPreSrc)
+# HTMLS {{{
+%.html : $(textd)/%.txt $(htmlFilter) $(htmlTemplate)
+	pandoc $< -t $(htmlWriter) $(htmlOptions) -o $@
 
-%.html: %.txt | $(htmlTemplate) $(htmlPre)
-	pandoc $< -t html5 $(htmlPandocOptions) -o $@
-
-$(lozengeOut): $(htmls)
-	bash $(lozenger) $(lozengeOut) $(htmls)
+$(htmlFilter) : $(htmlFilterSrc)
+	ghc --make $<
+# }}}
+# RANDOMIZE.JS {{{
+$(randomize) : $(htmls)
+	@echo "Updating $@..."
+	@$(compiler) $@ $^
 # }}}
 # BACKLINKS {{{
-%.back: %.html $(backHead)
-	@bash $(backlinker) $< $@ $(backHead) $(txts)
+$(backlinkd)/%.back : $(textd)/%.txt $(backTextHead)
+	cat $(backTextHead) > $@
+	$(compiler) $@ $< >> $@
+	$(compiler) --fix-head $@ $<
 
-%_backlinks.htm: %.back $(backHtmTemplate)
-	pandoc $< -t html5 $(backPandocOptions) -o $@
-
-$(islandTxt): $(backTxts)
-
-$(islandHtm): $(islandTxt) $(islandHead) $(backHtms)
-	pandoc $(islandHead) $< -t html5 $(htmlPandocOptions) -o $@
-
-$(tocTxt): $(tocInc) | $(tocead) $(tocer)
-	@bash $(tocer) $(tocTxt) $(tocInc)
-
-$(tocHtml): $(tocTxt) $(tocHead)
-	pandoc $(tocHead) $< -t html5 $(htmlPandocOptions) -o $@
+$(backlinkd)/%.html : $(backlinkd)/%.back $(backHtmlTemplate)
+	pandoc $< -t $(backHtmlWriter) $(backHtmlOptions) -o $@
 # }}}
-# HAPAX {{{
-$(hapaxPre): $(hapaxPreSrc)
-	ghc --make $(hapaxPreSrc)
+# APPENDICES {{{
+$(island) : $(backTexts)
+	cat $(islandHead) > $@
+	@echo "Compiling $@..."
+	@$(compiler) $@ $^ >> $@
 
-%.hapax: %.txt $(hapaxPre) $(hapaxLinker)
-	pandoc $< -t $(hapaxer) $(hapaxPandocOptions) -o $@
+$(islandHtml) : $(island)
+	pandoc $< -t $(htmlWriter) $(htmlOptions) -o $@
 
-$(hapaxOut): $(hapaxs)
-	pandoc $^ -t $(hapaxer) -o $@
-	bash $(hapaxLinker) $@ $(hapaxHead) $^
+$(firstLines) : $(texts)
+	cat $(firstLinesHead) > $@
+	@echo "Compiling $@..."
+	@$(compiler) $@ $^ >> $@
+
+$(firstLinesHtml) : $(firstLines)
+	pandoc $< -t $(htmlWriter) $(htmlOptions) -o $@
+
+$(commonTitles) : $(texts)
+	cat $(commonTitlesHead) > $@
+	@echo "Compiling $@..."
+	@$(compiler) $@ $^ >> $@
+
+$(commonTitlesHtml) : $(commonTitles)
+	pandoc $< -t $(htmlWriter) $(htmlOptions) -o $@
+
+$(toc) : $(texts)
+	cat $(tocHead) > $@
+	@echo "Compiling $@..."
+	@$(compiler) $@ $^ >> $@
+
+$(tocHtml) : $(toc)
+	pandoc $< -t $(htmlWriter) $(htmlOptions) -o $@
 # }}}
-# FIRST LINES & COMMON TITLES {{{
-$(firstLinesTxt): $(txts) | $(firstLiner) $(firstLinesHead)
-	bash $(firstLiner) $@ $(firstLinesHead) $^
+# HAPAX LEGOMENA {{{
+$(hapaxd)/%.hapax : $(textd)/%.txt $(hapaxWriter)
+	pandoc $< -t $(hapaxWriter) $(hapaxOptions) -o $@
 
-$(firstLinesOut): $(firstLinesTxt) $(htmlTemplate) $(htmlPre)
-	pandoc $< -t html5 $(htmlPandocOptions) -o $@
+$(hapaxFilter) : $(hapaxFilterSrc)
+	ghc --make $<
 
-$(commonTitlesTxt): $(txts) | $(commonTitler) $(commonTitlesHead)
-	bash $(commonTitler) $@ $(commonTitlesHead) $^
+$(hapax) : $(hapaxSrcs)
+	pandoc $^ -t $(hapaxWriter) $(hapaxOptions) -o $@
+	cat $(hapaxHead) > $(hapaxTmp)
+	@echo "Linking $@..."
+	@$(compiler) $@ $^ >> $(hapaxTmp)
+	mv $(hapaxTmp) $@
 
-$(commonTitlesOut): $(commonTitlesTxt) $(htmlTemplate) $(htmlPre)
-	pandoc $< -t html5 $(htmlPandocOptions) -o $@
+$(hapaxHtml) : $(hapax)
+	pandoc $< -t $(htmlWriter) $(htmlOptions) -o $@
 # }}}

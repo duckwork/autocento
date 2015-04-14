@@ -1,15 +1,15 @@
 ---
-title: Autocento of the breakfast table
-id: first-lines
+title: Appendix F
 subtitle: index of first lines
+id: first-lines
 genre: prose
 
 project:
-    title: About Autocento
-    class: meta
+    title: Appendices
+    class: appendices
     next:
-    - title: About _Autocento_
-      link: about
+    - title: Index of hapax legomena
+      link: hapax
     prev:
     - title: Index of common titles
       link: common-titles

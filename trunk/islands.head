@@ -1,0 +1,17 @@
+---
+title: Appendix I
+subtitle: islands
+id: islands
+genre: list
+
+project:
+    title: Appendices
+    class: appendices
+    next:
+    - title: Index of common titles
+      link: common-titles
+    prev:
+    - title: Index of hapax legomena
+      link: hapax
+...
+
