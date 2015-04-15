@@ -26,7 +26,7 @@ project:
 | you haven't seen it before, tacked to the sky
 | like a [rotten hunk of meat][], a maudlin love
 
-| letter (the _i_s dotted with hearts) hung
+| letter (the _i_'s dotted with hearts) hung
 | on the sky like ninety-eight theses.
 | Don't stare at it like it means anything.
 
