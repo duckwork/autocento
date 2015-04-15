@@ -1,0 +1,30 @@
+---
+title: Appendix I
+subtitle: islands
+id: islands
+genre: list
+
+project:
+    title: Appendices
+    class: appendices
+    next:
+    - title: Index of common titles
+      link: common-titles
+    prev:
+    - title: Index of hapax legomena
+      link: hapax
+...
+
+- ["About the author"](about_author.html)
+- ["_abstract_"](abstract.html)
+- ["Hardware"](hardware.html)
+- ["I want to say"](i-want-to-say.html)
+- ["Notes"](notes.html)
+- ["Paul"](paul.html)
+- ["Punch"](punch.html)
+- ["Sapling"](sapling.html)
+- ["Shed"](shed.html)
+- ["Toothpaste"](toothpaste.html)
+- ["Walking in the rain"](walking-in-the-rain.html)
+- ["Words and their irritable reaching"](words-irritable-reaching.html)
+- ["Writing"](writing.html)

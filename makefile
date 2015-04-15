@@ -59,14 +59,14 @@ commonTitlesHtml := common-titles.html
 toc              := $(appendixd)/toc.txt
 tocHead          := $(trunkd)/toc.head
 tocHtml          := toc.html
-appendices       := $(island) $(firstLines) $(commonTitles) $(toc) $(hapax)
+appendices       := $(firstLines) $(commonTitles) $(toc) $(hapax)
 appendixHtmls    := $(patsubst $(appendixd)/%.txt,%.html,$(appendices))
 # }}}
 # PHONY TARGETS {{{
 .PHONY: all clean again appendices htmls backlinks
 all : appendices backlinks htmls
 htmls: $(htmls)
-backlinks: $(backHtmls)
+backlinks: $(backHtmls) $(islandHtml)
 appendices: $(appendixHtmls)
 clean :
 	-rm -f $(htmls)

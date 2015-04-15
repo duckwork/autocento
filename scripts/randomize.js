@@ -12,11 +12,18 @@ function _randomize() {
     var index = Math.floor(Math.random() * files.length);
 
     var url = window.location.pathname;
+    var current = "../" + url.substring(url.lastIndexOf('/')+1);
     var current = url.substring(url.lastIndexOf('/')+1);
 
     if (current != files[index]) {
-        randomlink.setAttribute("href", files[index]);
-        randomlink.setAttribute("title", "To random article");
+        var blre = /backlinks/
+        if (!blre.test(url)) {
+            randomlink.setAttribute("href", files[index]);
+            randomlink.setAttribute("title", "To random article");
+        } else {
+            randomlink.setAttribute("href", '../' + files[index]);
+            randomlink.setAttribute("title", "To random article");
+        }
     } else {
         _randomize()
     }

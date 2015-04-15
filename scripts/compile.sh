@@ -31,7 +31,7 @@ case "$FILE" in
     *.back)      # backlinks: compile.sh a.back a.txt #{{{
         found=( $(backLinksOf "$(basename ${FILE%.*}).html" ${1%/*}/*.${1##*.}) );
         if [[ $? -ne 0 ]]; then
-            echo "__ISLAND__"; exit;
+            echo "[_island._](../islands.html) <!--__ISLAND__-->"; exit;
         fi
         for f in "${found[@]}"; do
             echo -n "- [$(getMeta title "$f")](../$(basename ${f%.*}).html)";
@@ -45,40 +45,40 @@ case "$FILE" in
             echo "- [$(getMeta title "$f")]($(basename ${f%.*}).html)";
         done
         ;; #}}}
-    *hapax*)     # hapax: compile.sh hapax.txt *.hapax #{{{
+    *hapax*)      # hapax: compile.sh hapax.txt *.hapax #{{{
         for word in $(sort $FILE); do
             f=$(grep -liwq "^$word$" "$@");
             grep -qv "^[^0-9A-Za-z]" <<< $word && \
             echo "[$word]($(basename ${f%.*}).html)";
         done
         ;; #}}}
-    *first-*)    # first-lines: compile.sh first-lines.txt *.txt #{{{
+    *first-*)     # first-lines: compile.sh first-lines.txt *.txt #{{{
         for f in "$@"; do
             echo "[$(firstLineOf "$f")]($(basename ${f%.*}).html)";
         done
         ;; #}}}
-    *common-*)   # common-titles: compile.sh common-titles.txt *.txt #{{{
+    *common-*)    # common-titles: compile.sh common-titles.txt *.txt #{{{
         for f in "$@"; do
             echo "[$(getMeta title "$f")]($(basename ${f%.*}).html)";
         done
         ;; #}}}
-    *toc*)       # table of contents: compile.sh toc.txt *.txt #{{{
+    *toc*)        # table of contents: compile.sh toc.txt *.txt #{{{
         for f in "$@"; do
             echo "#. [$(getMeta toc "$f")]($(basename ${f%.*}).html)" >> $FILE;
         done
         ;; #}}}
-    *random*)    # randomize.js: compile.sh randomize.js *.html #{{{
+    *random*)     # randomize.js: compile.sh randomize.js *.html #{{{
         rlist=$(echo "$@" | sed -e 's/\(\S\+.html\) \?/"\1",/g' \
                                 -e 's/^\(.*\),$/var files=[\1]/')
         sed -i "s/var files=.*/$rlist/" $FILE;
         ;; #}}}
-    --fix-head)  # fix backlink head: compile.sh --fix-head a.back a.txt #{{{
-        title="$(getMeta title "$2")";
+    --fix-head)   # fix backlink head: compile.sh --fix-head a.back a.txt #{{{
+        title="$(getMeta toc "$2")";
         id="$(getMeta id "$2")";
         sed -i "s/__TITLE__/$title/" "$1";
         sed -i "s/__ID__/$id/" "$1";
         ;; #}}}
-    *)           # bad argument {{{
+    *)            # bad argument {{{
         echo "Bad argument";
         exit 1;
         ;; #}}}
