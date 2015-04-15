@@ -21,8 +21,8 @@ project:
       link: swear
 ...
 
-_Apparently typewriters need ribbon.
-Apparently ribbon is incredibly hard to find anymore because no one uses typewriters.
+_Apparently typewriters need ribbon._
+_Apparently ribbon is incredibly hard to find anymore because no one uses typewriters.
 Apparently I am writing my hymns from now on._
 So he was back to calling his notes "hymns."
 He looked up "hymns" in the dictionary.

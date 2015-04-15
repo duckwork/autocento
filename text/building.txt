@@ -21,8 +21,8 @@ project:
       link: axe
 ...
 
-_[ART and CRAFT][] are only the inside and outside of the same building.
-The ceiling is_---here he put his eraser to his bottom lip, thinking.
+_[ART and CRAFT][] are only the inside and outside of the same building._
+_The ceiling is_---here he put his eraser to his bottom lip, thinking.
 He crossed out _~~The ceiling is.~~_
 _The floor is reality and the ceiling is ~~aspiration~~ ~~desire~~ that which is desired.
 CRAFT is building a [chair][] from wood.
