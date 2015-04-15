@@ -174,8 +174,8 @@ into functioning HTML for viewing in a browser.
 [Vim]: http://www.vim.org
 
 [^5]: I could've used any text editor for the composition step, including
-      Notepad, but I personally like Vim for its extensibility, composability,
-      and honestly its colorschemes.
+  Notepad, but I personally like Vim for its extensibility, composability,
+  and honestly its colorschemes.
 ~~~
 
 And here it is as a compiled HTML file:
