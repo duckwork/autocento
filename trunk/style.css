@@ -49,7 +49,6 @@ header {
 }
 .content {
     line-height: 1.3em;
-    width: 90%;
 }
 /* header + .container + .content }}} */
 /* NAV + .FOOTNOTES {{{ */
@@ -333,6 +332,7 @@ pre {
     display: inline-block;
     text-align: justify;
     max-width: 39em;
+    width: 90%;
     margin: auto;
     hyphens: auto;
     -moz-hyphens: auto;
