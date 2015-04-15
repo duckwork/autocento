@@ -537,6 +537,17 @@ a.footnoteRef {
     font-size: 1em;
     color: #e5bfb2;
 }
+.commaed, .commaed li {
+    display: inline;
+    text-transform: lowercase;
+    padding-left: 0;
+}
+.commaed li a::after {
+    content: ";";
+}
+.commaed li:last-child a::after {
+    content: ".";
+}
 /* #cover }}} */
 /* .ELEGIES {{{ */
 .elegies {
