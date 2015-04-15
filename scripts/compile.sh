@@ -75,8 +75,10 @@ case "$FILE" in
     --fix-head)   # fix backlink head: compile.sh --fix-head a.back a.txt #{{{
         title="$(getMeta toc "$2")";
         id="$(getMeta id "$2")";
-        sed -i "s/__TITLE__/$title/" "$1";
-        sed -i "s/__ID__/$id/" "$1";
+        sed -i "/__TITLE__/c\
+                title: $title" "$1";
+        sed -i "/__ID__/c\
+                id: $id" "$1";
         ;; #}}}
     *)            # bad argument {{{
         echo "Bad argument";
