@@ -1,0 +1,13 @@
+% use --no-tex-ligatures --smart
+\object{$title$}{$id$}
+$if(subtitle)$\subt{$subtitle$}$endif$
+$if(epigraph.content)$\epigraph{$epigraph.content$}{$epigraph.attrib$}$endif$
+$if(dedication)$\dedication{$dedication$}$endif$
+$if(ekphrastic.image)$\ekphrastic{$ekphrastic.image$}$endif$
+% Include project information?
+
+\begin{$genre$}
+
+    $body$
+
+\end{$genre$}

@@ -1,0 +1,45 @@
+---
+title: Colophon
+id: colophon
+genre: prose
+
+project:
+    title: Front matter
+    class: front-matter
+...
+
+This website is authored in [Vim][]
+using an extended version of John Gruber's [Markdown][] syntax.
+It's compiled into HTML and other formats
+with John McFarlane's [pandoc][] document-conversion tool.
+The site is hosted on [Github][] at <github.com/duckwork/autocento>.
+
+The content of this site has been compiled
+from a multitude of other projects, including
+_[Elegies for alternate selves][elegies]_,
+_[The book of Hezekiah][hez]_,
+_[Stark raving][stark]_ (later called _Everything changes_),
+and _[Buildings out of air][paul]_,
+as well as new poems written 2014--2015.
+
+The [appendices][], as well as the HTML itself
+and backlink functionality,
+are compiled with [this makefile][makefile].
+The Javascript that randomizes the &xi; link at the bottom of each page
+is located [here][randomizer].
+
+Any questions or accolades can be directed to my [email][].
+
+[Vim]: http://www.vim.org
+[Markdown]: http://daringfireball.net/projects/markdown/
+[pandoc]: http://johnmcfarlane.net/pandoc/
+[Github]: https://github.com
+[elegies]: elegyforanalternateself.html
+[hez]: prelude.html
+[stark]: table_contents.html
+[paul]: art.html
+[appendices]: hapax.html
+[makefile]: https://github.com/duckwork/autocento/blob/gh-pages/makefile
+[randomizer]: https://github.com/duckwork/autocento/blob/gh-pages/scripts/randomize.js
+
+[email]: mailto:case.duckworth+autocento@gmail.com

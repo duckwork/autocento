@@ -3,19 +3,22 @@
 # vim: fdm=marker
 
 # variables {{{
-appendixd  := appendix
-backlinkd  := backlinks
-hapaxd     := hapax
-scriptd    := scripts
-templated  := templates
-textd      := text
-trunkd     := trunk
-wipd       := wip
+appendixd    := appendix
+backlinkd    := backlinks
+frontmatterd := front-matter
+hapaxd       := hapax
+scriptd      := scripts
+templated    := templates
+textd        := text
+trunkd       := trunk
+wipd         := wip
 
 compiler := bash $(scriptd)/compile.sh
 texts    := $(wildcard $(textd)/*.txt)
+frontmatter := $(wildcard $(frontmatterd)/*.txt)
 
-htmls          = $(patsubst $(textd)/%.txt,%.html,$(texts))
+htmls          = $(patsubst $(textd)/%.txt,%.html,$(texts)) \
+		 $(patsubst $(frontmatterd)/%.txt,%.html,$(frontmatter))
 htmlWriter    := html5
 htmlTemplate  := $(templated)/page.html
 htmlFilter    := $(scriptd)/versify.exe
@@ -78,6 +81,9 @@ again : clean all
 # }}}
 # HTMLS {{{
 %.html : $(textd)/%.txt $(htmlFilter) $(htmlTemplate)
+	pandoc $< -t $(htmlWriter) $(htmlOptions) -o $@
+
+%.html : $(frontmatterd)/%.txt
 	pandoc $< -t $(htmlWriter) $(htmlOptions) -o $@
 
 $(htmlFilter) : $(htmlFilterSrc)
