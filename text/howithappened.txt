@@ -1,6 +1,6 @@
 ---
 title: How it happened
-genre: 'verse'
+genre: verse
 
 id: howithappened
 toc: "How it happened"
