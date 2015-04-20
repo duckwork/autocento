@@ -278,6 +278,14 @@ nav .anchors a {
     margin-right: 0.25em;
     margin-left: 0.25em;
 }
+#textlink { /* Link back to text source */
+    position: absolute;
+    top: 0.2em;
+    right: 0.5em;
+    font-size: 0.8em;
+    border: none;
+    color: lightgray;
+}
 /* nav elements }}} */
 /* .FOOTNOTES ELEMENTS {{{ */
 .footnotes li {
@@ -562,6 +570,7 @@ tr {
     padding: 1em;
     text-align: left;
 }
+.paul blockquote :first-child,
 .paul blockquote :last-child {
     margin: 0;
 }
