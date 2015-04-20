@@ -11,7 +11,7 @@ project:
     order: 19
     prev:
     - title: The moon is gone and in its place a mirror
-      link: moonegone
+      link: moongone
     next:
     - title: Serengeti
       link: serengeti
