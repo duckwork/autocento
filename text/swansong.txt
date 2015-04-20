@@ -20,8 +20,8 @@ project:
 | Swans fly overhead singing goodbye
 | to we [walkers of the earth][ithappened].  You point
 | to them in formation, you tell me
-| you are not you. [You are the air the swans
-| walk on][alt] as they journey like pilgrims
+| you are not you. [You are the air the swans][alt]
+| walk on as they journey like pilgrims
 | to a temple in the south.  A curtain
 | there separates me from you, swans
 | from the air they fly through.  I say
