@@ -34,5 +34,5 @@ _Case Duckworth_
 _Flagstaff, 2015_
 
 [author]: about_author.html
-[Will Deep Links Ever Truly Be Deep?]:
+[Will Deep Links Ever Truly Be Deep?]: https://medium.com/backchannel/the-failed-promise-of-deep-links-aa307b3abaa5
 [_hapax legomenon_]: hapax.html

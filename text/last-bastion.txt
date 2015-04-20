@@ -23,8 +23,8 @@ project:
 
 | Dimly remembered celebrity chefs shuffle
 | down the cold and darkened highways of the heart.
-| They are the last personality left.  They are [the meek
-| who inherited the heart][meek], what was left of it.\
+| They are the last personality left.  They are the meek
+| [who inherited the heart][meek], what was left of it.\
 
 | Without food to cook in new or exciting ways
 | nor audience to gasp and cackle, the chefs
@@ -50,8 +50,8 @@ project:
 | but of a certain facial expression that could only
 | be described as desperation.  Now
 | all that are left are the celebrity chefs, last bastion
-| of a once mighty empire of the [heart
-| are reduced to husks][heart] blown dry by wind.
+| of a once mighty empire of the heart
+| [are reduced to husks][heart] blown dry by wind.
 
 [meek]: http://biblehub.com/matthew/5-5.htm
 [rats]: in-bed.html
