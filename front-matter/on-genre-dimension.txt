@@ -10,7 +10,7 @@ project:
     class: autocento
 ...
 
-How does one describe a poem?
+[How does one describe a poem?][]
 
 A genre is a set of creative outputs that fit a given set of criteria.
 Genres are useful as a sort of shorthand when describing a thing of art: instead of noting, for example, all of the objects depicted in a still-life that aren't people or land-features, we call it a still-life and get on to describing how the objects interrelate to each other on the canvas.
@@ -91,3 +91,4 @@ _Poetry_ is almost a value judgement, and that makes me a little uncomfortable.
 [The Love Song of J. Alfred Prufrock]: http://www.bartleby.com/198/1.html
 [fragment]: statements-frag.html
 [different than a traditional narrative]: http://numerocinqmagazine.com/2011/03/07/translation-adaptation-and-transformation-the-poet-as-translator-an-essay-by-richard-jackson/
+[How does one describe a poem?]: arspoetica.html
