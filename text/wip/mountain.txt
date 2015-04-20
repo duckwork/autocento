@@ -1,0 +1,32 @@
+---
+title: The mountain
+genre: verse
+
+id: mountain
+toc: "The mountain"
+
+project:
+    title: Elegies for alternate selves
+    class: elegies
+    order: 19
+    prev:
+    - title: The moon is gone and in its place a mirror
+      link: moongone
+    next:
+    - title: Serengeti
+      link: serengeti
+...
+
+The other side of the mountain is
+not the same mountain.  This side
+is stickysweet full of phone calls
+where not much was said but promises
+
+to call some other time or visit.
+The other side of the mountain is
+a bell, ringing in the church to mark
+the day we couldn't visit anymore.
+
+The other side of the mountain is
+not a mountain.  At the bottom a river
+courses past a ferry in the dark.
