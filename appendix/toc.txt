@@ -123,7 +123,7 @@ genre: list
 #. ["Wallpaper"](wallpaper.html)
 #. ["We played those games too"](weplayedthosegamestoo.html)
 #. ["What we are made of"](what-we-are-made-of.html)
-#. ["Whem I'm sorry I wash dishes"](when-im-sorry-i.html)
+#. ["When I'm sorry I wash dishes"](when-im-sorry-i.html)
 #. ["Window"](window.html)
 #. ["Worse looking over"](worse-looking-over.html)
 #. ["Writing"](writing.html)
