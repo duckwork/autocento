@@ -26,8 +26,8 @@ project:
 
 | "I'm sorry."  This, [this is the reason][] why
 | I am always apologizing: because I never
-| mean it, because there is always, in [some
-| attic][attic], a thought roaming that says, insists:
+| mean it, because there is always, in some
+| [attic][attic], a thought roaming that says, insists:
 
 | "I've done nothing wrong, and I deserve
 | all I can take, and more than that."
