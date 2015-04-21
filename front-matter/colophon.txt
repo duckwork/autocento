@@ -8,38 +8,48 @@ project:
     class: front-matter
 ...
 
-This website is authored in [Vim][]
-using an extended version of John Gruber's [Markdown][] syntax.
-It's compiled into HTML and other formats
-with John McFarlane's [pandoc][] document-conversion tool.
-The site is hosted on [Github][] at <http://github.com/duckwork/autocento>.
+_Autocento of the breakfast table_ is a hypertextual exploration
+of the clockwork of inspiration, revision, and obsession.
+It represents a compilation of most of my writing,
+linked together along thematic lines into a sort of whole.
+It lives on the web.
+Instead of hand-coding all of the HTML files you're reading now,
+I've relied on a process that leverages open-source technologies
+to publish my work onto a web platform.
 
-The content of this site has been compiled
-from a multitude of other projects, including
-_[Elegies for alternate selves][elegies]_,
-_[The book of Hezekiah][hez]_,
-_[Stark raving][stark]_ (later called _Everything changes_),
-and _[Buildings out of air][paul]_,
-as well as new poems written 2014--2015.
+The [source files][] are authored in [Vim][]
+using an [extended version][] of [Markdown][].
+It's compiled into the HTML you're reading,
+as well as a few other formats,
+with [Pandoc][], a document-conversion tool.
+The site is hosted on [Github][] and [Namecheap][].
+You can view the repository at <http://github.com/duckwork/autocento>.
 
-The [appendices][], as well as the HTML itself
-and backlink functionality,
-are compiled with [this makefile][makefile].
-The Javascript that randomizes the &xi; link at the bottom of each page
-is located [here][randomizer].
+I use a [Makefile][] to compile the text source files
+into HTML, and to generate a series of [appendices][]
+and [other site][] [functionality][]
+with the help of a [compilation shell script][].
 
-Any questions or accolades can be directed to my [email][].
+I use this system because it's fairly simple, extensible, and open.
+It's available for anyone to examine, learn from, and use.
+See the [license][] for more details.
 
+[Email me][] with questions or accolades,
+or submit a [pull request][] or [issue][] on Github.
+
+[source files]: https://github.com/duckwork/autocento/tree/gh-pages/text
 [Vim]: http://www.vim.org
+[extended version]: http://johnmcfarlane.net/pandoc/README.html#pandocs-markdown
 [Markdown]: http://daringfireball.net/projects/markdown/
-[pandoc]: http://johnmcfarlane.net/pandoc/
+[Pandoc]: http://johnmcfarlane.net/pandoc/
 [Github]: https://github.com
-[elegies]: elegyforanalternateself.html
-[hez]: prelude.html
-[stark]: table_contents.html
-[paul]: art.html
+[Namecheap]: http://namecheap.com
+[Makefile]: https://github.com/duckwork/autocento/blob/gh-pages/makefile
 [appendices]: hapax.html
-[makefile]: https://github.com/duckwork/autocento/blob/gh-pages/makefile
-[randomizer]: https://github.com/duckwork/autocento/blob/gh-pages/scripts/randomize.js
-
-[email]: mailto:case.duckworth+autocento@gmail.com
+[other site]: https://github.com/duckwork/autocento/blob/gh-pages/scripts/randomize.js
+[functionality]: backlinks/in-bed.html
+[compilation shell script]: https://github.com/duckwork/autocento/blob/gh-pages/scripts/compile.sh
+[license]: license.html
+[Email me]: mailto:case.duckworth+autocento@gmail.com
+[pull request]: https://github.com/duckwork/autocento/pulls
+[issue]: https://github.com/duckwork/autocento/issues
