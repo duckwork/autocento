@@ -12,7 +12,7 @@ This website is authored in [Vim][]
 using an extended version of John Gruber's [Markdown][] syntax.
 It's compiled into HTML and other formats
 with John McFarlane's [pandoc][] document-conversion tool.
-The site is hosted on [Github][] at <github.com/duckwork/autocento>.
+The site is hosted on [Github][] at <http://github.com/duckwork/autocento>.
 
 The content of this site has been compiled
 from a multitude of other projects, including
