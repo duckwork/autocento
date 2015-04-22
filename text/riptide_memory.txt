@@ -33,7 +33,7 @@ project:
 
 | In a dream, [my father is caught by a riptide][] off-shore.
 | He's pulled far out, far enough that the shoreline's
-| a line in his [memory][] on the horizon.  I can see him
+| a dim line in his [memory][] on the horizon.  I can see him
 | swimming, hand over hand, pulling his small weight
 
 | back to land.  I see him as [another shipwreck][] victim,
@@ -48,7 +48,7 @@ project:
 
 | pulls me back home, my memory's lonesome twinkle
 | like [stars above the mountains][].  I'll send for it
-| and try to make them, but in the thin air they'll
+| and try to make them, but at this altitude they'll
 | crumble into dust like desert air, like a memory.
 
 [an angel of death]: angeltoabraham.html

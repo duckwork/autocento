@@ -40,7 +40,7 @@ project:
 
 ## III
 
-| I woke screaming and you
+| I [woke screaming][] and you
 | came to sit next to me.  I felt
 | my eyes were open too wide
 
@@ -75,7 +75,7 @@ project:
 
 | [there is an eagle][] flying
 | toward me.  She lands on
-| my knee and lays an egg.
+| [my knee and lays an egg][].
 
 | I think *not this again*
 | something I've never
@@ -98,8 +98,8 @@ project:
 
 ## VII
 
-| [You run through me
-| like rats][rats] down an alley.
+| You run through me
+| [like rats][rats] down an alley.
 | You are in my [blood][].
 
 | You scared me once
@@ -142,6 +142,7 @@ project:
 [I see my reflection is headless]: deathstrumpet.html
 [and the moon grins down]: moon-drowning.html
 [rot only for us]: options.html
+[woke screaming]: worse-looking-over.html
 [closed over me like an eyelid]: theoceanoverflowswithcamels.html
 [in an ocean]: the-sea_the-beach.html
 [there is an eagle]: mountain.html
@@ -149,3 +150,4 @@ project:
 [rats]: #I
 [blood]: plant.html
 [red]: window.html
+[my knee and lays an egg]: http://www.sacred-texts.com/neu/kveng/kvrune01.htm
