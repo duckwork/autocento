@@ -21,7 +21,7 @@ TODO: revise based on reading notes
 
 | An example: today marks one hundred years
 | since your namesake, the last living passenger
-| pigeon, died in Cincinnati.  It also marks
+| pigeon, [died in Cincinnati][].  It also marks
 | a year since we last spoke.  Although around
 | the world, zoos mourn her loss, I'm done
 | with you.  I mourn no more your voice, the first
@@ -40,3 +40,4 @@ TODO: revise based on reading notes
 [nails of events]: when-im-sorry-i.html
 [into my throat and set me ringing]: weplayedthosegamestoo.html
 [beating wings]: cold-wind.html
+[died in Cincinnati]: http://www.theatlantic.com/technology/archive/2014/09/meet-martha-the-very-last-passenger-pigeon/380473/
